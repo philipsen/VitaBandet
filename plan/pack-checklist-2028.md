@@ -115,7 +115,7 @@ Print this page. Details: [packing-pulk-2028.md](./packing-pulk-2028.md) · [gea
 
 ## Food carry (first leg — adjust per resupply)
 
-- [ ] **8–10 days** food (~4,000–5,000 kcal/day)
+- [ ] **8–10 days** food (~4,000–5,000 kcal/day) in **2–3 flat clear boxes** — see [packing-pulk-2028.md](./packing-pulk-2028.md#food-boxes-23-flat-clear-containers)
 - [ ] Snacks / bars / drink mix
 - [ ] Tea/coffee small supply
 - [ ] **Alkylate** full bottles from home

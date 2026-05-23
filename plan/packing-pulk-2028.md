@@ -47,7 +47,7 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 | Sleeping bag −30 °C | Dry bag → **Sleeper** | Vent/fluff at camp; liner in huts |
 | NeoAir XLite (+ foam if Feb) | Dry bag → **Sleeper** | Pump in main bag |
 | Nallo 3GT | Main bag, **middle/top** | Last out at camp, first in next morning if wet |
-| Food (leg) | Main bag **bottom** | Dense, heavy; repack after every shop |
+| Food (leg) | Main bag **bottom** — **flat clear boxes** | Dense, heavy; repack after every shop |
 | Alkylate bottles | Main bag **bottom centre**, upright | **Liquid only** until Abisko; funnel + cloth; separate from food |
 | Stove + pot + fuel tools | Main bag **middle** | OmniLite + silencer |
 | Spare clothes | Dry bags, main bag | One dry set packed deep |
@@ -56,10 +56,33 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 
 ---
 
+## Food boxes (2–3 flat clear containers)
+
+**Worth taking** — they tile at the bottom of the Jemtlander bag and keep the load **low and dense**. Use **food-storage** plastic (snap lids, slight flex in cold), not brittle takeaway tubs.
+
+| Box | Size / role | Contents |
+|-----|-------------|----------|
+| **1 — dinners** | Largest, **flat** (≈3–6 cm high) | Pasta, rice, couscous, freeze-dried, sauce, tins |
+| **2 — lunches** | Medium flat | Bars, nuts, cheese, salami, dense snacks |
+| **3 — today** | Small, shallow — **top of food stack** | Today + tomorrow: bars, drink mix, tea (opens every break) |
+
+**Rules**
+
+- **2–3 boxes only** — more rigid empties waste space as you eat down the leg.  
+- **Flat rectangles** that fit **side by side** in the ~50 cm wide bag — not tall stacks.  
+- **Fuel never in food boxes** — bottles stay separate, upright.  
+- **Sleep / down / electronics** stay in **dry bags** (Sleeper or main bag), not boxes.  
+- At each shop: drop food **straight into the same boxes** — faster than rebagging every resupply.  
+- **Zip bags** still fine for odd shapes; boxes for the **main food layers**.
+
+**vs zip bags:** boxes = better organisation and crush protection; bags = lighter and shrink as food runs out. **Hybrid** is best.
+
+---
+
 ## Loading order (morning departure)
 
 1. **Sleeper** — bag + pad in dry bags; strap to pulk (check straps before harnessing).  
-2. **Main bag bottom** — dense food, fuel bottles (capped, upright).  
+2. **Main bag bottom** — **food boxes** (dinners flat, lunches, then fuel bottles capped/upright beside or in front — never in same box as fuel).  
 3. **Middle** — stove kit, clothes in dry bags, repair.  
 4. **Top** — tent if you want quick camp access; otherwise tent middle is OK if consistent.  
 5. **Harness on** — heavy/low should feel stable; no tall soft peak (tips in side wind).  
@@ -83,7 +106,7 @@ At camp (reverse):
     ├─────────────────────────┤
     │  clothes · kitchen      │
     ├─────────────────────────┤
-    │  food · fuel (dense)    │  ← bottom, centred
+    │  food boxes (flat) · fuel │  ← bottom, centred
     └─────────────────────────┘
            Jemtlander 14
     ═══════════════════════════  ← runners / snow
@@ -115,7 +138,7 @@ Buy on trail — **8–10 days food** typical; **~4,000–5,000 kcal/day** solo 
 ## After every resupply
 
 1. **Eat or discard** dead weight (packaging, empty bottles).  
-2. **Repack from scratch** — do not stack new tins on a messy load.  
+2. **Repack from scratch** — food into **same three boxes**; do not stack loose tins on a messy load.  
 3. **Rebalance** — food/fuel bottom, tent/clothes middle/top.  
 4. **Weigh mentally** — if the harness feels tippy, lower the stack and compress food.  
 5. **Fuel log** — note litres left; compare to shakedown **g/day**.
@@ -158,6 +181,7 @@ Weigh **loaded pulk + Sleeper** on the shakedown that mimics **day 9 leaving Sto
 
 ## Shakedown (packing-focused)
 
+- [ ] **Food boxes** — 2–3 flat clear containers; tile at bottom; repack test after mock resupply
 - [ ] **Sleeper on pulk** — bag + pad in dry bags; attach/remove in gloves  
 - [ ] **10-day main-bag load** + full fuel — 20 km day, side wind  
 - [ ] **Repack at camp** — full cycle in 30 min before dark  
