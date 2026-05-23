@@ -100,7 +100,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 ## Equipment
 
-**Full inventory:** [gear-inventory-2028.md](./gear-inventory-2028.md) · **Print pack list:** [pack-checklist-2028.md](./pack-checklist-2028.md)
+**Full inventory:** [gear-inventory-2028.md](./gear-inventory-2028.md) · **Pulk packing:** [packing-pulk-2028.md](./packing-pulk-2028.md) · **Print pack list:** [pack-checklist-2028.md](./pack-checklist-2028.md)
 
 ### Owned core
 
@@ -108,7 +108,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 |------|-------|
 | **Hilleberg Nallo 3GT** (Red) | Upgrade path: **Black Label** e.g. **Nammatj 2 GT** — see gear doc |
 | **Åsnes Ingstad BC** + **Alfa Outback Xplore** | Primary ski system |
-| **Jemtlander 14** (200 L) + **Sleeper 200** | Pulk; Sleeper = **bivi backup** in pulk (not daily carrier) |
+| **Jemtlander 14** (200 L) + **Sleeper 200** | Pulk; **Sleeper = sleep system** (bag + pad on sled) |
 | **TOAKS Ti 1600 ml** pot/pan | With OmniLite for melt + cook |
 | **Sleeping bag −30 °C** | **Good** for Feb–Apr; pad is the weak link |
 | **Therm-a-Rest NeoAir XLite** | Owned — upgrade or foam boost for February ground cold (see gear doc) |

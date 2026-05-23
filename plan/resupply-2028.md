@@ -231,11 +231,13 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 | → Abisko | 7 | Day 52 Ritsem ★ | **Refill alkylate** (Power Fuel) + 6–7 days food |
 | → Treriksröset | 6 | Day 59 Abisko ★ | **7–8 days food**; **~2 L alkylate** |
 
-Adjust for your kcal (~4,000–5,000/day pulk).
+Adjust for your kcal (~4,000–5,000/day pulk). **Where it goes on the sled:** [packing-pulk-2028.md](./packing-pulk-2028.md).
 
 ---
 
 ## Checklist before departure
+
+Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 - [ ] **DNT key** + membership (hut access Lappjord, Altevass, Gaskash, Rostah) — **no food for sale**  
 - [ ] **DNT app** for hut payment / registration if required (not pantry)  

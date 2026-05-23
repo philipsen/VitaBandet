@@ -1,7 +1,7 @@
 # Vita Bandet 2028 — pack checklist
 
 **Solo · S→N · 15 Feb–19 Apr · ski + pulk · mostly tent**  
-Print this page. Details: [gear-inventory-2028.md](./gear-inventory-2028.md) · [resupply-2028.md](./resupply-2028.md) · [dag-for-dag-2028.md](./dag-for-dag-2028.md)
+Print this page. Details: [packing-pulk-2028.md](./packing-pulk-2028.md) · [gear-inventory-2028.md](./gear-inventory-2028.md) · [resupply-2028.md](./resupply-2028.md) · [dag-for-dag-2028.md](./dag-for-dag-2028.md)
 
 ---
 
@@ -40,15 +40,15 @@ Print this page. Details: [gear-inventory-2028.md](./gear-inventory-2028.md) · 
 - [ ] Skins **short Åsnes** + **long** (after reglue)
 - [ ] Poles **new** + pole repair sleeve
 - [ ] Pulk **Jemtlander 14** + harness
-- [ ] **Sleeper 200** in pulk (bivi backup only)
+- [ ] **Sleeper 200** on pulk — **bag + pad** in dry bags inside
 
 ---
 
 ## Shelter & sleep
 
 - [ ] Tent **Nallo 3GT** + stakes **12+** alu snow/sand + guy line + repair kit
-- [ ] Sleeping bag **−30 °C** + dry bag + liner (huts)
-- [ ] Pad **NeoAir XLite** (+ foam/Z-lite if Feb boost)
+- [ ] Sleeping bag **−30 °C** + dry bag → **Sleeper 200** (+ liner for huts)
+- [ ] Pad **NeoAir XLite** + dry bag → **Sleeper 200** (+ foam/Z-lite if Feb boost)
 - [ ] Pump + pad repair kit
 
 ---
@@ -107,7 +107,7 @@ Print this page. Details: [gear-inventory-2028.md](./gear-inventory-2028.md) · 
 - [ ] Toothbrush/paste · small towel · toothpicks
 - [ ] Earplugs
 - [ ] Dry bags ×6+
-- [ ] Whistle · emergency bivvy **skip** (Sleeper = backup)
+- [ ] Whistle · emergency bivvy **skip** (Sleeper bivi if tent fails)
 
 ---
 
@@ -159,7 +159,8 @@ S→N: each point **east** of track. No village entry required for VGB.
 - [ ] Skins reglued — on/off in gloves
 - [ ] Alkylate g/day measured · silencer boil test
 - [ ] Sleep test: bag + pad on snow
-- [ ] Sleeper 200 bivi drill 20 min
+- [ ] **Sleeper 200** on pulk — repack bag + pad after each camp
+- [ ] Sleeper **bivi drill** (Nallo failed scenario) 20 min
 - [ ] 68i + OsmAnd nav test
 - [ ] Weigh loaded pulk: ______ kg
 

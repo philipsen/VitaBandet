@@ -3,7 +3,7 @@
 **Trip:** solo · S→N · Feb–Apr · ski + **pulk** · ~65 days · mostly **tent**  
 **Your core kit (owned):** Hilleberg **Nallo 3GT** · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Sleeping bag −30 °C** · Therm-a-Rest **NeoAir XLite** · **Optimus OmniLite Ti** + **silencer** · **Jemtlander 14** pulk · **Fjellpulken Sleeper 200** · **TOAKS Ti 1600 ml** pot/pan · **GPSMAP 68i** · **OsmAnd+**  
 
-Use this list for shakedowns, weight audit, and resupply planning. Weigh your packed pulk + daypack before departure.
+Use this list for shakedowns, weight audit, and resupply planning. **Packing guide:** [packing-pulk-2028.md](./packing-pulk-2028.md). Weigh your packed pulk + daypack before departure.
 
 ---
 
@@ -51,7 +51,7 @@ Use this list for shakedowns, weight audit, and resupply planning. Weigh your pa
 | **Raggertjes** (tandenstokers) | ✓ Small bag — repair, food, splinter |
 | Koplamp | ✓ + spare batteries / USB |
 
-**New on Bandet (not on old list):** **Jemtlander 14** pulk · **Sleeper 200** (bivi backup) · **inReach** plan on 68i · **2nd 1 L fuel bottle** · no **lawine** set
+**New on Bandet (not on old list):** **Jemtlander 14** pulk · **Sleeper 200** (sleep system on pulk) · **inReach** plan on 68i · **2nd 1 L fuel bottle** · no **lawine** set
 
 ### Eten — normal vs 65-day resupply
 
@@ -254,8 +254,8 @@ You still have the right **two-set strategy** (short + long) once glue is fixed:
 
 | Topic | Guidance |
 |-------|----------|
-| **Volume** | 200 L bag is enough if you **do not** carry 10 days at full height the whole trip — resupply often |
-| **Waterproofing** | Bag is **water-resistant fabric**, not sealed seams — **dry bags** inside for sleep, electronics, down |
+| **Volume** | 200 L bag is enough if you **do not** carry 10 days at full height the whole trip — resupply often; **sleep kit rides in Sleeper 200**, not in main bag |
+| **Waterproofing** | Main bag is **water-resistant fabric**, not sealed seams — **dry bags** inside for food, electronics, down spare clothes; **bag + pad in dry bags inside Sleeper** |
 | **Balance** | Heavy items **low and centred**; fuel bottles upright, capped |
 | **Shakedown** | Full **10-day** load; 20 km day; side wind; steep descent braking (rear eyelet + rope) |
 
@@ -263,32 +263,34 @@ You still have the right **two-set strategy** (short + long) once glue is fixed:
 
 ---
 
-## Fjellpulken Sleeper 200 — **bivi backup** (not daily carry bag)
+## Fjellpulken Sleeper 200 — **sleep system on the pulk**
 
-**Not** your normal sleep packing — you carry it as **emergency shelter backup**, not strapped on the pulk for daily bag/pad access.
+**Daily carry:** **−30 °C bag + NeoAir XLite** live in the Sleeper (each in its own **dry bag**), strapped to the **Jemtlander 14** as Fjellpulken intended. That keeps the main 200 L bag for food, tent, fuel, and clothes — and makes camp setup faster (unclip Sleeper, not dig through the sled).
 
 | | **Fjellpulken Sleeper 200** |
 |---|----------------------------|
-| **Size** | **200 × 67 cm**; room for bag + pad in compartments |
-| **Weight** | ~**1.4 kg** (in pulk, not on top) |
-| **Role** | **Bivi backup** if **Nallo fails** (tear, pole break, left behind) — wind/water shell around **−30 °C bag + XLite** |
-| **Material** | Cordura / PU — **~1000 mm** water column; **not** a sealed bivysack — still need dry bag discipline |
+| **Size** | **200 × 67 cm**; compartments for bag + pad |
+| **Weight** | ~**1.4 kg** (bag + harness straps; sleep kit extra) |
+| **Role** | **Primary:** transport and protect sleep system on the pulk · **Secondary:** emergency **bivi shell** if Nallo fails |
+| **Material** | Cordura / PU — **~1000 mm** water column; not a sealed bivysack — **dry bags inside** still required |
 
-### Normal sleep kit (daily)
+### Packing (every leg)
 
 | Item | Pack in |
 |------|---------|
-| **−30 °C sleeping bag** | **Dry bag** in main pulk |
-| **NeoAir XLite** | **Dry bag** or stuff sack in pulk |
-| **Sleeper 200** | Rolled at **bottom or side** of pulk — **do not open** unless emergency |
+| **−30 °C sleeping bag** | **Dry bag** → Sleeper compartment |
+| **NeoAir XLite** | **Dry bag** or stuff sack → Sleeper compartment |
+| **Sleeper 200** | **On the pulk** (Fjellpulken attachment) — not loose in main cargo |
 
-### Emergency use (practice once)
+At camp: unstrap Sleeper → pull bag/pad → pitch Nallo. Repack dry before next day so wet snow does not soak the main pulk bag.
 
-1. Pad + bag inside Sleeper compartments (or bag inside, pad under).  
-2. **No stove inside** — CO risk; treat as survival envelope only.  
-3. Still prefer **repairing Nallo** or **hut/DNT** over multi-night Sleeper-only if possible.
+### If Nallo fails (practice once)
 
-**Verdict:** **Keep** as **~1.4 kg insurance** — replaces a foil bivvy + gives real space. **Not** a second tent for comfortable 65 nights.
+1. Pad + bag inside Sleeper as above; zip up for wind/rain envelope.  
+2. **No stove inside** — CO risk; survival nights only.  
+3. Prefer **hut / DNT / tent repair** over multi-night Sleeper-only if possible.
+
+**Verdict:** **Keep** — organised sleep carry **and** ~1.4 kg bivi insurance; frees useful volume in the Jemtlander bag.
 
 ---
 
@@ -534,7 +536,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 
 | Topic | Guidance |
 |-------|----------|
-| **Moisture** | Vent bag in dry cold days; **liner** in huts; bag in **dry bag** in pulk (not Sleeper daily) |
+| **Moisture** | Vent bag in dry cold days; **liner** in huts; bag in **dry bag inside Sleeper** on pulk |
 | **Compression** | Compress in dry bag for pulk; **fluff** before sleep in Nallo |
 | **Huts** | Open bag partially if stove heat — avoid cooking off bag |
 | **Fill in** | Brand/model + weight on shakedown (for pulk budget) |
@@ -722,7 +724,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 | Pole repair sleeve | ~14 mm | 1 | | | **Need** | |
 | Pulk | **Jemtlander 14** (200 L) | 1 | ~5300 | ✓ | **Test** | See pulk section; “140” = 1.4 m |
 | Pulk harness | (with J14) | 1 | incl. | ✓ | | Shaft ~173 cm; crisis-release buckle |
-| Bivi backup | **Fjellpulken Sleeper 200** | 1 | ~1400 | ✓ | | Emergency shell — **not** daily pack bag |
+| Sleep carry | **Fjellpulken Sleeper 200** | 1 | ~1400 | ✓ | | Bag + XLite in dry bags; on pulk daily |
 | Ski bag / tip covers | | 1 | | | ? | Travel to Grövelsjön |
 | Booties / hut shoes | Crocs, down booties | **0** | — | — | **Skip** | Not bringing — **liner socks** or **Outback** unlaced in hut |
 | Crampons | *(if steep ice days)* | 0–1 | | | ? | Usually skip on Bandet line |
@@ -875,7 +877,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 | Item | Model / spec | Qty | Weight (g) | Own | Need | Notes |
 |------|--------------|-----|------------|-----|------|-------|
 | First aid kit | trauma + blister | 1 | | | ? | Compeed, tape, painkillers |
-| Emergency bivvy | foil bag | **0** | — | — | **Skip** | **Sleeper 200** = bivi backup |
+| Emergency bivvy | foil bag | **0** | — | — | **Skip** | **Sleeper 200** doubles as bivi if tent fails |
 | Whistle | | 1 | | | ? | |
 | Avalanche set | transceiver, probe, shovel | **0** | — | — | **Skip** | **Not needed** — route on **KL / valleys / tracks**; avoid steep alpine |
 | Repair — ski/base | P-tex, copper wire | 1 kit | | | ? | |
@@ -921,7 +923,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 | Pulk — food (10-day leg max) | 12–16 kg | |
 | Pulk — fuel | 2–4 kg | |
 | Pulk — tent (Nallo 3GT) | ~3.1 kg | |
-| Pulk — sleep (bag + XLite + **Sleeper backup**) | 4–6 kg | |
+| Pulk — sleep (bag + XLite **in Sleeper 200**) | 4–6 kg | |
 | Pulk — clothing spare | 3–5 kg | |
 | Pulk — kitchen + misc | ~2 kg | |
 | **Cargo + rig (estimate)** | **~27–38 kg** | Weigh loaded on shakedown |
@@ -935,7 +937,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 | # | Test | Pass? |
 |---|------|-------|
 | 1 | 3 nights **Nallo 3GT** in wind + sub −20 °C with pulk in vestibule | |
-| 2 | **Jemtlander 14** — 8 h day, 18–22 km, **10-day** load (Sleeper packed inside, not on top) | |
+| 2 | **Jemtlander 14** + **Sleeper 200** (bag + pad inside) — 8 h day, 18–22 km, **10-day** main-bag load | |
 | 2b | **Ingstad + Xplore + Outback** on same days | |
 | 3 | **Skins (after reglue):** peel test + on/off cold gloves; short vs long vs fishscale, pulk on hill | |
 | 4 | **Comms:** inReach test; banks at −10 °C; **nav:** 68i skiing + **OsmAnd** GPX at camp | |
@@ -951,7 +953,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 
 1. **Skins — reglue both pairs or buy new Åsnes short** (+ wax + patch glue tube) — **blocker** for Padjelanta  
 2. **Ski poles** — **Åsnes Ingstad Alloy** (or Start Aluminium) + spare baskets + flex tip + repair sleeve  
-3. **Pad** test with **−30 °C bag**; once: **Sleeper 200 bivi drill** (bag + pad inside, 20 min)  
+3. **Pad** test with **−30 °C bag**; **Sleeper 200** on pulk with both inside; once: **bivi drill** if Nallo fails (20 min)  
 4. **Jemtlander 14** shakedown — 10-day load, side wind  
 5. **Power** + **Fairphone**; **OsmAnd+** map downloads + VGB GPX on phone; inReach plan on 68i; optional Mini 3+  
 6. **DNT key** (huts without pantry — carry food from Abisko)  

@@ -11,7 +11,7 @@
 
 **Route variant:** **Storlien** (first major shop) — not Undersåker/Flatruet.  
 **Composite GPX (full plan route):** [`vita-bandet-2028-composite.gpx`](./vita-bandet-2028-composite.gpx) — Mårten + Ola + **`lapland-trail-summer.gpx`** + Erik (→ Kvikkjokk) + **Paolo** (Kvikkjokk→Abisko) + **Ola** (Abisko→Pältsa); see `scripts/build_composite_gpx.py`.  
-**Resupply:** [resupply-2028.md](./resupply-2028.md) · **Solo:** daily inReach
+**Resupply:** [resupply-2028.md](./resupply-2028.md) · **Pulk packing:** [packing-pulk-2028.md](./packing-pulk-2028.md) · **Solo:** daily inReach
 
 ### Waypoint compliance (VGB)
 

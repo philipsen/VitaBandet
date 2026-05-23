@@ -1,0 +1,186 @@
+# Vita Bandet 2028 — packing the pulk
+
+**Solo · S→N · ski + pulk · mostly tent · 65 days**
+
+Practical guide for **what goes where**, **how to load**, and **how much food/fuel** per leg. Gear lists: [pack-checklist-2028.md](./pack-checklist-2028.md) · [gear-inventory-2028.md](./gear-inventory-2028.md). Shops: [resupply-2028.md](./resupply-2028.md).
+
+---
+
+## Rig
+
+| Item | Role |
+|------|------|
+| **Jemtlander 14** (200 L bag) | Main cargo — food, tent, fuel, clothes, kitchen |
+| **Fjellpulken Sleeper 200** | **Sleep system** on the pulk — bag + pad in dry bags |
+| **Harness** | Hip belt + shafts (~173 cm) |
+
+**Jemtlander tip:** plan **low, dense** loads (~**24 cm** stack ≈ **~130 L** useful). The 200 L figure is max height, not “fill to the brim for 10 days.”
+
+**Sleeper tip:** bag and pad **never** go loose in the main bag — always **dry bags → Sleeper → strapped on pulk**.
+
+---
+
+## Two loads: pulk vs body
+
+### On the pulk
+
+- Tent (Nallo 3GT), stakes, repair
+- Food for the leg, stove, fuel, pot
+- Spare clothes, repair kit, most electronics
+- **Sleeper 200** with bag + pad inside
+
+### On you while skiing
+
+- Shell, insulation, mittens, buff, hat
+- Snacks + water (or melt plan)
+- **GPSMAP 68i / inReach** — reachable without opening pulk
+- One **power bank** warm in jacket
+
+**Rule:** if you need it within **30 minutes** (cold, nav, SOS), it is not at the bottom of the sled.
+
+---
+
+## Where everything goes
+
+| Item | Pack in | Notes |
+|------|---------|-------|
+| Sleeping bag −30 °C | Dry bag → **Sleeper** | Vent/fluff at camp; liner in huts |
+| NeoAir XLite (+ foam if Feb) | Dry bag → **Sleeper** | Pump in main bag |
+| Nallo 3GT | Main bag, **middle/top** | Last out at camp, first in next morning if wet |
+| Food (leg) | Main bag **bottom** | Dense, heavy; repack after every shop |
+| Alkylate bottles | Main bag **bottom centre**, upright | Funnel + cloth; separate from food if possible |
+| Stove + pot + fuel tools | Main bag **middle** | OmniLite + silencer |
+| Spare clothes | Dry bags, main bag | One dry set packed deep |
+| Phone, spare battery, maps | Main bag top **or** body | 68i on **body** preferred |
+| Sleeper 200 (empty shell weight) | **On pulk** | Fjellpulken straps — not inside main cargo |
+
+---
+
+## Loading order (morning departure)
+
+1. **Sleeper** — bag + pad in dry bags; strap to pulk (check straps before harnessing).  
+2. **Main bag bottom** — dense food, fuel bottles (capped, upright).  
+3. **Middle** — stove kit, clothes in dry bags, repair.  
+4. **Top** — tent if you want quick camp access; otherwise tent middle is OK if consistent.  
+5. **Harness on** — heavy/low should feel stable; no tall soft peak (tips in side wind).  
+6. **Body kit** — shell accessible, 68i, snacks, one warm power bank.
+
+At camp (reverse):
+
+1. Unstrap **Sleeper** → bag/pad into tent.  
+2. Tent out → pitch.  
+3. Stove/fuel from main bag (know which layer they are in).  
+4. Repack **dry** before sleep — wet stuff in vestibule, not stuffed against down.
+
+---
+
+## ASCII layout (side view)
+
+```
+     [ Sleeper 200: bag + pad ]  ← on top / Fjellpulken attachment
+    ┌─────────────────────────┐
+    │  tent (folded)          │  ← top / middle
+    ├─────────────────────────┤
+    │  clothes · kitchen      │
+    ├─────────────────────────┤
+    │  food · fuel (dense)    │  ← bottom, centred
+    └─────────────────────────┘
+           Jemtlander 14
+    ═══════════════════════════  ← runners / snow
+```
+
+---
+
+## Food & fuel by leg
+
+Buy on trail — **8–10 days food** typical; **~4,000–5,000 kcal/day** solo pulk. Full shop list: [resupply-2028.md](./resupply-2028.md).
+
+| Leave | Days to next shop | Food carry | Fuel note |
+|-------|-------------------|------------|-----------|
+| **Grövelsjön** (D1) | 8 → Storlien | 8–9 days | **Full from home** (alkylate) |
+| **Storlien** (D9) | 13 → Gäddede | 10–12 days | Ask alkylate; cylinders common |
+| **Gäddede** (D22) | 9 → Hemavan | 9–10 days | Try Frostvikens El |
+| **Hemavan** (D31) ★ | 12 → Kvikkjokk | 11–12 days | **Max fill** before long leg |
+| **Kvikkjokk** (D44) ★ | 6–7 → Ritsem | **Max leg** — Paolo corridor | **Call for alkylate**; else rely on Hemavan fill + **2nd 1 L bottle** |
+| **Ritsem** (D52) ★ | 7 → Abisko | 6–7 days | **Power Fuel** — decant |
+| **Abisko** (D59) ★ | 6 → Pältsa | **7–8 days** | **~2 L alkylate** for Norway |
+| **Pältsa** (~D65) | — | Top-up | Near goal |
+
+**Heaviest pulk days:** leaving **Storlien**, **Hemavan**, and **Kvikkjokk** (food + fuel together). Lightest: **2–3 days after** a big shop.
+
+**Optional:** [Kolåsen depot](./resupply-2028.md) after Storlien — drops ~4 days food from the sled early (admin cost).
+
+---
+
+## After every resupply
+
+1. **Eat or discard** dead weight (packaging, empty bottles).  
+2. **Repack from scratch** — do not stack new tins on a messy load.  
+3. **Rebalance** — food/fuel bottom, tent/clothes middle/top.  
+4. **Weigh mentally** — if the harness feels tippy, lower the stack and compress food.  
+5. **Fuel log** — note litres left; compare to shakedown **g/day**.
+
+---
+
+## Leg-specific notes
+
+| Section | Packing focus |
+|---------|----------------|
+| **§1 Grövelsjön → Storlien** | Moderate load; learn harness — **don’t start at max** |
+| **§2 → Gäddede** | Long food carry; depot option |
+| **§3 Lapplandsleden** | Steady rhythm; fuel at Gäddede/Hemavan |
+| **§4 → Kvikkjokk** | Heavy + **fuel critical** |
+| **§5 Kvikkjokk → Ritsem** | **All fuel** for shop-less days; dense food |
+| **§5b KL → Abisko** | Refuel Ritsem; moderate food |
+| **§6 Abisko → Pältsa** | **Max shop load**; DNT huts = **no food, no fuel** |
+
+Steep days (Padjelanta, Lappjord): lower profile helps more than a bigger sled — expect kick-turns and short carries.
+
+---
+
+## Weight budget (fill on shakedown)
+
+| Zone | Target | Weighed |
+|------|--------|---------|
+| Jemtlander rig (chassis + harness + bag) | ~5.3 kg | |
+| Sleeper 200 (empty) | ~1.4 kg | |
+| Sleep kit (bag + pad in Sleeper) | 3–4 kg | |
+| Tent Nallo 3GT | ~3.1 kg | |
+| Food (10-day leg max) | 12–16 kg | |
+| Fuel (full bottles) | 2–4 kg | |
+| Clothes + kitchen + misc | 5–8 kg | |
+| **Loaded pulk (estimate)** | **~27–38 kg** | **____ kg** |
+| On body (skiing) | 5–8 kg | |
+
+Weigh **loaded pulk + Sleeper** on the shakedown that mimics **day 9 leaving Storlien** (10-day food + full fuel).
+
+---
+
+## Shakedown (packing-focused)
+
+- [ ] **Sleeper on pulk** — bag + pad in dry bags; attach/remove in gloves  
+- [ ] **10-day main-bag load** + full fuel — 20 km day, side wind  
+- [ ] **Repack at camp** — full cycle in 30 min before dark  
+- [ ] **Steep descent** — rear eyelet + rope; load doesn’t shift forward  
+- [ ] **Alkylate g/day** recorded at −15 °C with silencer  
+- [ ] **Sleeper bivi drill** — Nallo failed scenario, 20 min (no stove inside)  
+- [ ] **Loaded weight:** ______ kg  
+
+Full kit tests: [pack-checklist-2028.md](./pack-checklist-2028.md#pre-trip-shakedown-tick-when-done).
+
+---
+
+## Emergency: Sleeper without Nallo
+
+If the tent is unusable: bag + pad already in Sleeper → zip up as wind shell. **No cooking inside.** Prefer hut/DNT/repair over multi-night Sleeper-only.
+
+---
+
+## Quick links
+
+| Doc | Use |
+|-----|-----|
+| [pack-checklist-2028.md](./pack-checklist-2028.md) | Tick-list before departure |
+| [gear-inventory-2028.md](./gear-inventory-2028.md) | Kit detail, pulk & Sleeper specs |
+| [resupply-2028.md](./resupply-2028.md) | Shops, alkylate, carry table |
+| [dag-for-dag-2028.md](./dag-for-dag-2028.md) | Daily km and resupply days |
