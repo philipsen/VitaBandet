@@ -31,12 +31,12 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 | Day | Stop | Alkylate? | Where / what to buy | Notes |
 |-----|------|-----------|---------------------|--------|
 | **1** | **Grövelsjön** | **Ask** | STF shop / Fjällbua — outdoor section | Often **canisters** only early Feb — **start with bottles full** from home |
-| **11** | **Undersåker** | **Unlikely** | ICA — **gasolbehållare** (LPG cans) | Top up food; **no alkylate** expected — carry from Grövelsjön |
+| **9** | **Storlien** | **Ask** | Coop / Fjellhandeln / Sportringen — **gas cylinders**, outdoor | **Best early shop**; ask **alkylbensin / Power Fuel**; top up food |
 | **22** | **Gäddede** | **Maybe** | **Frostvikens El & Bygghandel** — camping fuel | Best bet this leg; also ICA gas cans |
-| **26** | **Jäckvik** | **Unlikely** | ICA — canisters | Stock food; fuel from Gäddede/Hemavan |
-| **32** | **Hemavan** | **Maybe** | ICA + **Sportringen / Cykel & Fiske** (call ahead) | **Last good chance** before Kvikkjokk — **max fill** |
-| **44** | **Kvikkjokk** | **⚠️ Often NO** | STF shop lists **T-sprit + Primus gas**, not always alkylate | **Critical:** verify by phone; if only sprit, you need **alkylate from Hemavan** for **all Padjelanta** |
-| **45–51** | **Padjelanta** | **None** | — | Carry from Kvikkjokk — **2nd 1 L bottle** strongly advised |
+| **31** | **Hemavan** | **Maybe** | ICA + **Sportringen / Cykel & Fiske** (call ahead) | **Halfway ★** — **max fill** before Kvikkjokk |
+| **32** | **Jäckvik** (detour) | **Unlikely** | ICA — canisters (optional) | Only if you detour from Hemavan for **W** |
+| **44** | **Kvikkjokk** | **⚠️ Often NO** | STF shop lists **T-sprit + Primus gas**, not always alkylate | **Critical:** max fill from **Hemavan** for **Kvikkjokk → Ritsem** (6–7 days, no shops) |
+| **45–51** | **Kvikkjokk → Ritsem** (Paolo corridor) | **None** | — | **6–7 days** on trail; carry from Kvikkjokk · **2nd 1 L bottle** before leaving |
 | **52** | **Ritsem** ★ | **Yes** | **Primus Power Fuel** + sprit | **Best refill** — buy **max** for Ritsem → Abisko KL |
 | **53–58** | **KL huts** | **Rare** | Large huts sometimes **gas cans** only | Snacks; don’t count on alkylate |
 | **59** | **Abisko** ★ | **Yes** | **STF Fjällboden** — **Power Fuel** / outdoor fuel | **Max fill** for Norway leg (~2 L target) |
@@ -49,7 +49,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 |---------------|--------|
 | **Before Day 1** | Fill bottles at home (hardware/outdoor shop **alkylbensin** 1 L) |
 | **Gäddede (22)** | Try **Frostvikens** — top up if found |
-| **Hemavan (32)** | **Max fill** both bottles + buy **2nd 1 L bottle** if needed |
+| **Hemavan (31)** | **Max fill** both bottles + buy **2nd 1 L bottle** if needed |
 | **Kvikkjokk (44)** | Confirm alkylate stock; else **Padjelanta on Hemavan fill only** |
 | **Ritsem (52)** | **Largest refill** — Power Fuel tins → your bottles |
 | **Abisko (59)** | **Last big alkylate** before Treriksröset |
@@ -78,13 +78,15 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 ---
 
-### Day 11 — Undersåker · **D**
+### Day 9 — Storlien · **D**
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **ICA Nära Strandbergs** | Full ICA | **Gas cans** only (typical) | **Alkylate:** carry from Grövelsjön |
+| **Coop / Eurocash / Fjellhandeln** | Large supermarket + pharmacy | **Ask alkylbensin**; **gas cylinders**, freeze-dried, maps | Optional **depot → Kolåsen** (Bussgods — confirm address with station) |
+| **STF Storliens fjällgård** | — | — | **H** |
+| **Storlien Högfjällshotell** | Restaurant | Via shops | **H** |
 
-**Also:** STF Södergården 1 km — no shop, use ICA.
+**Notes:** Much better selection than ICA Undersåker. Still **fill alkylate from home** if shops only have canisters.
 
 ---
 
@@ -96,27 +98,29 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 | **Frostvikens El & Bygghandel** (opposite Gäddede Camping) | Hardware, proviant | **Alkylbensin / camping fuel** ★ try here | — |
 | Pilgrimshotellet | Restaurant, can shop via ICA | Via ICA | Free depot at hotel if needed |
 
-**Bandet hub** — stock up for **Jäckvik → Hemavan** leg.
+**Bandet hub** — stock for **Lapplandsleden → Hemavan** (~10 days); next shop day **31**.
 
 ---
 
-### Day 26 — Jäckvik · **D**
-
-| Where | Food | Fuel | Depot? |
-|-------|------|------|--------|
-| **ICA Jäckvik** | Well stocked; korv, pizza in förbutik | **Gasolbehållare** (ICA) | To ICA Jäckvik — **prefer shop** |
-| Kyrkans Fjällgård | Kitchen only; no shop | Via ICA | Can receive depot to ICA |
-
----
-
-### Day 32 — Hemavan · **D**
+### Day 31 — Hemavan · **D** ★ halfway
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
 | **ICA Fjällboden** (~400 m) | **Full sortiment** — main shop | **Gas** (also Cykel & Fiskecenter, Sportringen — order ahead safest) | PostNord to STF Hemavan free — **prefer ICA** |
 | **STF Hemavan** shop | Basics: maps, Compeed, **gas**, myggmedel | **Gas** (small) | Depot accepted free |
 
-**Halfway resupply** — carry through **Kungsleden west + Hornavan**.
+**Halfway resupply** — carry through **Kungsleden west + Hornavan** (Padjelanta fuel from here if Kvikkjokk has no alkylate).
+
+---
+
+### Day 32 — Jäckvik · **W** (optional)
+
+| Where | Food | Fuel | Depot? |
+|-------|------|------|--------|
+| **ICA Jäckvik** | Well stocked | **Gas cans** (ICA) | Optional top-up after Hemavan |
+| Kyrkans Fjällgård | Kitchen only | Via ICA | **H**? |
+
+**VGB:** väster om only — village entry not required. Skip shop if Hemavan stock is enough.
 
 ---
 
@@ -130,11 +134,12 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 ---
 
-### Days 45–51 — Padjelanta
+### Days 45–51 — Kvikkjokk → Ritsem (Paolo corridor)
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| Sámi / STF huts (Kutjaure, Sårjåsjaure, …) | Sometimes **small STF pantry** when staffed; **winter often empty** | Unreliable | **Do not plan on huts** — carry from Kvikkjokk |
+| Trail only | — | — | **No shops** until Ritsem — carry from Kvikkjokk |
+| STF huts (if passing) | Winter pantry often **empty** | Unreliable | Do not count on huts |
 
 ---
 
@@ -168,18 +173,17 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 ---
 
-### Days 60–64 — Nordkalottleden DNT huts (Lappjord, Altevass, Gaskash, Rostah)
+### Days 60–64 — Abisko → Treriksröset (Ola line · DNT huts)
 
-**No pantry** at these huts on your line (winter / unstaffed — do not plan on stocked self-service food).
+**No pantry** on trail. **Ola GPX** uses **Lappjord → Altevass → Treriksröset** — may **skip** Gaskash/Rostah hut stops.
 
 | Where | Food | Fuel | Notes |
 |-------|------|------|-------|
-| **Lappjordhytta** | **None** — bring all | **None** | DNT key; may have cabin stove — still cook on **OmniLite** with own fuel |
-| **Altevasshytta** | **None** | **None** | Same |
-| **Gaskashytta** | **None** | **None** | Same |
-| **Rostahytta** | **None** | **None** | Same |
+| **Lappjordhytta** | **None** | **None** | DNT key · **H** day ~62 |
+| **Altevasshytta** | **None** | **None** | **H** day ~63 |
+| **Gaskash / Rostah** | — | — | Off main **Ola** line — only if you detour |
 
-**At Abisko (day 59):** stock **7–8 days food** + **2 L** white gas for Abisko → Pältsa (no shops until **STF Pältsa** near goal).
+**At Abisko (day 59):** stock **7–8 days food** + **~2 L alkylate** for Abisko → **Pältsa** (shop day 65).
 
 ---
 
@@ -192,11 +196,12 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 ---
 
-## Optional: Adolfström Handelsbod (near route)
+## Off-route optional (not on Lapplandsleden line)
 
-If you pass **Laisdalen / Adolfström** (between Jäckvik and Hemavan): excellent **Handelsbod** — färskvaror, frystorkat, fresh bread, café (Jan–Apr). **No depot.** No gas listed — verify locally.
-
-[adolfstrom.com/handelsboden](https://adolfstrom.com/handelsboden-i-adolfstrom)
+| Place | When |
+|-------|------|
+| **Adolfström Handelsbod** | Only if you detour via **Laisdalen** (old plan loop) — excellent bread/café; [handelsbod](https://adolfstrom.com/handelsboden-i-adolfstrom) |
+| **Laisvall / Laisdalen** | Eastern corridor — skip unless weather forces lower route |
 
 ---
 
@@ -204,7 +209,7 @@ If you pass **Laisdalen / Adolfström** (between Jäckvik and Hemavan): excellen
 
 | Send depot to | Only if you need |
 |---------------|------------------|
-| ICA Undersåker | Special diet / spare parts not in ICA |
+| Kolåsen (via Storlien leg) | Optional depot — 4-day carry after Storlien if you don’t want 13 days on pulk |
 | Gäddede / Pilgrims | Extra cache before long Vilhelmina leg (usually **no**) |
 | STF Kvikkjokk | Extra Padjelanta food (shop is decent — try local first) |
 | STF Ritsem | Rare — shop is Large+ |
@@ -218,11 +223,12 @@ If you pass **Laisdalen / Adolfström** (between Jäckvik and Hemavan): excellen
 
 | Leg | Days | Shop at start | Target carry |
 |-----|------|---------------|--------------|
-| Grövelsjön → Undersåker | 10 | Day 1 | 8–10 days food; **alkylate** — start full from home |
-| → Gäddede | 11 | Day 11 | 10–11 days |
-| → Hemavan | 10 | Day 22 | 9–10 days |
-| → Kvikkjokk | 12 | Day 32 | 11–12 days |
-| → Ritsem | 8 | Day 44 | **Max leg** — 7–8 days food + **all alkylate** for Padjelanta (from **Hemavan/Kvikkjokk**) |
+| Grövelsjön → Storlien | 8 | Day 1 | 8–9 days food; **alkylate** — start full from home |
+| → Gäddede | 13 | Day 9 Storlien | 10–12 days (or depot Kolåsen + less on pulk) |
+| → Hemavan | 9 | Day 22 Gäddede | 9–10 days (no shop until day 31) |
+| → Kvikkjokk | 12 | Day 31 Hemavan ★ | 11–12 days · **max alkylate** |
+| → Ritsem | 6–7 | Day 44 | **Max leg** — food + **all alkylate** for Paolo corridor to Ritsem |
+| → Sälka | 3 | Day 52 Ritsem | KL hut snacks optional |
 | → Abisko | 7 | Day 52 Ritsem ★ | **Refill alkylate** (Power Fuel) + 6–7 days food |
 | → Treriksröset | 6 | Day 59 Abisko ★ | **7–8 days food**; **~2 L alkylate** |
 

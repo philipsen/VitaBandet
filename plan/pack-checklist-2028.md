@@ -1,6 +1,6 @@
 # Vita Bandet 2028 — pack checklist
 
-**Solo · S→N · 1 Feb–5 Apr · ski + pulk · mostly tent**  
+**Solo · S→N · 15 Feb–19 Apr · ski + pulk · mostly tent**  
 Print this page. Details: [gear-inventory-2028.md](./gear-inventory-2028.md) · [resupply-2028.md](./resupply-2028.md) · [dag-for-dag-2028.md](./dag-for-dag-2028.md)
 
 ---
@@ -125,11 +125,11 @@ Print this page. Details: [gear-inventory-2028.md](./gear-inventory-2028.md) · 
 | Day | Place |
 |-----|-------|
 | 1 | Grövelsjön (start full) |
-| 11 | Undersåker ICA |
+| 9 | Storlien (Coop / Fjellhandeln) |
 | 22 | Gäddede (+ Frostvikens fuel?) |
-| 26 | Jäckvik ICA |
-| 32 | Hemavan ICA ★ fuel |
-| 44 | Kvikkjokk ★ **max before Padjelanta** |
+| 31 | Hemavan ICA ★ halfway · max fuel |
+| 32 | Jäckvik (optional — VGB **W** only) |
+| 44 | Kvikkjokk ★ **max before Ritsem / Paolo leg** |
 | 52 | Ritsem ★ shop |
 | 59 | Abisko ★ **7–8 days food + ~2 L fuel** |
 | ~65 | Pältsa (near goal) |
@@ -138,16 +138,16 @@ Print this page. Details: [gear-inventory-2028.md](./gear-inventory-2028.md) · 
 
 ---
 
-## Waypoints (side pass — not pin-hunt)
+## VGB waypoints (väster om only)
 
-S→N: pass **west of** point (point **east** of your track) or **through** village.
+S→N: each point **east** of track. No village entry required for VGB.
 
-- [ ] Undersåker (through)
-- [ ] Håkafot (west)
-- [ ] Jäckvik (through)
-- [ ] Saltoluokta (west)
-- [ ] Nikkaluokta (west)
-- [ ] Torneträsk östra spetsen *(detour? — check VGB)*
+- [ ] Undersåker (väster om — day ~12)
+- [ ] Håkafot (väster om)
+- [ ] Jäckvik (väster om — day ~32; ICA optional **D**)
+- [ ] Saltoluokta (väster om)
+- [ ] Nikkaluokta (väster om)
+- [ ] Torneträsk östra spetsen (väster om — tip east of track; no ice crossing)
 - [ ] Treriksröset
 
 ---

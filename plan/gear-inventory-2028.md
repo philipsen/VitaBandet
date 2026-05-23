@@ -352,7 +352,7 @@ You still have the right **two-set strategy** (short + long) once glue is fixed:
 | **Full offline** Sweden + Norway | Download **Norrland** / regional maps before leave; no signal needed |
 | **GPX import** | Load [vitagronabandet.se](https://www.vitagronabandet.se/) track + day stages; see progress vs plan |
 | **Topo / contours** | **OsmAnd+** ✓ — unlimited map downloads, contour lines |
-| **POIs** | Huts, STF — VGB waypoints: **side pass** (west of point = east of you when S→N), not exact pin |
+| **POIs** | Huts, STF — VGB: six places **väster om only** on this plan (east of track, S→N); not exact pin |
 | **Plugins** | Ski tour / piste overlays (OSM coverage **uneven** — do not trust alone in Padjelanta) |
 | **Fairphone** | Works on Android; no Google dependency for maps |
 
@@ -367,8 +367,8 @@ You still have the right **two-set strategy** (short + long) once glue is fixed:
 
 1. **OsmAnd+** ✓ owned — install on **Fairphone** (or test on Ulefone now).  
 2. **Download offline maps:** Sweden north (Jämtland, Lappland), Norway (Troms, Nordland strips you cross). Budget **5–15 GB** storage — test size on phone.  
-3. **Import GPX:** full Bandet route + split by section (Grövelsjön–Kvikkjokk, Padjelanta, KL, Abisko–Treriksröset).  
-4. **Waypoints:** VGB compliance points — GPX **corridor** west of pins (east of track), not spot-on hits.  
+3. **Import GPX:** **`vita-bandet-2028-composite.gpx`** (stitched plan route) · or per-leg: `olas-vita-band-2.gpx`, `eriks-band.gpx`, `paolo-peralta-s-band.gpx`.  
+4. **Waypoints:** VGB six places — GPX **corridor** väster om (east of track, S→N); not spot-on hits.  
 5. **Display:** winter-friendly profile — high contrast, **contour lines on**, track up.  
 6. **Backup export:** copy GPX + favourites to **SD card / cloud** before trip.  
 7. **Shakedown:** navigate one day with **phone only** and one with **68i only** — know both.
@@ -643,12 +643,12 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 
 | Leg | Days | Resupply | Carry (white gas, guide) |
 |-----|------|----------|---------------------------|
-| Grövelsjön → Undersåker | 10 | Day 1 shop | **1.5–2 L** in 1 L bottles |
-| → Gäddede | 11 | Day 11 ICA | refill → **2 L** on hand |
-| → Hemavan | 10 | Day 22, 26 | **2 L** |
-| → Kvikkjokk | 12 | Day 32 | **2 L** |
-| → Ritsem | 8 | Day 44 **max fill** | **2–2.5 L** (no shops in Padjelanta) |
-| → Abisko | 7 | Day 52 Ritsem ★ | refill **2 L** |
+| Grövelsjön → Storlien | 8 | Day 1 shop | **1.5–2 L** in 1 L bottles |
+| → Gäddede | 13 | Day 9 Storlien | ask alkylate; refill → **2 L** on hand |
+| → Hemavan | 9 | Day 22 → day 31 | **2 L** |
+| → Kvikkjokk | 12 | Day 31 Hemavan ★ | **2 L** · max fill |
+| → Ritsem | 6–7 | Day 44 **max fill** | **2–2.5 L** (Paolo corridor to Ritsem) |
+| → Sälka / Abisko | 7 | Day 52 Ritsem ★ | refill **2 L** + KL hut snacks |
 | → Treriksröset | 6 | Day 59 Abisko | **2 L** fuel + **7–8 days food** (DNT huts: **no pantry**) |
 
 **Total liquid fuel (trip):** roughly **25–35 L** if melting lots of snow; **less** if water from huts/rivers. Track usage on shakedown → **g/day**.
