@@ -72,9 +72,8 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
 | **STF Grövelsjön** shop | Frystorkat, basic groceries, outdoor gear | **Ask alkylbensin** / Power Fuel; often **canisters** | Start bottles **full from home** |
-| **Fjällbua** Storsätern (~4 km) | Better **livsmedel** selection | Ask in shop | Unlikely needed |
 
-**Eat:** STF restaurant (book dinner ahead).
+**Eat:** STF restaurant (book dinner ahead). **Fjällbua** Storsätern (~4 km off main trail) — only if STF stock is thin; plan leaves **north on main trail** same day.
 
 ---
 

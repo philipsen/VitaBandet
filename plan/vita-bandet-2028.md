@@ -9,7 +9,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 **Status:** day-by-day draft ready
 
 **Day-by-day itinerary:** [dag-for-dag-2028.md](./dag-for-dag-2028.md)  
-**Composite GPX:** [vita-bandet-2028-composite.gpx](./vita-bandet-2028-composite.gpx) (Ola + Erik segments)  
+**Composite GPX:** [vita-bandet-2028-composite.gpx](./vita-bandet-2028-composite.gpx) (Mårten → Helags · Ola · Lapplandsleden summer GPX · Erik)  
 **Resupply (local):** [resupply-2028.md](./resupply-2028.md)  
 **Gear inventory:** [gear-inventory-2028.md](./gear-inventory-2028.md)
 

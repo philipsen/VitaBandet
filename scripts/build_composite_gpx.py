@@ -3,13 +3,14 @@
 Stitch historical Band tracks into one GPX for the 2028 plan route.
 
 Segment sources (best match per dag-for-dag-2028.md):
-  Grövelsjön → Storlien     Ola (Storlien variant)
+  Grövelsjön → Helags       Mårten
+  Helags → Storlien         Ola (Storlien variant)
   Storlien → Gäddede        Ola
-  Gäddede → Hemavan         Ola (Lapplandsleden)
+  Gäddede → Lapplandsleden  Ola (to marked trail join)
+  Lapplandsleden → Hemavan  lapland-trail-summer.gpx (Virisen / Tärnaby → Klimpf → Hemavan)
   Hemavan → Jäckvik → Kvikkjokk  Erik (Jäckvik W detour + dense)
-  Kvikkjokk → Sälka         Erik (Paolo corridor / KL)
-  Sälka → Abisko            Ola
-  Abisko → Treriksröset     Ola
+  Kvikkjokk → Abisko        Paolo (Padjelanta / KL corridor)
+  Abisko → Pältsa           Ola (Norway leg)
 
 VGB: 2028 plan passes all six places väster om only (S→N: east of track).
 """
@@ -29,10 +30,12 @@ GPX_NS = "http://www.topografix.com/GPX/1/1"
 
 MILESTONES = {
     "GROVEL": (62.10, 12.31),
+    "HELAGS": (62.2725, 12.5737),
     "STORLIEN": (63.298, 12.101),
     "GADDEDE": (64.52, 14.14),
+    "KLIMPF": (65.8542, 14.9528),
+    "KLIMPF_TRAIL": (65.779934, 14.830061),
     "HEMAVAN": (65.83, 15.08),
-    # Jäkkvik village (Silvervägen / ICA) — not used for segment cuts; map label only
     "JACKVIK": (66.383, 16.967),
     "KVIKK": (66.9513, 17.7285),
     "SALKA": (67.366, 18.283),
@@ -41,14 +44,19 @@ MILESTONES = {
     "PALTSA": (69.045, 20.739),
 }
 
-# (label, json file, start key, end key) — indices resolved along track order
 SEGMENTS = [
-    ("Grövelsjön → Storlien", "olas-vita-band-2-track.json", "GROVEL", "STORLIEN"),
+    ("Grövelsjön → Helags", "martens-band-track.json", "GROVEL", "HELAGS"),
+    ("Helags → Storlien", "olas-vita-band-2-track.json", "HELAGS", "STORLIEN"),
     ("Storlien → Gäddede", "olas-vita-band-2-track.json", "STORLIEN", "GADDEDE"),
-    ("Gäddede → Hemavan", "olas-vita-band-2-track.json", "GADDEDE", "HEMAVAN"),
+    ("Gäddede → Lapplandsleden", "olas-vita-band-2-track.json", "GADDEDE", "LAPLAND_JOIN"),
+    (
+        "Lapplandsleden → Hemavan",
+        "lapland-trail-summer.gpx",
+        "LAPLAND_JOIN",
+        "HEMAVAN",
+    ),
     ("Hemavan → Jäckvik → Kvikkjokk", "eriks-band-track.json", "HEMAVAN", "KVIKK"),
-    ("Kvikkjokk → Sälka", "eriks-band-track.json", "KVIKK", "SALKA"),
-    ("Sälka → Abisko", "olas-vita-band-2-track.json", "SALKA", "ABISKO"),
+    ("Kvikkjokk → Abisko", "paolo-peralta-s-band-track.json", "KVIKK", "ABISKO"),
     ("Abisko → Pältsa", "olas-vita-band-2-track.json", "ABISKO", "PALTSA"),
 ]
 
@@ -69,29 +77,146 @@ def nearest_idx(locs: list, pt: tuple[float, float]) -> int:
     )
 
 
-def extract_segment(locs: list, start_key: str, end_key: str) -> list[dict]:
-    """Extract points along track order from nearest start to nearest end."""
+def load_track(path: Path) -> list[dict]:
+    if path.suffix.lower() == ".gpx":
+        root = ET.parse(path).getroot()
+        ns = {"gpx": GPX_NS}
+        locs: list[dict] = []
+        for trkpt in root.findall(".//gpx:trkpt", ns):
+            locs.append({"lat": float(trkpt.get("lat")), "lng": float(trkpt.get("lon"))})
+        if not locs:
+            raise ValueError(f"No trkpt in {path}")
+        return locs
+    data = json.load(open(path, encoding="utf-8"))
+    return data["locations"]
+
+
+def write_track_gpx(path: Path, locs: list[dict], name: str, desc: str = "") -> None:
+    gpx = Element(
+        "gpx",
+        attrib={"version": "1.1", "creator": "VitaBandet", "xmlns": GPX_NS},
+    )
+    meta = SubElement(gpx, "metadata")
+    SubElement(meta, "name").text = name
+    if desc:
+        SubElement(meta, "desc").text = desc
+    trk = SubElement(gpx, "trk")
+    SubElement(trk, "name").text = name
+    seg = SubElement(trk, "trkseg")
+    for p in locs:
+        SubElement(
+            seg,
+            "trkpt",
+            attrib={"lat": f"{p['lat']:.6f}", "lon": f"{p['lng']:.6f}"},
+        )
+    rough = ET.tostring(gpx, encoding="unicode")
+    parsed = minidom.parseString('<?xml version="1.0" encoding="UTF-8"?>\n' + rough)
+    path.write_text(parsed.toprettyxml(indent="  ", encoding="UTF-8").decode("UTF-8"), encoding="utf-8")
+
+
+def ensure_lapland_s_to_n(path: Path) -> list[dict]:
+    locs = load_track(path)
+    hemavan = MILESTONES["HEMAVAN"]
+    start_at_hemavan = haversine_m(
+        locs[0]["lat"], locs[0]["lng"], hemavan[0], hemavan[1]
+    ) < haversine_m(locs[-1]["lat"], locs[-1]["lng"], hemavan[0], hemavan[1])
+    if start_at_hemavan:
+        locs = list(reversed(locs))
+        write_track_gpx(
+            path,
+            locs,
+            "Lapplandsleden S→N",
+            "Reordered south to north for Vita Bandet (was summer export Hemavan→south).",
+        )
+        print(f"  Reordered {path.name} to S→N ({len(locs)} points)")
+    return locs
+
+
+def lapland_join_idx_on_band(locs: list, from_idx: int, summer: list[dict]) -> int:
+    """First Band point within 500 m of Lapplandsleden (Ola/Paolo west corridor)."""
+    ig = nearest_idx(summer, MILESTONES["GADDEDE"])
+    ih = nearest_idx(summer, MILESTONES["HEMAVAN"])
+    for i in range(from_idx, len(locs)):
+        j = min(
+            range(ig, ih + 1),
+            key=lambda k: haversine_m(
+                locs[i]["lat"], locs[i]["lng"], summer[k]["lat"], summer[k]["lng"]
+            ),
+        )
+        if haversine_m(locs[i]["lat"], locs[i]["lng"], summer[j]["lat"], summer[j]["lng"]) <= 500:
+            return i
+    for i in range(from_idx, len(locs)):
+        j = min(
+            range(ig, ih + 1),
+            key=lambda k: haversine_m(
+                locs[i]["lat"], locs[i]["lng"], summer[k]["lat"], summer[k]["lng"]
+            ),
+        )
+        if haversine_m(locs[i]["lat"], locs[i]["lng"], summer[j]["lat"], summer[j]["lng"]) <= 2000:
+            return i
+    return from_idx
+
+
+def lapland_join_idx_on_summer(locs: list, band_join: dict) -> int:
+    """Summer GPX index at the Band join (Paolo/Jonathan corridor)."""
+    ig = nearest_idx(locs, MILESTONES["GADDEDE"])
+    ih = nearest_idx(locs, MILESTONES["HEMAVAN"])
+    return min(
+        range(ig, ih + 1),
+        key=lambda i: haversine_m(
+            locs[i]["lat"], locs[i]["lng"], band_join["lat"], band_join["lng"]
+        ),
+    )
+
+
+def extract_segment(
+    locs: list,
+    start_key: str,
+    end_key: str,
+    *,
+    summer: list[dict] | None = None,
+    lapland_join: dict | None = None,
+) -> list[dict]:
+    if start_key == "LAPLAND_JOIN" and end_key == "HEMAVAN":
+        return extract_lapland_to_hemavan(locs, lapland_join)
+
     i0 = nearest_idx(locs, MILESTONES[start_key])
-    i1 = nearest_idx(locs, MILESTONES[end_key])
+    if end_key == "LAPLAND_JOIN":
+        if summer is None:
+            raise ValueError("summer track required for LAPLAND_JOIN")
+        i1 = lapland_join_idx_on_band(locs, i0, summer)
+    else:
+        i1 = nearest_idx(locs, MILESTONES[end_key])
     if i0 <= i1:
-        return locs[i0 : i1 + 1]
-    return locs[i1 : i0 + 1][::-1]
+        return [dict(p) for p in locs[i0 : i1 + 1]]
+    return [dict(p) for p in locs[i1 : i0 + 1][::-1]]
 
 
-def dedupe_join(acc: list[dict], new: list[dict], min_gap_m: float = 300) -> list[dict]:
-    if not acc:
-        return list(new)
-    out = list(acc)
-    for p in new:
+def extract_lapland_to_hemavan(locs: list[dict], band_join: dict | None) -> list[dict]:
+    """Marked Lapplandsleden from Band join (S→N) to Hemavan — full summer geometry."""
+    ih = nearest_idx(locs, MILESTONES["HEMAVAN"])
+    if band_join is not None:
+        ik = lapland_join_idx_on_summer(locs, band_join)
+    else:
+        ik = nearest_idx(locs, MILESTONES["GADDEDE"])
+    if ik >= ih:
+        raise ValueError("Lapplandsleden join is not south of Hemavan on S→N GPX")
+    return [dict(p) for p in locs[ik : ih + 1]]
+
+
+def thin_points(points: list[dict], min_gap_m: float) -> list[dict]:
+    """Drop points closer than min_gap_m (Band JSON only)."""
+    if not points:
+        return []
+    out = [points[0]]
+    for p in points[1:]:
         last = out[-1]
-        if haversine_m(last["lat"], last["lng"], p["lat"], p["lng"]) < min_gap_m:
-            continue
-        out.append(p)
+        if haversine_m(last["lat"], last["lng"], p["lat"], p["lng"]) >= min_gap_m:
+            out.append(p)
     return out
 
 
 def assign_plan_times(points: list[dict], start: datetime, end: datetime) -> None:
-    """Spread ISO timestamps by distance along the merged track."""
     if len(points) < 2:
         if points:
             points[0]["_iso"] = start.strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -114,7 +239,7 @@ def assign_plan_times(points: list[dict], start: datetime, end: datetime) -> Non
         p["_iso"] = t.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-def build_gpx(points: list[dict], name: str) -> str:
+def build_gpx(trksegs: list[tuple[str, list[dict]]], name: str) -> str:
     gpx = Element(
         "gpx",
         attrib={"version": "1.1", "creator": "VitaBandet composite", "xmlns": GPX_NS},
@@ -123,30 +248,33 @@ def build_gpx(points: list[dict], name: str) -> str:
     SubElement(meta, "name").text = name
     desc = SubElement(meta, "desc")
     desc.text = (
-        "Composite route for Vita Bandet 2028 plan: "
-        "Ola (Storlien, Lapplandsleden, Norway leg) + Erik (Hemavan–Sälka). "
-        "VGB six waypoints: väster om only (S→N, east of track). "
-        "Not a recorded single hike — stitched from vitagronabandet.se tracks."
+        "Composite route for Vita Bandet 2028. "
+        "Each leg is a separate trkseg (no straight lines across joins). "
+        "Gäddede→Hemavan Lapplandsleden = lapland-trail-summer.gpx (join at Ola/Paolo corridor)."
     )
 
     trk = SubElement(gpx, "trk")
     SubElement(trk, "name").text = name
-    seg = SubElement(trk, "trkseg")
 
-    for p in points:
-        att = {
-            "lat": f"{p['lat']:.8f}".rstrip("0").rstrip("."),
-            "lon": f"{p['lng']:.8f}".rstrip("0").rstrip("."),
-        }
-        trkpt = SubElement(seg, "trkpt", attrib=att)
-        if p.get("_iso"):
-            SubElement(trkpt, "time").text = p["_iso"]
+    for label, points in trksegs:
+        if not points:
+            continue
+        seg = SubElement(trk, "trkseg")
+        for p in points:
+            att = {
+                "lat": f"{p['lat']:.8f}".rstrip("0").rstrip("."),
+                "lon": f"{p['lng']:.8f}".rstrip("0").rstrip("."),
+            }
+            trkpt = SubElement(seg, "trkpt", attrib=att)
+            if p.get("_iso"):
+                SubElement(trkpt, "time").text = p["_iso"]
 
-    # Milestone waypoints (town centres / goals — VGB side-pass is on the track, not the pin)
     for label, pt in [
         ("Grövelsjön", MILESTONES["GROVEL"]),
+        ("Helags fjällstation", MILESTONES["HELAGS"]),
         ("Storlien", MILESTONES["STORLIEN"]),
         ("Gäddede", MILESTONES["GADDEDE"]),
+        ("Klimpfjäll", MILESTONES["KLIMPF"]),
         ("Hemavan", MILESTONES["HEMAVAN"]),
         ("Jäckvik", MILESTONES["JACKVIK"]),
         ("Kvikkjokk", MILESTONES["KVIKK"]),
@@ -163,32 +291,67 @@ def build_gpx(points: list[dict], name: str) -> str:
 
 
 def main() -> None:
-    merged: list[dict] = []
+    trksegs: list[tuple[str, list[dict]]] = []
     log: list[str] = []
+    lapland_path = PLAN_DIR / "lapland-trail-summer.gpx"
+    summer_locs: list[dict] | None = None
+    lapland_join: dict | None = None
+    lapland_end: dict | None = None
 
     for label, fname, sk, ek in SEGMENTS:
         path = PLAN_DIR / fname
-        locs = json.load(open(path, encoding="utf-8"))["locations"]
-        seg = extract_segment(locs, sk, ek)
-        before = len(merged)
-        merged = dedupe_join(merged, seg)
-        added = len(merged) - before
-        log.append(f"  {label}: {fname} [{sk}→{ek}] +{added} pts (raw {len(seg)})")
+        is_lapland = path.resolve() == lapland_path.resolve()
+        if is_lapland:
+            summer_locs = ensure_lapland_s_to_n(path)
+            locs = summer_locs
+        else:
+            locs = load_track(path)
 
-    # Plan window: 15 Feb – 19 Apr 2028
-    assign_plan_times(merged, datetime(2028, 2, 15, 10, 0), datetime(2028, 4, 19, 12, 0))
+        if is_lapland:
+            seg = extract_lapland_to_hemavan(locs, lapland_join)
+            # Keep full Gaia point density on marked trail (no thinning)
+            lapland_end = seg[-1]
+            write_track_gpx(
+                PLAN_DIR / "lapland-klimpf-hemavan.gpx",
+                seg,
+                "Lapplandsleden → Hemavan",
+                "lapland-trail-summer.gpx from Ola/Paolo join (S→N) — not the 18 km Hemavan spur only.",
+            )
+        elif fname == "eriks-band-track.json" and sk == "HEMAVAN" and lapland_end:
+            i0 = nearest_idx(locs, (lapland_end["lat"], lapland_end["lng"]))
+            i1 = nearest_idx(locs, MILESTONES["KVIKK"])
+            if i0 <= i1:
+                seg = [dict(p) for p in locs[i0 : i1 + 1]]
+            else:
+                seg = extract_segment(locs, sk, ek)
+            seg = thin_points(seg, 300.0)
+        elif ek == "LAPLAND_JOIN":
+            if summer_locs is None:
+                summer_locs = ensure_lapland_s_to_n(lapland_path)
+            seg = extract_segment(locs, sk, ek, summer=summer_locs)
+            lapland_join = seg[-1]
+            seg = thin_points(seg, 300.0)
+        else:
+            seg = extract_segment(locs, sk, ek, summer=summer_locs, lapland_join=lapland_join)
+            if not is_lapland and "paolo-peralta" not in fname:
+                seg = thin_points(seg, 300.0)
+
+        trksegs.append((label, seg))
+        log.append(f"  {label}: {len(seg)} pts")
+
+    flat = [p for _, seg in trksegs for p in seg]
+    assign_plan_times(flat, datetime(2028, 2, 15, 10, 0), datetime(2028, 4, 19, 12, 0))
 
     out = PLAN_DIR / "vita-bandet-2028-composite.gpx"
-    xml = build_gpx(merged, "Vita Bandet 2028 (composite)")
-    out.write_text(xml, encoding="utf-8")
+    out.write_text(build_gpx(trksegs, "Vita Bandet 2028 (composite)"), encoding="utf-8")
 
-    # Cumulative km
     km = sum(
-        haversine_m(merged[i - 1]["lat"], merged[i - 1]["lng"], merged[i]["lat"], merged[i]["lng"])
-        for i in range(1, len(merged))
+        haversine_m(flat[i - 1]["lat"], flat[i - 1]["lng"], flat[i]["lat"], flat[i]["lng"])
+        for i in range(1, len(flat))
     ) / 1000
 
-    print(f"Wrote {len(merged)} points, {km:.0f} km track → {out}\n")
+    print(f"Wrote {len(flat)} points, {km:.0f} km, {len(trksegs)} trksegs → {out}")
+    print(f"Wrote lapland leg → {PLAN_DIR / 'lapland-klimpf-hemavan.gpx'}\n")
     print("Segments:")
     for line in log:
         print(line)

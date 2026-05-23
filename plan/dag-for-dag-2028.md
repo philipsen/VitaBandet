@@ -10,7 +10,7 @@
 | **T** | Tent · **H** | Hut · **R** | Rest · **D** | Resupply · **W** | Waypoint (side pass) |
 
 **Route variant:** **Storlien** (first major shop) — not Undersåker/Flatruet.  
-**Composite GPX (full plan route):** [`vita-bandet-2028-composite.gpx`](./vita-bandet-2028-composite.gpx) — built from Ola + Erik segment tracks (see `scripts/build_composite_gpx.py`).  
+**Composite GPX (full plan route):** [`vita-bandet-2028-composite.gpx`](./vita-bandet-2028-composite.gpx) — Mårten + Ola + **`lapland-trail-summer.gpx`** + Erik (→ Kvikkjokk) + **Paolo** (Kvikkjokk→Abisko) + **Ola** (Abisko→Pältsa); see `scripts/build_composite_gpx.py`.  
 **Resupply:** [resupply-2028.md](./resupply-2028.md) · **Solo:** daily inReach
 
 ### Waypoint compliance (VGB)
@@ -55,12 +55,12 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 
 #### Day 1 · Tue 15 Feb · 8 km (cum 8) · Grövelsjön · **D**
 
-Leave **STF Grövelsjön** (Den blå dörren). Short first day on skitracks around the lake and Storsätern — sort the pulk before alpine country.  
-Camp near station or Storsätern. Pack food for **8–9 days** to Storlien.
+**D** at **STF Grövelsjön** (shop, register Vita Bandet, final pulk check) — then leave on the **main trail north** (winter touring / snowmobile spår toward **Långfjället**; composite / `martens-band.gpx`). **No** lake loop or Storsätern day tour.  
+Camp on trail north of station. Pack food for **8–9 days** to Storlien.
 
 | Acc | Notes |
 |-----|-------|
-| **T** | Register Vita Bandet; STF shop + Fjällbua 4 km optional |
+| **T** | Resupply at station before departure |
 
 #### Day 2 · Wed 16 Feb · 12 km (cum 20) · Långfjället
 
@@ -247,7 +247,7 @@ Bandet guest book at camping; **H** Pilgrims or camping.
 
 *Arjeplog → **Klimpfjäll** → **[Lapplandsleden](https://visithemavantarnaby.se/en/fjallturspar-lapplandsleden/)** (winter markers) → **Hemavan** (halfway) → **Jäckvik W** detour. Matches Jonathan / Paolo / Erik / Mårten GPS — not the old Jäckvik–Laisdalen–Klimpfjäll loop.*
 
-**GPX reference:** `olas-vita-band-2.gpx`, `eriks-band.gpx` (Klimpfjäll → Hemavan leg).
+**GPX reference:** `olas-vita-band-2.gpx` (Gäddede → trail join) · **`lapland-trail-summer.gpx`** / composite trkseg (marked led from join through Virisen / Tärnaby → Hemavan, ~155 km) · `eriks-band.gpx` after Hemavan.
 
 #### Day 23 · Wed 8 Mar · 22 km (cum 437) · Vilhelmina fjäll
 
