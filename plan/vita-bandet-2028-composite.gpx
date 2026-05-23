@@ -19529,6 +19529,60 @@
       </trkpt>
     </trkseg>
   </trk>
+  <wpt lat="62.160940" lon="12.377142">
+    <name>D1 · Långfjället approach</name>
+    <desc>Section 1 · 2028-02-15 · cum 8 km · T · Camp N of STF Grövelsjön</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="62.259566" lon="12.360475">
+    <name>D2 · Långfjället</name>
+    <desc>Section 1 · 2028-02-16 · cum 20 km · T</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="62.350710" lon="12.372340">
+    <name>D3 · Tännäs</name>
+    <desc>Section 1 · 2028-02-17 · cum 34 km · T</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="62.477696" lon="12.285794">
+    <name>D4 · Ljusnedal</name>
+    <desc>Section 1 · 2028-02-18 · cum 50 km · T</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="62.628292" lon="12.330074">
+    <name>D5 · Vålådalen</name>
+    <desc>Section 1 · 2028-02-19 · cum 67 km · T</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="62.783467" lon="12.391790">
+    <name>D6 · Ottfjället</name>
+    <desc>Section 1 · 2028-02-20 · cum 85 km · T</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="62.935635" lon="12.470531">
+    <name>D7 · Sylarna W</name>
+    <desc>Section 1 · 2028-02-21 · cum 104 km · T · Stations closed</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="63.088445" lon="12.275034">
+    <name>D8 · Håkafot W</name>
+    <desc>Section 1 · 2028-02-22 · cum 124 km · T · VGB väster om</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="63.298000" lon="12.101000">
+    <name>D9 · Storlien</name>
+    <desc>Section 1 · 2028-02-23 · cum 165 km · D · Coop · resupply</desc>
+    <sym>City</sym>
+    <type>resupply</type>
+  </wpt>
   <wpt lat="62.100000" lon="12.310000">
     <name>Grövelsjön</name>
   </wpt>

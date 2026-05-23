@@ -51,7 +51,8 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 
 ## Section 1 — Grövelsjön → Storlien (165 km · days 1–9)
 
-*Härjedalen → Jämtland alpine (Sylarna / Helags side). **No** Flatruet–Indalsälven–Undersåker line.*
+*Härjedalen → Jämtland alpine (Sylarna / Helags side). **No** Flatruet–Indalsälven–Undersåker line.*  
+**Camp waypoints (D1–D9):** on composite GPX — placed at plan cumulative km along Mårten + Ola track (`scripts/build_composite_gpx.py`).
 
 #### Day 1 · Tue 15 Feb · 8 km (cum 8) · Grövelsjön · **D**
 

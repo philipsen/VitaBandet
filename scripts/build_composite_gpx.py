@@ -44,6 +44,19 @@ MILESTONES = {
     "PALTSA": (69.045, 20.739),
 }
 
+# Section 1 camp stops — cum km from dag-for-dag-2028.md (placed on composite track)
+SECTION1_CAMPS = [
+    (1, "2028-02-15", 8, "Långfjället approach", "T", "Camp N of STF Grövelsjön"),
+    (2, "2028-02-16", 20, "Långfjället", "T", ""),
+    (3, "2028-02-17", 34, "Tännäs", "T", ""),
+    (4, "2028-02-18", 50, "Ljusnedal", "T", ""),
+    (5, "2028-02-19", 67, "Vålådalen", "T", ""),
+    (6, "2028-02-20", 85, "Ottfjället", "T", ""),
+    (7, "2028-02-21", 104, "Sylarna W", "T", "Stations closed"),
+    (8, "2028-02-22", 124, "Håkafot W", "T", "VGB väster om"),
+    (9, "2028-02-23", 165, "Storlien", "D", "Coop · resupply"),
+]
+
 SEGMENTS = [
     ("Grövelsjön → Helags", "martens-band-track.json", "GROVEL", "HELAGS"),
     ("Helags → Storlien", "olas-vita-band-2-track.json", "HELAGS", "STORLIEN"),
@@ -216,6 +229,60 @@ def thin_points(points: list[dict], min_gap_m: float) -> list[dict]:
     return out
 
 
+def point_at_planned_km(points: list[dict], target_km: float) -> dict:
+    """Interpolate a point along the track at planned cumulative km."""
+    if not points:
+        raise ValueError("empty track")
+    if target_km <= 0:
+        return dict(points[0])
+    cum = 0.0
+    for i in range(1, len(points)):
+        leg = haversine_m(
+            points[i - 1]["lat"],
+            points[i - 1]["lng"],
+            points[i]["lat"],
+            points[i]["lng"],
+        ) / 1000
+        if cum + leg >= target_km:
+            frac = (target_km - cum) / leg if leg > 0 else 0.0
+            a, b = points[i - 1], points[i]
+            return {
+                "lat": a["lat"] + frac * (b["lat"] - a["lat"]),
+                "lng": a["lng"] + frac * (b["lng"] - a["lng"]),
+            }
+        cum += leg
+    return dict(points[-1])
+
+
+def section1_camp_waypoints(trksegs: list[tuple[str, list[dict]]]) -> list[dict]:
+    """Camp / resupply waypoints for Section 1 (days 1–9) on the stitched track."""
+    track: list[dict] = []
+    for _, seg in trksegs[:2]:
+        track.extend(seg)
+    wpts: list[dict] = []
+    for day, date, km, place, acc, note in SECTION1_CAMPS:
+        if day == 9:
+            lat, lon = MILESTONES["STORLIEN"]
+        else:
+            p = point_at_planned_km(track, km)
+            lat, lon = p["lat"], p["lng"]
+        desc = f"Section 1 · {date} · cum {km} km · {acc}"
+        if note:
+            desc += f" · {note}"
+        sym = "Campground" if acc == "T" else "City"
+        wpts.append(
+            {
+                "name": f"D{day} · {place}",
+                "lat": lat,
+                "lon": lon,
+                "desc": desc,
+                "sym": sym,
+                "type": "camp" if acc == "T" else "resupply",
+            }
+        )
+    return wpts
+
+
 def assign_plan_times(points: list[dict], start: datetime, end: datetime) -> None:
     if len(points) < 2:
         if points:
@@ -239,7 +306,32 @@ def assign_plan_times(points: list[dict], start: datetime, end: datetime) -> Non
         p["_iso"] = t.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-def build_gpx(trksegs: list[tuple[str, list[dict]]], name: str) -> str:
+def add_waypoint(
+    gpx: Element,
+    name: str,
+    lat: float,
+    lon: float,
+    *,
+    desc: str = "",
+    sym: str | None = None,
+    wpt_type: str | None = None,
+) -> None:
+    w = SubElement(gpx, "wpt", attrib={"lat": f"{lat:.6f}", "lon": f"{lon:.6f}"})
+    SubElement(w, "name").text = name
+    if desc:
+        SubElement(w, "desc").text = desc
+    if sym:
+        SubElement(w, "sym").text = sym
+    if wpt_type:
+        SubElement(w, "type").text = wpt_type
+
+
+def build_gpx(
+    trksegs: list[tuple[str, list[dict]]],
+    name: str,
+    *,
+    camp_wpts: list[dict] | None = None,
+) -> str:
     gpx = Element(
         "gpx",
         attrib={"version": "1.1", "creator": "VitaBandet composite", "xmlns": GPX_NS},
@@ -269,6 +361,17 @@ def build_gpx(trksegs: list[tuple[str, list[dict]]], name: str) -> str:
             if p.get("_iso"):
                 SubElement(trkpt, "time").text = p["_iso"]
 
+    for camp in camp_wpts or []:
+        add_waypoint(
+            gpx,
+            camp["name"],
+            camp["lat"],
+            camp["lon"],
+            desc=camp.get("desc", ""),
+            sym=camp.get("sym"),
+            wpt_type=camp.get("type"),
+        )
+
     for label, pt in [
         ("Grövelsjön", MILESTONES["GROVEL"]),
         ("Helags fjällstation", MILESTONES["HELAGS"]),
@@ -282,8 +385,7 @@ def build_gpx(trksegs: list[tuple[str, list[dict]]], name: str) -> str:
         ("Abisko", MILESTONES["ABISKO"]),
         ("Treriksröset", MILESTONES["TRERIK"]),
     ]:
-        w = SubElement(gpx, "wpt", attrib={"lat": f"{pt[0]:.6f}", "lon": f"{pt[1]:.6f}"})
-        SubElement(w, "name").text = label
+        add_waypoint(gpx, label, pt[0], pt[1])
 
     rough = ET.tostring(gpx, encoding="unicode")
     parsed = minidom.parseString('<?xml version="1.0" encoding="UTF-8"?>\n' + rough)
@@ -342,8 +444,13 @@ def main() -> None:
     flat = [p for _, seg in trksegs for p in seg]
     assign_plan_times(flat, datetime(2028, 2, 15, 10, 0), datetime(2028, 4, 19, 12, 0))
 
+    camp_wpts = section1_camp_waypoints(trksegs)
+
     out = PLAN_DIR / "vita-bandet-2028-composite.gpx"
-    out.write_text(build_gpx(trksegs, "Vita Bandet 2028 (composite)"), encoding="utf-8")
+    out.write_text(
+        build_gpx(trksegs, "Vita Bandet 2028 (composite)", camp_wpts=camp_wpts),
+        encoding="utf-8",
+    )
 
     km = sum(
         haversine_m(flat[i - 1]["lat"], flat[i - 1]["lng"], flat[i]["lat"], flat[i]["lng"])
