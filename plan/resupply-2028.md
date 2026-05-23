@@ -14,6 +14,8 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 **Your fuel:** **Alkylaatbenzine** (NL) = **alkylbensin / alkylatbensin** (SE) = **chemically clean gasoline** = same class as **Coleman Fuel** / **Primus Power Fuel**. Decant from shop **1 L tins** into your **1 L + 0.3 L** bottles (funnel + cloth).
 
+**Plan rule — no gas canisters until Abisko:** From **Grövelsjön through Ritsem** (days **1–58**) use **liquid alkylate in bottles only** (white-gas jet + silencer). Shops often stock **Primus/ICA gas cylinders** — **do not buy or carry** them on this leg. **From Abisko (day 59)** canisters are OK if you want (pack **gas jet**); liquid Power Fuel tins still work and stay the default.
+
 | Name you see in shop | Use in OmniLite? | Silencer OK? |
 |----------------------|------------------|--------------|
 | **Alkylaatbenzine / alkylbensin** | **Yes** — primary | **Yes** |
@@ -22,24 +24,24 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 | **Primus gas / ICA gasol** (canister) | Only with **gas jet** — poor in Feb cold | **Yes** |
 | Regular **macka / bilbensin** | **Avoid** — wrong jet, dirty | **No** |
 
-**Do not rely on canisters for Feb–Mar** — carry **liquid alkylate** between shops.
+**Do not use canisters before Abisko** — carry **liquid alkylate** between shops (Feb–Mar cold + Padjelanta leg).
 
 ### Alkylaatbenzine — resupply list (S → N)
 
-*Liquid alkylate in **1 L bottles/tins** you can pour into your fuel bottles. “Gas” alone at ICA usually means **canisters** — ask for **alkylbensin**, **Power Fuel**, or **friluftsbensin**.*
+*Liquid alkylate in **1 L bottles/tins** only until Abisko. “Gas” at ICA usually means **canisters** — **ignore until Abisko**; ask for **alkylbensin**, **Power Fuel**, or **friluftsbensin**.*
 
 | Day | Stop | Alkylate? | Where / what to buy | Notes |
 |-----|------|-----------|---------------------|--------|
-| **1** | **Grövelsjön** | **Ask** | STF shop / Fjällbua — outdoor section | Often **canisters** only early Feb — **start with bottles full** from home |
-| **9** | **Storlien** | **Ask** | Coop / Fjellhandeln / Sportringen — **gas cylinders**, outdoor | **Best early shop**; ask **alkylbensin / Power Fuel**; top up food |
-| **22** | **Gäddede** | **Maybe** | **Frostvikens El & Bygghandel** — camping fuel | Best bet this leg; also ICA gas cans |
+| **1** | **Grövelsjön** | **Ask** | STF shop / Fjällbua — outdoor section | Often **canisters only** — **ignore**; start bottles **full from home** |
+| **9** | **Storlien** | **Ask** | Coop / Fjellhandeln / Sportringen — outdoor | **Liquid alkylate only** (no canisters); ask **alkylbensin / Power Fuel** |
+| **22** | **Gäddede** | **Maybe** | **Frostvikens El & Bygghandel** — camping fuel | **Liquid only** — best bet this leg |
 | **31** | **Hemavan** | **Maybe** | ICA + **Sportringen / Cykel & Fiske** (call ahead) | **Halfway ★** — **max fill** before Kvikkjokk |
-| **32** | **Jäckvik** (detour) | **Unlikely** | ICA — canisters (optional) | Only if you detour from Hemavan for **W** |
-| **44** | **Kvikkjokk** | **⚠️ Often NO** | STF shop lists **T-sprit + Primus gas**, not always alkylate | **Critical:** max fill from **Hemavan** for **Kvikkjokk → Ritsem** (6–7 days, no shops) |
+| **32** | **Jäckvik** (detour) | **Unlikely** | ICA — canisters only | **Skip fuel** unless emergency; liquid from Hemavan |
+| **44** | **Kvikkjokk** | **⚠️ Often NO** | STF shop lists **T-sprit + Primus gas** — **no canisters** | **Critical:** max **liquid** fill from **Hemavan** for Kvikkjokk → Ritsem |
 | **45–51** | **Kvikkjokk → Ritsem** (Paolo corridor) | **None** | — | **6–7 days** on trail; carry from Kvikkjokk · **2nd 1 L bottle** before leaving |
 | **52** | **Ritsem** ★ | **Yes** | **Primus Power Fuel** + sprit | **Best refill** — buy **max** for Ritsem → Abisko KL |
-| **53–58** | **KL huts** | **Rare** | Large huts sometimes **gas cans** only | Snacks; don’t count on alkylate |
-| **59** | **Abisko** ★ | **Yes** | **STF Fjällboden** — **Power Fuel** / outdoor fuel | **Max fill** for Norway leg (~2 L target) |
+| **53–58** | **KL huts** | **Rare** | Huts sometimes **gas cans** — **do not use** | Snacks only; fuel from **Ritsem** bottles |
+| **59** | **Abisko** ★ | **Yes** | **STF Fjällboden** — **Power Fuel** tins + **canisters OK from here** | **Max liquid fill** (~2 L); optional gas jet + canister for Norway |
 | **60–64** | **DNT huts** | **None** | — | Cook on bottles from Abisko |
 | **64–65** | **Pältsa** | **Ask** | STF shop when open | First shop after Abisko — food + ask fuel |
 
@@ -52,11 +54,13 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 | **Hemavan (31)** | **Max fill** both bottles + buy **2nd 1 L bottle** if needed |
 | **Kvikkjokk (44)** | Confirm alkylate stock; else **Padjelanta on Hemavan fill only** |
 | **Ritsem (52)** | **Largest refill** — Power Fuel tins → your bottles |
-| **Abisko (59)** | **Last big alkylate** before Treriksröset |
+| **Abisko (59)** | **Last big liquid fill** + **canisters allowed from here** if desired |
 
 **Practical plan**
 
-- [x] Stove: **OmniLite Ti** + silencer — **white-gas jet** + **alkylaatbenzine**  
+- [x] Stove: **OmniLite Ti** + silencer — **white-gas jet** + **alkylaatbenzine** until Abisko  
+- [x] **No gas canisters** before Abisko — liquid bottles only  
+- [ ] At Abisko: optional **gas jet** + canister for Norway (Apr); or stay on liquid tins  
 - [x] Bottles: **1 L** + **0.3 L** — add **2nd 1 L** before **Padjelanta** (max carry **~1.3 L** now)  
 - [ ] Shakedown: measure **g/day** on **alkylate** at **−15 °C**  
 - [ ] **Phone Kvikkjokk + Hemavan** shops for **alkylbensin / Power Fuel** stock in Feb  
@@ -71,7 +75,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **STF Grövelsjön** shop | Frystorkat, basic groceries, outdoor gear | **Ask alkylbensin** / Power Fuel; often **canisters** | Start bottles **full from home** |
+| **STF Grövelsjön** shop | Frystorkat, basic groceries, outdoor gear | **Liquid alkylate** if stocked; else **full from home** — **no canisters** | Start bottles **full from home** |
 
 **Eat:** STF restaurant (book dinner ahead). **Fjällbua** Storsätern (~4 km off main trail) — only if STF stock is thin; plan leaves **north on main trail** same day.
 
@@ -81,11 +85,11 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **Coop / Eurocash / Fjellhandeln** | Large supermarket + pharmacy | **Ask alkylbensin**; **gas cylinders**, freeze-dried, maps | Optional **depot → Kolåsen** (Bussgods — confirm address with station) |
+| **Coop / Eurocash / Fjellhandeln** | Large supermarket + pharmacy | **Liquid alkylate only** — ask **alkylbensin / Power Fuel** tins (**no canisters**) | Optional **depot → Kolåsen** (Bussgods — confirm address with station) |
 | **STF Storliens fjällgård** | — | — | **H** |
 | **Storlien Högfjällshotell** | Restaurant | Via shops | **H** |
 
-**Notes:** Much better selection than ICA Undersåker. Still **fill alkylate from home** if shops only have canisters.
+**Notes:** Much better selection than ICA Undersåker. **No gas canisters** on this plan until Abisko — decant **liquid** tins into bottles only.
 
 ---
 
@@ -93,7 +97,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **ICA Gäddede** | Full village supermarket | **Gas** (ICA + Frostvikens) | PostNord OK — **prefer shop** |
+| **ICA Gäddede** | Full village supermarket | **No canisters** — try Frostvikens for **liquid** | PostNord OK — **prefer shop** |
 | **Frostvikens El & Bygghandel** (opposite Gäddede Camping) | Hardware, proviant | **Alkylbensin / camping fuel** ★ try here | — |
 | Pilgrimshotellet | Restaurant, can shop via ICA | Via ICA | Free depot at hotel if needed |
 
@@ -105,8 +109,8 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **ICA Fjällboden** (~400 m) | **Full sortiment** — main shop | **Gas** (also Cykel & Fiskecenter, Sportringen — order ahead safest) | PostNord to STF Hemavan free — **prefer ICA** |
-| **STF Hemavan** shop | Basics: maps, Compeed, **gas**, myggmedel | **Gas** (small) | Depot accepted free |
+| **ICA Fjällboden** (~400 m) | **Full sortiment** — main shop | **Liquid alkylate** — Sportringen / Cykel & Fiske (call ahead); **no canisters** | PostNord to STF Hemavan free — **prefer ICA** |
+| **STF Hemavan** shop | Basics: maps, Compeed, myggmedel | **Liquid only** if stocked (small shop) | Depot accepted free |
 
 **Halfway resupply** — carry through **Kungsleden west + Hornavan** (Padjelanta fuel from here if Kvikkjokk has no alkylate).
 
@@ -116,7 +120,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **ICA Jäckvik** | Well stocked | **Gas cans** (ICA) | Optional top-up after Hemavan |
+| **ICA Jäckvik** | Well stocked | **Skip fuel** (canisters only) — liquid from Hemavan | Optional food top-up |
 | Kyrkans Fjällgård | Kitchen only | Via ICA | **H**? |
 
 **VGB:** väster om only — village entry not required. Skip shop if Hemavan stock is enough.
@@ -127,7 +131,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **STF Kvikkjokk** shop | Frystorkat, tins, pasta, snacks, bread, some chilled, hygien | **Often T-sprit + gas cans** — **call for alkylate** | Padjelanta fuel leg — max fill from **Hemavan** if no alkylate here |
+| **STF Kvikkjokk** shop | Frystorkat, tins, pasta, snacks, bread, some chilled, hygien | **Liquid alkylate if stocked** — often **T-sprit + gas only** (**no canisters**) | Max **liquid** from **Hemavan** if no alkylate here |
 
 **Restaurant/café** — book dinner. Last big STF shop before **Padjelanta**.
 
@@ -146,7 +150,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **STF Ritsem** (Large+) | Chilled: eggs, butter, korv, pizza, frozen meals; tins, pasta, snacks, fruit (season); outdoor gear | **Primus Power Fuel** ★ **alkylate** + gas + sprit | Decant into bottles — **best refill** |
+| **STF Ritsem** (Large+) | Chilled: eggs, butter, korv, pizza, frozen meals; tins, pasta, snacks, fruit (season); outdoor gear | **Primus Power Fuel** ★ **liquid alkylate** — decant into bottles (**no canisters**) | **Best liquid refill** before KL |
 
 **10 % Bandet discount** in shop. WiFi / Telia. **Top-up everything** before Ritsem → Abisko KL.
 
@@ -156,8 +160,8 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 | Hut | Food | Fuel | Notes |
 |-----|------|------|--------|
-| **Sitojaure**, **Sälka**, **Tjäktja**, **Alesjaure**, **Abiskojaure** | STF **Small/Large** hut shops: staples, snacks, some freeze-dried when stocked | Usually **gas** at larger huts — limited | Treat as **top-up snacks**, not full resupply |
-| **Abiskojaure** | Small shop | Gas possible | Day before Abisko village |
+| **Sitojaure**, **Sälka**, **Tjäktja**, **Alesjaure**, **Abiskojaure** | STF **Small/Large** hut shops: staples, snacks, freeze-dried when stocked | **No canisters** — fuel from **Ritsem** bottles | Snacks only |
+| **Abiskojaure** | Small shop | Snacks | Day before Abisko — **no canister fuel** |
 
 ---
 
@@ -165,7 +169,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **STF Abisko Fjällboden** | Limited food + outdoor | **Power Fuel / alkylbensin** ★ | Decant **~2 L** for Norway leg |
+| **STF Abisko Fjällboden** | Limited food + outdoor | **Power Fuel / alkylbensin** ★ liquid tins · **canisters OK from here** | Decant **~2 L** for Norway leg |
 | **Godisfabriken Supermarket** Abisko Östra (~2 km) | **Large grocery** — buy **7–8 days** here | Check store | Depot to STF with “utkörning till företag” |
 
 **Load for Norway leg:** all food Abisko → Pältsa; **~2 L alkylate**; DNT huts = shelter only.

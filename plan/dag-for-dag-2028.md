@@ -124,7 +124,7 @@ Continue toward **Storlien** on the Swedish side of the border fjäll.
 #### Day 9 · Wed 23 Feb · 21 km (cum 165) · Storlien · **D**
 
 **Storlien** — first major resupply. **Coop / Eurocash / Fjellhandeln** (food, pharmacy, outdoor); **STF Storliens fjällgård** / hotels for **H**.  
-**Fuel:** ask **alkylbensin / Power Fuel**; gas cylinders widely available. Optional **depot box** to **Kolåsen** for the next leg (see [resupply](./resupply-2028.md)).
+**Fuel:** ask **alkylbensin / Power Fuel** (liquid tins into bottles) — **no gas canisters** until Abisko. Optional **depot box** to **Kolåsen** for the next leg (see [resupply](./resupply-2028.md)).
 
 | Acc | Notes |
 |-----|-------|
@@ -442,7 +442,7 @@ Prepare depot sorting list mentally.
 
 #### Day 44 · Wed 29 Mar · 20 km (cum 900) · Kvikkjokk · **D**
 
-Arrive **STF Kvikkjokk** — critical resupply before **Paolo corridor → Ritsem → Sälka**. Food + **alkylate if in stock** (often sprit/cans only — see resupply doc).  
+Arrive **STF Kvikkjokk** — critical resupply before **Paolo corridor → Ritsem → Sälka**. Food + **liquid alkylate if in stock** (often sprit only — see resupply doc). **No gas canisters** on this plan until Abisko.  
 Load pulk for **Paolo corridor** to Ritsem (~6–7 days on trail) then **KL** to Sälka — see Section 5.
 
 | Acc | Notes |

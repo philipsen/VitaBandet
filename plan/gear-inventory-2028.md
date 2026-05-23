@@ -618,7 +618,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 - **Silencer** — worthwhile **solo in Nallo vestibule** (less roar; slightly slower boil).  
 - **Winter:** use **white-gas jet**; preheat; keep fuel bottle warm (inside bag sleeve) below −20 °C.
 
-**Do not rely on** canister-only mode for **Feb** — Primus gas at shops is for canister jet, but cold + long Padjelanta leg favours **liquid bottles**.
+**Do not use canisters before Abisko** — **liquid alkylate in bottles** through Ritsem/KL (white-gas jet + silencer). **From Abisko (day 59):** canisters optional (gas jet); liquid tins remain default.
 
 ### Fuel bottles (owned)
 
@@ -668,7 +668,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 | Jet / part | Use on Bandet |
 |------------|----------------|
 | **White gasoline jet** | **Primary** — **alkylaatbenzine** / Power Fuel |
-| Gas canister jet | Optional backup at ICA (Apr); cold-weather limit |
+| Gas canister jet | Optional **from Abisko** if using cylinders on Norway leg |
 | Diesel / kerosene jets | Not needed; **no silencer** with these |
 | **OmniLite Ti service kit** | **Bring** — O-rings, pump leather, nipple |
 | Pump leather | Pre-treat; spare in kit |

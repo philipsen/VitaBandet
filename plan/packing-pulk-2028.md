@@ -2,7 +2,7 @@
 
 **Solo · S→N · ski + pulk · mostly tent · 65 days**
 
-Practical guide for **what goes where**, **how to load**, and **how much food/fuel** per leg. Gear lists: [pack-checklist-2028.md](./pack-checklist-2028.md) · [gear-inventory-2028.md](./gear-inventory-2028.md). Shops: [resupply-2028.md](./resupply-2028.md).
+Practical guide for **what goes where**, **how to load**, and **how much food/fuel** per leg. **Fuel:** liquid **alkylate in bottles only until Abisko** — no gas canisters before day 59. Gear lists: [pack-checklist-2028.md](./pack-checklist-2028.md) · [gear-inventory-2028.md](./gear-inventory-2028.md). Shops: [resupply-2028.md](./resupply-2028.md).
 
 ---
 
@@ -48,7 +48,7 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 | NeoAir XLite (+ foam if Feb) | Dry bag → **Sleeper** | Pump in main bag |
 | Nallo 3GT | Main bag, **middle/top** | Last out at camp, first in next morning if wet |
 | Food (leg) | Main bag **bottom** | Dense, heavy; repack after every shop |
-| Alkylate bottles | Main bag **bottom centre**, upright | Funnel + cloth; separate from food if possible |
+| Alkylate bottles | Main bag **bottom centre**, upright | **Liquid only** until Abisko; funnel + cloth; separate from food |
 | Stove + pot + fuel tools | Main bag **middle** | OmniLite + silencer |
 | Spare clothes | Dry bags, main bag | One dry set packed deep |
 | Phone, spare battery, maps | Main bag top **or** body | 68i on **body** preferred |
@@ -97,13 +97,13 @@ Buy on trail — **8–10 days food** typical; **~4,000–5,000 kcal/day** solo 
 
 | Leave | Days to next shop | Food carry | Fuel note |
 |-------|-------------------|------------|-----------|
-| **Grövelsjön** (D1) | 8 → Storlien | 8–9 days | **Full from home** (alkylate) |
-| **Storlien** (D9) | 13 → Gäddede | 10–12 days | Ask alkylate; cylinders common |
+| **Grövelsjön** (D1) | 8 → Storlien | 8–9 days | **Full liquid alkylate from home** — no canisters |
+| **Storlien** (D9) | 13 → Gäddede | 10–12 days | **Liquid tins only** — decant into bottles |
 | **Gäddede** (D22) | 9 → Hemavan | 9–10 days | Try Frostvikens El |
 | **Hemavan** (D31) ★ | 12 → Kvikkjokk | 11–12 days | **Max fill** before long leg |
 | **Kvikkjokk** (D44) ★ | 6–7 → Ritsem | **Max leg** — Paolo corridor | **Call for alkylate**; else rely on Hemavan fill + **2nd 1 L bottle** |
 | **Ritsem** (D52) ★ | 7 → Abisko | 6–7 days | **Power Fuel** — decant |
-| **Abisko** (D59) ★ | 6 → Pältsa | **7–8 days** | **~2 L alkylate** for Norway |
+| **Abisko** (D59) ★ | 6 → Pältsa | **7–8 days** | **~2 L liquid alkylate**; **canisters OK from here** if desired |
 | **Pältsa** (~D65) | — | Top-up | Near goal |
 
 **Heaviest pulk days:** leaving **Storlien**, **Hemavan**, and **Kvikkjokk** (food + fuel together). Lightest: **2–3 days after** a big shop.

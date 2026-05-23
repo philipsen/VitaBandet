@@ -56,13 +56,15 @@ Print this page. Details: [packing-pulk-2028.md](./packing-pulk-2028.md) · [gea
 ## Cook & fuel
 
 - [ ] Stove **OmniLite Ti** + **silencer** + windscreen
-- [ ] White-gas jet fitted · **alkylate** in bottles (1 L + 0.3 L + 2nd 1 L)
+- [ ] **White-gas jet fitted** (only jet until Abisko)
+- [ ] **Alkylate** in bottles (1 L + 0.3 L + 2nd 1 L) — **no gas canisters before Abisko**
+- [ ] **Gas jet** (optional — pack/use from **Abisko** onward if you switch to canisters)
 - [ ] Funnel/cloth · bottle insulator
 - [ ] Pot **TOAKS 1600 ml** + pan/lid + spork + mug
 - [ ] Lighters ×2 + waterproof matches
 - [ ] Thermos (optional)
 
-**Fuel resupply:** Gäddede Frostvikens? · **Hemavan max** · Kvikkjokk call · **Ritsem ★** · **Abisko ★**
+**Fuel resupply:** liquid alkylate only until Abisko — Gäddede Frostvikens · **Hemavan max** · Kvikkjokk call · **Ritsem ★** · **Abisko ★** (canisters OK from here)
 
 ---
 

@@ -55,7 +55,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 - **Daily distance target (km):** ramp **10 → 23 km**; cruise **~20–23 km** (~22 km winter average); see [dag-for-dag](./dag-for-dag-2028.md)  
 - **Rest / weather buffer:** no fixed **R** days — resupply stops only; **Apr 20–30** = ~11 spare days  
 - **Resupply strategy:** **local shops first** (see [resupply-2028.md](./resupply-2028.md)); depots only for special items  
-- **Fuel:** **Alkylaatbenzine** (alkylbensin / **Primus Power Fuel** in shops); white-gas jet + silencer — see [resupply alkylate list](./resupply-2028.md)  
+- **Fuel:** **Alkylaatbenzine** in bottles only until **Abisko** (white-gas jet + silencer); **no gas canisters** before day 59 — see [resupply alkylate list](./resupply-2028.md)  
 - **Kvikkjokk → Abisko:** **Paolo corridor** Kvikkjokk → Ritsem (direct Laponia/Áhkká, not deep Padjelanta) → **KL** to **Sälka** → Abisko ([dag-for-dag](./dag-for-dag-2028.md))  
 - **Route variant:** **Storlien** first shop (not Undersåker) — see [dag-for-dag](./dag-for-dag-2028.md) · GPX ref `olas-vita-band-2.gpx`
 - **Accommodation mix:** **mostly tent**; planned **H** at **Storlien**, Gäddede, Hemavan, Kvikkjokk, **Ritsem**, Kungsleden huts, **Lappjord / Altevass (DNT)**, Pältsa (see [planned hut nights](./dag-for-dag-2028.md))  
