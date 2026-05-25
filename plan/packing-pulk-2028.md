@@ -208,3 +208,12 @@ If the tent is unusable: bag + pad already in Sleeper → zip up as wind shell. 
 | [gear-inventory-2028.md](./gear-inventory-2028.md) | Kit detail, pulk & Sleeper specs |
 | [resupply-2028.md](./resupply-2028.md) | Shops, alkylate, carry table |
 | [dag-for-dag-2028.md](./dag-for-dag-2028.md) | Daily km and resupply days |
+
+---
+
+## Reference lists from other VGB hikers
+
+- **Light/hybrid (rulk):** [lighterpack.com/r/tzlwle](https://lighterpack.com/r/tzlwle) — **17.7 kg total**, Hilleberg Soulo, single-bag sleep, OmniLite + 350 ml fuel.
+- **Full expedition:** [lighterpack.com/r/169rsn](https://lighterpack.com/r/169rsn) — **49.6 kg total**, Acapulka Featherlight XL, Keron 3, WM Puma + Apex 40 double-bag, 4 L fuel capacity, Lundhags Guide Expedition boots, rated to −40 °C.
+
+See full breakdown and comparison vs your 2028 plan in [pack-checklist-2028.md → Reference packing lists](./pack-checklist-2028.md#reference-packing-lists-other-vita-bandet-hikers).

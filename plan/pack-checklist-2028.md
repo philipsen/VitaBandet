@@ -168,4 +168,65 @@ S→N: each point **east** of track. No village entry required for VGB.
 
 ---
 
+## Reference packing lists (other Vita Bandet hikers)
+
+Sanity-check your kit against these published Lighterpack lists from prior Vita Bandet expeditions. **Use as comparison only** — these are *their* setups, not requirements.
+
+### A · Vita Bandet 2024 (rulk hybrid — light, mild conditions)
+
+[lighterpack.com/r/tzlwle](https://lighterpack.com/r/tzlwle)
+
+| Stat | Weight |
+|------|-------:|
+| **Total** | **17.7 kg** |
+| Base weight | 14.4 kg |
+| Worn | 2.3 kg |
+| Consumable | 1.0 kg |
+
+**Key gear:** Hilleberg **Soulo** 2.27 kg · Marmot **Never Summer** −10/−18 °C bag · Primus **OmniLite** + 350 ml fuel · HMG Windrider 3400 pack · Fischer E89 Easy Skin X-Lite skis + Alpina Alaska boots · Nemo Tensor Insulated pad + Naturehike CCF · Garmin **inReach Mini** · Nitecore NU-35 headlamp · Arva Ultra shovel.
+
+**Style:** "Daypack worn while regular backpack goes onto the rulk" — backpack-on-pulk hybrid. Light pack-base, no second sleeping system, single fuel bottle (350 ml).
+
+### B · Vita Bandet Start (full expedition — heavy, −40 °C capable)
+
+[lighterpack.com/r/169rsn](https://lighterpack.com/r/169rsn)
+
+| Stat | Weight |
+|------|-------:|
+| **Total** | **49.6 kg** |
+| Base weight | 27.9 kg |
+| Worn | 8.6 kg |
+| Consumable (food + fuel) | 13.1 kg |
+
+**Plan:** 1400 km · 2-week resupply intervals · temperature range −40 °C to +5 °C.
+
+**Key gear:** Acapulka **Featherlight XL 150** pulk (5.2 kg) + Acapulka custom harness · Hilleberg **Keron 3** + condom bag + 2p Windsack · WM **Puma MF −25 °C** bag + EE Apex Revelation 40 (double-bag system) + Piteraq Arctic Bedding · Xtherm MAX + Z-Lite (double pad) · Åsnes **Amundsen Fram 187** + Rotefella BC + Lundhags **Guide Expedition BC** boots · Primus **OmniLite Ti** + 1 L Primus + 1 L Trangia + 2 L MSR Big Titan + .9 L thermos · FR **Gutulia Anorak** with fox-fur ruff + Mountain Hardware SubZero Parka · Klättermusen Freke salopettes · Hestra Army Extreme mittens · BD Evac 7 shovel + Mora 2000 · Garmin inReach Mini 2 + 30k mAh power.
+
+**Style:** Full expedition rig. Double sleep system, double cooking redundancy (2 pots, 4 L fuel capacity), serious cold-weather face protection (Bekö Cheeko + Fantom), spare BC binding carried.
+
+### Comparison vs your 2028 plan
+
+| Topic | A · 2024 (light) | B · Expedition | **Your 2028 plan** |
+|-------|------------------|----------------|--------------------|
+| Pulk | "Rulk" hybrid | Acapulka Featherlight XL 150 (5.2 kg) | **Jemtlander 14** + **Fjellpulken Sleeper 200** |
+| Tent | Hilleberg Soulo (2.27 kg, 1p) | Hilleberg Keron 3 (3.8 kg) + 2p Windsack | **Hilleberg Nallo 3GT** |
+| Sleep | Marmot Never Summer −10/−18 only | WM Puma −25 °C + EE Apex 40 quilt + Piteraq | **−30 °C bag** + Sleeper 200 bivi backup |
+| Pad | Nemo Tensor + Naturehike CCF (torso) | Xtherm MAX + Z-Lite full | **Xlite** (test) + foam backup |
+| Stove | OmniLite + 1× 350 ml | OmniLite Ti + **1 L + 1 L + 2 L** = 4 L capacity | OmniLite + **1 L + 0.3 L** (buy 2nd 1 L) |
+| Boots | Alpina Alaska (light XC BC) | Lundhags Guide Expedition (heavy expedition) | **Alfa Outback / Xplore** |
+| Skis | Fischer E89 Easy Skin (light tour) | Åsnes Amundsen Fram 187 (expedition BC) | **Åsnes Ingstad BC** |
+| Comms | inReach Mini | inReach Mini 2 + dual power banks | **inReach + GPSMAP 68i** |
+| Total | 17.7 kg | 49.6 kg | **target ~25–30 kg total loaded** |
+
+**Take-aways for your 2028 list:**
+
+- [ ] **Fuel capacity** — list B carries **4 L** between shops; you plan **1.3 L** (add 2nd 1 L bottle). Re-confirm your **g/day at −15 °C** measurement justifies the lighter carry, especially **Kvikkjokk → Ritsem** (6–7 days, no fuel source). If shakedown shows > ~150 ml/day, you need closer to **1.5–1.8 L**.
+- [ ] **Double-pad** — list B uses inflatable + foam. Your plan has Xlite + foam backup; confirm both pack onto pulk (Sleeper 200 has room).
+- [ ] **Face protection** — list B carries Bekö Cheeko + Fantom for storms. Add **balaclava or face mask** to your list if you don't already (currently just buff + beanie).
+- [ ] **Spare BC binding** — list B carries one. Worth considering for solo 65-day route; weighs ~250 g.
+- [ ] **Pulk bag IKEA Frakta** — list B carries a cheap big blue Ikea bag inside the pulk for organising / emergency raft. Practical free trick.
+- [ ] **Cooking plywood** (~220 g) — list B uses it under the stove on snow. Worth packing.
+
+---
+
 *Vita Bandet 2028 · pack checklist v1*

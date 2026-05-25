@@ -3,14 +3,15 @@
 Stitch historical Band tracks into one GPX for the 2028 plan route.
 
 Segment sources (best match per dag-for-dag-2028.md):
-  Grövelsjön → Helags       Mårten
-  Helags → Storlien         Ola (Storlien variant)
-  Storlien → Gäddede        Ola
-  Gäddede → Lapplandsleden  Ola (to marked trail join)
-  Lapplandsleden → Hemavan  lapland-trail-summer.gpx (Virisen / Tärnaby → Klimpf → Hemavan)
-  Hemavan → Jäckvik → Kvikkjokk  Erik (Jäckvik W detour + dense)
-  Kvikkjokk → Abisko        Paolo (Padjelanta / KL corridor)
-  Abisko → Pältsa           Ola (Norway leg)
+  Grövelsjön → Helags       Mårten (dense, passes Rogen)
+  Helags → Storlien         Mårten (dense; Ola 2025 sparse — 33 pts / 119 km)
+  Storlien → Gäddede        Mårten (dense; Ola: 77 pts, max gap 13.7 km)
+  Gäddede → Lapplandsleden  Ola (Mårten has 16.7 km hole at Klimpf — bad match)
+  Lapplandsleden → Hemavan  lapland-trail-summer.gpx (marked trail via Klimpf)
+  Hemavan → Jäckvik → Kvikkjokk  Mårten (Jäckvik W +0.9 km; Erik +0.1 km — tie)
+  Kvikkjokk → Abisko        Paolo (Padjelanta-west corridor — Mårten goes KL,
+                                    off Ritsem by 29 km, off plan)
+  Abisko → Pältsa           Mårten (dense; Ola: 59 pts, max gap 9.9 km)
 
 VGB: 2028 plan passes all six places väster om only (S→N: east of track).
 """
@@ -33,34 +34,57 @@ MILESTONES = {
     "HELAGS": (62.2725, 12.5737),
     "STORLIEN": (63.298, 12.101),
     "GADDEDE": (64.52, 14.14),
-    "KLIMPF": (65.8542, 14.9528),
-    "KLIMPF_TRAIL": (65.779934, 14.830061),
+    "KLIMPF": (65.067, 14.770),
     "HEMAVAN": (65.83, 15.08),
     "JACKVIK": (66.383, 16.967),
     "KVIKK": (66.9513, 17.7285),
-    "SALKA": (67.366, 18.283),
+    "SALKA": (67.946376, 18.281701),
     "ABISKO": (68.35, 18.83),
     "TRERIK": (69.06, 20.55),
     "PALTSA": (69.045, 20.739),
 }
 
-# Section 1 camp stops — cum km from dag-for-dag-2028.md (placed on composite track)
+# Camp stops per section — cum km from dag-for-dag-2028.md (placed on composite track)
+# (section, [trkseg indices], start_cum_km, [(day, date, cum_km, place, acc, note, pin_milestone)])
+# pin_milestone overrides interpolated position (used for resupply pins on milestone coords)
 SECTION1_CAMPS = [
-    (1, "2028-02-15", 8, "Långfjället approach", "T", "Camp N of STF Grövelsjön"),
-    (2, "2028-02-16", 20, "Långfjället", "T", ""),
-    (3, "2028-02-17", 34, "Tännäs", "T", ""),
-    (4, "2028-02-18", 50, "Ljusnedal", "T", ""),
-    (5, "2028-02-19", 67, "Vålådalen", "T", ""),
-    (6, "2028-02-20", 85, "Ottfjället", "T", ""),
-    (7, "2028-02-21", 104, "Sylarna W", "T", "Stations closed"),
-    (8, "2028-02-22", 124, "Håkafot W", "T", "VGB väster om"),
-    (9, "2028-02-23", 165, "Storlien", "D", "Coop · resupply"),
+    (1, "2028-02-15", 8, "Långfjället approach", "T", "Camp N of STF Grövelsjön", None),
+    (2, "2028-02-16", 20, "Långfjället", "T", "", None),
+    (3, "2028-02-17", 34, "Tännäs", "T", "", None),
+    (4, "2028-02-18", 50, "Ljusnedal", "T", "", None),
+    (5, "2028-02-19", 67, "Vålådalen", "T", "", None),
+    (6, "2028-02-20", 85, "Ottfjället", "T", "", None),
+    (7, "2028-02-21", 104, "Sylarna W", "T", "Stations closed", None),
+    (8, "2028-02-22", 124, "Håkafot W", "T", "VGB väster om", None),
+    (9, "2028-02-23", 165, "Storlien", "D", "Coop · resupply", "STORLIEN"),
+]
+
+SECTION2_CAMPS = [
+    (10, "2028-02-24", 183, "Skalstugan corridor", "T", "Carry 10–12 days food", None),
+    (11, "2028-02-25", 202, "Anjan / Kolåsen approach", "T", "Depot optional", None),
+    (12, "2028-02-26", 222, "Undersåker W", "T", "VGB väster om · bridge east", None),
+    (13, "2028-02-27", 242, "Hotagen fringe", "T", "Remote · no scooter spår", None),
+    (14, "2028-02-28", 262, "Olden / Valsjöbyn", "T", "Optional D Valsjöbyn", None),
+    (15, "2028-02-29", 282, "Frostviken south", "T", "", None),
+    (16, "2028-03-01", 302, "Hällingsåfallet", "T", "Steep valley sides", None),
+    (17, "2028-03-02", 322, "Vilhelmina north", "T", "", None),
+    (18, "2028-03-03", 342, "Storjuktan", "T", "Lake ice — verify locally", None),
+    (19, "2028-03-04", 362, "Björkvattnet", "T", "", None),
+    (20, "2028-03-05", 382, "Gäddede approach", "T", "Light day before D", None),
+    (21, "2028-03-06", 400, "Gäddede fringe", "T", "Camp near village", None),
+    (22, "2028-03-07", 415, "Gäddede", "D", "ICA · Frostvikens · 9–10 days food", "GADDEDE"),
+]
+
+# (camp list, list of trkseg indices that contain the section, cum km at start of section)
+CAMP_SECTIONS = [
+    ("Section 1", SECTION1_CAMPS, [0, 1], 0),
+    ("Section 2", SECTION2_CAMPS, [2], 165),
 ]
 
 SEGMENTS = [
     ("Grövelsjön → Helags", "martens-band-track.json", "GROVEL", "HELAGS"),
-    ("Helags → Storlien", "olas-vita-band-2-track.json", "HELAGS", "STORLIEN"),
-    ("Storlien → Gäddede", "olas-vita-band-2-track.json", "STORLIEN", "GADDEDE"),
+    ("Helags → Storlien", "martens-band-track.json", "HELAGS", "STORLIEN"),
+    ("Storlien → Gäddede", "martens-band-track.json", "STORLIEN", "GADDEDE"),
     ("Gäddede → Lapplandsleden", "olas-vita-band-2-track.json", "GADDEDE", "LAPLAND_JOIN"),
     (
         "Lapplandsleden → Hemavan",
@@ -68,9 +92,9 @@ SEGMENTS = [
         "LAPLAND_JOIN",
         "HEMAVAN",
     ),
-    ("Hemavan → Jäckvik → Kvikkjokk", "eriks-band-track.json", "HEMAVAN", "KVIKK"),
+    ("Hemavan → Jäckvik → Kvikkjokk", "martens-band-track.json", "HEMAVAN", "KVIKK"),
     ("Kvikkjokk → Abisko", "paolo-peralta-s-band-track.json", "KVIKK", "ABISKO"),
-    ("Abisko → Pältsa", "olas-vita-band-2-track.json", "ABISKO", "PALTSA"),
+    ("Abisko → Pältsa", "martens-band-track.json", "ABISKO", "PALTSA"),
 ]
 
 
@@ -254,32 +278,35 @@ def point_at_planned_km(points: list[dict], target_km: float) -> dict:
     return dict(points[-1])
 
 
-def section1_camp_waypoints(trksegs: list[tuple[str, list[dict]]]) -> list[dict]:
-    """Camp / resupply waypoints for Section 1 (days 1–9) on the stitched track."""
-    track: list[dict] = []
-    for _, seg in trksegs[:2]:
-        track.extend(seg)
+def camp_waypoints(trksegs: list[tuple[str, list[dict]]]) -> list[dict]:
+    """Camp / resupply waypoints for all defined sections on the stitched track."""
     wpts: list[dict] = []
-    for day, date, km, place, acc, note in SECTION1_CAMPS:
-        if day == 9:
-            lat, lon = MILESTONES["STORLIEN"]
-        else:
-            p = point_at_planned_km(track, km)
-            lat, lon = p["lat"], p["lng"]
-        desc = f"Section 1 · {date} · cum {km} km · {acc}"
-        if note:
-            desc += f" · {note}"
-        sym = "Campground" if acc == "T" else "City"
-        wpts.append(
-            {
-                "name": f"D{day} · {place}",
-                "lat": lat,
-                "lon": lon,
-                "desc": desc,
-                "sym": sym,
-                "type": "camp" if acc == "T" else "resupply",
-            }
-        )
+    for section_label, camps, seg_indices, start_cum_km in CAMP_SECTIONS:
+        track: list[dict] = []
+        for i in seg_indices:
+            if i < len(trksegs):
+                track.extend(trksegs[i][1])
+        for day, date, cum_km, place, acc, note, pin_milestone in camps:
+            if pin_milestone and pin_milestone in MILESTONES:
+                lat, lon = MILESTONES[pin_milestone]
+            else:
+                rel_km = cum_km - start_cum_km
+                p = point_at_planned_km(track, rel_km)
+                lat, lon = p["lat"], p["lng"]
+            desc = f"{section_label} · {date} · cum {cum_km} km · {acc}"
+            if note:
+                desc += f" · {note}"
+            sym = "Campground" if acc == "T" else "City"
+            wpts.append(
+                {
+                    "name": f"D{day} · {place}",
+                    "lat": lat,
+                    "lon": lon,
+                    "desc": desc,
+                    "sym": sym,
+                    "type": "camp" if acc == "T" else "resupply",
+                }
+            )
     return wpts
 
 
@@ -342,7 +369,10 @@ def build_gpx(
     desc.text = (
         "Composite route for Vita Bandet 2028. "
         "Each leg is a separate trkseg (no straight lines across joins). "
-        "Gäddede→Hemavan Lapplandsleden = lapland-trail-summer.gpx (join at Ola/Paolo corridor)."
+        "Sources: Mårten (Grövelsjön→Gäddede, Hemavan→Kvikkjokk, Abisko→Pältsa), "
+        "Ola (Gäddede→Lapplandsleden join), "
+        "lapland-trail-summer.gpx (Lapplandsleden→Hemavan via Klimpfjäll), "
+        "Paolo (Kvikkjokk→Abisko via Padjelanta-west corridor)."
     )
 
     trk = SubElement(gpx, "trk")
@@ -419,7 +449,9 @@ def main() -> None:
                 "Lapplandsleden → Hemavan",
                 "lapland-trail-summer.gpx from Ola/Paolo join (S→N) — not the 18 km Hemavan spur only.",
             )
-        elif fname == "eriks-band-track.json" and sk == "HEMAVAN" and lapland_end:
+        elif sk == "HEMAVAN" and lapland_end is not None:
+            # Pick up the Band track at the Lapplandsleden end (near Hemavan) so
+            # there's no overlap with the marked summer trail we just inserted.
             i0 = nearest_idx(locs, (lapland_end["lat"], lapland_end["lng"]))
             i1 = nearest_idx(locs, MILESTONES["KVIKK"])
             if i0 <= i1:
@@ -444,7 +476,7 @@ def main() -> None:
     flat = [p for _, seg in trksegs for p in seg]
     assign_plan_times(flat, datetime(2028, 2, 15, 10, 0), datetime(2028, 4, 19, 12, 0))
 
-    camp_wpts = section1_camp_waypoints(trksegs)
+    camp_wpts = camp_waypoints(trksegs)
 
     out = PLAN_DIR / "vita-bandet-2028-composite.gpx"
     out.write_text(
