@@ -3,9 +3,15 @@
 Stitch historical Band tracks into one GPX for the 2028 plan route.
 
 Segment sources (best match per dag-for-dag-2028.md):
-  Grövelsjön → Helags       Mårten (dense, passes Rogen)
-  Helags → Storlien         Mårten (dense; Ola 2025 sparse — 33 pts / 119 km)
-  Storlien → Gäddede        Mårten (dense; Ola: 77 pts, max gap 13.7 km)
+  Grövelsjön → Helags       Erik (95 pts G→Rogen, max gap 0.8 km; Mårten was
+                                  39 pts max 2.5 km. Erik also passes 1.3 km
+                                  west of Helags station — VGB-väster-om.)
+  Helags → Storlien         Lotta & Björn (passes Blåhammaren +0.18 km AND
+                                  Storlien +0.44 km. Mårten skipped both:
+                                  Blåhammaren +9.5 km, Storlien +10.5 km.)
+  Storlien → Gäddede        Lotta & Björn (Storlien +0.44 km vs Mårten +10.5
+                                  km — keeps Storlien seam clean. Comparable
+                                  density: 434 pts max 1.6 km vs Mårten 488/1.4.)
   Gäddede → Lapplandsleden  Ola (Mårten has 16.7 km hole at Klimpf — bad match)
   Lapplandsleden → Hemavan  lapland-trail-summer.gpx (marked trail via Klimpf)
   Hemavan → Jäckvik → Kvikkjokk  Mårten (Jäckvik W +0.9 km; Erik +0.1 km — tie)
@@ -31,7 +37,9 @@ GPX_NS = "http://www.topografix.com/GPX/1/1"
 
 MILESTONES = {
     "GROVEL": (62.10, 12.31),
-    "HELAGS": (62.2725, 12.5737),
+    "ROGEN": (62.3414, 12.4034),  # DNT Rogenstugan
+    "HELAGS": (62.917359, 12.506156),
+    "BLAHAMM": (63.187081, 12.174362),  # STF Blåhammaren
     "STORLIEN": (63.298, 12.101),
     "GADDEDE": (64.52, 14.14),
     "KLIMPF": (65.067, 14.770),
@@ -82,9 +90,9 @@ CAMP_SECTIONS = [
 ]
 
 SEGMENTS = [
-    ("Grövelsjön → Helags", "martens-band-track.json", "GROVEL", "HELAGS"),
-    ("Helags → Storlien", "martens-band-track.json", "HELAGS", "STORLIEN"),
-    ("Storlien → Gäddede", "martens-band-track.json", "STORLIEN", "GADDEDE"),
+    ("Grövelsjön → Helags", "eriks-band-track.json", "GROVEL", "HELAGS"),
+    ("Helags → Blåhammaren → Storlien", "lottas-och-bjorns-band-track.json", "HELAGS", "STORLIEN"),
+    ("Storlien → Gäddede", "lottas-och-bjorns-band-track.json", "STORLIEN", "GADDEDE"),
     ("Gäddede → Lapplandsleden", "olas-vita-band-2-track.json", "GADDEDE", "LAPLAND_JOIN"),
     (
         "Lapplandsleden → Hemavan",
@@ -369,7 +377,9 @@ def build_gpx(
     desc.text = (
         "Composite route for Vita Bandet 2028. "
         "Each leg is a separate trkseg (no straight lines across joins). "
-        "Sources: Mårten (Grövelsjön→Gäddede, Hemavan→Kvikkjokk, Abisko→Pältsa), "
+        "Sources: Erik (Grövelsjön→Helags — dense Långfjället+Rogen, VGB-väster-om at Helags), "
+        "Lotta & Björn (Helags→Storlien→Gäddede — passes Blåhammaren and Storlien village), "
+        "Mårten (Hemavan→Kvikkjokk, Abisko→Pältsa), "
         "Ola (Gäddede→Lapplandsleden join), "
         "lapland-trail-summer.gpx (Lapplandsleden→Hemavan via Klimpfjäll), "
         "Paolo (Kvikkjokk→Abisko via Padjelanta-west corridor)."
@@ -404,7 +414,9 @@ def build_gpx(
 
     for label, pt in [
         ("Grövelsjön", MILESTONES["GROVEL"]),
+        ("Rogenstugan (DNT)", MILESTONES["ROGEN"]),
         ("Helags fjällstation", MILESTONES["HELAGS"]),
+        ("Blåhammaren fjällstation", MILESTONES["BLAHAMM"]),
         ("Storlien", MILESTONES["STORLIEN"]),
         ("Gäddede", MILESTONES["GADDEDE"]),
         ("Klimpfjäll", MILESTONES["KLIMPF"]),

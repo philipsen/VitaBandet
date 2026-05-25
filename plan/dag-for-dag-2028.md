@@ -10,7 +10,7 @@
 | **T** | Tent · **H** | Hut · **R** | Rest · **D** | Resupply · **W** | Waypoint (side pass) |
 
 **Route variant:** **Storlien** (first major shop) — not Undersåker/Flatruet.  
-**Composite GPX (full plan route):** [`vita-bandet-2028-composite.gpx`](./vita-bandet-2028-composite.gpx) — **Mårten** (Grövelsjön → Gäddede, Hemavan → Kvikkjokk, Abisko → Pältsa) + **Ola** (Gäddede → Lapplandsleden join) + **`lapland-trail-summer.gpx`** (Lapplandsleden → Hemavan via Klimpfjäll) + **Paolo** (Kvikkjokk → Abisko via Padjelanta-west corridor); see `scripts/build_composite_gpx.py`.  
+**Composite GPX (full plan route):** [`vita-bandet-2028-composite.gpx`](./vita-bandet-2028-composite.gpx) — **Erik** (Grövelsjön → Helags · dense Långfjället+Rogen, väster om Helags) + **Lotta & Björn** (Helags → Blåhammaren → Storlien → Gäddede · only dense track that visits both Blåhammaren and Storlien) + **Mårten** (Hemavan → Kvikkjokk, Abisko → Pältsa) + **Ola** (Gäddede → Lapplandsleden join) + **`lapland-trail-summer.gpx`** (Lapplandsleden → Hemavan via Klimpfjäll) + **Paolo** (Kvikkjokk → Abisko via Padjelanta-west corridor); see `scripts/build_composite_gpx.py`.  
 **Resupply:** [resupply-2028.md](./resupply-2028.md) · **Pulk packing:** [packing-pulk-2028.md](./packing-pulk-2028.md) · **Solo:** daily inReach
 
 ### Waypoint compliance (VGB)
