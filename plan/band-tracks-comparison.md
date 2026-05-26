@@ -1,162 +1,174 @@
 # Vita Bandet — historical track comparison
 
-Six completed or near-complete Band tracks from [vgb.vitagronabandet.se](https://vgb.vitagronabandet.se), downloaded via `getRouteData.php` and converted to GPX. Factual comparison against the [2028 plan](./dag-for-dag-2028.md) (target **~900 km at Kvikkjokk by ~29 Mar**, start **15 Feb**) — not a pacing prescription.
+Nine completed Band tracks downloaded from [vgb.vitagronabandet.se](https://vgb.vitagronabandet.se) via `ajax/getRouteData.php` and converted to GPX. Factual comparison against the [2028 plan](./dag-for-dag-2028.md) (target **~900 km at Kvikkjokk by ~29 Mar**, start **15 Feb**) — describes range, not pacing prescription.
 
-**2028 plan route:** **Storlien** · **Lapplandsleden** (§3) · **Paolo** Kvikkjokk → Sälka (`paolo-peralta-s-band.gpx`) · **Ola** Abisko → Treriksröset (`olas-vita-band-2.gpx`) · [dag-for-dag](./dag-for-dag-2028.md).
+**2028 plan composite GPX:** [`vita-bandet-2028-composite.gpx`](../tracks/generated/vita-bandet-2028-composite.gpx) — 6 trksegs (one per Section).
 
-**Reference point:** Kvikkjokk ≈ `66.9513°N, 17.7285°E` (STF / village centre).
+| Section | Source(s) | Why |
+|---------|-----------|-----|
+| 1 Grövelsjön → Storlien | **Lotta & Björn** | Single dense track end-to-end: Grövelsjön +0.33 km, Helags +0.04 km, **Blåhammaren +0.18 km**, **Storlien village +0.44 km** — only track that hits every Section 1 milestone within ≤ 0.44 km |
+| 2 Storlien → Gäddede | **Lotta & Björn** | Same source as S1 → clean **0.00 km seam** at Storlien (single continuous track for Sections 1 + 2) |
+| 3 Gäddede → Hemavan | **Kalle** (G→Klimpfjäll) + `lapland-trail-summer.gpx` (Klimpfjäll→Hemavan) | Kalle has 139 dense pts (max gap 1.4 km) G→Klimpfjäll vs Ola's 17 pts (max 13.8 km); marked Lapplandsleden continues to Hemavan |
+| 4 Hemavan → Kvikkjokk | Mårten | Dense, väster om Jäckvik |
+| 5 Kvikkjokk → Abisko | **`2028-plan-kvikkjokk-abisko.gpx`** (own Garmin plan) | 6 902-pt dense planned route on Padjelanta-west / Ritsem then KL via Sälka — replaces Paolo (only 13 pts, ~27 km gaps). Used as two internal subsegs (§5 K→Sälka, §5b Sälka→Abisko) — clean 0 km seam at Sälka |
+| 6 Abisko → Pältsa | Mårten | Dense Nordkalottleden line (Ola was 59 pts, max 9.9 km gaps) |
+
+**Reference point:** Kvikkjokk ≈ `66.9513°N, 17.7285°E`.
 
 ---
 
 ## Data files
 
-| Hiker | API `id` | Season | JSON | GPX |
-|-------|----------|--------|------|-----|
+| Hiker | API `id` | Season | JSON (`tracks/source/`) | GPX (`tracks/source/`) |
+|-------|---------:|:------:|-------------------------|------------------------|
 | Erik | 2384 | 2026 | `eriks-band-track.json` | `eriks-band.gpx` |
 | Jonathan | 2360 | 2026 | `jonathans-band-track.json` | `jonathans-band.gpx` |
 | Bernhard | 528 | 2026 | `bernhard-gervide-eckel-s-band-track.json` | `bernhard-gervide-eckel-s-band.gpx` |
 | Mårten | 2371 | 2026 | `martens-band-track.json` | `martens-band.gpx` |
+| **Noah Bovin** | 451 | 2026 | `noah-bovin-s-band-track.json` | `noah-bovin-s-band.gpx` |
+| **Kalle** | 2369 | 2026 | `kalles-band-track.json` | `kalles-band.gpx` |
+| **Lotta & Björn** | 2278 | 2026 | `lottas-och-bjorns-band-track.json` | `lottas-och-bjorns-band.gpx` |
 | Ola | 419 | 2025 | `olas-vita-band-2-track.json` | `olas-vita-band-2.gpx` |
 | Paolo | 2102 | 2021 | `paolo-peralta-s-band-track.json` | `paolo-peralta-s-band.gpx` |
 
-Convert script: `scripts/json_to_gpx.py`.
+Convert script: `scripts/json_to_gpx.py` · Stats script: `scripts/track_stats.py` · Composite builder: `scripts/build_composite_gpx.py`.
 
 ---
 
-## Summary — to Kvikkjokk
+## Summary — full route
 
-Distances are **sum of GPS segments** along each track (not plan book km). Times are from track timestamps (no timezone conversion; treated as local wall clock).
+Distances are sum of GPS segments along each track (not plan-book km).
 
-| Hiker | Start | At Kvikkjokk | Days | Track km | km/day | Off Kvikkjokk |
-|-------|-------|--------------|------|----------|--------|---------------|
-| **Ola** | 2025-03-04 | 2025-04-09 | **36** | 760 | **21.1** | 0.5 km |
-| **Mårten** | 2026-02-15 | 2026-03-25 | **38** | **890** | **23.3** | 0.5 km |
-| **Erik** | 2026-01-17 | 2026-03-01 | 43 | 863 | 20.0 | 0.4 km |
-| **Jonathan** | 2026-01-07 | 2026-02-24 | 48 | 756 | 15.8 | 0.2 km |
-| **Bernhard** | 2026-02-12 | 2026-04-04 | 51 | 780 | 15.2 | 0.4 km |
-| **Paolo** | 2021-02-05 | 2021-04-13 | 67 | 717 | 10.7 | **2.9 km** |
-
-**vs 2028 plan:** ~900 km cumulative, arrive Kvikkjokk **~29 Mar** (day 44; start **15 Feb**).
-
-| Hiker | Distance vs 900 km | Calendar vs ~29 Mar (plan) |
-|-------|-------------------|-------------------|
-| Mårten | **+10 days late**, **−10 km** (closest match on distance) | Late Mar |
-| Erik | **−37 km**, **~2 weeks early** | 1 Mar |
-| Ola | **−140 km**, mid-April (later start season) | 9 Apr |
-| Jonathan | **−144 km**, early Feb (different start) | Not comparable |
-| Bernhard | **−120 km**, **~3 weeks late** | 4 Apr |
-| Paolo | **−183 km**, **~1 month late**; did not ping in village | 13 Apr |
+| Hiker | GPS pts | Total km | Start → End | Days | km/day |
+|-------|--------:|---------:|-------------|-----:|-------:|
+| **Erik** | **2 619** | 1 232 | 2026-01-17 → 03-16 | 58.2 | 21.2 |
+| Mårten | 2 313 | **1 276** | 2026-02-15 → 04-09 | 53.5 | 23.9 |
+| **Lotta & Björn** | 2 173 | 1 234 | 2026-02-21 → 04-15 | 53.3 | 23.1 |
+| **Noah Bovin** | 2 108 | 1 175 | 2026-02-28 → 04-14 | 45.0 | **26.1** |
+| **Kalle** | 1 810 | 1 267 | 2026-02-26 → 04-02 | **35.3** | **35.9** ★ |
+| Bernhard | 382 | 1 126 | 2026-02-12 → 04-19 | 66.3 | 17.0 |
+| Jonathan | 328 | 1 115 | 2026-01-07 → 03-13 | 65.1 | 17.1 |
+| Ola | 300 | 1 111 | 2025-03-04 → 04-24 | 51.1 | 21.7 |
+| Paolo | 83 | 1 055 | 2021-02-05 → 05-04 | 88.0 | 12.0 |
 
 ---
 
-## Full route
+## Kvikkjokk milestone (resupply)
 
-| Hiker | GPS points | Total track km | Days (start → end) | End latitude | Notes |
-|-------|------------|----------------|--------------------|--------------|-------|
-| Mårten | 2,313 | **1,276** | 53 | 69.05°N | Longest measured line |
-| Erik | 2,619 | 1,232 | 58 | 69.06°N | Track ends **16 Mar** — north leg may be truncated in feed |
-| Bernhard | 382 | 1,126 | 66 | 69.06°N | Sparse GPS |
-| Jonathan | 328 | 1,115 | 65 | 69.05°N | Sparse GPS; offset start |
-| Ola | 300 | 1,111 | 51 | 69.05°N | 2025 season |
-| Paolo | 83 | 1,055 | 88 | 69.06°N | Very sparse; slow 2021 season |
+| Hiker | Arrived Kvikkjokk | Off centre | km/day to Kvikkjokk* |
+|-------|:-----------------:|-----------:|---------------------:|
+| Jonathan | 2026-02-24 | 0.24 km | 15.8 |
+| Erik | 2026-03-01 | 0.37 km | 20.0 |
+| Kalle | 2026-03-22 | 0.46 km | **~36** |
+| **Mårten** | **2026-03-25** | 0.46 km | 23.3 |
+| **Plan target** | **~2026-03-29** | — | **~20** |
+| Noah | 2026-04-01 | 0.19 km | 21.6 |
+| Lotta & Björn | 2026-04-02 | 0.11 km | 22.0 |
+| Bernhard | 2026-04-04 | 0.42 km | 15.2 |
+| Ola | 2025-04-09 | 0.45 km | 21.1 |
+| Paolo | 2021-04-13 | 2.92 km | 10.7 |
 
-**After Kvikkjokk** (Padjelanta / KL / north): all six continue **~32–34%** of total distance north (~338–385 km of track), except where the feed stops early (Erik).
-
----
-
-## Start position
-
-| Hiker | Start offset from Grövelsjön (~62.10°N, 12.31°E) |
-|-------|--------------------------------------------------|
-| Erik, Bernhard, Mårten, Ola, Paolo | **&lt; 0.5 km** (standard trailhead) |
-| Jonathan | **~12 km ENE** — different entry, 10 days before Erik |
+*Track km to Kvikkjokk divided by days.
 
 ---
 
-## Milestone calendar (first GPS near village)
+## Milestone passages (km off plan)
 
-| Milestone | Jonathan | Erik | Ola | Mårten | Bernhard | Paolo |
-|-----------|----------|------|-----|--------|----------|-------|
-| Grövelsjön area | 2026-01-07 | 2026-01-17 | 2025-03-04 | 2026-02-15 | 2026-02-12 | 2021-02-05 |
-| Undersåker | 2026-01-17 | 2026-01-28 | 2025-03-14 | 2026-02-26 | 2026-03-02 | 2021-03-04 |
-| Gäddede | 2026-01-29 | 2026-02-08 | 2025-03-22 | 2026-03-04 | 2026-03-10 | 2021-03-19 |
-| Hemavan | 2026-02-08 | 2026-02-19 | 2025-03-30 | 2026-03-15 | 2026-03-24 | 2021-04-02 |
-| **Kvikkjokk** | **2026-02-24** | **2026-03-01** | **2025-04-09** | **2026-03-25** | **2026-04-04** | **2021-04-13** |
+S→N · all offsets in **km** · `—` means the hiker did not pass within 50 km.
 
-Jonathan is **~2–3 weeks ahead** of the main 2026 Grövelsjön cohort through the south. Bernhard is **~3–5 weeks behind** from Hemavan onward.
+| Hiker | Grövel | Helags | Blåhamm | Storlien | Gäddede | Klimpf | Hemavan | Ammar | Jäckvik | Kvikkj | Ritsem | Sälka | Abisko | Pältsa |
+|-------|-------:|-------:|--------:|---------:|--------:|-------:|--------:|------:|--------:|-------:|-------:|------:|-------:|-------:|
+| Erik | 0.18 | 1.32 | 33.5 | 41.7 | 1.53 | 1.76 | 1.00 | 0.27 | 0.13 | 0.37 | 29.2 | 0.17 | 0.34 | 7.75 |
+| Jonathan | 11.6 | 11.7 | 35.4 | 43.2 | 1.95 | 1.45 | 1.42 | 0.80 | 0.34 | 0.24 | 28.3 | 0.07 | 0.50 | 7.16 |
+| Bernhard | 0.20 | 0.07 | **0.16** | **1.86** | 1.52 | 13.1 | 0.35 | 0.54 | 0.47 | 0.42 | 29.3 | 0.05 | 2.12 | 7.75 |
+| Mårten | 0.18 | **0.03** | 9.54 | 10.5 | 1.44 | 1.76 | 0.84 | 0.72 | 0.92 | 0.46 | 29.2 | **0.03** | **0.07** | **0.52** |
+| Noah | 0.19 | 1.27 | 33.4 | 41.7 | 1.47 | 1.73 | 11.6 | 0.73 | 0.32 | 0.19 | 29.2 | 0.03 | 1.40 | 8.00 |
+| Kalle | 0.21 | 0.07 | 33.5 | 41.9 | **0.68** | 1.40 | 12.1 | 0.73 | 0.38 | 0.46 | 29.2 | 0.02 | 0.09 | 7.74 |
+| **L&B** | 0.33 | **0.04** | **0.18** | **0.44** ★ | 1.40 | 1.87 | **0.86** | 0.73 | 0.26 | **0.11** | 29.2 | **0.03** | **0.06** | 7.75 |
+| Ola | 0.16 | **0.03** | **0.16** | 1.92 | 1.52 | 1.43 | 1.47 | 0.82 | 2.03 | 0.45 | 29.2 | 0.05 | 2.08 | **0.00** |
+| Paolo | 0.46 | 0.07 | 2.27 | 1.88 | 1.59 | 7.13 | 1.58 | 0.84 | 0.53 | 2.92 | **1.17** ★ | 0.01 | 2.05 | 7.75 |
 
----
+**Notable observations**
 
-## GPS data quality
-
-Median time between points **before Kvikkjokk**:
-
-| Tier | Hiker | Median gap | Use for |
-|------|-------|------------|---------|
-| High | Erik, Mårten | **~10 min** | Corridor shape; walked distance more complete |
-| Medium | Ola | **~2.7 h** | Usable line; may be slightly smoothed |
-| Low | Jonathan, Bernhard | **~2 h** | Milestone dates; distance likely understated |
-| Very low | Paolo | **~24 h** | Calendar spread only; not for route geometry |
-
-Sparse tracks connect straight lines between pings — **zigzags and detours disappear**, so km totals trend **low** vs dense tracks for the same hike.
+- **Storlien village:** Erik, Jonathan, Noah, Kalle, Mårten all skipped Storlien (10–43 km off — Undersåker corridor or väster om). Bernhard, Ola, Paolo, Lotta & Björn entered the village. **L&B got closest at 0.44 km** — primary reason it's used for Section 1+2.
+- **Blåhammaren fjällstation:** Only **Bernhard, Ola, Lotta & Björn** pass through (≤ 0.2 km). Everyone else skirts ~9–35 km west or east.
+- **Hemavan village skip:** Noah (11.6 km) and Kalle (12.1 km) went väster om — no village resupply stop. All others within 1.6 km of the ICA.
+- **Ritsem (Section 5 question):** Only **Paolo** went the Padjelanta-west corridor (1.17 km off Ritsem). All other dense tracks (Mårten, Erik, L&B, Noah, Kalle, Bernhard, Jonathan, Ola) took the **Kungsleden / Saltoluokta line** (≥ 28 km off Ritsem). Because Paolo is only 13 pts on Kvikkjokk→Abisko (avg gap ~17 km), Section 5 now uses an **own planned GPX** (`2028-plan-kvikkjokk-abisko.gpx`, 6 902 pts, Garmin Desktop) on the same Padjelanta-west corridor — Ritsem +0.21 km, Sälka +0.01 km, Abisko +0.18 km.
+- **Pältsa finish:** Only Ola finishes exactly at Pältsa (0 km). Mårten gets to 0.52 km. The rest stop at Treriksröset (7–8 km north of Pältsa).
 
 ---
 
-## Corridor — same Band, different lines
+## GPS quality tiers
 
-All six follow the **south→north Vita Bandet corridor** (mountain chain, resupply villages). Lateral spread between tracks (sampled vs one dense 2026 line): typical **~5 km**, max **~30–47 km** — different valleys and resupply approaches, same expedition.
+Median time-gap between consecutive points:
 
-Typical separation **~5 km** is normal (wide corridor, weather, resupply roads). Occasional **30–47 km** splits are different valleys or approach routes — not a different expedition.
+| Tier | Hiker(s) | Median gap | Use for |
+|------|----------|-----------:|---------|
+| Very high | **Erik, Mårten, Kalle, Noah, Lotta & Björn** | **~10 min** | Corridor geometry; near-complete walked distance |
+| Medium | Bernhard | ~60 min | Usable line; minor smoothing |
+| Low | Jonathan, Ola | ~2 h | Milestone dates; distance likely understated |
+| Very low | Paolo | ~24 h | Calendar / corridor sketch only — not for fine route geometry |
 
----
+Five tracks now in the very-high tier (was two in the v1 of this doc). Avg gap between points (any track):
 
-## Takeaways for 2028 planning
+| Hiker | avg gap (m) | max gap (km) |
+|-------|------------:|-------------:|
+| Erik | 471 | 4.5 |
+| Mårten | 552 | 16.7 |
+| Noah | 558 | 2.2 |
+| L&B | 568 | 9.4 |
+| Kalle | 701 | 19.7 |
+| Bernhard | 2 955 | 11.5 |
+| Jonathan | 3 409 | 15.9 |
+| Ola | 3 716 | 16.0 |
+| Paolo | 12 867 | 36.3 |
 
-### Resupply (Kvikkjokk)
-
-All except Paolo ping **within ~0.5 km** of Kvikkjokk centre — confirms **STF Kvikkjokk** resupply. **§5:** plan uses **Paolo corridor** Kvikkjokk → Ritsem → **Sälka** (`paolo-peralta-s-band.gpx`).
-
-### Distance spread (GPS, to Kvikkjokk)
-
-Plan book **900 km** sits in the middle of what people actually walked:
-
-- **Lower track km:** Jonathan 756, Ola 760, Paolo 717 (sparse / straighter lines)
-- **Higher track km:** Mårten 890, Erik 863 (dense tracks, more zigzag)
-
-### Pace spread (GPS, to Kvikkjokk)
-
-| Band | km/day | Who |
-|------|--------|-----|
-| Fast | 21–23 | Ola, Mårten, Erik |
-| Moderate | 15–16 | Jonathan, Bernhard |
-| Slow | ~11 | Paolo |
-
-Your **plan pace** (~20 km/day from 900 km / 44 days) is your own target — historical tracks only show **range**, not which line to copy.
-
-### First resupply fork (Grövelsjön area)
-
-| Via | Tracks | 2028 plan |
-|-----|--------|-----------|
-| **Undersåker** | Erik, Jonathan | — |
-| **Storlien** | Ola, Bernhard, Mårten, Paolo | **✓ chosen** |
-
-Undersåker **W** (väster om, day 12) — not the Storlien shop corridor; no village stop.
+The single big gaps in Mårten (16.7 km, between Klimpfjäll +22 km and +38 km), Kalle (19.7 km, overnight east of Storlien) and L&B (9.4 km, 4 h stop at Klimpfjäll) are local data drops — the rest of those tracks is dense.
 
 ---
 
-## Quick visual timeline (Kvikkjokk arrival)
+## Pace spread (full route)
+
+| Band | km/day | Hiker(s) |
+|------|-------:|----------|
+| Very fast (≥ 30) | **36** | Kalle |
+| Fast (22–27) | 24–26 | Mårten, Noah, L&B |
+| Moderate (18–22) | 20–22 | Erik, Ola |
+| Slow (15–17) | 17 | Bernhard, Jonathan |
+| Very slow (≤ 15) | 12 | Paolo |
+
+2028 plan target (~20 km/day from 900 km / 44 days to Kvikkjokk) sits in **Moderate**.
+
+---
+
+## Storlien vs Undersåker fork
+
+| First village | Tracks | 2028 plan |
+|---------------|--------|-----------|
+| **Storlien** (via Blåhammaren) | Bernhard, Ola, Lotta & Björn, Paolo | **✓ chosen** |
+| Undersåker corridor (west) | Erik, Mårten, Noah, Kalle | — |
+| Different entry | Jonathan | — |
+
+Plan picks **Storlien** for the day-9 resupply (Coop). Composite Section 1 uses L&B for the Helags → Blåhammaren → Storlien arc.
+
+---
+
+## Quick visual timeline (Kvikkjokk arrival, day 44 = plan target)
 
 ```
-2021        Paolo ─────────────────────────────● (Apr 13, ~3 km off)
-2025              Ola ────────────────● (Apr 9)
+2021       Paolo ─────────────────────────────● (Apr 13, ~3 km off)
+2025                     Ola ────────────────● (Apr 9)
 2026  Jonathan ────────● (Feb 24)
       Erik ──────────● (Mar 1)
+      Kalle ─────────────● (Mar 22)
       Mårten ─────────────● (Mar 25)
-      Bernhard ──────────────────● (Apr 4)
-      
-      Plan target ────────────────● (29 Mar, 900 km)
+      Noah ─────────────────● (Apr 1)
+      L&B ─────────────────● (Apr 2)
+      Bernhard ─────────────● (Apr 4)
+
+      Plan target ─────────● (Mar 29, 900 km)
 ```
 
 ---
 
-*Generated from VitaBandet API tracks in `plan/`. Re-run analysis after downloading new `id=` routes.*
+*Generated from VitaBandet API tracks in `tracks/source/`. Re-run `python3 scripts/track_stats.py` and `python3 scripts/build_composite_gpx.py` after adding new `id=` routes.*

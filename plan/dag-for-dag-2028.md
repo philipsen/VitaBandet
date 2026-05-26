@@ -10,7 +10,7 @@
 | **T** | Tent · **H** | Hut · **R** | Rest · **D** | Resupply · **W** | Waypoint (side pass) |
 
 **Route variant:** **Storlien** (first major shop) — not Undersåker/Flatruet.  
-**Composite GPX (full plan route):** [`vita-bandet-2028-composite.gpx`](./vita-bandet-2028-composite.gpx) — **Erik** (Grövelsjön → Helags · dense Långfjället+Rogen, väster om Helags) + **Lotta & Björn** (Helags → Blåhammaren → Storlien → Gäddede · only dense track that visits both Blåhammaren and Storlien) + **Mårten** (Hemavan → Kvikkjokk, Abisko → Pältsa) + **Ola** (Gäddede → Lapplandsleden join) + **`lapland-trail-summer.gpx`** (Lapplandsleden → Hemavan via Klimpfjäll) + **Paolo** (Kvikkjokk → Abisko via Padjelanta-west corridor); see `scripts/build_composite_gpx.py`.  
+**Composite GPX (full plan route):** [`vita-bandet-2028-composite.gpx`](../tracks/generated/vita-bandet-2028-composite.gpx) — **six trksegs, one per Section**. Per-section GPX files also available in [`tracks/generated/`](../tracks/generated/): `section-1-grovelsjon-storlien.gpx` … `section-6-abisko-paltsa.gpx`. Sources: **Lotta & Björn** (S1 Grövelsjön→Helags→Blåhammaren→Storlien + S2 Storlien→Gäddede — single dense track, hits every milestone within ≤ 0.44 km) + **Kalle** (S3 Gäddede→Klimpfjäll, 139 dense pts, max gap 1.4 km) + **`lapland-trail-summer.gpx`** (S3 Klimpfjäll→Hemavan, marked led) + **Mårten** (S4 Hemavan→Kvikkjokk, S6 Abisko→Pältsa) + **`2028-plan-kvikkjokk-abisko.gpx`** (S5 + S5b — own Garmin-Desktop plan, 6 902 pts, avg 38 m, Padjelanta-west via Ritsem then Kungsleden via Sälka). See `scripts/build_composite_gpx.py` and [band-tracks-comparison.md](./band-tracks-comparison.md).  
 **Resupply:** [resupply-2028.md](./resupply-2028.md) · **Pulk packing:** [packing-pulk-2028.md](./packing-pulk-2028.md) · **Solo:** daily inReach
 
 ### Waypoint compliance (VGB)
@@ -23,7 +23,7 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 |-------|----------------------------|
 | **Undersåker** | Bridge over **Indalsälven** on your **east** — no ICA (Storlien was shop) |
 | **Håkafot** | Point **east** of track |
-| **Jäckvik** | Village ~**66.38°N, 16.97°E** — pass **väster om** on day 32 detour (ICA optional **D**); composite **track** = Erik GPS, **wpt** = town centre only |
+| **Jäckvik** | Village ~**66.38°N, 16.97°E** — pass **väster om** on day 32 detour (ICA optional **D**); composite **track** = Mårten GPS, **wpt** = town centre only |
 | **Saltoluokta** | STF / station **east** of track — do not enter for VGB |
 | **Nikkaluokta** | Village **east** of track |
 | **Torneträsk** | Östra spetsen **east** of track — not tip visit, not ice crossing |
@@ -52,11 +52,11 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 ## Section 1 — Grövelsjön → Storlien (165 km · days 1–9)
 
 *Härjedalen → Jämtland alpine (Sylarna / Helags side). **No** Flatruet–Indalsälven–Undersåker line.*  
-**Camp waypoints (D1–D9):** on composite GPX — placed at plan cumulative km along Mårten + Ola track (`scripts/build_composite_gpx.py`).
+**Camp waypoints (D1–D9):** on composite GPX (Section 1 trkseg) — placed at plan cumulative km along Lotta & Björn track (`scripts/build_composite_gpx.py`).
 
 #### Day 1 · Tue 15 Feb · 8 km (cum 8) · Grövelsjön · **D**
 
-**D** at **STF Grövelsjön** (shop, register Vita Bandet, final pulk check) — then leave on the **main trail north** (winter touring / snowmobile spår toward **Långfjället**; composite / `martens-band.gpx`). **No** lake loop or Storsätern day tour.  
+**D** at **STF Grövelsjön** (shop, register Vita Bandet, final pulk check) — then leave on the **main trail north** (winter touring / snowmobile spår toward **Långfjället**; composite / `tracks/source/lottas-och-bjorns-band.gpx`). **No** lake loop or Storsätern day tour.  
 Camp on trail north of station. Pack food for **8–9 days** to Storlien.
 
 | Acc | Notes |
@@ -115,14 +115,13 @@ Stay on **winter touring / snowmobile lines**; avoid steep alpine (no avy kit). 
 |-----|-------|
 | **T** / H | STF cluster **open** from ~20 Feb — storm refuge + meal possible |
 
-#### Day 8 · Tue 22 Feb · 20 km (cum 124) · Håkafot **W**
+#### Day 8 · Tue 22 Feb · 20 km (cum 124) · Blåhammaren area
 
-Pass **väster om Håkafot** — point **to your east** ([VGB regler](https://www.vitagronabandet.se/infor-turen/regler/)).  
-Continue toward **Storlien** on the Swedish side of the border fjäll.
+Pass **STF Blåhammaren fjällstation** (63.187°N, 12.174°E) on the way north to Storlien. Restaurant **closed since 2024**; butik + self-catering only — quick warm-up + snack stop possible, no full meal. Continue toward **Storlien** on the Swedish side of the border fjäll. (VGB-väster-om point **Håkafot** is in Section 2, around days 13–14, not here.)
 
 | Acc | Notes |
 |-----|-------|
-| **T** | **W** Håkafot |
+| **T** | Blåhammaren area · STF butik possible |
 
 #### Day 9 · Wed 23 Feb · 21 km (cum 165) · Storlien · **D**
 
@@ -138,7 +137,7 @@ Continue toward **Storlien** on the Swedish side of the border fjäll.
 ## Section 2 — Storlien → Gäddede (250 km · days 10–22)
 
 *North via Kolåsen / Hotagen fringe — pass **Undersåker väster om** (no village stop). Reference: Ola 2025, Mårten/Bernhard 2026 tracks.*  
-**Camp waypoints (D10–D22):** on composite GPX — placed at plan cumulative km along Ola Storlien→Gäddede track (`scripts/build_composite_gpx.py`).
+**Camp waypoints (D10–D22):** on composite GPX (Section 2 trkseg) — placed at plan cumulative km along Lotta & Björn Storlien→Gäddede track (`scripts/build_composite_gpx.py`).
 
 #### Day 10 · Thu 24 Feb · 18 km (cum 183) · Skalstugan corridor
 
@@ -252,7 +251,7 @@ Bandet guest book at camping; **H** Pilgrims or camping.
 
 *Arjeplog → **Klimpfjäll** → **[Lapplandsleden](https://visithemavantarnaby.se/en/fjallturspar-lapplandsleden/)** (winter markers) → **Hemavan** (halfway) → **Jäckvik W** detour. Matches Jonathan / Paolo / Erik / Mårten GPS — not the old Jäckvik–Laisdalen–Klimpfjäll loop.*
 
-**GPX reference:** `olas-vita-band-2.gpx` (Gäddede → trail join) · **`lapland-trail-summer.gpx`** / composite trkseg (marked led from join through Virisen / Tärnaby → Hemavan, ~155 km) · `eriks-band.gpx` after Hemavan.
+**GPX reference (Section 3):** [`section-3-gaddede-hemavan.gpx`](../tracks/generated/section-3-gaddede-hemavan.gpx) — **`kalles-band.gpx`** Gäddede → Klimpfjäll (139 dense pts), then **`lapland-trail-summer.gpx`** Klimpfjäll → Hemavan via Virisen / Tärnaby (marked led). Section 4 (after Hemavan) uses `martens-band.gpx`.
 
 #### Day 23 · Wed 8 Mar · 22 km (cum 437) · Vilhelmina fjäll
 
@@ -453,7 +452,7 @@ Load pulk for **Paolo corridor** to Ritsem (~6–7 days on trail) then **KL** to
 
 ## Section 5 — Kvikkjokk → Sälka · Paolo corridor (193 km · days 45–55)
 
-*Direct **Laponia / Áhkká** line (not deep central Padjelanta). **GPX:** `paolo-peralta-s-band.gpx` (sparse, 2021) · `eriks-band.gpx` / `olas-vita-band-2.gpx` for **KL** near Sälka. Paolo: ~**100 km** Kvikkjokk → Ritsem in **~8 days**; then **Kungsleden** to **Sälka fjällstuga**.*
+*Direct **Laponia / Áhkká** line (not deep central Padjelanta). **GPX (Section 5 + 5b):** [`section-5-kvikkjokk-abisko.gpx`](../tracks/generated/section-5-kvikkjokk-abisko.gpx) = own plan track **`2028-plan-kvikkjokk-abisko.gpx`** (6 902 pts, avg 38 m, max gap 5 km — Garmin Desktop export). Track passes **Kvikkjokk +0.37 km · Ritsem +0.21 km · Sälka +0.01 km · Abisko +0.18 km** — exactly on the planned line. Replaces the old sparse Paolo 2021 reference (13 pts, max 27 km gap).*
 
 #### Day 45 · Thu 30 Mar · 17 km (cum 917) · Kvikkjokk north · Paolo line
 
@@ -590,7 +589,7 @@ Almost through the mountains.
 #### Day 59 · Thu 13 Apr · 18 km (cum 1165) · Abisko · **D**
 
 Ski into **Abisko** turiststation. **Fjällboden** + **Godisfabriken** (2 km). **Major resupply:** pack **7–8 days food** + fuel for Abisko → Pältsa — DNT huts have **no pantry**.  
-Prepare for **Ola line** Abisko → Treriksröset (`olas-vita-band-2.gpx`) — **Nordkalottleden**; not a long **Torneträsk ice** crossing.
+Prepare for **Section 6** Abisko → Pältsa (`tracks/source/martens-band.gpx` — Mårten ended 0.5 km from Pältsa) — **Nordkalottleden**; not a long **Torneträsk ice** crossing.
 
 | Acc | Notes |
 |-----|-------|
@@ -600,7 +599,7 @@ Prepare for **Ola line** Abisko → Treriksröset (`olas-vita-band-2.gpx`) — *
 
 ## Section 6 — Abisko → Treriksröset · Ola / Nordkalottleden (138 km · days 60–65)
 
-***Ola corridor*** (`olas-vita-band-2.gpx`, 2025): Abisko → **Lappjord** → **Altevass** → **Treriksröset** in **~5 days** (~160 km GPS) — **not** the long **Torneträsk ice** + full **Gaskash/Rostah** hut-hop of the old plan. **DNT huts = no pantry** — eat from Abisko load.
+***Mårten / Ola corridor*** (Section 6 composite = `martens-band.gpx`; cross-ref `olas-vita-band-2.gpx`, 2025): Abisko → **Lappjord** → **Altevass** → **Treriksröset** in **~5 days** (~160 km GPS) — **not** the long **Torneträsk ice** + full **Gaskash/Rostah** hut-hop of the old plan. **DNT huts = no pantry** — eat from Abisko load.
 
 #### Day 60 · Fri 14 Apr · 22 km (cum 1187) · Abisko north · Ola line
 
@@ -660,7 +659,7 @@ Arrange transport **Kilpisjärvi / Gällivare**.
 
 ### Torneträsk östra spetsen **W**
 
-**väster om** östra spetsen (S→N: tip **east** of track) — no visit to the tip, no **Torneträsk ice**. **Ola line** / composite GPX complies.
+**väster om** östra spetsen (S→N: tip **east** of track) — no visit to the tip, no **Torneträsk ice**. **Section 6** / composite GPX complies.
 
 ### If behind / ahead
 

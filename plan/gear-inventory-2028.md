@@ -369,7 +369,7 @@ At camp: unstrap Sleeper → pull bag/pad → pitch Nallo. Repack dry before nex
 
 1. **OsmAnd+** ✓ owned — install on **Fairphone** (or test on Ulefone now).  
 2. **Download offline maps:** Sweden north (Jämtland, Lappland), Norway (Troms, Nordland strips you cross). Budget **5–15 GB** storage — test size on phone.  
-3. **Import GPX:** **`vita-bandet-2028-composite.gpx`** · or per-leg: `martens-band.gpx`, `olas-vita-band-2.gpx`, **`lapland-trail-summer.gpx`**, `eriks-band.gpx`, `paolo-peralta-s-band.gpx`.  
+3. **Import GPX:** **`tracks/generated/vita-bandet-2028-composite.gpx`** · or per-Section files in `tracks/generated/section-1-…gpx` … `section-6-…gpx` · raw hiker tracks under `tracks/source/` (`martens-band.gpx`, `olas-vita-band-2.gpx`, `lottas-och-bjorns-band.gpx`, `eriks-band.gpx`, `paolo-peralta-s-band.gpx`, `lapland-trail-summer.gpx`, …).  
 4. **Waypoints:** VGB six places — GPX **corridor** väster om (east of track, S→N); not spot-on hits.  
 5. **Display:** winter-friendly profile — high contrast, **contour lines on**, track up.  
 6. **Backup export:** copy GPX + favourites to **SD card / cloud** before trip.  
