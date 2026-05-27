@@ -51,8 +51,13 @@ MILESTONES = {
     "HAMRA": (62.57427, 12.22619),       # Hamra Livs · Hamravägen 73, Hamra/Tännäs (Day 4 D)
     "SKARVRUET": (62.539318, 12.408265), # STF Skarvruet vandrarhem (separate area ~10 km E of Hamra Livs)
     "HELAGS": (62.917359, 12.506156),    # STF Helags fjällstation
+    "SYLARNA": (63.045833, 12.259167),   # STF Sylarna fjällstation
     "BLAHAMM": (63.187081, 12.174362),   # STF Blåhammaren
     "STORLIEN": (63.298, 12.101),
+    "KOLASEN": (63.713, 12.930),         # Kolåsens Fjällhotell area (on Band track)
+    "OLDEN": (63.707, 13.107),           # Olden corridor (not Valsjöbua)
+    "VALSJO": (64.068, 14.139),         # Valsjöbua Lanthandel
+    "BLASJOFJALL": (64.836, 14.083),     # ICA Nära Blåsjöfjäll — ~35 km off Band track
     "GADDEDE": (64.52, 14.14),
     "KLIMPF": (65.067, 14.770),          # Klimpfjäll village
     "HEMAVAN": (65.83, 15.08),
@@ -86,28 +91,28 @@ SECTION1_CAMPS = [
     (1, "2028-02-15",  14, "Hävlingestugorna", "T", "Länsstyrelsen stugor · ~13 km N of Grövelsjön", "HAVLINGEN"),
     (2, "2028-02-16",  29, "STF Rogen area", "T", "Tent sites ~100 m from hut · H optional if open (27 Feb–19 Apr)", "ROGEN"),
     (3, "2028-02-17",  44, "Dalstenshån N",          "T", "North shore · Rogen nature reserve", "DALSTENHAN"),
-    (4, "2028-02-18",  63, "Tänndalen",            "D", "Hamra Livs resup · ~6 km detour west", "HAMRA"),
-    (5, "2028-02-19",  67, "Vålådalen",            "T", "West fjäll · past Tänndalen", None),
-    (6, "2028-02-20",  85, "Ottfjället",           "T", "",                          None),
-    (7, "2028-02-21", 104, "Sylarna W",            "T", "STF cluster väster om",     None),
-    (8, "2028-02-22", 124, "Blåhammaren area",     "T", "Pass STF Blåhammaren",      None),
-    (9, "2028-02-23", 165, "Storlien",             "D", "Coop · resupply",           "STORLIEN"),
+    (4, "2028-02-18",  60, "Tänndalen",            "D", "Hamra Livs resup · ~6 km detour west", "HAMRA"),
+    (5, "2028-02-19",  72, "Band line west",       "T", "On track — STF Vålådalen is E detour only", None),
+    (6, "2028-02-20",  90, "Helags approach",      "T", "Mot Helags / Långfjällen", None),
+    (7, "2028-02-21", 109, "Helags väster om",     "T", "STF Helags · Sylarna/Blåhammaren pass-through tomorrow", "HELAGS"),
+    (8, "2028-02-22", 129, "Sylarna väster om",    "T", "STF Sylarna · pass Blåhammaren (~147 km) en route D9", "SYLARNA"),
+    (9, "2028-02-23", 161, "Storlien",             "D", "Coop · resupply",           "STORLIEN"),
 ]
 
 SECTION2_CAMPS = [
-    (10, "2028-02-24", 183, "Skalstugan corridor",     "T", "Carry 10–12 days food",          None),
-    (11, "2028-02-25", 202, "Anjan / Kolåsen approach","T", "Depot optional",                  None),
-    (12, "2028-02-26", 222, "Undersåker W",            "T", "VGB väster om · bridge east",     None),
-    (13, "2028-02-27", 242, "Hotagen fringe",          "T", "Remote · no scooter spår",        None),
-    (14, "2028-02-28", 262, "Olden / Valsjöbyn",       "T", "Optional D Valsjöbyn",            None),
-    (15, "2028-02-29", 282, "Frostviken south",        "T", "",                                None),
-    (16, "2028-03-01", 302, "Hällingsåfallet",         "T", "Steep valley sides",              None),
-    (17, "2028-03-02", 322, "Vilhelmina north",        "T", "",                                None),
-    (18, "2028-03-03", 342, "Storjuktan",              "T", "Lake ice — verify locally",       None),
-    (19, "2028-03-04", 362, "Björkvattnet",            "T", "",                                None),
-    (20, "2028-03-05", 382, "Gäddede approach",        "T", "Light day before D",              None),
-    (21, "2028-03-06", 400, "Gäddede fringe",          "T", "Camp near village",               None),
-    (22, "2028-03-07", 415, "Gäddede",                 "D", "ICA · Frostvikens · 9–10 days food","GADDEDE"),
+    (10, "2028-02-24", 178, "Skalstugan corridor",     "T", "Carry 10–12 days food",          None),
+    (11, "2028-02-25", 196, "Anjan approach",          "T", "Depot optional",                  None),
+    (12, "2028-02-26", 214, "Hotagen west",            "T", "Remote · toward Kolåsen",         None),
+    (13, "2028-02-27", 234, "Hotagen fringe",          "T", "Remote · no scooter spår",        None),
+    (14, "2028-02-28", 252, "Kolåsen",                 "T", "H optional · depot · restaurant prebook", "KOLASEN"),
+    (15, "2028-02-29", 262, "Olden",                   "T", "On track — not Valsjöbua (that is D20)", "OLDEN"),
+    (16, "2028-03-01", 280, "Frostviken south",        "T", "Undersåker väster om corridor (bridge ~55 km E)", None),
+    (17, "2028-03-02", 298, "Toward Valsjöbyn",        "T", "",                                None),
+    (18, "2028-03-03", 316, "Ansättfjällen west",      "T", "",                                None),
+    (19, "2028-03-04", 334, "Regnfallet fringe",       "T", "",                                None),
+    (20, "2028-03-05", 352, "Valsjöbyn",              "D", "Valsjöbua ★ · Bandare vandrarhem", "VALSJO"),
+    (21, "2028-03-06", 375, "Björkvattnet",            "T", "Light day before Gäddede",        None),
+    (22, "2028-03-07", 418, "Gäddede",                 "D", "ICA · Frostvikens · Blåsjö ICA optional detour", "GADDEDE"),
 ]
 
 SECTION3_CAMPS = [
@@ -194,7 +199,8 @@ SECTIONS: list[Section] = [
             SubSegment("Grövelsjön → Helags → Blåhammaren → Storlien",
                        "lottas-och-bjorns-band-track.json", "GROVEL", "STORLIEN"),
         ],
-        waypoints=["GROVEL", "HAVLINGEN", "ROGEN", "DALSTENHAN", "HAMRA", "SKARVRUET", "HELAGS", "BLAHAMM", "STORLIEN"],
+        waypoints=["GROVEL", "HAVLINGEN", "ROGEN", "DALSTENHAN", "HAMRA", "SKARVRUET",
+                   "HELAGS", "SYLARNA", "BLAHAMM", "STORLIEN"],
         camps=SECTION1_CAMPS,
         start_cum_km=0,
     ),
@@ -206,9 +212,9 @@ SECTIONS: list[Section] = [
             SubSegment("Storlien → Gäddede",
                        "lottas-och-bjorns-band-track.json", "STORLIEN", "GADDEDE"),
         ],
-        waypoints=["STORLIEN", "GADDEDE"],
+        waypoints=["STORLIEN", "KOLASEN", "OLDEN", "VALSJO", "BLASJOFJALL", "GADDEDE"],
         camps=SECTION2_CAMPS,
-        start_cum_km=165,
+        start_cum_km=161,
     ),
     Section(
         id=3,
@@ -490,8 +496,13 @@ WPT_LABELS = {
     "HAMRA":      "Hamra Livs (Tänndalen)",
     "SKARVRUET":  "STF Skarvruet vandrarhem",
     "HELAGS":   "Helags fjällstation",
+    "SYLARNA":  "Sylarna fjällstation",
     "BLAHAMM":  "Blåhammaren fjällstation",
     "STORLIEN": "Storlien",
+    "KOLASEN":  "Kolåsens Fjällhotell",
+    "OLDEN":    "Olden (corridor)",
+    "VALSJO":   "Valsjöbua Lanthandel",
+    "BLASJOFJALL": "ICA Nära Blåsjöfjäll (detour)",
     "GADDEDE":  "Gäddede",
     "KLIMPF":   "Klimpfjäll",
     "HEMAVAN":  "Hemavan",

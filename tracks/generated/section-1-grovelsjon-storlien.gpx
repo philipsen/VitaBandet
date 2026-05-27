@@ -774,37 +774,37 @@
   </wpt>
   <wpt lat="62.574270" lon="12.226190">
     <name>D4 · Tänndalen</name>
-    <desc>Section 1 · 2028-02-18 · cum 63 km · D · Hamra Livs resup · ~6 km detour west</desc>
+    <desc>Section 1 · 2028-02-18 · cum 60 km · D · Hamra Livs resup · ~6 km detour west</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>
-  <wpt lat="62.584049" lon="12.329904">
-    <name>D5 · Vålådalen</name>
-    <desc>Section 1 · 2028-02-19 · cum 67 km · T · West fjäll · past Tänndalen</desc>
+  <wpt lat="62.628445" lon="12.331780">
+    <name>D5 · Band line west</name>
+    <desc>Section 1 · 2028-02-19 · cum 72 km · T · On track — STF Vålådalen is E detour only</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="62.724761" lon="12.322973">
-    <name>D6 · Ottfjället</name>
-    <desc>Section 1 · 2028-02-20 · cum 85 km · T</desc>
+  <wpt lat="62.766165" lon="12.351021">
+    <name>D6 · Helags approach</name>
+    <desc>Section 1 · 2028-02-20 · cum 90 km · T · Mot Helags / Långfjällen</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="62.870726" lon="12.497329">
-    <name>D7 · Sylarna W</name>
-    <desc>Section 1 · 2028-02-21 · cum 104 km · T · STF cluster väster om</desc>
+  <wpt lat="62.917359" lon="12.506156">
+    <name>D7 · Helags väster om</name>
+    <desc>Section 1 · 2028-02-21 · cum 109 km · T · STF Helags · Sylarna/Blåhammaren pass-through tomorrow</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="63.012859" lon="12.325226">
-    <name>D8 · Blåhammaren area</name>
-    <desc>Section 1 · 2028-02-22 · cum 124 km · T · Pass STF Blåhammaren</desc>
+  <wpt lat="63.045833" lon="12.259167">
+    <name>D8 · Sylarna väster om</name>
+    <desc>Section 1 · 2028-02-22 · cum 129 km · T · STF Sylarna · pass Blåhammaren (~147 km) en route D9</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.298000" lon="12.101000">
     <name>D9 · Storlien</name>
-    <desc>Section 1 · 2028-02-23 · cum 165 km · D · Coop · resupply</desc>
+    <desc>Section 1 · 2028-02-23 · cum 161 km · D · Coop · resupply</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>
@@ -828,6 +828,9 @@
   </wpt>
   <wpt lat="62.917359" lon="12.506156">
     <name>Helags fjällstation</name>
+  </wpt>
+  <wpt lat="63.045833" lon="12.259167">
+    <name>Sylarna fjällstation</name>
   </wpt>
   <wpt lat="63.187081" lon="12.174362">
     <name>Blåhammaren fjällstation</name>

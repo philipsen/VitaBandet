@@ -22,12 +22,11 @@ Commercial **campings / ställplatser** and **STF tält + serviceavgift** (membe
 | **1** | **STF Grövelsjön** · **D** | **[Sjöstugan](https://www.sjostugan.nu/husvagnscamping/)** — year-round pitches + tent; el, sauna, kitchen · book ahead | STF tent ≥100 m from buildings · service fee for kitchen/shower/sauna |
 | **2** | **STF Rogen** fjällstuga | — | **Tent sites ~100 m from hut** (already in plan) |
 | **4** | Tänndalen · **D** | **Tänndalsvallen**, **Fjällnäs** — see Day 4 | — |
-| **5–7** | **Vålådalen** / **Storulvån** / **Sylarna** / **Helags** / **Blåhammaren** | **[Vålågårdens Värdshus & Camping](https://www.valagarden.se/)** (Östra Vålådalen) — year-round; el pitches; book winter pitch by phone | **STF Vålådalen** + cluster stations: tent + service fee; stations east of line — small detour if weather forces **H** |
+| **5–8** | **Band line** (Helags / Sylarna väster om) | **[Vålågårdens](https://www.valagarden.se/)** + **STF Vålådalen** only on **east detour** (~30 km off Band track) | **STF Helags / Sylarna / Blåhammaren** east of line — tent + service fee if weather forces **H**; plan camps on track west of stations |
 | **9** | **Storlien** · **D** | **[Storlien Högfjällshotell](https://www.storlienhogfjallshotell.se/en/pitches.html)** — 18 pitches (10 el); heated cabin WC (no shower); **pre-book winter** | **STF Storliens fjällgård** = hostel, not caravan site |
-| **11** | **Kolåsen** · **H** | — (hotel **stugor** + Sportstugan only) | Wild **T**; depot pickup at hotel |
-| **14** | **Valsjöbua** · **D** | — | Free **Bandare vandrarhem** at Valen (book 3 days ahead) — not camping |
-| **16** | ICA Blåsjöfjäll (optional **D**) | Wild **T** by lake; no dedicated campsite on Vildmarksvägen here | — |
-| **22** | **Gäddede** · **D** | **[Gäddede Camping & Stugby](https://www.gaddedecamping.com/)** (Sagavägen 9) — **open year-round**; tent + el pitches; walk to ICA | **Pilgrimshotellet** next door (**H**, not camping) |
+| **14** | **Kolåsen** · **H** (optional) | — (hotel **stugor** + Sportstugan only) | Wild **T**; depot pickup at hotel |
+| **20** | **Valsjöbua** · **D** | — | Free **Bandare vandrarhem** at Valen (book 3 days ahead) — not camping |
+| **22** | **Gäddede** · **D** | **[Gäddede Camping & Stugby](https://www.gaddedecamping.com/)** (Sagavägen 9) — **open year-round**; tent + el pitches; walk to ICA · optional **Blåsjöfjäll** detour (~35 km off track) | **Pilgrimshotellet** next door (**H**, not camping) |
 | **24** | Borgafjäll · **H** | — | **Borgafjäll Hotell** only |
 | **25** | Saxnäs / Marsfjäll | Wild **T**; lodge **H** at Marsfjäll Mountain Lodge | — |
 | **27** | Klimpfjäll (optional **D**) | Wild **T** after Handlar'n | — |
@@ -67,9 +66,11 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 | Date | Place | Cum. km |
 |------|-------|---------|
 | 15 Feb | Grövelsjön | 0 |
-| 23 Feb | Storlien · **D** | 165 |
-| 26 Feb | Undersåker **W** (väster om only) | 220 |
-| 7 Mar | Gäddede | 415 |
+| 23 Feb | Storlien · **D** | 161 |
+| 28 Feb | Kolåsen · **H** (optional) | 252 |
+| 29 Feb | Olden (on track — not Valsjöbua) | 262 |
+| 5 Mar | Valsjöbua · **D** ★ | 352 |
+| 7 Mar | Gäddede | 418 |
 | 17 Mar | Hemavan · **D** | 610 |
 | 18 Mar | Jäckvik **W** (detour) | 640 |
 | 29 Mar | Kvikkjokk | 900 |
@@ -81,10 +82,10 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 
 ---
 
-## Section 1 — Grövelsjön → Storlien (165 km · days 1–9)
+## Section 1 — Grövelsjön → Storlien (161 km · days 1–9)
 
-*Härjedalen → Jämtland alpine (Sylarna / Helags side).*
-**Camp waypoints (D1–D9):** on the plan GPX at cumulative km along Section 1.
+*Härjedalen → Jämtland alpine (Helags / Sylarna väster om — Band track does not pass STF Vålådalen).*
+**Camp waypoints (D1–D9):** pinned to landmarks where noted; otherwise on the Band track at planned km.
 
 #### Day 1 · Tue 15 Feb · 14 km (cum 14) · Grövelsjön · **D** → Hävlingestugorna
 
@@ -119,7 +120,7 @@ Continue north through **Rogen** nature reserve toward **Dalstenshån** (~62.42�
 |-----|-------|
 | **T** | North shore Dalstenshån |
 
-#### Day 4 · Fri 18 Feb · 20 km (cum 63) · Tänndalen · **D**
+#### Day 4 · Fri 18 Feb · 16 km (cum 60) · Tänndalen · **D**
 
 North from **Dalstenshån** along the band line, then **detour west** to **Hamra Livs** (**Hamravägen 73** · 846 98 Tänndalen · **62.574°N, 12.226°E** — Hamra / Tännäs side, not Skarvruet) — **~6 km** round-trip off the line (~62.55°N, **12.31°E** on track). Village livs **daily 09:00–19:00** (often until 21:00 peak winter); **070-241 11 84**. Mid-leg **D**: carry **~4–5 days** food from Grövelsjön, restock **~4–5 days** to Storlien. Unlikely alkylate — food only. See [resupply](./resupply-2028.md).
 
@@ -135,42 +136,41 @@ North from **Dalstenshån** along the band line, then **detour west** to **Hamra
 | **H** | Optional budget — STF Skarvruet; or Fjällnäs lodges / apartments |
 | **T** | Village / Hamra, Tänndalsvallens Camping, or Fjällnäs Camping |
 
-#### Day 5 · Sat 19 Feb · 9 km (cum 67) · Vålådalen
+#### Day 5 · Sat 19 Feb · 12 km (cum 72) · Band line west
 
-Short west fjäll leg past **Tänndalen** infrastructure toward **Vålådalen** low slopes — stay on the band line, no village detour. Building toward Jämtland alpine.  
-**Camping (if detouring):** **Vålågårdens** (year-round, book winter pitch) or **STF Vålådalen** tent — see camping table.
+Short leg on the **Band track** west of Tänndalen — open fjäll toward Helags. **STF Vålådalen** and **Vålågårdens** sit **~30 km east** of this line; only detour if weather forces **H**.
 
 | Acc | Notes |
 |-----|-------|
-| **T** | Vålådalen approach · or Vålågården / STF tent |
+| **T** | On track · wild camp |
 
-#### Day 6 · Sun 20 Feb · 18 km (cum 85) · Ottfjället approach
+#### Day 6 · Sun 20 Feb · 18 km (cum 90) · Helags approach
 
-North from Vålådalen toward **Ottfjället** / **Långfjällen** side — trend **west** into Jämtland (toward Sylarna corridor).
+Northwest on the Band line toward **STF Helags** (station east of track — pass **väster om** unless storm **H**).
 
 | Acc | Notes |
 |-----|-------|
 | **T** | |
 
-#### Day 7 · Mon 21 Feb · 19 km (cum 104) · Sylarna west · STF cluster opens
+#### Day 7 · Mon 21 Feb · 19 km (cum 109) · Helags väster om · STF cluster opens
 
-Open fjäll west of **Sylarna**. **STF Jämtland cluster opens 19–21 Feb 2026** (likely same window 2028):  
-**Storulvån** (19 Feb), **Sylarna + Blåhammaren** (20 Feb), **Helags** (21 Feb) — restaurants + butiks. **Blåhammaren restaurant closed since 2024** (butik + self-catering only); **Sylarna + Helags restaurants close by 2028 per arrendeavtal** — verify nearer the trip. All have self-catering + small STF butik with snacks + outdoor gear.  
-Stay on **winter touring / snowmobile lines**; avoid steep alpine (no avy kit). Stations sit east of the Bandet line — small detour east only if weather forces it. **Camping:** STF **tent + serviceavgift** at open stations (Storulvån / Sylarna / Helags) — see camping table. See [resupply](./resupply-2028.md).
+Camp west of **STF Helags** (62.917°N, 12.506°E). **STF Jämtland cluster opens 19–21 Feb 2026** (likely same window 2028): **Storulvån** (19 Feb), **Sylarna + Blåhammaren** (20 Feb), **Helags** (21 Feb). Restaurants/butiks — verify 2028 arrende. Small **east detour** only if weather forces **H** + tent/service fee.
 
 | Acc | Notes |
 |-----|-------|
-| **T** / H | STF cluster **open** from ~20 Feb — tent or **H** |
+| **T** / H | On track west of Helags · optional **H** at station |
 
-#### Day 8 · Tue 22 Feb · 20 km (cum 124) · Blåhammaren area
+#### Day 8 · Tue 22 Feb · 20 km (cum 129) · Sylarna väster om
 
-Pass **STF Blåhammaren fjällstation** (63.187°N, 12.174°E) on the way north to Storlien. Restaurant **closed since 2024**; butik + self-catering only — quick warm-up + snack stop possible. Continue toward **Storlien** on the Swedish side of the border fjäll.
+Camp west of **STF Sylarna** (63.046°N, 12.259°E). You pass **Blåhammaren** (63.187°N, 12.174°E) **en route to Storlien tomorrow** — butik/self-catering only (restaurant closed since 2024).
 
 | Acc | Notes |
 |-----|-------|
-| **T** | Blåhammaren area · STF butik possible |
+| **T** | On track west of Sylarna |
 
-#### Day 9 · Wed 23 Feb · 21 km (cum 165) · Storlien · **D**
+#### Day 9 · Wed 23 Feb · 32 km (cum 161) · Storlien · **D**
+
+Pass **Blåhammaren** then descend to **Storlien** — longer day; start early if weather is fair.
 
 **Storlien** — first major resupply. **Coop / Eurocash / Fjellhandeln** (food, pharmacy, outdoor); **STF Storliens fjällgård** / hotels for **H**.  
 **Camping:** **Storlien Högfjällshotell** pitches (el optional; pre-book winter) — see camping table.  
@@ -182,12 +182,12 @@ Pass **STF Blåhammaren fjällstation** (63.187°N, 12.174°E) on the way north 
 
 ---
 
-## Section 2 — Storlien → Gäddede (250 km · days 10–22)
+## Section 2 — Storlien → Gäddede (257 km · days 10–22)
 
-*North via Kolåsen / Hotagen fringe — pass **Undersåker väster om**.*  
-**Camp waypoints (D10–D22):** on the plan GPX at cumulative km along Section 2.
+*North via Kolåsen / Hotagen / **Valsjöbyn** — Undersåker is a **wide väster om corridor**, not a camp pin (bridge ~55 km east of track).*  
+**Camp waypoints (D10–D22):** aligned to the Band track; **Valsjöbua** is **~90 km north of Olden** on the line.
 
-#### Day 10 · Thu 24 Feb · 18 km (cum 183) · Skalstugan corridor
+#### Day 10 · Thu 24 Feb · 17 km (cum 178) · Skalstugan corridor
 
 Leave Storlien **north** on snowmobile spår toward **Skalstugan** / **Kolåsen** approach. Steady pulk pace; fewer villages.
 
@@ -195,103 +195,104 @@ Leave Storlien **north** on snowmobile spår toward **Skalstugan** / **Kolåsen*
 |-----|-------|
 | **T** | Carry 10–12 days food from Storlien |
 
-#### Day 11 · Fri 25 Feb · 19 km (cum 202) · Anjan / Kolåsen · **H** (optional)
+#### Day 11 · Fri 25 Feb · 18 km (cum 196) · Anjan approach
 
-Fjäll travel toward **Anjan** / **Kolåsen**. **Kolåsens Fjällhotell open 20 Feb – 25 Apr 2026** — restaurant **3-rätters middag at 18:00** (**förboka senast dagen innan**, 0647 81017); **Sportstugan/Vandrarhem året om** as budget self-catering. Pick up **depot box** here if sent. See [resupply](./resupply-2028.md).
-
-| Acc | Notes |
-|-----|-------|
-| **T** / H | Optional **H** + middag (pre-book) at Kolåsens Fjällhotell |
-
-#### Day 12 · Sat 26 Feb · 20 km (cum 222) · Undersåker **W**
-
-Pass **väster om Undersåker** — Indalsälven bridge on your **east**. Wide corridor OK.
+Fjäll travel toward **Anjan** — **Kolåsen** is still **~55 km** ahead on the track.
 
 | Acc | Notes |
 |-----|-------|
-| **T** | **W** Undersåker (side pass) |
+| **T** | |
 
-#### Day 13 · Sun 27 Feb · 20 km (cum 242) · Hotagen fringe
+#### Day 12 · Sat 26 Feb · 18 km (cum 214) · Hotagen west
 
-Trend **east/north** along **Hotagen** nature reserve fringe (no scooters in reserve — plan line on permitted winter routes / elevation).  
-Tougher, trackless sections possible — GPS essential.
+**Hotagen** fringe — remote, GPS essential (no scooters in reserve core).
 
 | Acc | Notes |
 |-----|-------|
 | **T** | Remote |
 
-#### Day 14 · Mon 28 Feb · 20 km (cum 262) · Valsjöbyn · **D** ★ Bandet hero
+#### Day 13 · Sun 27 Feb · 20 km (cum 234) · Hotagen fringe
 
-**Valsjöbua Lanthandel** (Tobbe & team — "Årets Fjällfararvän 2023") — Mon–Fri 10–18, Sat 10–14. Full lanthandel + Systembolag + post + frystorkad + café + outdoor; **free vandrarhem at Valen for Bandare** (book 3 days ahead). **Jourtelefon 072-1933833** if shop closed. **Primary mid-leg D** between Storlien (D9) and Gäddede (D22). 0645-320 05 / 070-514 75 78. See [resupply](./resupply-2028.md).
+Continue north on permitted winter lines toward **Kolåsen**.
+
+| Acc | Notes |
+|-----|-------|
+| **T** | |
+
+#### Day 14 · Mon 28 Feb · 18 km (cum 252) · Kolåsen · **H** (optional)
+
+**Kolåsens Fjällhotell** (open **20 Feb – 25 Apr**) — **3-rätters middag 18:00** (**förboka**, 0647 81017); **Sportstugan** året om. Depot box pickup. See [resupply](./resupply-2028.md).
+
+| Acc | Notes |
+|-----|-------|
+| **T** / H | Optional **H** + middag at Kolåsen |
+
+#### Day 15 · Tue 29 Feb · 10 km (cum 262) · Olden
+
+Short day on the **Olden** corridor (**63.71°N, 13.11°E**) — **not** Valsjöbua (that is **Day 20**). Carry food for the long stretch to Valsjöbyn.
+
+| Acc | Notes |
+|-----|-------|
+| **T** | On track |
+
+#### Day 16 · Wed 1 Mar · 18 km (cum 280) · Frostviken south
+
+Enter **Frostviken**. **Undersåker väster om:** keep the Indalsälven bridge on your **east** when you cross that corridor (wide pass — you do not camp at the bridge).
+
+| Acc | Notes |
+|-----|-------|
+| **T** | **W** Undersåker corridor (not a hut stop) |
+
+#### Day 17 · Thu 2 Mar · 18 km (cum 298) · Toward Valsjöbyn
+
+Steady progress toward **Ansättfjällen** / **Valsjöbyn**.
+
+| Acc | Notes |
+|-----|-------|
+| **T** | |
+
+#### Day 18 · Fri 3 Mar · 18 km (cum 316) · Ansättfjällen west
+
+Open fjäll west of the **Ansättfjällen** massif.
+
+| Acc | Notes |
+|-----|-------|
+| **T** | |
+
+#### Day 19 · Sat 4 Mar · 18 km (cum 334) · Regnfallet fringe
+
+Approach **Valsjöbyn** from the south.
+
+| Acc | Notes |
+|-----|-------|
+| **T** | |
+
+#### Day 20 · Sun 5 Mar · 18 km (cum 352) · Valsjöbyn · **D** ★ Bandet hero
+
+**Valsjöbua Lanthandel** (64.068°N, 14.139°E) — Mon–Fri 10–18, Sat 10–14. Full lanthandel + Systembolag + post + frystorkad + café; **free vandrarhem at Valen for Bandare** (book 3 days ahead). **Jourtelefon 072-1933833**. **Primary mid-leg D** between Storlien and Gäddede. See [resupply](./resupply-2028.md).
 
 | Acc | Notes |
 |-----|-------|
 | **H** | **D** ★ Valsjöbua · free Bandare vandrarhem |
 
-#### Day 15 · Tue 29 Feb · 20 km (cum 282) · Frostviken south
+#### Day 21 · Mon 6 Mar · 23 km (cum 375) · Björkvattnet
 
-Enter **Frostviken** — wider valleys. Snowmobile spår assistance possible.
-
-| Acc | Notes |
-|-----|-------|
-| **T** | |
-
-#### Day 16 · Wed 1 Mar · 20 km (cum 302) · Hällingsåfallet / Stora Blåsjön · **D** (optional) ★ fuel candidate
-
-**Hällingsåfallet** valley travel — steep sides in winter. Pass **Stora Blåsjön** on Vildmarksvägen: **ICA Nära Blåsjöfjäll** (Monica Moberg, 0672-21027) full ICA + bensinpump (ask **alkylbensin** ★) — Mon–Fri 09:30–17:30 / Sat 10–15 / Sun 11–15. Apoteksombud + post + Systembolag + DHL + bankomat. Best fuel candidate of Section 2. See [resupply](./resupply-2028.md).
-
-| Acc | Notes |
-|-----|-------|
-| **T** | Optional **D** ICA Blåsjöfjäll + fuel ask |
-
-#### Day 17 · Thu 2 Mar · 20 km (cum 322) · Vilhelmina north
-
-North of **Vilhelmina** fjäll west of lake chain.
+**Björkvattnet** area — long day after resupply.
 
 | Acc | Notes |
 |-----|-------|
 | **T** | |
 
-#### Day 18 · Fri 3 Mar · 20 km (cum 342) · Storjuktan
+#### Day 22 · Tue 7 Mar · 43 km (cum 418) · Gäddede · **D**
 
-**Storjuktan** / lake ice (verify locally).
-
-| Acc | Notes |
-|-----|-------|
-| **T** | Ice caution |
-
-#### Day 19 · Sat 4 Mar · 20 km (cum 362) · Björkvattnet
-
-**Björkvattnet** west of Gäddede.
-
-| Acc | Notes |
-|-----|-------|
-| **T** | |
-
-#### Day 20 · Sun 5 Mar · 20 km (cum 382) · Gäddede approach
-
-Approach **Gäddede** — light day before resupply.
-
-| Acc | Notes |
-|-----|-------|
-| **T** | |
-
-#### Day 21 · Mon 6 Mar · 18 km (cum 400) · Gäddede fringe
-
-Camp near village; sort pulk tomorrow.
-
-| Acc | Notes |
-|-----|-------|
-| **T** | |
-
-#### Day 22 · Tue 7 Mar · 15 km (cum 415) · Gäddede · **D**
+**Gäddede** ICA + Frostvikens. **ICA Blåsjöfjäll** (64.836°N, 14.083°E) is **~35 km off the Band track** — optional detour for fuel/food if you did not top up at Valsjöbua. See [resupply](./resupply-2028.md).
 
 **Gäddede** resupply — **ICA**, Frostvikens El (gas). Stock for **Arjeplog → Lapplandsleden → Hemavan** (~10 days).  
-**Camping:** **[Gäddede Camping & Stugby](https://www.gaddedecamping.com/)** (year-round, tent + el pitches, walk to shops) · Bandet guest book · **H** Pilgrims Hotel nearby.
+**Camping:** **[Gäddede Camping & Stugby](https://www.gaddedecamping.com/)** (year-round) · **H** Pilgrims Hotel nearby.
 
 | Acc | Notes |
 |-----|-------|
-| **H** | **D** stock 9–10 days · camping or Pilgrims |
+| **D** | Stock 9–10 days · optional Blåsjö detour |
 
 ---
 
@@ -736,7 +737,7 @@ See **[resupply-2028.md](./resupply-2028.md)** for food, **alkylaatbenzine** res
 
 *2028 plan: **väster om** at all six — wide corridor OK.*
 
-- [ ] **Undersåker** (väster om — day 12)
+- [ ] **Undersåker** (väster om corridor — ~day 16, not a camp at the bridge)
 - [ ] **Håkafot** (väster om)
 - [ ] **Jäckvik** (väster om — day 32)
 - [ ] **Saltoluokta** (väster om)
