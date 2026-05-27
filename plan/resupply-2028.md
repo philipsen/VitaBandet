@@ -14,7 +14,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 **Your fuel:** **Alkylaatbenzine** (NL) = **alkylbensin / alkylatbensin** (SE) = **chemically clean gasoline** = same class as **Coleman Fuel** / **Primus Power Fuel**. Decant from shop **1 L tins** into your **1 L + 0.3 L** bottles (funnel + cloth).
 
-**Plan rule — no gas canisters until Abisko:** From **Grövelsjön through Ritsem** (days **1–58**) use **liquid alkylate in bottles only** (white-gas jet + silencer). Shops often stock **Primus/ICA gas cylinders** — **do not buy or carry** them on this leg. **From Abisko (day 59)** canisters are OK if you want (pack **gas jet**); liquid Power Fuel tins still work and stay the default.
+**Plan rule — no gas canisters until Abisko:** From **Grövelsjön through Ritsem** (days **1–59**) use **liquid alkylate in bottles only** (white-gas jet + silencer). Shops often stock **Primus/ICA gas cylinders** — **do not buy or carry** them on this leg. **From Abisko (day 60)** canisters are OK if you want (pack **gas jet**); liquid Power Fuel tins still work and stay the default.
 
 | Name you see in shop | Use in OmniLite? | Silencer OK? |
 |----------------------|------------------|--------------|
