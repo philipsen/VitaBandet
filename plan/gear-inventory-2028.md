@@ -508,7 +508,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 | **Nallo 2 GT** | Red | ~2.7 kg | −400 g | Enough solo + vestibule; same Red fabric |
 | **Allak 2** | Red | ~3.3 kg | +200 g | Freestanding dome; smaller vestibule |
 
-**Do not confuse:** **Nammatj** = **Black** (stronger). **Nallo** = **Red** (lighter fabric). An old note that Nammatj is “less bombproof” than Nallo was **wrong**.
+**Do not confuse:** **Nammatj** = **Black** (stronger). **Nallo** = **Red** (lighter fabric).
 
 ### Decision guide
 
@@ -649,7 +649,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 | → Gäddede | 13 | Day 9 Storlien | ask alkylate; refill → **2 L** on hand |
 | → Hemavan | 9 | Day 22 → day 31 | **2 L** |
 | → Kvikkjokk | 12 | Day 31 Hemavan ★ | **2 L** · max fill |
-| → Ritsem | 6–7 | Day 44 **max fill** | **2–2.5 L** (Paolo corridor to Ritsem) |
+| → Ritsem | 6–7 | Day 44 **max fill** | **2–2.5 L** (Padjelanta-west to Ritsem) |
 | → Sälka / Abisko | 7 | Day 52 Ritsem ★ | refill **2 L** + KL hut snacks |
 | → Treriksröset | 6 | Day 59 Abisko | **2 L** fuel + **7–8 days food** (DNT huts: **no pantry**) |
 

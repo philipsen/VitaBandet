@@ -10,8 +10,8 @@ Nine completed Band tracks downloaded from [vgb.vitagronabandet.se](https://vgb.
 | 2 Storlien → Gäddede | **Lotta & Björn** | Same source as S1 → clean **0.00 km seam** at Storlien (single continuous track for Sections 1 + 2) |
 | 3 Gäddede → Hemavan | **Kalle** (G→Klimpfjäll) + `lapland-trail-summer.gpx` (Klimpfjäll→Hemavan) | Kalle has 139 dense pts (max gap 1.4 km) G→Klimpfjäll vs Ola's 17 pts (max 13.8 km); marked Lapplandsleden continues to Hemavan |
 | 4 Hemavan → Kvikkjokk | Mårten | Dense, väster om Jäckvik |
-| 5 Kvikkjokk → Abisko | **`2028-plan-kvikkjokk-abisko.gpx`** (own Garmin plan) | 6 902-pt dense planned route on Padjelanta-west / Ritsem then KL via Sälka — replaces Paolo (only 13 pts, ~27 km gaps). Used as two internal subsegs (§5 K→Sälka, §5b Sälka→Abisko) — clean 0 km seam at Sälka |
-| 6 Abisko → Pältsa | Mårten | Dense Nordkalottleden line (Ola was 59 pts, max 9.9 km gaps) |
+| 5 Kvikkjokk → Abisko | **`2028-plan-kvikkjokk-abisko.gpx`** (own Garmin plan) | 6 902-pt dense planned route on Padjelanta-west / Ritsem then KL via Sälka. Two internal subsegs (§5 K→Sälka, §5b Sälka→Abisko) — 0 km seam at Sälka |
+| 6 Abisko → Pältsa | **`2028-plan-abisko-paltsa.gpx`** (own Garmin plan, from `2028 nord.GPX`) | 12 123 pts · ~168 km · max gap ~7.7 km near Abisko start |
 
 **Reference point:** Kvikkjokk ≈ `66.9513°N, 17.7285°E`.
 
@@ -109,7 +109,7 @@ Median time-gap between consecutive points:
 | Low | Jonathan, Ola | ~2 h | Milestone dates; distance likely understated |
 | Very low | Paolo | ~24 h | Calendar / corridor sketch only — not for fine route geometry |
 
-Five tracks now in the very-high tier (was two in the v1 of this doc). Avg gap between points (any track):
+Five tracks in the very-high tier. Avg gap between points (any track):
 
 | Hiker | avg gap (m) | max gap (km) |
 |-------|------------:|-------------:|

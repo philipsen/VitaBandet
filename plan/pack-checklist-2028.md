@@ -140,16 +140,16 @@ Print this page. Details: [packing-pulk-2028.md](./packing-pulk-2028.md) · [gea
 
 ---
 
-## VGB waypoints (väster om only)
+## VGB waypoints (väster om)
 
-S→N: each point **east** of track. No village entry required for VGB.
+S→N: each point **east** of track. Wide corridor OK.
 
 - [ ] Undersåker (väster om — day ~12)
 - [ ] Håkafot (väster om)
 - [ ] Jäckvik (väster om — day ~32; ICA optional **D**)
 - [ ] Saltoluokta (väster om)
 - [ ] Nikkaluokta (väster om)
-- [ ] Torneträsk östra spetsen (väster om — tip east of track; no ice crossing)
+- [ ] Torneträsk östra spetsen (väster om — tip east of track)
 - [ ] Treriksröset
 
 ---

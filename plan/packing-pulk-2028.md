@@ -124,7 +124,7 @@ Buy on trail — **8–10 days food** typical; **~4,000–5,000 kcal/day** solo 
 | **Storlien** (D9) | 13 → Gäddede | 10–12 days | **Liquid tins only** — decant into bottles |
 | **Gäddede** (D22) | 9 → Hemavan | 9–10 days | Try Frostvikens El |
 | **Hemavan** (D31) ★ | 12 → Kvikkjokk | 11–12 days | **Max fill** before long leg |
-| **Kvikkjokk** (D44) ★ | 6–7 → Ritsem | **Max leg** — Paolo corridor | **Call for alkylate**; else rely on Hemavan fill + **2nd 1 L bottle** |
+| **Kvikkjokk** (D44) ★ | 6–7 → Ritsem | **Max leg** — Padjelanta-west | **Call for alkylate**; else rely on Hemavan fill + **2nd 1 L bottle** |
 | **Ritsem** (D52) ★ | 7 → Abisko | 6–7 days | **Power Fuel** — decant |
 | **Abisko** (D59) ★ | 6 → Pältsa | **7–8 days** | **~2 L liquid alkylate**; **canisters OK from here** if desired |
 | **Pältsa** (~D65) | — | Top-up | Near goal |

@@ -56,12 +56,12 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 - **Rest / weather buffer:** no fixed **R** days — resupply stops only; **Apr 20–30** = ~11 spare days  
 - **Resupply strategy:** **local shops first** (see [resupply-2028.md](./resupply-2028.md)); depots only for special items  
 - **Fuel:** **Alkylaatbenzine** in bottles only until **Abisko** (white-gas jet + silencer); **no gas canisters** before day 59 — see [resupply alkylate list](./resupply-2028.md)  
-- **Kvikkjokk → Abisko:** **Paolo corridor** Kvikkjokk → Ritsem (direct Laponia/Áhkká, not deep Padjelanta) → **KL** to **Sälka** → Abisko ([dag-for-dag](./dag-for-dag-2028.md))  
-- **Route variant:** **Storlien** first shop (not Undersåker) — see [dag-for-dag](./dag-for-dag-2028.md) · GPX ref `tracks/source/lottas-och-bjorns-band.gpx` (only dense track that visits both Blåhammaren and Storlien village)
+- **Kvikkjokk → Abisko:** Padjelanta-west → **Ritsem** → **KL** via **Sälka** → Abisko ([dag-for-dag](./dag-for-dag-2028.md))  
+- **First major shop:** **Storlien** — see [dag-for-dag](./dag-for-dag-2028.md) · GPX ref `tracks/source/lottas-och-bjorns-band.gpx`
 - **Accommodation mix:** **mostly tent**; planned **H** at **Storlien**, Gäddede, Hemavan, Kvikkjokk, **Ritsem**, Kungsleden huts, **Lappjord / Altevass (DNT)**, Pältsa (see [planned hut nights](./dag-for-dag-2028.md))  
 - **DNT key** required for Norwegian huts after Abisko (Lappjordhytta, Altevasshytta, Gaskashytta, Rostahytta)  
 - **Border / permit notes:** *(if relevant)*  
-- **Waypoints:** [VGB regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places; **this plan: väster om only** (S→N = point **east** of track). No village entry for VGB. ICA at **D** is resupply only. Wide corridor OK.
+- **Waypoints:** [VGB regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places; **väster om** (S→N = point **east** of track). Wide corridor OK. ICA at **D** = resupply.
 
 **Key waypoints / sections** *(fill as route is chosen)*  
 
@@ -73,7 +73,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 | 4 | Hemavan → Kvikkjokk | 12 | ~22 km/day |
 | 5 | Kvikkjokk → Sälka | 11 | Padjelanta-west via Ritsem · own `tracks/source/2028-plan-kvikkjokk-abisko.gpx` |
 | 5b | Sälka → Abisko | 4 | KL ~18 km/day · own `tracks/source/2028-plan-kvikkjokk-abisko.gpx` |
-| 6 | Abisko → Treriksröset / Pältsa | 6 | **Mårten line** · Nordkalottleden · `tracks/source/martens-band.gpx` |
+| 6 | Abisko → Treriksröset / Pältsa | 6 | **2028 plan** · Nordkalottleden · `tracks/source/2028-plan-abisko-paltsa.gpx` |
 | **Total** | | **65** | **~1,280 km** table (+ GPS length) |
 
 ---
@@ -88,7 +88,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 ### Skills
 - [ ] Navigation & whiteout practice  
 - [ ] Cold injury prevention & camp routines  
-- [ ] ~~Avalanche kit~~ — **not on this line** (stay off steep alpine; no beacon/probe/shovel)  
+- [ ] No avalanche kit — moderate terrain; stay off steep alpine slopes  
 - [ ] Repair: skis, bindings, stove, tent  
 
 ### Mental (solo)
@@ -191,11 +191,11 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 | 2026-05-18 | Planning doc started |
 | 2026-05-18 | Day-by-day plan: Feb–Apr, pulk, tent — see [dag-for-dag-2028.md](./dag-for-dag-2028.md) |
 | 2026-05-18 | Kvikkjokk → Abisko: **Padjelantaleden via Ritsem**, then Kungsleden to Abisko |
-| 2026-05-18 | After Abisko: **Mårten line** Lappjord → Altevass → Treriksröset → Pältsa (`tracks/source/martens-band.gpx`) |
+| 2026-05-18 | After Abisko: **2028 plan GPX** Lappjord → Altevass → Treriksröset → Pältsa (`tracks/source/2028-plan-abisko-paltsa.gpx`) |
 | 2026-05-18 | **Compact 65-day** schedule: easy start, **~22 km** cruise pace; Apr slack |
 | 2026-05-18 | **Local resupply guide** — [resupply-2028.md](./resupply-2028.md) (food + Primus/Coleman fuel) |
-| 2026-05-19 | **Storlien variant** — Grövelsjön → Storlien → Gäddede (not Undersåker/Flatruet); Undersåker **W** day 12 only |
+| 2026-05-19 | **Storlien** — Grövelsjön → Storlien → Gäddede; Undersåker **W** day 12 |
 | 2026-05-19 | **Start moved to 15 Feb** — goal **19 Apr**; Kvikkjokk ~**29 Mar** |
-| 2026-05-19 | **Section 3:** Lapplandsleden Klimpfjäll → Hemavan; Jäckvik **W** day 32 (not Laisdalen-first loop) |
-| 2026-05-19 | **Section 5:** Kvikkjokk → Sälka via **Paolo corridor** (not deep Padjelanta loop) |
-| 2026-05-19 | **Section 6:** Abisko → Treriksröset via **Ola line** (not long Torneträsk ice / full Gaskash–Rostah hop) |
+| 2026-05-19 | **Section 3:** Lapplandsleden Klimpfjäll → Hemavan; Jäckvik **W** day 32 |
+| 2026-05-19 | **Section 5:** Kvikkjokk → Sälka via Padjelanta-west / Ritsem |
+| 2026-05-19 | **Section 6:** Abisko → Treriksröset via Nordkalottleden (Lappjord / Altevass) |

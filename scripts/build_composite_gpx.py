@@ -23,8 +23,8 @@ Section source mix (best match per dag-for-dag-2028.md):
   4 Hemavan → Kvikkjokk      Mårten (Jäckvik W +0.9 km)
   5 Kvikkjokk → Abisko       2028 plan GPX (Garmin Desktop, 6 902 dense pts,
                              avg 38 m): §5 K→Sälka via Padjelanta-west / Ritsem
-                             + §5b Sälka→Abisko via Kungsleden (was Paolo, 13 pts)
-  6 Abisko → Pältsa          Mårten (dense; Ola was 59 pts max gap 9.9 km)
+                             + §5b Sälka→Abisko via Kungsleden
+  6 Abisko → Pältsa          2028-plan-abisko-paltsa.gpx (2028 nord.GPX from Downloads)
 """
 
 from __future__ import annotations
@@ -45,7 +45,11 @@ GPX_NS = "http://www.topografix.com/GPX/1/1"
 
 MILESTONES = {
     "GROVEL": (62.10, 12.31),
+    "HAVLINGEN": (62.216, 12.354),       # Länsstyrelsen Hävlingestugorna (Lake Hävlingen)
     "ROGEN": (62.316879, 12.450456),     # STF Rogen fjällstuga (Rogenstugan)
+    "DALSTENHAN": (62.420, 12.286),      # Dalstenshån — north shore camp (Day 3)
+    "HAMRA": (62.548, 12.408),           # Hamra Livs · Hamravägen 73, Tänndalen (Day 4 D)
+    "SKARVRUET": (62.539318, 12.408265), # STF Skarvruet vandrarhem (budget H near Hamra)
     "HELAGS": (62.917359, 12.506156),    # STF Helags fjällstation
     "BLAHAMM": (63.187081, 12.174362),   # STF Blåhammaren
     "STORLIEN": (63.298, 12.101),
@@ -65,11 +69,11 @@ MILESTONES = {
 # section track by interpolated planned km). pin_milestone overrides position
 # with literal milestone coords (resupply pins).
 SECTION1_CAMPS = [
-    (1, "2028-02-15",   8, "Långfjället approach", "T", "Camp N of STF Grövelsjön", None),
-    (2, "2028-02-16",  20, "Långfjället",          "T", "",                          None),
-    (3, "2028-02-17",  34, "Tännäs",               "T", "",                          None),
-    (4, "2028-02-18",  50, "Ljusnedal",            "T", "",                          None),
-    (5, "2028-02-19",  67, "Vålådalen",            "T", "",                          None),
+    (1, "2028-02-15",  14, "Hävlingestugorna", "T", "Länsstyrelsen stugor · ~13 km N of Grövelsjön", "HAVLINGEN"),
+    (2, "2028-02-16",  29, "STF Rogen area", "T", "Tent sites ~100 m from hut · H optional if open (27 Feb–19 Apr)", "ROGEN"),
+    (3, "2028-02-17",  44, "Dalstenshån N",          "T", "North shore · Rogen nature reserve", "DALSTENHAN"),
+    (4, "2028-02-18",  63, "Tänndalen",            "D", "Hamra Livs resup · ~6 km detour east", "HAMRA"),
+    (5, "2028-02-19",  67, "Vålådalen",            "T", "West fjäll · past Tänndalen", None),
     (6, "2028-02-20",  85, "Ottfjället",           "T", "",                          None),
     (7, "2028-02-21", 104, "Sylarna W",            "T", "STF cluster väster om",     None),
     (8, "2028-02-22", 124, "Blåhammaren area",     "T", "Pass STF Blåhammaren",      None),
@@ -121,7 +125,7 @@ SECTIONS: list[Section] = [
             SubSegment("Grövelsjön → Helags → Blåhammaren → Storlien",
                        "lottas-och-bjorns-band-track.json", "GROVEL", "STORLIEN"),
         ],
-        waypoints=["GROVEL", "ROGEN", "HELAGS", "BLAHAMM", "STORLIEN"],
+        waypoints=["GROVEL", "HAVLINGEN", "ROGEN", "DALSTENHAN", "HAMRA", "SKARVRUET", "HELAGS", "BLAHAMM", "STORLIEN"],
         camps=SECTION1_CAMPS,
         start_cum_km=0,
     ),
@@ -179,7 +183,8 @@ SECTIONS: list[Section] = [
         title="Abisko → Pältsa",
         filename="section-6-abisko-paltsa.gpx",
         subsegments=[
-            SubSegment("Abisko → Pältsa", "martens-band-track.json", "ABISKO", "PALTSA"),
+            SubSegment("Abisko → Pältsa (2028 plan)",
+                       "2028-plan-abisko-paltsa.gpx", "ABISKO", "PALTSA"),
         ],
         waypoints=["ABISKO", "TRERIK", "PALTSA"],
         start_cum_km=1165,
@@ -406,7 +411,11 @@ def build_section_track(
 
 WPT_LABELS = {
     "GROVEL":   "Grövelsjön",
+    "HAVLINGEN": "Hävlingestugorna",
     "ROGEN":    "STF Rogen fjällstuga",
+    "DALSTENHAN": "Dalstenshån (north shore)",
+    "HAMRA":      "Hamra Livs (Tänndalen)",
+    "SKARVRUET":  "STF Skarvruet vandrarhem",
     "HELAGS":   "Helags fjällstation",
     "BLAHAMM":  "Blåhammaren fjällstation",
     "STORLIEN": "Storlien",
@@ -547,8 +556,9 @@ def write_composite_gpx(
         "Composite route for Vita Bandet 2028 — six trksegs, one per Section. "
         "Sources: Lotta & Björn (S1 Grövelsjön→Storlien + S2 Storlien→Gäddede), "
         "Kalle (S3 Gäddede→Klimpfjäll) + lapland-trail-summer.gpx (S3 Klimpfjäll→Hemavan), "
-        "Mårten (S4 Hemavan→Kvikkjokk, S6 Abisko→Pältsa), "
-        "2028-plan-kvikkjokk-abisko.gpx (S5 + S5b — Padjelanta-west via Ritsem and KL via Sälka)."
+        "Mårten (S4 Hemavan→Kvikkjokk), "
+        "2028-plan-kvikkjokk-abisko.gpx (S5 + S5b — Padjelanta-west via Ritsem and KL via Sälka), "
+        "2028-plan-abisko-paltsa.gpx (S6 — Nordkalottleden Abisko→Pältsa)."
     )
     trk = SubElement(gpx, "trk")
     SubElement(trk, "name").text = name
