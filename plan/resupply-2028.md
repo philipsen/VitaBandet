@@ -34,7 +34,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 |-----|------|-----------|---------------------|--------|
 | **1** | **Grövelsjön** | **Ask** | STF shop / Fjällbua — outdoor section | Often **canisters only** — **ignore**; start bottles **full from home** |
 | **~3** | **Tännäs / Bruksvallarna** (off-line) | **Ask** | **Stigmyhrs Livs** Bruksvallarna (24/7 Bank-ID) + Bruksvallarnas Sportcenter | Side trip 5–10 km; Sportcenter may have **friluftsbensin** |
-| **4** | **Tänndalen** (Hamra Livs) | **Unlikely** | Village livs — small selection | Planned **D** · ~6 km detour east · food top-up only |
+| **4** | **Tänndalen** (Hamra Livs) | **Unlikely** | Village livs — small selection | Planned **D** · ~6 km detour **west** · food top-up only |
 | **~7** | **Jämtland STF cluster** (Storulvån / Sylarna / Helags) | **Rare** | STF butik (basics + outdoor) — opens **19–21 Feb 2026** | Snacks + outdoor gear; no fuel — restaurants open |
 | **9** | **Storlien** | **Ask** | Coop / Fjellhandeln / Sportringen — outdoor | **Liquid alkylate only** (no canisters); ask **alkylbensin / Power Fuel** |
 | **~11** | **Kolåsen** (Fjällhotell) | **No** | Hotel only — restaurant prebook; vandrarhem året om | **H** option; no shop |
@@ -142,16 +142,16 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 ### Day 4 — Tänndalen · **D** (planned mid-leg top-up)
 
-*Day 4 camp — detour **~3 km east** from the band line (~62.55°N, 12.35°E on track) to Hamra Livs.*
+*Day 4 camp — detour **west** from the band line (~62.55°N, **12.31°E** on track) to **Hamra Livs** at **62.574°N, 12.226°E** (Hamra / Tännäs — not the Skarvruet area at 12.41°E).*
 
 | Where | Food | Fuel | Sleep |
 |-------|------|------|-------|
-| **Hamra Livs** · Hamravägen 73, 846 98 Tänndalen | Village livs — basics: bread, dairy, pasta, snacks, fresh produce when stocked | **Unlikely** alkylbensin — ask for camping fuel, otherwise skip | **T** near shop |
-| **STF Skarvruet vandrarhem** · Skarvruvägen 20 | Self-catering kitchen — eat what you buy at Hamra | — | **H** budget · dorm/shared bath · **year-round** · [skarvruet.com](https://www.skarvruet.com/en/hostel/) · 0684-221 11 · STF member price |
+| **Hamra Livs** · Hamravägen 73, 846 98 Tänndalen · **62.574°N, 12.226°E** | Village livs — basics: bread, dairy, pasta, snacks, fresh produce when stocked | **Unlikely** alkylbensin — ask for camping fuel, otherwise skip | **T** near shop |
+| **STF Skarvruet vandrarhem** · Skarvruvägen 20 · **62.539°N, 12.408°E** | Self-catering kitchen — only if you detour to Skarvruet (**~10 km** from Hamra Livs) | — | **H** budget · dorm/shared bath · **year-round** · [skarvruet.com](https://www.skarvruet.com/en/hostel/) · 0684-221 11 · STF member price |
 
 **Use it as:** mid-leg food top-up so you don't carry 8–9 days from Grövelsjön. Carry **~4–5 days** Grövelsjön → Tänndalen (D4), then **~4–5 days** Tänndalen → Storlien. **~6 km** round-trip off the line to the shop. Hours: daily **09:00–19:00** ([tanndalen.com](https://www.tanndalen.com/mat-noeje/hamra-livs/)); peak winter often until 21:00.
 
-**Cheap H:** Skarvruet **hostel** (not the vintage hotel) is the best value near Hamra — shared facilities, own cooking. **Ski Lodge Tänndalen** and private stugor are resort-priced. **Funäsdalen** ICA (~15 km east) only if you need a full supermarket or bus out.
+**Cheap H:** After **Hamra Livs**, camp near the shop or use **Tänndalsvallen / Fjällnäs** camping (see dag-for-dag). **Skarvruet hostel** is budget lodging but **~10 km** away in the Skarvruet area — only if you add that separate detour. **Funäsdalen** ICA (~15 km east) only if you need a full supermarket or bus out.
 
 ---
 

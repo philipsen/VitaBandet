@@ -17107,13 +17107,82 @@
       </trkpt>
     </trkseg>
   </trk>
+  <wpt lat="64.688269" lon="14.194517">
+    <name>D23 · Vilhelmina fjäll</name>
+    <desc>Section 3 · 2028-03-08 · cum 437 km · T · Wild camp · ~10 days food to Hemavan</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="64.830000" lon="15.070000">
+    <name>D24 · Borgafjäll</name>
+    <desc>Section 3 · 2028-03-09 · cum 460 km · T · Optional H Borgafjäll Hotell</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.050000" lon="15.320000">
+    <name>D25 · Saxnäs</name>
+    <desc>Section 3 · 2028-03-10 · cum 482 km · T · Optional D Marsfjällshandlarn</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.083689" lon="14.743495">
+    <name>D26 · Pauträsk / Vitveden</name>
+    <desc>Section 3 · 2028-03-11 · cum 504 km · T</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.067000" lon="14.770000">
+    <name>D27 · Klimpfjäll</name>
+    <desc>Section 3 · 2028-03-12 · cum 526 km · T · Optional D Handlar'n</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.345018" lon="14.778089">
+    <name>D28 · Virisen</name>
+    <desc>Section 3 · 2028-03-13 · cum 549 km · T · Lapplandsleden · cabins often closed Mar</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.439601" lon="14.609138">
+    <name>D29 · Tärnaby west</name>
+    <desc>Section 3 · 2028-03-14 · cum 571 km · T</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.569109" lon="14.585544">
+    <name>D30 · Atoklimpen approach</name>
+    <desc>Section 3 · 2028-03-15 · cum 593 km · T · Exposed</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.830000" lon="15.080000">
+    <name>D31 · Hemavan</name>
+    <desc>Section 3 · 2028-03-16 · cum 610 km · D · ICA Fjällboden · STF · Hemavan Fjällcenter camping</desc>
+    <sym>City</sym>
+    <type>resupply</type>
+  </wpt>
+  <wpt lat="66.383000" lon="16.967000">
+    <name>D32 · Jäckvik W</name>
+    <desc>Section 3 · 2028-03-17 · cum 640 km · T · W detour · optional ICA</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
   <wpt lat="64.520000" lon="14.140000">
     <name>Gäddede</name>
+  </wpt>
+  <wpt lat="64.830000" lon="15.070000">
+    <name>Borgafjäll Hotell</name>
+  </wpt>
+  <wpt lat="65.050000" lon="15.320000">
+    <name>Saxnäs / Marsfjäll</name>
   </wpt>
   <wpt lat="65.067000" lon="14.770000">
     <name>Klimpfjäll</name>
   </wpt>
   <wpt lat="65.830000" lon="15.080000">
     <name>Hemavan</name>
+  </wpt>
+  <wpt lat="66.383000" lon="16.967000">
+    <name>Jäckvik</name>
   </wpt>
 </gpx>

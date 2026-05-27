@@ -772,9 +772,9 @@
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="62.548000" lon="12.408000">
+  <wpt lat="62.574270" lon="12.226190">
     <name>D4 · Tänndalen</name>
-    <desc>Section 1 · 2028-02-18 · cum 63 km · D · Hamra Livs resup · ~6 km detour east</desc>
+    <desc>Section 1 · 2028-02-18 · cum 63 km · D · Hamra Livs resup · ~6 km detour west</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>
@@ -820,7 +820,7 @@
   <wpt lat="62.420000" lon="12.286000">
     <name>Dalstenshån (north shore)</name>
   </wpt>
-  <wpt lat="62.548000" lon="12.408000">
+  <wpt lat="62.574270" lon="12.226190">
     <name>Hamra Livs (Tänndalen)</name>
   </wpt>
   <wpt lat="62.539318" lon="12.408265">

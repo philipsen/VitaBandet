@@ -48,8 +48,8 @@ MILESTONES = {
     "HAVLINGEN": (62.216, 12.354),       # Länsstyrelsen Hävlingestugorna (Lake Hävlingen)
     "ROGEN": (62.316879, 12.450456),     # STF Rogen fjällstuga (Rogenstugan)
     "DALSTENHAN": (62.420, 12.286),      # Dalstenshån — north shore camp (Day 3)
-    "HAMRA": (62.548, 12.408),           # Hamra Livs · Hamravägen 73, Tänndalen (Day 4 D)
-    "SKARVRUET": (62.539318, 12.408265), # STF Skarvruet vandrarhem (budget H near Hamra)
+    "HAMRA": (62.57427, 12.22619),       # Hamra Livs · Hamravägen 73, Hamra/Tännäs (Day 4 D)
+    "SKARVRUET": (62.539318, 12.408265), # STF Skarvruet vandrarhem (separate area ~10 km E of Hamra Livs)
     "HELAGS": (62.917359, 12.506156),    # STF Helags fjällstation
     "BLAHAMM": (63.187081, 12.174362),   # STF Blåhammaren
     "STORLIEN": (63.298, 12.101),
@@ -63,6 +63,20 @@ MILESTONES = {
     "ABISKO": (68.35, 18.83),
     "TRERIK": (69.06, 20.55),
     "PALTSA": (69.045, 20.739),
+    # Section 3 — Vildmarksvägen / Lapplandsleden
+    "BORGAFJALL": (64.83, 15.07),
+    "SAXNAS": (65.05, 15.32),
+    # Section 4 — KL west
+    "AMMARNAS": (65.9566, 16.2014),       # Ammarnäs Fritidscenter / STF Wärdshus area
+    "ADOLFSTROM": (66.27749, 16.665675), # Adolfström Camping (Handelsbod ~66.10°N — call ahead)
+    "VUOGGATJALME": (66.49, 16.55),
+    # Section 5 — Padjelanta-west + KL
+    "SALTOLUOKTA": (67.394089, 18.520761),  # STF Saltoluokta (optional east detour)
+    "NIKKALUOKTA": (67.850827, 19.012983),  # Nikkaluokta Sarri camping
+    # Section 6 — Nordkalottleden
+    "LAPPJORD": (68.5539, 19.3364),       # DNT Lappjordhytta
+    "ALTEVASS": (68.6723, 19.6981),       # DNT Altevasshytta (on nord GPX corridor)
+    "BJORKLIDEN": (68.437, 18.279),       # Björkliden Camping (~10 km from Abisko; no RV in park)
 }
 
 # Camp stops per section — cum km from dag-for-dag-2028.md (placed along the
@@ -72,7 +86,7 @@ SECTION1_CAMPS = [
     (1, "2028-02-15",  14, "Hävlingestugorna", "T", "Länsstyrelsen stugor · ~13 km N of Grövelsjön", "HAVLINGEN"),
     (2, "2028-02-16",  29, "STF Rogen area", "T", "Tent sites ~100 m from hut · H optional if open (27 Feb–19 Apr)", "ROGEN"),
     (3, "2028-02-17",  44, "Dalstenshån N",          "T", "North shore · Rogen nature reserve", "DALSTENHAN"),
-    (4, "2028-02-18",  63, "Tänndalen",            "D", "Hamra Livs resup · ~6 km detour east", "HAMRA"),
+    (4, "2028-02-18",  63, "Tänndalen",            "D", "Hamra Livs resup · ~6 km detour west", "HAMRA"),
     (5, "2028-02-19",  67, "Vålådalen",            "T", "West fjäll · past Tänndalen", None),
     (6, "2028-02-20",  85, "Ottfjället",           "T", "",                          None),
     (7, "2028-02-21", 104, "Sylarna W",            "T", "STF cluster väster om",     None),
@@ -94,6 +108,61 @@ SECTION2_CAMPS = [
     (20, "2028-03-05", 382, "Gäddede approach",        "T", "Light day before D",              None),
     (21, "2028-03-06", 400, "Gäddede fringe",          "T", "Camp near village",               None),
     (22, "2028-03-07", 415, "Gäddede",                 "D", "ICA · Frostvikens · 9–10 days food","GADDEDE"),
+]
+
+SECTION3_CAMPS = [
+    (23, "2028-03-08", 437, "Vilhelmina fjäll",        "T", "Wild camp · ~10 days food to Hemavan", None),
+    (24, "2028-03-09", 460, "Borgafjäll",              "T", "Optional H Borgafjäll Hotell", "BORGAFJALL"),
+    (25, "2028-03-10", 482, "Saxnäs",                  "T", "Optional D Marsfjällshandlarn", "SAXNAS"),
+    (26, "2028-03-11", 504, "Pauträsk / Vitveden",     "T", "", None),
+    (27, "2028-03-12", 526, "Klimpfjäll",              "T", "Optional D Handlar'n", "KLIMPF"),
+    (28, "2028-03-13", 549, "Virisen",                 "T", "Lapplandsleden · cabins often closed Mar", None),
+    (29, "2028-03-14", 571, "Tärnaby west",            "T", "", None),
+    (30, "2028-03-15", 593, "Atoklimpen approach",     "T", "Exposed", None),
+    (31, "2028-03-16", 610, "Hemavan",                 "D", "ICA Fjällboden · STF · Hemavan Fjällcenter camping", "HEMAVAN"),
+    (32, "2028-03-17", 640, "Jäckvik W",               "T", "W detour · optional ICA", "JACKVIK"),
+]
+
+SECTION4_CAMPS = [
+    (33, "2028-03-18", 662, "Syterstuga west",         "T", "Steep · KL west", None),
+    (34, "2028-03-19", 684, "Tärnasjön",               "T", "Ice travel · wind funnel", None),
+    (35, "2028-03-20", 705, "Ammarnäs",                "T", "Optional D Handlar'n · Fritidscenter camping", "AMMARNAS"),
+    (36, "2028-03-21", 727, "Adolfström",              "T", "Optional D/camping · Adolfström Camping", "ADOLFSTROM"),
+    (37, "2028-03-22", 748, "Hornavan ice",            "T", "Ice check AM only", None),
+    (38, "2028-03-23", 770, "Vuoggatjålme",            "H", "Optional middag · stuga/caravan site", "VUOGGATJALME"),
+    (39, "2028-03-24", 792, "Aktse",                   "T", "", None),
+    (40, "2028-03-25", 814, "Rapadalen west",          "T", "Sarek views", None),
+    (41, "2028-03-26", 836, "Sitojaure",               "T", "STF tält + serviceavgift if hut open", None),
+    (42, "2028-03-27", 858, "Kaitumjaure",             "T", "", None),
+    (43, "2028-03-28", 880, "Toward Kvikkjokk",        "T", "", None),
+    (44, "2028-03-29", 900, "Kvikkjokk",               "D", "STF max stock · wild T + paid shower", "KVIKK"),
+]
+
+SECTION5_CAMPS = [
+    (45, "2028-03-30", 917, "Kvikkjokk north",         "T", "6–7 days food + all alkylate to Ritsem", None),
+    (46, "2028-03-31", 935, "Padjelanta west",         "T", "GPS essential", None),
+    (47, "2028-04-01", 953, "Stora Sjøfallet",         "T", "Laponia · no shops", None),
+    (48, "2028-04-02", 971, "Saltoluokta side",        "T", "W corridor · STF tent if east detour", None),
+    (49, "2028-04-03", 988, "W of Saltoluokta",        "T", "W Saltoluokta", None),
+    (50, "2028-04-04", 1006, "Áhkká / Ritsem fjäll",   "T", "", None),
+    (51, "2028-04-05", 1024, "Ritsem approach",        "T", "", None),
+    (52, "2028-04-06", 1040, "Ritsem",                 "D", "Power Fuel alkylate · STF H", "RITSEM"),
+    (53, "2028-04-07", 1058, "Sitojaure",              "H", "KL · optional hut top-up", None),
+    (54, "2028-04-08", 1076, "Hukejaure",              "T", "W Nikkaluokta · Sarri camping optional", None),
+    (55, "2028-04-09", 1093, "Sälka",                  "H", "STF Sälka · tent if full", "SALKA"),
+    (56, "2028-04-10", 1111, "Tjäktja",                "T", "Steep pass", None),
+    (57, "2028-04-11", 1129, "Alesjaure",              "T", "STF tält at hut", None),
+    (58, "2028-04-12", 1147, "Abiskojaure",            "T", "Last hut before Abisko village", None),
+    (59, "2028-04-13", 1165, "Abisko",                 "D", "Fjällboden · STF tent site · Björkliden RV ~10 km", "ABISKO"),
+]
+
+SECTION6_CAMPS = [
+    (60, "2028-04-14", 1187, "Abisko north",           "T", "7–8 days food + ~2 L alkylate", None),
+    (61, "2028-04-15", 1209, "Nikkaluokta W",          "T", "W corridor · Sarri camping optional", "NIKKALUOKTA"),
+    (62, "2028-04-16", 1229, "Lappjordhytta",          "H", "DNT · no pantry", "LAPPJORD"),
+    (63, "2028-04-17", 1251, "Altevasshytta",          "H", "DNT · no pantry", "ALTEVASS"),
+    (64, "2028-04-18", 1268, "Treriksröset",           "GOAL", "W goal · wide corridor OK", "TRERIK"),
+    (65, "2028-04-19", 1278, "Pältsa",                 "D", "STF shop · trip end", "PALTSA"),
 ]
 
 
@@ -151,7 +220,8 @@ SECTIONS: list[Section] = [
             SubSegment("Klimpfjäll → Hemavan (Lapplandsleden)",
                        "lapland-trail-summer.gpx", "KLIMPF", "HEMAVAN"),
         ],
-        waypoints=["GADDEDE", "KLIMPF", "HEMAVAN"],
+        waypoints=["GADDEDE", "BORGAFJALL", "SAXNAS", "KLIMPF", "HEMAVAN", "JACKVIK"],
+        camps=SECTION3_CAMPS,
         start_cum_km=415,
     ),
     Section(
@@ -162,7 +232,8 @@ SECTIONS: list[Section] = [
             SubSegment("Hemavan → Jäckvik → Kvikkjokk",
                        "martens-band-track.json", "HEMAVAN", "KVIKK"),
         ],
-        waypoints=["HEMAVAN", "JACKVIK", "KVIKK"],
+        waypoints=["HEMAVAN", "JACKVIK", "AMMARNAS", "ADOLFSTROM", "VUOGGATJALME", "KVIKK"],
+        camps=SECTION4_CAMPS,
         start_cum_km=640,
     ),
     Section(
@@ -175,7 +246,8 @@ SECTIONS: list[Section] = [
             SubSegment("§5b Sälka → Abisko (Kungsleden)",
                        "2028-plan-kvikkjokk-abisko.gpx", "SALKA", "ABISKO"),
         ],
-        waypoints=["KVIKK", "RITSEM", "SALKA", "ABISKO"],
+        waypoints=["KVIKK", "RITSEM", "SALTOLUOKTA", "SALKA", "NIKKALUOKTA", "ABISKO", "BJORKLIDEN"],
+        camps=SECTION5_CAMPS,
         start_cum_km=900,
     ),
     Section(
@@ -186,7 +258,8 @@ SECTIONS: list[Section] = [
             SubSegment("Abisko → Pältsa (2028 plan)",
                        "2028-plan-abisko-paltsa.gpx", "ABISKO", "PALTSA"),
         ],
-        waypoints=["ABISKO", "TRERIK", "PALTSA"],
+        waypoints=["ABISKO", "NIKKALUOKTA", "LAPPJORD", "ALTEVASS", "TRERIK", "PALTSA"],
+        camps=SECTION6_CAMPS,
         start_cum_km=1165,
     ),
 ]
@@ -429,6 +502,16 @@ WPT_LABELS = {
     "ABISKO":   "Abisko",
     "TRERIK":   "Treriksröset",
     "PALTSA":   "Pältsa",
+    "BORGAFJALL": "Borgafjäll Hotell",
+    "SAXNAS":   "Saxnäs / Marsfjäll",
+    "AMMARNAS": "Ammarnäs (Fritidscenter / STF)",
+    "ADOLFSTROM": "Adolfström Camping",
+    "VUOGGATJALME": "Vuoggatjålme Fjällhotell",
+    "SALTOLUOKTA": "STF Saltoluokta",
+    "NIKKALUOKTA": "Nikkaluokta Sarri",
+    "LAPPJORD": "Lappjordhytta (DNT)",
+    "ALTEVASS": "Altevasshytta (DNT)",
+    "BJORKLIDEN": "Björkliden Camping",
 }
 
 
@@ -444,13 +527,20 @@ def camp_waypoints_for_section(section: Section, section_track: list[dict]) -> l
         desc = f"Section {section.id} · {date} · cum {cum_km} km · {acc}"
         if note:
             desc += f" · {note}"
-        sym = "Campground" if acc == "T" else "City"
+        if acc == "T":
+            sym, wpt_type = "Campground", "camp"
+        elif acc == "GOAL":
+            sym, wpt_type = "Flag, Red", "goal"
+        elif acc == "H":
+            sym, wpt_type = "Lodging", "hut"
+        else:
+            sym, wpt_type = "City", "resupply"
         wpts.append(
             {
                 "name": f"D{day} · {place}",
                 "lat": lat, "lon": lon,
                 "desc": desc, "sym": sym,
-                "type": "camp" if acc == "T" else "resupply",
+                "type": wpt_type,
             }
         )
     return wpts

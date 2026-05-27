@@ -77038,9 +77038,9 @@
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="62.548000" lon="12.408000">
+  <wpt lat="62.574270" lon="12.226190">
     <name>D4 · Tänndalen</name>
-    <desc>Section 1 · 2028-02-18 · cum 63 km · D · Hamra Livs resup · ~6 km detour east</desc>
+    <desc>Section 1 · 2028-02-18 · cum 63 km · D · Hamra Livs resup · ~6 km detour west</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>
@@ -77152,6 +77152,264 @@
     <sym>City</sym>
     <type>resupply</type>
   </wpt>
+  <wpt lat="64.688269" lon="14.194517">
+    <name>D23 · Vilhelmina fjäll</name>
+    <desc>Section 3 · 2028-03-08 · cum 437 km · T · Wild camp · ~10 days food to Hemavan</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="64.830000" lon="15.070000">
+    <name>D24 · Borgafjäll</name>
+    <desc>Section 3 · 2028-03-09 · cum 460 km · T · Optional H Borgafjäll Hotell</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.050000" lon="15.320000">
+    <name>D25 · Saxnäs</name>
+    <desc>Section 3 · 2028-03-10 · cum 482 km · T · Optional D Marsfjällshandlarn</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.083689" lon="14.743495">
+    <name>D26 · Pauträsk / Vitveden</name>
+    <desc>Section 3 · 2028-03-11 · cum 504 km · T</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.067000" lon="14.770000">
+    <name>D27 · Klimpfjäll</name>
+    <desc>Section 3 · 2028-03-12 · cum 526 km · T · Optional D Handlar'n</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.345018" lon="14.778089">
+    <name>D28 · Virisen</name>
+    <desc>Section 3 · 2028-03-13 · cum 549 km · T · Lapplandsleden · cabins often closed Mar</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.439601" lon="14.609138">
+    <name>D29 · Tärnaby west</name>
+    <desc>Section 3 · 2028-03-14 · cum 571 km · T</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.569109" lon="14.585544">
+    <name>D30 · Atoklimpen approach</name>
+    <desc>Section 3 · 2028-03-15 · cum 593 km · T · Exposed</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.830000" lon="15.080000">
+    <name>D31 · Hemavan</name>
+    <desc>Section 3 · 2028-03-16 · cum 610 km · D · ICA Fjällboden · STF · Hemavan Fjällcenter camping</desc>
+    <sym>City</sym>
+    <type>resupply</type>
+  </wpt>
+  <wpt lat="66.383000" lon="16.967000">
+    <name>D32 · Jäckvik W</name>
+    <desc>Section 3 · 2028-03-17 · cum 640 km · T · W detour · optional ICA</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.887324" lon="15.381734">
+    <name>D33 · Syterstuga west</name>
+    <desc>Section 4 · 2028-03-18 · cum 662 km · T · Steep · KL west</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.977256" lon="15.590186">
+    <name>D34 · Tärnasjön</name>
+    <desc>Section 4 · 2028-03-19 · cum 684 km · T · Ice travel · wind funnel</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.956600" lon="16.201400">
+    <name>D35 · Ammarnäs</name>
+    <desc>Section 4 · 2028-03-20 · cum 705 km · T · Optional D Handlar'n · Fritidscenter camping</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="66.277490" lon="16.665675">
+    <name>D36 · Adolfström</name>
+    <desc>Section 4 · 2028-03-21 · cum 727 km · T · Optional D/camping · Adolfström Camping</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="66.212382" lon="16.378184">
+    <name>D37 · Hornavan ice</name>
+    <desc>Section 4 · 2028-03-22 · cum 748 km · T · Ice check AM only</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="66.490000" lon="16.550000">
+    <name>D38 · Vuoggatjålme</name>
+    <desc>Section 4 · 2028-03-23 · cum 770 km · H · Optional middag · stuga/caravan site</desc>
+    <sym>Lodging</sym>
+    <type>hut</type>
+  </wpt>
+  <wpt lat="66.392739" lon="17.042094">
+    <name>D39 · Aktse</name>
+    <desc>Section 4 · 2028-03-24 · cum 792 km · T</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="66.523816" lon="17.241740">
+    <name>D40 · Rapadalen west</name>
+    <desc>Section 4 · 2028-03-25 · cum 814 km · T · Sarek views</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="66.639321" lon="17.399273">
+    <name>D41 · Sitojaure</name>
+    <desc>Section 4 · 2028-03-26 · cum 836 km · T · STF tält + serviceavgift if hut open</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="66.795116" lon="17.539613">
+    <name>D42 · Kaitumjaure</name>
+    <desc>Section 4 · 2028-03-27 · cum 858 km · T</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="66.949475" lon="17.718815">
+    <name>D43 · Toward Kvikkjokk</name>
+    <desc>Section 4 · 2028-03-28 · cum 880 km · T</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="66.951300" lon="17.728500">
+    <name>D44 · Kvikkjokk</name>
+    <desc>Section 4 · 2028-03-29 · cum 900 km · D · STF max stock · wild T + paid shower</desc>
+    <sym>City</sym>
+    <type>resupply</type>
+  </wpt>
+  <wpt lat="66.957000" lon="17.380193">
+    <name>D45 · Kvikkjokk north</name>
+    <desc>Section 5 · 2028-03-30 · cum 917 km · T · 6–7 days food + all alkylate to Ritsem</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="67.070032" lon="17.151464">
+    <name>D46 · Padjelanta west</name>
+    <desc>Section 5 · 2028-03-31 · cum 935 km · T · GPS essential</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="67.218822" lon="17.099097">
+    <name>D47 · Stora Sjøfallet</name>
+    <desc>Section 5 · 2028-04-01 · cum 953 km · T · Laponia · no shops</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="67.334374" lon="17.205995">
+    <name>D48 · Saltoluokta side</name>
+    <desc>Section 5 · 2028-04-02 · cum 971 km · T · W corridor · STF tent if east detour</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="67.473778" lon="17.155897">
+    <name>D49 · W of Saltoluokta</name>
+    <desc>Section 5 · 2028-04-03 · cum 988 km · T · W Saltoluokta</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="67.586019" lon="17.230241">
+    <name>D50 · Áhkká / Ritsem fjäll</name>
+    <desc>Section 5 · 2028-04-04 · cum 1006 km · T</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="67.714589" lon="17.435343">
+    <name>D51 · Ritsem approach</name>
+    <desc>Section 5 · 2028-04-05 · cum 1024 km · T</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="67.732700" lon="17.471100">
+    <name>D52 · Ritsem</name>
+    <desc>Section 5 · 2028-04-06 · cum 1040 km · D · Power Fuel alkylate · STF H</desc>
+    <sym>City</sym>
+    <type>resupply</type>
+  </wpt>
+  <wpt lat="67.883218" lon="17.778792">
+    <name>D53 · Sitojaure</name>
+    <desc>Section 5 · 2028-04-07 · cum 1058 km · H · KL · optional hut top-up</desc>
+    <sym>Lodging</sym>
+    <type>hut</type>
+  </wpt>
+  <wpt lat="67.939546" lon="18.065307">
+    <name>D54 · Hukejaure</name>
+    <desc>Section 5 · 2028-04-08 · cum 1076 km · T · W Nikkaluokta · Sarri camping optional</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="67.946376" lon="18.281701">
+    <name>D55 · Sälka</name>
+    <desc>Section 5 · 2028-04-09 · cum 1093 km · H · STF Sälka · tent if full</desc>
+    <sym>Lodging</sym>
+    <type>hut</type>
+  </wpt>
+  <wpt lat="68.099127" lon="18.310015">
+    <name>D56 · Tjäktja</name>
+    <desc>Section 5 · 2028-04-10 · cum 1111 km · T · Steep pass</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="68.166651" lon="18.444425">
+    <name>D57 · Alesjaure</name>
+    <desc>Section 5 · 2028-04-11 · cum 1129 km · T · STF tält at hut</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="68.286531" lon="18.595369">
+    <name>D58 · Abiskojaure</name>
+    <desc>Section 5 · 2028-04-12 · cum 1147 km · T · Last hut before Abisko village</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="68.350000" lon="18.830000">
+    <name>D59 · Abisko</name>
+    <desc>Section 5 · 2028-04-13 · cum 1165 km · D · Fjällboden · STF tent site · Björkliden RV ~10 km</desc>
+    <sym>City</sym>
+    <type>resupply</type>
+  </wpt>
+  <wpt lat="68.525305" lon="18.660661">
+    <name>D60 · Abisko north</name>
+    <desc>Section 6 · 2028-04-14 · cum 1187 km · T · 7–8 days food + ~2 L alkylate</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="67.850827" lon="19.012983">
+    <name>D61 · Nikkaluokta W</name>
+    <desc>Section 6 · 2028-04-15 · cum 1209 km · T · W corridor · Sarri camping optional</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="68.553900" lon="19.336400">
+    <name>D62 · Lappjordhytta</name>
+    <desc>Section 6 · 2028-04-16 · cum 1229 km · H · DNT · no pantry</desc>
+    <sym>Lodging</sym>
+    <type>hut</type>
+  </wpt>
+  <wpt lat="68.672300" lon="19.698100">
+    <name>D63 · Altevasshytta</name>
+    <desc>Section 6 · 2028-04-17 · cum 1251 km · H · DNT · no pantry</desc>
+    <sym>Lodging</sym>
+    <type>hut</type>
+  </wpt>
+  <wpt lat="69.060000" lon="20.550000">
+    <name>D64 · Treriksröset</name>
+    <desc>Section 6 · 2028-04-18 · cum 1268 km · GOAL · W goal · wide corridor OK</desc>
+    <sym>Flag, Red</sym>
+    <type>goal</type>
+  </wpt>
+  <wpt lat="69.045000" lon="20.739000">
+    <name>D65 · Pältsa</name>
+    <desc>Section 6 · 2028-04-19 · cum 1278 km · D · STF shop · trip end</desc>
+    <sym>City</sym>
+    <type>resupply</type>
+  </wpt>
   <wpt lat="62.100000" lon="12.310000">
     <name>Grövelsjön</name>
   </wpt>
@@ -77164,7 +77422,7 @@
   <wpt lat="62.420000" lon="12.286000">
     <name>Dalstenshån (north shore)</name>
   </wpt>
-  <wpt lat="62.548000" lon="12.408000">
+  <wpt lat="62.574270" lon="12.226190">
     <name>Hamra Livs (Tänndalen)</name>
   </wpt>
   <wpt lat="62.539318" lon="12.408265">
@@ -77182,6 +77440,12 @@
   <wpt lat="64.520000" lon="14.140000">
     <name>Gäddede</name>
   </wpt>
+  <wpt lat="64.830000" lon="15.070000">
+    <name>Borgafjäll Hotell</name>
+  </wpt>
+  <wpt lat="65.050000" lon="15.320000">
+    <name>Saxnäs / Marsfjäll</name>
+  </wpt>
   <wpt lat="65.067000" lon="14.770000">
     <name>Klimpfjäll</name>
   </wpt>
@@ -77191,17 +77455,41 @@
   <wpt lat="66.383000" lon="16.967000">
     <name>Jäckvik</name>
   </wpt>
+  <wpt lat="65.956600" lon="16.201400">
+    <name>Ammarnäs (Fritidscenter / STF)</name>
+  </wpt>
+  <wpt lat="66.277490" lon="16.665675">
+    <name>Adolfström Camping</name>
+  </wpt>
+  <wpt lat="66.490000" lon="16.550000">
+    <name>Vuoggatjålme Fjällhotell</name>
+  </wpt>
   <wpt lat="66.951300" lon="17.728500">
     <name>Kvikkjokk</name>
   </wpt>
   <wpt lat="67.732700" lon="17.471100">
     <name>Ritsem (STF)</name>
   </wpt>
+  <wpt lat="67.394089" lon="18.520761">
+    <name>STF Saltoluokta</name>
+  </wpt>
   <wpt lat="67.946376" lon="18.281701">
     <name>Sälka fjällstation</name>
   </wpt>
+  <wpt lat="67.850827" lon="19.012983">
+    <name>Nikkaluokta Sarri</name>
+  </wpt>
   <wpt lat="68.350000" lon="18.830000">
     <name>Abisko</name>
+  </wpt>
+  <wpt lat="68.437000" lon="18.279000">
+    <name>Björkliden Camping</name>
+  </wpt>
+  <wpt lat="68.553900" lon="19.336400">
+    <name>Lappjordhytta (DNT)</name>
+  </wpt>
+  <wpt lat="68.672300" lon="19.698100">
+    <name>Altevasshytta (DNT)</name>
   </wpt>
   <wpt lat="69.060000" lon="20.550000">
     <name>Treriksröset</name>
