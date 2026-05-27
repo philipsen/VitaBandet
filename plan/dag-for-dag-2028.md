@@ -56,7 +56,7 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 
 #### Day 1 · Tue 15 Feb · 14 km (cum 14) · Grövelsjön · **D** → Hävlingestugorna
 
-**D** at **STF Grövelsjön** (shop, register Vita Bandet, final pulk check) — then leave on **Södra Kungsleden** north toward **Långfjället** and **Hävlingen** (~13 km).  
+**D** at **STF Grövelsjön** (shop, register Vita Bandet, final pulk check) — then leave on **Södra Kungsleden** north toward **Långfjället** and **Hävlingen**.
 Camp near **Hävlingestugorna** (Länsstyrelsen · five 4-bed cabins + one 6-bed · stugvärd mid-Feb–end Apr · sauna · book via Länsstyrelsen). Pack food for **8–9 days** to Storlien.
 
 | Acc | Notes |
@@ -66,7 +66,7 @@ Camp near **Hävlingestugorna** (Länsstyrelsen · five 4-bed cabins + one 6-bed
 
 #### Day 2 · Wed 16 Feb · 15 km (cum 29) · STF Rogen area
 
-North from **Hävlingen** across **Långfjället** toward **Rogen** (~13–15 km) — open heath and bog, snowmobile spår where safe.  
+North from **Hävlingen** across **Långfjället** toward **Rogen** — open heath and bog, snowmobile spår where safe.  
 **T** at STF tent sites (~100 m from hut) in sparse birch forest. **H optional:** **STF Rogen fjällstuga** if stugvärd is on duty (listed winter season **27 Feb – 19 Apr** · ~18 beds · shop · sauna · book via STF). On **16 Feb** the main hut is usually still closed — plan tent unless you have confirmed opening.
 
 | Acc | Notes |
@@ -79,7 +79,7 @@ North from **Hävlingen** across **Långfjället** toward **Rogen** (~13–15 km
 Continue north through **Rogen** nature reserve toward **Dalstenshån** (~62.42°N, 12.29°E).  
 **T** on the **north shore** of the lake (open fjäll, good tent spots).
 
-**Optional detour east** (~5–10 km) for **D** / restaurants at **Tännäs / Bruksvallarna**: **STF Tännäskröket + Restaurang Árran** (White Guide); **Stigmyhrs Livs** **24/7 with Bank-ID** (~62.62°N, 12.41°E); **Bruksvallarnas Sportcenter** (outdoor/friluftsbensin). See [resupply](./resupply-2028.md).
+**Optional detour east** for **D** / restaurants at **Tännäs / Bruksvallarna**: **STF Tännäskröket + Restaurang Árran** (White Guide); **Stigmyhrs Livs** **24/7 with Bank-ID** (~62.62°N, 12.41°E); **Bruksvallarnas Sportcenter** (outdoor/friluftsbensin). See [resupply](./resupply-2028.md).
 
 | Acc | Notes |
 |-----|-------|
@@ -87,15 +87,19 @@ Continue north through **Rogen** nature reserve toward **Dalstenshån** (~62.42�
 
 #### Day 4 · Fri 18 Feb · 20 km (cum 63) · Tänndalen · **D**
 
-North from **Dalstenshån** along the band line (~14 km), then **detour east ~3 km** to **Hamra Livs** (Hamravägen 73, 846 98 Tänndalen) — **~6 km** round-trip off the line. Village livs **daily 09:00–19:00** (often until 21:00 peak winter); **070-241 11 84**. Mid-leg **D**: carry **~4–5 days** food from Grövelsjön, restock **~4–5 days** to Storlien. Unlikely alkylate — food only. See [resupply](./resupply-2028.md).
+North from **Dalstenshån** along the band line, then **detour east ~3 km** to **Hamra Livs** (Hamravägen 73, 846 98 Tänndalen) — **~6 km** round-trip off the line. Village livs **daily 09:00–19:00** (often until 21:00 peak winter); **070-241 11 84**. Mid-leg **D**: carry **~4–5 days** food from Grövelsjön, restock **~4–5 days** to Storlien. Unlikely alkylate — food only. See [resupply](./resupply-2028.md).
 
 **H (budget):** **[STF Skarvruet vandrarhem](https://www.skarvruet.com/en/hostel/)** (Skarvruvägen 20 · ~3 km from Hamra Livs · dorm + shared bath · self-catering kitchen · **open year-round** · STF member discount · 0684-221 11). Hotel wing pricier; **T** in village or by the shop works too.
+
+**Tänndalen camping option:** **Tänndalsvallens Camping** (Tänndalsvallen 640 · +46 684-221 94 · [info@tanndalsvallen.nu](mailto:info@tanndalsvallen.nu)) is listed **open year-round** with service house (WC/shower/dish area), electric pitches, and direct connection to ski/snowmobile trails. Good fallback if you want powered overnight with pulk drying.
+
+**Fjällnäs (near Tänndalen):** **[Fjällnäs Camping & Lodges](https://fjallnascamping.com/)** (Fjällnäsvägen 51 · 846 98 Tänndalen) — **open year-round**. ~20 electric pitches, tent field, heated service building (kitchen, showers, toilets, drying room, WiFi). Winter: mix of seasonal and a few flexible pitches; **book ahead** for a flexible pitch in Oct–May. Also rents **lodges** (stugor, pet-free) and **apartments** (some allow dogs, fee). On **Malmagen**; sauna bookable. Quieter than lift-adjacent Tänndalsvallen.
 
 | Acc | Notes |
 |-----|-------|
 | **D** | Hamra Livs · planned detour |
-| **H** | Optional budget — STF Skarvruet vandrarhem |
-| **T** | Village / Hamra area if skipping hostel |
+| **H** | Optional budget — STF Skarvruet; or Fjällnäs lodges / apartments |
+| **T** | Village / Hamra, Tänndalsvallens Camping, or Fjällnäs Camping |
 
 #### Day 5 · Sat 19 Feb · 9 km (cum 67) · Vålådalen
 
@@ -607,7 +611,7 @@ Prepare for **Section 6** Abisko → Pältsa — **Nordkalottleden** via **Lappj
 
 *Track: `tracks/source/2028-plan-abisko-paltsa.gpx` (Garmin `2028 nord.GPX`).*
 
-*Abisko → **Lappjord** → **Altevass** → **Treriksröset** in **~5 days** (~160 km). **DNT huts = no pantry** — eat from Abisko load.*
+*Abisko → **Lappjord** → **Altevass** → **Treriksröset** in **~5 days**. **DNT huts = no pantry** — eat from Abisko load.*
 
 #### Day 60 · Fri 14 Apr · 22 km (cum 1187) · Abisko north
 
