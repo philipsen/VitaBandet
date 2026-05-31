@@ -205,23 +205,23 @@ Leave Storlien **north** on snowmobile spår past **Norder-Rensjön** — camp *
 |-----|-------|
 | **T** | On track · north end Norder-Rensjön · carry 10–12 days food from Storlien |
 
-#### Day 12 · Sat 26 Feb · 18 km (cum 201) · Anjan
+#### Day 12 · Sat 26 Feb · 18 km (cum 201) · Skalstugan
 
-Fjäll travel toward **Anjan** — **Kolåsen** is still **~55 km** ahead on the track.
-
-| Acc | Notes |
-|-----|-------|
-| **T** | Anjan |
-
-#### Day 13 · Sun 27 Feb · 18 km (cum 219) · Hotagen väster om
-
-**Hotagen** fringe — remote, GPS essential (no scooters in reserve core).
+Fjäll travel toward **Skalstugan** on the Storlien–Kolåsen line — **Kolåsen** is still **~55 km** ahead on the track.
 
 | Acc | Notes |
 |-----|-------|
-| **T** | On track west of Hotagen |
+| **T** | Skalstugan corridor |
 
-#### Day 14 · Mon 28 Feb · 20 km (cum 239) · Mot Kolåsen
+#### Day 13 · Sun 27 Feb · 16 km (cum 217) · Hotagen väster om
+
+Camp **on the band track** at the **west shore** of the lake in the **Hotagen** fringe (63.638°N, 12.515°E) — remote, GPS essential (no scooters in reserve core).
+
+| Acc | Notes |
+|-----|-------|
+| **T** | On track · lake edge · west of Hotagen |
+
+#### Day 14 · Mon 28 Feb · 22 km (cum 239) · Mot Kolåsen
 
 Continue north on permitted winter lines toward **Kolåsen**.
 

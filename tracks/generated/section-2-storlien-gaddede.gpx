@@ -1091,14 +1091,14 @@
     <type>camp</type>
   </wpt>
   <wpt lat="63.57125814" lon="12.26638717">
-    <name>D12 · Anjan</name>
+    <name>D12 · Skalstugan</name>
     <desc>Section 2 · 2028-02-26 · cum 201 km · T · Depot optional</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="63.65729673" lon="12.52624534">
+  <wpt lat="63.6398137" lon="12.51673546">
     <name>D13 · Hotagen väster om</name>
-    <desc>Section 2 · 2028-02-27 · cum 219 km · T · Remote · toward Kolåsen</desc>
+    <desc>Section 2 · 2028-02-27 · cum 217 km · T · On track at lake edge · toward Kolåsen</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>

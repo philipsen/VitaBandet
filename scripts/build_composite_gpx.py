@@ -116,8 +116,8 @@ SECTION1_CAMPS = [
 
 SECTION2_CAMPS = [
     (11, "2028-02-25", 183, "Norder Rensjön",        "T", "Track leaves north end of lake · carry 10–12 days food", None),
-    (12, "2028-02-26", 201, "Anjan", "T", "Depot optional", None),
-    (13, "2028-02-27", 219, "Hotagen väster om", "T", "Remote · toward Kolåsen", None),
+    (12, "2028-02-26", 201, "Skalstugan", "T", "Depot optional", None),
+    (13, "2028-02-27", 217, "Hotagen väster om", "T", "On track at lake edge · toward Kolåsen", None),
     (14, "2028-02-28", 239, "Mot Kolåsen", "T", "Remote · no scooter spår", None),
     (15, "2028-02-29", 257, "Kolåsen", "T", "H optional · depot · restaurant prebook", "KOLASEN"),
     (16, "2028-03-01", 267, "Olden", "T", "On track — not Valsjöbua (that is D21)", "OLDEN"),

@@ -458,7 +458,7 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 | Place | Status (2026 → assume similar 2028) | Why off-route | When to use |
 |-------|-------------------------------------|----------------|-------------|
 | **Funäsdalen** (ICA Supermarket Coop) | Year-round full village — Rörosvägen 13A · 0684 21007 | ~15 km east of Tänndalen / Day 4–5 line | Storm hold; resupply for both food + bus rescue |
-| **Skalstugan** (border guesthouse, Day 11) | **Private SEB pension** — outsiders only "i mån av plats" (full pension) | On Storlien–Kolåsen scooter line | Skip — not a public stop |
+| **Skalstugan** (border guesthouse, Day 12) | **Private SEB pension** — outsiders only "i mån av plats" (full pension) | On Storlien–Kolåsen scooter line | Skip — not a public stop |
 | **Laisvall / Laisdalen** | Eastern corridor — small services | Long detour east | Only if weather forces lower route |
 | **STF Saltoluokta Fjällstation** | **27 Feb – 19 Apr 2026** · restaurant (frukost+middag) + butik · 25–27 Jun music festival | **East of plan line — VGB rule: väster om only** | Emergency H + meal; loses VGB compliance for Saltoluokta |
 | **STF Vakkotavare Fjällstuga** | 27 Feb – 19 Apr · self-service only · roadside Gällivare–Ritsem | Roadside hut — bail-out node | Bus to Gällivare / Ritsem · no pantry |
