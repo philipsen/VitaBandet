@@ -41,7 +41,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 | **15** | **Kolåsen** (Fjällhotell) | **No** | Hotel only — restaurant prebook; vandrarhem året om | **H** option; no shop |
 | **16** | **Olden** (corridor) | **No** | — | On track only — **not** Valsjöbua |
 | **21** | **Valsjöbyn** (Valsjöbua) ★ | **Maybe** | Lanthandel + Systembolag + post + frystorkad; **"gas" sold** — ask if liquid alkylbensin in stock | Bandet hub · **free Bandare vandrarhem** · jour 072-1933833 |
-| **23–24** | **Gäddede approach / Gäddede** | **Maybe** | **Frostvikens El** (Gäddede) · **ICA Blåsjöfjäll** optional detour (~35 km off track) | Blåsjö pump ★ if you detour; else Frostvikens at **D24** |
+| **23–24** | **Gäddede väster om / Gäddede** | **Maybe** | **Frostvikens El** (Gäddede) · **ICA Blåsjöfjäll** optional detour (~35 km off track) | Blåsjö pump ★ if you detour; else Frostvikens at **D24** |
 | **26** | **Borgafjäll** (Hotell) | **No** | Hotel/restaurant only — no village livs of size | **H** option; restaurant 18–21 daily |
 | **27** | **Saxnäs** (Marsfjällshandlarn) | **Maybe** | Handlar'n — frystorkad, **gasol**, isdubbar, friluft; **Marsfjäll Mountain Lodge** restaurant | Vildmarksvägen mid-leg top-up |
 | **29** | **Klimpfjäll** (Handlar'n) | **Unlikely** | Village livs — small selection | Food top-up only; don't count on alkylate |
@@ -202,7 +202,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 ---
 
-### Day 21 — Valsjöbyn · **D** ★ Bandet hero stop
+### Day 21 — Valsjöbua · **D** ★ Bandet hero stop
 
 *Valsjöbyn ~64.068°N, 14.139°E — on the Band track (cum ~352 km).*
 
@@ -218,7 +218,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 ---
 
-### Day 23–24 — Gäddede approach / Gäddede · optional **Blåsjöfjäll** detour
+### Day 23–24 — Gäddede väster om / Gäddede · optional **Blåsjöfjäll** detour
 
 *Gäddede on the Band track ~64.52°N, 14.14°E (cum ~418 km). **ICA Nära Blåsjöfjäll** at Stora Blåsjön (64.836°N, 14.083°E) is **~35 km off the Band track** — not on the daily line.*
 
