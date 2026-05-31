@@ -62,9 +62,9 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 
 | Box | Size / role | Contents |
 |-----|-------------|----------|
-| **1 — dinners** | Largest, **flat** (≈3–6 cm high) | Pasta, rice, couscous, freeze-dried, sauce, tins |
-| **2 — lunches** | Medium flat | Bars, nuts, cheese, salami, dense snacks |
-| **3 — today** | Small, shallow — **top of food stack** | Today + tomorrow: bars, drink mix, tea (opens every break) |
+| **1 — dinners** | Largest, **flat** (≈3–6 cm high) | Pasta, rice, couscous, **frozen meat**, tins, freeze-dried, sauce |
+| **2 — lunches + breakfast** | Medium flat | **Bars** (choklad + müsli), **nötter**, **müsli**, **mjölkpulver** · **Polarbröd**, salami, ost (variation days) |
+| **3 — today** | Small, shallow — **top of food stack** | **Today’s lunch:** 4 bars + nuts · tomorrow bars · drink mix · tea |
 
 **Rules**
 
@@ -116,18 +116,18 @@ At camp (reverse):
 
 ## Food & fuel by leg
 
-Buy on trail — **8–10 days food** typical; **~4,000–5,000 kcal/day** solo pulk. Full shop list: [resupply-2028.md](./resupply-2028.md).
+Buy on trail — **8–10 days food** typical; **~4,000–5,000 kcal/day** solo pulk. Meals: [trail-meals-2028.md](./trail-meals-2028.md) · shops: [resupply-2028.md](./resupply-2028.md).
 
 | Leave | Days to next shop | Food carry | Fuel note |
 |-------|-------------------|------------|-----------|
 | **Grövelsjön** (D1) | 8 → Storlien | 8–9 days | **Full liquid alkylate from home** — no canisters |
-| **Storlien** (D10) | 13 → Gäddede | 10–12 days | **Liquid tins only** — decant into bottles |
-| **Gäddede** (D23) | 9 → Hemavan | 9–10 days | Try Frostvikens El · optional Blåsjö detour D22–23 |
-| **Hemavan** (D32) ★ | 12 → Kvikkjokk | 11–12 days | **Max fill** before long leg |
-| **Kvikkjokk** (D45) ★ | 6–7 → Ritsem | **Max leg** — Padjelanta-west | **Call for alkylate**; else rely on Hemavan fill + **2nd 1 L bottle** |
-| **Ritsem** (D53) ★ | 7 → Abisko | 6–7 days | **Power Fuel** — decant |
-| **Abisko** (D60) ★ | 6 → Pältsa | **7–8 days** | **~2 L liquid alkylate**; **canisters OK from here** if desired |
-| **Pältsa** (~D65) | — | Top-up | Near goal |
+| **Storlien** (D10) | 14 → Gäddede | 10–12 days | **Liquid tins only** — decant into bottles |
+| **Gäddede** (D24) | 11 → Hemavan | 9–10 days | Try Frostvikens El · optional Blåsjö detour D22–23 |
+| **Hemavan** (D35) ★ | 12 → Kvikkjokk | 11–12 days | **Max fill** before long leg |
+| **Kvikkjokk** (D47) ★ | 7–8 → Ritsem | **Max leg** — Padjelanta-west | **Call for alkylate**; else rely on Hemavan fill + **2nd 1 L bottle** |
+| **Ritsem** (D55) ★ | 7 → Abisko | 6–7 days | **Power Fuel** — decant |
+| **Abisko** (D62) ★ | 6 → Pältsa | **7–8 days** | **~2 L liquid alkylate**; **canisters OK from here** if desired |
+| **Pältsa** (~D68) | — | Top-up | Near goal |
 
 **Heaviest pulk days:** leaving **Storlien**, **Hemavan**, and **Kvikkjokk** (food + fuel together). Lightest: **2–3 days after** a big shop.
 
@@ -207,6 +207,7 @@ If the tent is unusable: bag + pad already in Sleeper → zip up as wind shell. 
 | [pack-checklist-2028.md](./pack-checklist-2028.md) | Tick-list before departure |
 | [gear-inventory-2028.md](./gear-inventory-2028.md) | Kit detail, pulk & Sleeper specs |
 | [resupply-2028.md](./resupply-2028.md) | Shops, alkylate, carry table |
+| [trail-meals-2028.md](./trail-meals-2028.md) | Breakfast + dinner recipes, protein guide |
 | [dag-for-dag-2028.md](./dag-for-dag-2028.md) | Daily km and resupply days |
 
 ---

@@ -307,6 +307,7 @@ At camp: unstrap Sleeper → pull bag/pad → pitch Nallo. Repack dry before nex
 | **Simmer** | Titanium conducts fast — use stove simmer to avoid hot spots / burned food |
 | **Stability** | Set pot on **flat stone / sit pad** in Nallo vestibule; hold windscreen if gusty |
 | **Lid** | Pan as lid speeds melting; keep **lid lifter** or glove |
+| **Pan fry** | ~142 mm Ti pan suits **bacon, korv, eggs, pannkakor, corned beef** — use **extra smör/olja**; uncoated Ti sticks without enough fat |
 | **Fuel** | Large pot = slightly longer boils — track **g/day** on shakedown |
 
 **Verdict:** **Keep** — no need for heavier 2.5 L pot unless you melt for two or cook elaborate meals.

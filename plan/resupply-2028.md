@@ -4,7 +4,30 @@
 
 Source: [vitagronabandet.se — service & depåer](https://www.vitagronabandet.se/infor-turen/service-depaer/) (verify opening hours before you leave).
 
-Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
+Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days. Meals: [trail-meals-2028.md](./trail-meals-2028.md).
+
+---
+
+## Breakfast & protein — what shops stock
+
+*Buy on trail — do not depot unless you have a special diet.*
+
+| Item | On route? | Notes |
+|------|-----------|-------|
+| **Mjölkpulver** (Nido, Semper) | **Yes** — ICA, Coop, Handlar'n | Standard shelf item; one pack lasts many legs |
+| **Crunchy müsli / granola** | **Yes** — full shops; usually village livs | **Not** Quaker Cruesli (expat shops only) |
+| **Pannkaksmix** | **Yes** — ICA, Coop | Kungsörnen / ICA / Felix |
+| **Polarbröd** | **Yes** — everywhere; Norrland icon | Jubileums, Tunna, Pita — soft lunch bread |
+| **Knäckebröd** | **Yes** — everywhere | Wasa, Leksands — shelf-stable |
+| **Chokladbars** | **Yes** — everywhere | Mars, Snickers, Bounty, Twix, multipacks |
+| **Müsli- / granolabars** | **Yes** — everywhere | Nature Valley, Friskis, ICA/Coop brands |
+| **Nötter** | **Yes** — everywhere | Cashew, mandel, jordnötter, mix |
+| **Salami / chark** | **Yes** — ICA+; village livs | Lunch variation with Polarbröd/knäcke |
+| **Plain canned chicken** | **No** | Not standard Swedish stock |
+| **Corned beef, skinka, pilsnerkorv** (burk) | **Yes** — ICA+; often village livs | Backup / tail of leg — see [trail-meals](./trail-meals-2028.md) |
+| **Frozen & fresh meat** (korv, kyckling, bacon, köttfärs) | **Yes** — full ICA/Coop; Ritsem STF chilled | **Primary protein in cold** — pulk keeps frozen **~5–7 days** Feb–Mar |
+| **Felix köttbullar / ravioli** (burk) | **Yes** — everywhere | Ready-meal tins |
+| **Tonfisk** | Yes but optional | Skip if you prefer — use corned beef instead |
 
 ---
 
