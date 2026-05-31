@@ -127,13 +127,13 @@ Print this page. Details: [packing-pulk-2028.md](./packing-pulk-2028.md) · [gea
 | Day | Place |
 |-----|-------|
 | 1 | Grövelsjön (start full) |
-| 9 | Storlien (Coop / Fjellhandeln) |
-| 22 | Gäddede (+ Frostvikens fuel?) |
-| 31 | Hemavan ICA ★ halfway · max fuel |
-| 32 | Jäckvik (optional — VGB **W** only) |
-| 44 | Kvikkjokk ★ **max before Ritsem / Paolo leg** |
-| 52 | Ritsem ★ shop |
-| 59 | Abisko ★ **7–8 days food + ~2 L fuel** |
+| 10 | Storlien (Coop / Fjellhandeln) |
+| 24 | Gäddede (+ Frostvikens fuel?) |
+| 33 | Hemavan ICA ★ halfway · max fuel |
+| 34 | Jäckvik (optional — VGB **W** only) |
+| 46 | Kvikkjokk ★ **max before Ritsem / Paolo leg** |
+| 54 | Ritsem ★ shop |
+| 61 | Abisko ★ **7–8 days food + ~2 L fuel** |
 | ~65 | Pältsa (near goal) |
 
 **DNT huts (60–64):** no food · no fuel · shelter only

@@ -646,7 +646,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 | Leg | Days | Resupply | Carry (white gas, guide) |
 |-----|------|----------|---------------------------|
 | Grövelsjön → Storlien | 8 | Day 1 shop | **1.5–2 L** in 1 L bottles |
-| → Gäddede | 13 | Day 9 Storlien | ask alkylate; refill → **2 L** on hand |
+| → Gäddede | 13 | Day 10 Storlien | ask alkylate; refill → **2 L** on hand |
 | → Hemavan | 9 | Day 22 → day 31 | **2 L** |
 | → Kvikkjokk | 12 | Day 31 Hemavan ★ | **2 L** · max fill |
 | → Ritsem | 6–7 | Day 44 **max fill** | **2–2.5 L** (Padjelanta-west to Ritsem) |

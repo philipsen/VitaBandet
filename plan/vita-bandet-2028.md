@@ -2,7 +2,7 @@
 
 Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https://www.vitagronabandet.se/) (The White Ribbon): human-powered travel along Sweden’s mountain chain, typically **Grövelsjön ↔ Treriksröset** (~1,400 km), in one continuous winter journey.
 
-**Target season:** **15 Feb – 19 Apr 2028** (65-day plan · **~11 days slack** to 30 Apr)  
+**Target season:** **15 Feb – 21 Apr 2028** (67-day plan · **~9 days slack** to 30 Apr)  
 **Mode:** ski + **pulk**, **mostly tent**  
 **Direction:** **S → N** — Grövelsjön → Treriksröset  
 **Party:** **solo**  
@@ -22,7 +22,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 | Direction | **South → north** (Grövelsjön → Treriksröset) |
 | Variant | Full continuous |
 | Start window | **15 Feb 2028** |
-| End deadline (if any) | **~19 Apr 2028** goal (65 days); **30 Apr** latest weather slack |
+| End deadline (if any) | **~21 Apr 2028** goal (67 days); **30 Apr** latest weather slack |
 | Pace | **Easy start** (10–17 km) → **~22 km/day** cruise (typical winter Bandet) |
 | Travel | Ski + **pulk** |
 | Accommodation | **Mostly tent** (~75–85%); hut at resupply / weather (~12–15 nights) |
@@ -55,7 +55,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 - **Daily distance target (km):** ramp **10 → 23 km**; cruise **~20–23 km** (~22 km winter average); see [dag-for-dag](./dag-for-dag-2028.md)  
 - **Rest / weather buffer:** no fixed **R** days — resupply stops only; **Apr 20–30** = ~11 spare days  
 - **Resupply strategy:** **local shops first** (see [resupply-2028.md](./resupply-2028.md)); depots only for special items  
-- **Fuel:** **Alkylaatbenzine** in bottles only until **Abisko** (white-gas jet + silencer); **no gas canisters** before day 59 — see [resupply alkylate list](./resupply-2028.md)  
+- **Fuel:** **Alkylaatbenzine** in bottles only until **Abisko** (white-gas jet + silencer); **no gas canisters** before day 61 — see [resupply alkylate list](./resupply-2028.md)  
 - **Kvikkjokk → Abisko:** Padjelanta-west → **Ritsem** → **KL** via **Sälka** → Abisko ([dag-for-dag](./dag-for-dag-2028.md))  
 - **First major shop:** **Storlien** — see [dag-for-dag](./dag-for-dag-2028.md) · GPX ref `tracks/source/lottas-och-bjorns-band.gpx`
 - **Accommodation mix:** **mostly tent**; planned **H** at **Storlien**, Gäddede, Hemavan, Kvikkjokk, **Ritsem**, Kungsleden huts, **Lappjord / Altevass (DNT)**, Pältsa (see [planned hut nights](./dag-for-dag-2028.md))  
@@ -67,14 +67,14 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 | Section | From → To | Days | Notes |
 |---------|-----------|------|--------|
-| 1 | Grövelsjön → Storlien | 9 | Härjedalen → Sylarna side; Håkafot **W** |
+| 1 | Grövelsjön → Storlien | 10 | Härjedalen → Sylarna side; Håkafot **W** |
 | 2 | Storlien → Gäddede | 13 | Kolåsen / Hotagen; Undersåker **W** only |
 | 3 | Gäddede → Hemavan | 10 | **Lapplandsleden** via Klimpfjäll; Jäckvik **W** after Hemavan |
 | 4 | Hemavan → Kvikkjokk | 12 | ~22 km/day |
 | 5 | Kvikkjokk → Sälka | 11 | Padjelanta-west via Ritsem · own `tracks/source/2028-plan-kvikkjokk-abisko.gpx` |
 | 5b | Sälka → Abisko | 4 | KL ~18 km/day · own `tracks/source/2028-plan-kvikkjokk-abisko.gpx` |
 | 6 | Abisko → Treriksröset / Pältsa | 6 | **2028 plan** · Nordkalottleden · `tracks/source/2028-plan-abisko-paltsa.gpx` |
-| **Total** | | **65** | **~1,280 km** table (+ GPS length) |
+| **Total** | | **67** | **~1,280 km** table (+ GPS length) |
 
 ---
 

@@ -792,19 +792,25 @@
   </wpt>
   <wpt lat="62.917359" lon="12.506156">
     <name>D7 · Helags väster om</name>
-    <desc>Section 1 · 2028-02-21 · cum 109 km · T · STF Helags · Sylarna/Blåhammaren pass-through tomorrow</desc>
+    <desc>Section 1 · 2028-02-21 · cum 109 km · T · STF Helags · Sylarna/Blåhammaren ahead</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.045833" lon="12.259167">
     <name>D8 · Sylarna väster om</name>
-    <desc>Section 1 · 2028-02-22 · cum 129 km · T · STF Sylarna · pass Blåhammaren (~147 km) en route D9</desc>
+    <desc>Section 1 · 2028-02-22 · cum 129 km · T · STF Sylarna · Blåhammaren tomorrow</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="63.187081" lon="12.174362">
+    <name>D9 · Blåhammaren väster om</name>
+    <desc>Section 1 · 2028-02-23 · cum 147 km · T · STF Blåhammaren · butik/self-catering</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.298000" lon="12.101000">
-    <name>D9 · Storlien</name>
-    <desc>Section 1 · 2028-02-23 · cum 161 km · D · Coop · resupply</desc>
+    <name>D10 · Storlien</name>
+    <desc>Section 1 · 2028-02-24 · cum 161 km · D · Coop · resupply</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>

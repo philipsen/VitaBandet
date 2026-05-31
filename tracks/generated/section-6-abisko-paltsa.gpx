@@ -36380,38 +36380,38 @@
     </trkseg>
   </trk>
   <wpt lat="68.525305" lon="18.660661">
-    <name>D60 · Abisko north</name>
-    <desc>Section 6 · 2028-04-14 · cum 1187 km · T · 7–8 days food + ~2 L alkylate</desc>
+    <name>D62 · Abisko north</name>
+    <desc>Section 6 · 2028-04-16 · cum 1187 km · T · 7–8 days food + ~2 L alkylate</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="67.850827" lon="19.012983">
-    <name>D61 · Nikkaluokta W</name>
-    <desc>Section 6 · 2028-04-15 · cum 1209 km · T · W corridor · Sarri camping optional</desc>
+    <name>D63 · Nikkaluokta W</name>
+    <desc>Section 6 · 2028-04-17 · cum 1209 km · T · W corridor · Sarri camping optional</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="68.553900" lon="19.336400">
-    <name>D62 · Lappjordhytta</name>
-    <desc>Section 6 · 2028-04-16 · cum 1229 km · H · DNT · no pantry</desc>
+    <name>D64 · Lappjordhytta</name>
+    <desc>Section 6 · 2028-04-18 · cum 1229 km · H · DNT · no pantry</desc>
     <sym>Lodging</sym>
     <type>hut</type>
   </wpt>
   <wpt lat="68.672300" lon="19.698100">
-    <name>D63 · Altevasshytta</name>
-    <desc>Section 6 · 2028-04-17 · cum 1251 km · H · DNT · no pantry</desc>
+    <name>D65 · Altevasshytta</name>
+    <desc>Section 6 · 2028-04-19 · cum 1251 km · H · DNT · no pantry</desc>
     <sym>Lodging</sym>
     <type>hut</type>
   </wpt>
   <wpt lat="69.060000" lon="20.550000">
-    <name>D64 · Treriksröset</name>
-    <desc>Section 6 · 2028-04-18 · cum 1268 km · GOAL · W goal · wide corridor OK</desc>
+    <name>D66 · Treriksröset</name>
+    <desc>Section 6 · 2028-04-20 · cum 1268 km · GOAL · W goal · wide corridor OK</desc>
     <sym>Flag, Red</sym>
     <type>goal</type>
   </wpt>
   <wpt lat="69.045000" lon="20.739000">
-    <name>D65 · Pältsa</name>
-    <desc>Section 6 · 2028-04-19 · cum 1278 km · D · STF shop · trip end</desc>
+    <name>D67 · Pältsa</name>
+    <desc>Section 6 · 2028-04-21 · cum 1278 km · D · STF shop · trip end</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>

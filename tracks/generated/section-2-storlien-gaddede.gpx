@@ -1085,80 +1085,86 @@
     </trkseg>
   </trk>
   <wpt lat="63.379726" lon="12.274747">
-    <name>D10 · Skalstugan corridor</name>
-    <desc>Section 2 · 2028-02-24 · cum 178 km · T · Carry 10–12 days food</desc>
+    <name>D11 · Skalstugan corridor</name>
+    <desc>Section 2 · 2028-02-25 · cum 178 km · T · Carry 10–12 days food</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.528091" lon="12.247113">
-    <name>D11 · Anjan approach</name>
-    <desc>Section 2 · 2028-02-25 · cum 196 km · T · Depot optional</desc>
+    <name>D12 · Anjan approach</name>
+    <desc>Section 2 · 2028-02-26 · cum 196 km · T · Depot optional</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.626041" lon="12.470717">
-    <name>D12 · Hotagen west</name>
-    <desc>Section 2 · 2028-02-26 · cum 214 km · T · Remote · toward Kolåsen</desc>
+    <name>D13 · Hotagen west</name>
+    <desc>Section 2 · 2028-02-27 · cum 214 km · T · Remote · toward Kolåsen</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.699143" lon="12.678702">
-    <name>D13 · Hotagen fringe</name>
-    <desc>Section 2 · 2028-02-27 · cum 234 km · T · Remote · no scooter spår</desc>
+    <name>D14 · Hotagen fringe</name>
+    <desc>Section 2 · 2028-02-28 · cum 234 km · T · Remote · no scooter spår</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.713000" lon="12.930000">
-    <name>D14 · Kolåsen</name>
-    <desc>Section 2 · 2028-02-28 · cum 252 km · T · H optional · depot · restaurant prebook</desc>
+    <name>D15 · Kolåsen</name>
+    <desc>Section 2 · 2028-02-29 · cum 252 km · T · H optional · depot · restaurant prebook</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.707000" lon="13.107000">
-    <name>D15 · Olden</name>
-    <desc>Section 2 · 2028-02-29 · cum 262 km · T · On track — not Valsjöbua (that is D20)</desc>
+    <name>D16 · Olden</name>
+    <desc>Section 2 · 2028-03-01 · cum 262 km · T · On track — not Valsjöbua (that is D21)</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.688288" lon="13.510778">
-    <name>D16 · Frostviken south</name>
-    <desc>Section 2 · 2028-03-01 · cum 280 km · T · Undersåker väster om corridor (bridge ~55 km E)</desc>
+    <name>D17 · Frostviken south</name>
+    <desc>Section 2 · 2028-03-02 · cum 280 km · T · Undersåker väster om corridor (bridge ~55 km E)</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.743169" lon="13.732890">
-    <name>D17 · Toward Valsjöbyn</name>
-    <desc>Section 2 · 2028-03-02 · cum 298 km · T</desc>
+    <name>D18 · Toward Valsjöbyn</name>
+    <desc>Section 2 · 2028-03-03 · cum 298 km · T</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.870774" lon="13.870543">
-    <name>D18 · Ansättfjällen west</name>
-    <desc>Section 2 · 2028-03-03 · cum 316 km · T</desc>
+    <name>D19 · Ansättfjällen west</name>
+    <desc>Section 2 · 2028-03-04 · cum 316 km · T</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="64.001621" lon="14.004417">
-    <name>D19 · Regnfallet fringe</name>
-    <desc>Section 2 · 2028-03-04 · cum 334 km · T</desc>
+    <name>D20 · Regnfallet fringe</name>
+    <desc>Section 2 · 2028-03-05 · cum 334 km · T</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="64.068000" lon="14.139000">
-    <name>D20 · Valsjöbyn</name>
-    <desc>Section 2 · 2028-03-05 · cum 352 km · D · Valsjöbua ★ · Bandare vandrarhem</desc>
+    <name>D21 · Valsjöbyn</name>
+    <desc>Section 2 · 2028-03-06 · cum 352 km · D · Valsjöbua ★ · Bandare vandrarhem</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>
   <wpt lat="64.261224" lon="14.392616">
-    <name>D21 · Björkvattnet</name>
-    <desc>Section 2 · 2028-03-06 · cum 375 km · T · Light day before Gäddede</desc>
+    <name>D22 · Björkvattnet</name>
+    <desc>Section 2 · 2028-03-07 · cum 375 km · T · After Valsjöbua resupply</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="64.414892" lon="14.277444">
+    <name>D23 · Gäddede approach</name>
+    <desc>Section 2 · 2028-03-08 · cum 397 km · T · Optional Blåsjö detour (~35 km off track)</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="64.520000" lon="14.140000">
-    <name>D22 · Gäddede</name>
-    <desc>Section 2 · 2028-03-07 · cum 418 km · D · ICA · Frostvikens · Blåsjö ICA optional detour</desc>
+    <name>D24 · Gäddede</name>
+    <desc>Section 2 · 2028-03-09 · cum 418 km · D · ICA · Frostvikens</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>

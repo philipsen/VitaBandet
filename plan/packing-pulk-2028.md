@@ -1,8 +1,8 @@
 # Vita Bandet 2028 — packing the pulk
 
-**Solo · S→N · ski + pulk · mostly tent · 65 days**
+**Solo · S→N · ski + pulk · mostly tent · 67 days**
 
-Practical guide for **what goes where**, **how to load**, and **how much food/fuel** per leg. **Fuel:** liquid **alkylate in bottles only until Abisko** — no gas canisters before day 59. Gear lists: [pack-checklist-2028.md](./pack-checklist-2028.md) · [gear-inventory-2028.md](./gear-inventory-2028.md). Shops: [resupply-2028.md](./resupply-2028.md).
+Practical guide for **what goes where**, **how to load**, and **how much food/fuel** per leg. **Fuel:** liquid **alkylate in bottles only until Abisko** — no gas canisters before day 61. Gear lists: [pack-checklist-2028.md](./pack-checklist-2028.md) · [gear-inventory-2028.md](./gear-inventory-2028.md). Shops: [resupply-2028.md](./resupply-2028.md).
 
 ---
 
@@ -121,12 +121,12 @@ Buy on trail — **8–10 days food** typical; **~4,000–5,000 kcal/day** solo 
 | Leave | Days to next shop | Food carry | Fuel note |
 |-------|-------------------|------------|-----------|
 | **Grövelsjön** (D1) | 8 → Storlien | 8–9 days | **Full liquid alkylate from home** — no canisters |
-| **Storlien** (D9) | 13 → Gäddede | 10–12 days | **Liquid tins only** — decant into bottles |
-| **Gäddede** (D22) | 9 → Hemavan | 9–10 days | Try Frostvikens El |
-| **Hemavan** (D31) ★ | 12 → Kvikkjokk | 11–12 days | **Max fill** before long leg |
-| **Kvikkjokk** (D44) ★ | 6–7 → Ritsem | **Max leg** — Padjelanta-west | **Call for alkylate**; else rely on Hemavan fill + **2nd 1 L bottle** |
-| **Ritsem** (D52) ★ | 7 → Abisko | 6–7 days | **Power Fuel** — decant |
-| **Abisko** (D59) ★ | 6 → Pältsa | **7–8 days** | **~2 L liquid alkylate**; **canisters OK from here** if desired |
+| **Storlien** (D10) | 13 → Gäddede | 10–12 days | **Liquid tins only** — decant into bottles |
+| **Gäddede** (D23) | 9 → Hemavan | 9–10 days | Try Frostvikens El · optional Blåsjö detour D22–23 |
+| **Hemavan** (D32) ★ | 12 → Kvikkjokk | 11–12 days | **Max fill** before long leg |
+| **Kvikkjokk** (D45) ★ | 6–7 → Ritsem | **Max leg** — Padjelanta-west | **Call for alkylate**; else rely on Hemavan fill + **2nd 1 L bottle** |
+| **Ritsem** (D53) ★ | 7 → Abisko | 6–7 days | **Power Fuel** — decant |
+| **Abisko** (D60) ★ | 6 → Pältsa | **7–8 days** | **~2 L liquid alkylate**; **canisters OK from here** if desired |
 | **Pältsa** (~D65) | — | Top-up | Near goal |
 
 **Heaviest pulk days:** leaving **Storlien**, **Hemavan**, and **Kvikkjokk** (food + fuel together). Lightest: **2–3 days after** a big shop.
@@ -175,7 +175,7 @@ Steep days (Padjelanta, Lappjord): lower profile helps more than a bigger sled �
 | **Loaded pulk (estimate)** | **~27–38 kg** | **____ kg** |
 | On body (skiing) | 5–8 kg | |
 
-Weigh **loaded pulk + Sleeper** on the shakedown that mimics **day 9 leaving Storlien** (10-day food + full fuel).
+Weigh **loaded pulk + Sleeper** on the shakedown that mimics **day 10 leaving Storlien** (10-day food + full fuel).
 
 ---
 
