@@ -40,7 +40,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 | **10** | **Storlien** | **Ask** | Coop / Fjellhandeln / Sportringen — outdoor | **Liquid alkylate only** (no canisters); ask **alkylbensin / Power Fuel** |
 | **15** | **Kallsedet** | **No** | — | On track · optional **H** Kolåsen (~10 km detour) |
 | **17** | **Olden** (corridor) | **No** | — | On track only — **not** Valsjöbua |
-| **21** | **Valsjöbyn** (Valsjöbua) ★ | **Maybe** | Lanthandel + Systembolag + post + frystorkad; **"gas" sold** — ask if liquid alkylbensin in stock | Bandet hub · **free Bandare vandrarhem** · jour 072-1933833 |
+| **20** | **Valsjöbyn** (Valsjöbua) ★ | **Maybe** | Lanthandel + Systembolag + post + frystorkad; **"gas" sold** — ask if liquid alkylbensin in stock | Bandet hub · **free Bandare vandrarhem** · jour 072-1933833 |
 | **23–24** | **Gäddede väster om / Gäddede** | **Maybe** | **Frostvikens El** (Gäddede) · **ICA Blåsjöfjäll** optional detour (~35 km off track) | Blåsjö pump ★ if you detour; else Frostvikens at **D24** |
 | **26** | **Borgafjäll** (Hotell) | **No** | Hotel/restaurant only — no village livs of size | **H** option; restaurant 18–21 daily |
 | **27** | **Saxnäs** (Marsfjällshandlarn) | **Maybe** | Handlar'n — frystorkad, **gasol**, isdubbar, friluft; **Marsfjäll Mountain Lodge** restaurant | Vildmarksvägen mid-leg top-up |
@@ -198,13 +198,13 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 ### Day 17 — Olden (corridor only)
 
-*Olden ~63.71°N, 13.11°E on the Band track — **not** a shop. **Valsjöbua** is **~90 km further north** (Day 21).*
+*Olden ~63.698°N, 13.632°E on the Band track — **not** a shop. **Valsjöbua** is **~60 km further north** (Day 20).*
 
 ---
 
-### Day 21 — Valsjöbua · **D** ★ Bandet hero stop
+### Day 20 — Valsjöbua · **D** ★ Bandet hero stop
 
-*Valsjöbyn ~64.068°N, 14.139°E — on the Band track (cum ~352 km).*
+*Valsjöbyn ~64.068°N, 14.139°E — on the Band track (cum ~346 km).*
 
 | Where | Food | Fuel | Sleep / Depot? |
 |-------|------|------|----------------|

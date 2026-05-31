@@ -70,12 +70,12 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 | 15 Feb | Grövelsjön | 0 |
 | 23 Feb | Blåhammaren | 147 |
 | 24 Feb | Storlien · **D** | 161 |
-| 29 Feb | Kallsedet | 251 |
-| 1 Mar | Mot Olden | 255 |
-| 2 Mar | Olden (on track — not Valsjöbua) | 259 |
-| 6 Mar | Valsjöbua · **D** ★ | 357 |
-| 8 Mar | Gäddede väster om | 402 |
-| 9 Mar | Gäddede · **D** | 423 |
+| 29 Feb | Kallsedet | 250 |
+| 1 Mar | Mot Olden | 271 |
+| 2 Mar | Olden | 286 |
+| 5 Mar | Valsjöbua · **D** ★ | 346 |
+| 8 Mar | Gäddede väster om | 414 |
+| 9 Mar | Gäddede · **D** | 416 |
 | 18 Mar | Hemavan · **D** | 615 |
 | 19 Mar | Jäckvik **W** (detour) | 645 |
 | 31 Mar | Kvikkjokk | 905 |
@@ -193,10 +193,10 @@ Short descent from Blåhammaren to **Storlien** — first major resupply. **Coop
 
 ---
 
-## Section 2 — Storlien → Gäddede (262 km · days 11–24)
+## Section 2 — Storlien → Gäddede (255 km · days 11–24)
 
 *North via Kolåsen / Hotagen / **Valsjöbyn** — Undersåker is a **wide väster om corridor**, not a camp pin (bridge ~55 km east of track).*  
-**Camp waypoints (D11–D24):** aligned to the Band track; **Valsjöbua** is **~90 km north of Olden** on the line.
+**Camp waypoints (D11–D24):** from [`section-2-storlien-gaddede.gpx`](../tracks/generated/section-2-storlien-gaddede.gpx) (hand-edited — source of truth for this section).
 
 #### Day 11 · Fri 25 Feb · 22 km (cum 183) · Norder Rensjön
 
@@ -230,7 +230,7 @@ Continue north on permitted winter lines toward **Kolåsen**.
 |-----|-------|
 | **T** | Hotagen north fringe · remote |
 
-#### Day 15 · Tue 29 Feb · 12 km (cum 251) · Kallsedet
+#### Day 15 · Tue 29 Feb · 12 km (cum 250) · Kallsedet
 
 Camp **on the band track** at **Kallsedet** (~63.701°N, 12.957°E) — road **336** corridor; remote fjäll. Optional **H** / depot at **Kolåsens Fjällhotell** (~10 km detour — see [resupply](./resupply-2028.md)).
 
@@ -238,47 +238,39 @@ Camp **on the band track** at **Kallsedet** (~63.701°N, 12.957°E) — road **3
 |-----|-------|
 | **T** | Kallsedet · on track |
 
-#### Day 16 · Wed 1 Mar · 4 km (cum 255) · Mot Olden
+#### Day 16 · Wed 1 Mar · 21 km (cum 271) · Mot Olden
 
-Camp **on the band track** between **Kallsedet** and **Olden** (~63.713°N, 13.028°E).
+Camp **on the band track** toward **Olden** (~63.683°N, 13.327°E).
 
 | Acc | Notes |
 |-----|-------|
 | **T** | On track · toward Olden |
 
-#### Day 17 · Thu 2 Mar · 4 km (cum 259) · Olden
+#### Day 17 · Thu 2 Mar · 15 km (cum 286) · Olden
 
-Short day on the **Olden** corridor (~63.708°N, 13.103°E) — **not** Valsjöbua (that is **Day 21**). Carry food for the long stretch to Valsjöbyn.
+**Olden** corridor (~63.698°N, 13.632°E) — **not** Valsjöbua (that is **Day 20**). Carry food for the stretch to Valsjöbyn.
 
 | Acc | Notes |
 |-----|-------|
 | **T** | Olden corridor |
 
-#### Day 18 · Fri 3 Mar · 26 km (cum 285) · Frostviken
+#### Day 18 · Fri 3 Mar · 19 km (cum 305) · Jänsmässholen
 
-Enter **Frostviken**. **Undersåker väster om:** keep the Indalsälven bridge on your **east** when you cross that corridor (wide pass — you do not camp at the bridge).
+**Jänsmässholen** (~63.780°N, 13.825°E). **Undersåker väster om:** keep the Indalsälven bridge on your **east** when you cross that corridor (wide pass — you do not camp at the bridge).
 
 | Acc | Notes |
 |-----|-------|
-| **T** | Frostviken · **W** Undersåker corridor (not a hut stop) |
+| **T** | Jänsmässholen · **W** Undersåker corridor |
 
-#### Day 19 · Sat 4 Mar · 18 km (cum 303) · Ansättfjällen approach
+#### Day 19 · Sat 4 Mar · 21 km (cum 326) · Ansättfjällen approach
 
-Steady progress toward **Ansättfjällen** / **Valsjöbyn**.
+Steady progress toward **Ansättfjällen** / **Valsjöbyn** (~63.948°N, 13.924°E).
 
 | Acc | Notes |
 |-----|-------|
 | **T** | On track · Ansättfjällen ahead |
 
-#### Day 20 · Sun 5 Mar · 18 km (cum 321) · Ansättfjällen väster om
-
-Open fjäll west of the **Ansättfjällen** massif.
-
-| Acc | Notes |
-|-----|-------|
-| **T** | On track west of Ansättfjällen |
-
-#### Day 21 · Mon 6 Mar · 36 km (cum 357) · Valsjöbua · **D** ★ Bandet hero
+#### Day 20 · Sun 5 Mar · 20 km (cum 346) · Valsjöbua · **D** ★ Bandet hero
 
 **Valsjöbua Lanthandel** (64.068°N, 14.139°E) — Mon–Fri 10–18, Sat 10–14. Full lanthandel + Systembolag + post + frystorkad + café; **free vandrarhem at Valen for Bandare** (book 3 days ahead). **Jourtelefon 072-1933833**. **Primary mid-leg D** between Storlien and Gäddede. See [resupply](./resupply-2028.md).
 
@@ -286,24 +278,32 @@ Open fjäll west of the **Ansättfjällen** massif.
 |-----|-------|
 | **H** | **D** ★ Valsjöbua · free Bandare vandrarhem |
 
-#### Day 22 · Tue 7 Mar · 23 km (cum 380) · Björkvattnet
+#### Day 21 · Mon 6 Mar · 20 km (cum 366) · North of Vals
 
-**Björkvattnet** area — long day after resupply.
+Camp **north of Valsjöbyn** (~64.218°N, 14.283°E) after resupply.
+
+| Acc | Notes |
+|-----|-------|
+| **T** | North of Vals · on track |
+
+#### Day 22 · Tue 7 Mar · 24 km (cum 390) · Björkvattnet
+
+**Björkvattnet** area (~64.374°N, 14.369°E) — long day after resupply.
 
 | Acc | Notes |
 |-----|-------|
 | **T** | Björkvattnet |
 
-#### Day 23 · Wed 8 Mar · 22 km (cum 402) · Gäddede väster om
+#### Day 23 · Wed 8 Mar · 24 km (cum 414) · Gäddede väster om
 
-North from **Björkvattnet** toward **Gäddede** — camp on the fjäll west of the village.  
+Camp on the fjäll **west of Gäddede** (~64.507°N, 14.155°E).  
 **ICA Blåsjöfjäll** (64.836°N, 14.083°E) is **~35 km off the Band track** — optional **detour today or tomorrow** for fuel if you skipped Valsjöbua stock. See [resupply](./resupply-2028.md).
 
 | Acc | Notes |
 |-----|-------|
 | **T** | On track west of Gäddede · optional Blåsjö detour |
 
-#### Day 24 · Thu 9 Mar · 21 km (cum 423) · Gäddede · **D**
+#### Day 24 · Thu 9 Mar · 2 km (cum 416) · Gäddede · **D**
 
 Short ski into **Gäddede** — **ICA**, **Frostvikens El** (alkylate). Stock **9–10 days** for **Arjeplog → Lapplandsleden → Hemavan**.  
 **Camping:** **[Gäddede Camping & Stugby](https://www.gaddedecamping.com/)** (year-round) · **H** Pilgrims Hotel nearby.

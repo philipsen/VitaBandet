@@ -77106,61 +77106,61 @@
   </wpt>
   <wpt lat="63.7014" lon="12.9571">
     <name>D15 · Kallsedet</name>
-    <desc>Section 2 · 2028-02-29 · cum 251 km · T · On band track · road 336 corridor</desc>
+    <desc>Section 2 · 2028-02-29 · cum 250 km · T · On band track · road 336 corridor</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="63.7132191" lon="13.04924645">
+  <wpt lat="63.683147" lon="13.326991">
     <name>D16 · Mot Olden</name>
-    <desc>Section 2 · 2028-03-01 · cum 255 km · T · On track · halfway Kallsedet–Olden</desc>
+    <desc>Section 2 · 2028-03-01 · cum 271 km · T · On track · toward Olden</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="63.707" lon="13.107">
+  <wpt lat="63.697961" lon="13.631669">
     <name>D17 · Olden</name>
-    <desc>Section 2 · 2028-03-02 · cum 259 km · T · On track — not Valsjöbua (that is D21)</desc>
+    <desc>Section 2 · 2028-03-02 · cum 286 km · T · On track — not Valsjöbua (that is D20)</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="63.69503426" lon="13.60551981">
-    <name>D18 · Frostviken</name>
-    <desc>Section 2 · 2028-03-03 · cum 285 km · T · Undersåker väster om corridor (bridge ~55 km E)</desc>
+  <wpt lat="63.779824" lon="13.824772">
+    <name>D18 · Jänsmässholen</name>
+    <desc>Section 2 · 2028-03-03 · cum 305 km · T · Undersåker väster om corridor (bridge ~55 km E)</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="63.76947266" lon="13.81171347">
+  <wpt lat="63.948245" lon="13.924003">
     <name>D19 · Ansättfjällen approach</name>
-    <desc>Section 2 · 2028-03-04 · cum 303 km · T</desc>
-    <sym>Campground</sym>
-    <type>camp</type>
-  </wpt>
-  <wpt lat="63.91305802" lon="13.86745623">
-    <name>D20 · Ansättfjällen väster om</name>
-    <desc>Section 2 · 2028-03-05 · cum 321 km · T</desc>
+    <desc>Section 2 · 2028-03-04 · cum 326 km · T</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="64.068" lon="14.139">
-    <name>D21 · Valsjöbua</name>
-    <desc>Section 2 · 2028-03-06 · cum 357 km · D · Valsjöbua ★ · Bandare vandrarhem</desc>
+    <name>D20 · Valsjöbua</name>
+    <desc>Section 2 · 2028-03-05 · cum 346 km · D · Valsjöbua ★ · Bandare vandrarhem</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>
-  <wpt lat="64.29385092" lon="14.40564942">
-    <name>D22 · Björkvattnet</name>
-    <desc>Section 2 · 2028-03-07 · cum 380 km · T · After Valsjöbua resupply</desc>
+  <wpt lat="64.217959" lon="14.283445">
+    <name>D21 · North of Vals</name>
+    <desc>Section 2 · 2028-03-06 · cum 366 km · T · North of Valsjöbyn · after resupply</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="64.43869649" lon="14.190857">
+  <wpt lat="64.373607" lon="14.36923">
+    <name>D22 · Björkvattnet</name>
+    <desc>Section 2 · 2028-03-07 · cum 390 km · T · After Valsjöbua resupply</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="64.507363" lon="14.155243">
     <name>D23 · Gäddede väster om</name>
-    <desc>Section 2 · 2028-03-08 · cum 402 km · T · Optional Blåsjö detour (~35 km off track)</desc>
+    <desc>Section 2 · 2028-03-08 · cum 414 km · T · Optional Blåsjö detour (~35 km off track)</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="64.52" lon="14.14">
     <name>D24 · Gäddede</name>
-    <desc>Section 2 · 2028-03-09 · cum 423 km · D · ICA · Frostvikens</desc>
+    <desc>Section 2 · 2028-03-09 · cum 416 km · D · ICA · Frostvikens</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>
@@ -77458,7 +77458,7 @@
   <wpt lat="63.67652" lon="12.5457">
     <name>Stor-Rensjön (track leaves lake)</name>
   </wpt>
-  <wpt lat="63.707" lon="13.107">
+  <wpt lat="63.697961" lon="13.631669">
     <name>Olden (corridor)</name>
   </wpt>
   <wpt lat="64.068" lon="14.139">

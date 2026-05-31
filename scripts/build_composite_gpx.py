@@ -5,7 +5,7 @@ Stitch historical Band tracks into a composite GPX for the 2028 plan route.
 Output (all under tracks/generated/):
   - vita-bandet-2028-composite.gpx    Full route as 6 trksegs (one per Section)
   - section-1-grovelsjon-storlien.gpx Per-section GPX, with waypoints + camps
-  - section-2-storlien-gaddede.gpx
+  - section-2-storlien-gaddede.gpx   (sections 1–2 are user-managed; not overwritten if present)
   - section-3-gaddede-hemavan.gpx
   - section-4-hemavan-kvikkjokk.gpx
   - section-5-kvikkjokk-abisko.gpx
@@ -69,7 +69,13 @@ MILESTONES = {
     "NORDER_RENSJON": (63.416652, 12.225886),  # Norder-Rensjön — track leaves lake N end
     "STOR_RENSJON": (63.676520, 12.545700),    # Stor-Rensjön — track leaves lake N end (Hotagen)
     "KALLSEDEt": (63.701400, 12.957100),       # Kallsedet — on Band track (road 336 corridor)
-    "OLDEN": (63.707, 13.107),           # Olden corridor (not Valsjöbua)
+    "MOT_OLDEN": (63.683147, 13.326991),       # Mot Olden (sec 2 GPX D16)
+    "OLDEN": (63.697961, 13.631669),           # Olden corridor (sec 2 GPX D17)
+    "JANSMHOLEN": (63.779824, 13.824772),      # Jänsmässholen (sec 2 GPX D18)
+    "ANSATT_APP": (63.948245, 13.924003),      # Ansättfjällen approach (sec 2 GPX D19)
+    "NORTH_OF_VALS": (64.217959, 14.283445),   # North of Valsjöbyn (sec 2 GPX D21)
+    "BJORKVATTNET": (64.373607, 14.369230),   # Björkvattnet (sec 2 GPX D22)
+    "GADDEDE_W": (64.507363, 14.155243),       # Gäddede väster om (sec 2 GPX D23)
     "VALSJO": (64.068, 14.139),         # Valsjöbua Lanthandel
     "BLASJOFJALL": (64.836, 14.083),     # ICA Nära Blåsjöfjäll — ~35 km off Band track
     "GADDEDE": (64.52, 14.14),
@@ -98,6 +104,9 @@ MILESTONES = {
     "BJORKLIDEN": (68.437, 18.279),       # Björkliden Camping (~10 km from Abisko; no RV in park)
 }
 
+# Sections 1–2 GPX (track + camp waypoints) are edited by hand — do not overwrite.
+USER_MANAGED_SECTIONS = frozenset({1, 2})
+
 # Camp stops per section — cum km from dag-for-dag-2028.md (placed along the
 # section track by interpolated planned km). pin_milestone overrides position
 # with literal milestone coords (resupply pins).
@@ -119,16 +128,16 @@ SECTION2_CAMPS = [
     (12, "2028-02-26", 201, "Skalstugan", "T", "Depot optional", None),
     (13, "2028-02-27", 221, "Stor-Rensjön N", "T", "Track leaves north end of lake · Hotagen fringe", "STOR_RENSJON"),
     (14, "2028-02-28", 239, "Mot Kolåsen", "T", "Remote · no scooter spår", None),
-    (15, "2028-02-29", 251, "Kallsedet", "T", "On band track · road 336 corridor", "KALLSEDEt"),
-    (16, "2028-03-01", 255, "Mot Olden", "T", "On track · halfway Kallsedet–Olden", None),
-    (17, "2028-03-02", 259, "Olden", "T", "On track — not Valsjöbua (that is D21)", "OLDEN"),
-    (18, "2028-03-03", 285, "Frostviken", "T", "Undersåker väster om corridor (bridge ~55 km E)", None),
-    (19, "2028-03-04", 303, "Ansättfjällen approach", "T", "", None),
-    (20, "2028-03-05", 321, "Ansättfjällen väster om", "T", "", None),
-    (21, "2028-03-06", 357, "Valsjöbua", "D", "Valsjöbua ★ · Bandare vandrarhem", "VALSJO"),
-    (22, "2028-03-07", 380, "Björkvattnet", "T", "After Valsjöbua resupply", None),
-    (23, "2028-03-08", 402, "Gäddede väster om", "T", "Optional Blåsjö detour (~35 km off track)", None),
-    (24, "2028-03-09", 423, "Gäddede", "D", "ICA · Frostvikens", "GADDEDE"),
+    (15, "2028-02-29", 250, "Kallsedet", "T", "On band track · road 336 corridor", "KALLSEDEt"),
+    (16, "2028-03-01", 271, "Mot Olden", "T", "On track · toward Olden", "MOT_OLDEN"),
+    (17, "2028-03-02", 286, "Olden", "T", "On track — not Valsjöbua (that is D20)", "OLDEN"),
+    (18, "2028-03-03", 305, "Jänsmässholen", "T", "Undersåker väster om corridor (bridge ~55 km E)", "JANSMHOLEN"),
+    (19, "2028-03-04", 326, "Ansättfjällen approach", "T", "", "ANSATT_APP"),
+    (20, "2028-03-05", 346, "Valsjöbua", "D", "Valsjöbua ★ · Bandare vandrarhem", "VALSJO"),
+    (21, "2028-03-06", 366, "North of Vals", "T", "North of Valsjöbyn · after resupply", "NORTH_OF_VALS"),
+    (22, "2028-03-07", 390, "Björkvattnet", "T", "After Valsjöbua resupply", "BJORKVATTNET"),
+    (23, "2028-03-08", 414, "Gäddede väster om", "T", "Optional Blåsjö detour (~35 km off track)", "GADDEDE_W"),
+    (24, "2028-03-09", 416, "Gäddede", "D", "ICA · Frostvikens", "GADDEDE"),
 ]
 
 SECTION3_CAMPS = [
@@ -673,6 +682,9 @@ def write_section_gpx(
     subsegs: list[tuple[str, list[dict]]],
     flat_track: list[dict],
 ) -> Path:
+    out = OUT_DIR / section.filename
+    if section.id in USER_MANAGED_SECTIONS and out.exists():
+        return out
     gpx = Element("gpx", attrib={
         "version": "1.1", "creator": "VitaBandet section", "xmlns": GPX_NS,
     })
@@ -701,7 +713,6 @@ def write_section_gpx(
         lat, lon = MILESTONES[key]
         add_waypoint(gpx, WPT_LABELS[key], lat, lon)
 
-    out = OUT_DIR / section.filename
     rough = ET.tostring(gpx, encoding="unicode")
     parsed = minidom.parseString('<?xml version="1.0" encoding="UTF-8"?>\n' + rough)
     out.write_text(parsed.toprettyxml(indent="  ", encoding="UTF-8").decode("UTF-8"), encoding="utf-8")
@@ -714,6 +725,10 @@ def write_basecamp_section_gpx(
     flat_track: list[dict],
 ) -> Path:
     """GPX tuned for Garmin Basecamp: categorized camps + direct route + track."""
+    stem = section.filename.removesuffix(".gpx")
+    out = OUT_DIR / f"{stem}-basecamp.gpx"
+    if section.id in USER_MANAGED_SECTIONS and out.exists():
+        return out
     title = f"Section {section.id} — {section.title}"
     gpx = Element("gpx", attrib={
         "version": "1.1",
@@ -770,8 +785,6 @@ def write_basecamp_section_gpx(
         for p in points:
             _emit_trkpt(seg, p)
 
-    stem = section.filename.removesuffix(".gpx")
-    out = OUT_DIR / f"{stem}-basecamp.gpx"
     rough = ET.tostring(gpx, encoding="unicode")
     parsed = minidom.parseString('<?xml version="1.0" encoding="UTF-8"?>\n' + rough)
     out.write_text(parsed.toprettyxml(indent="  ", encoding="UTF-8").decode("UTF-8"), encoding="utf-8")
