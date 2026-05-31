@@ -1039,75 +1039,75 @@
       </trkpt>
     </trkseg>
   </trk>
-  <wpt lat="65.88732424" lon="15.38173411">
-    <name>D35 · Syterstuga west</name>
-    <desc>Section 4 · 2028-03-20 · cum 667 km · T · Steep · KL west</desc>
+  <wpt lat="65.87590824" lon="15.34772771">
+    <name>D36 · Syterstuga west</name>
+    <desc>Section 4 · 2028-03-21 · cum 667 km · T · Steep · KL west</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="65.97725632" lon="15.59018578">
-    <name>D36 · Tärnasjön</name>
-    <desc>Section 4 · 2028-03-21 · cum 689 km · T · Ice travel · wind funnel</desc>
+  <wpt lat="65.99374403" lon="15.5730851">
+    <name>D37 · Tärnasjön</name>
+    <desc>Section 4 · 2028-03-22 · cum 689 km · T · Ice travel · wind funnel</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="65.9566" lon="16.2014">
-    <name>D37 · Ammarnäs</name>
-    <desc>Section 4 · 2028-03-22 · cum 710 km · T · Optional D Handlar'n · Fritidscenter camping</desc>
+    <name>D38 · Ammarnäs</name>
+    <desc>Section 4 · 2028-03-23 · cum 710 km · T · Optional D Handlar'n · Fritidscenter camping</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="66.27749" lon="16.665675">
-    <name>D38 · Adolfström</name>
-    <desc>Section 4 · 2028-03-23 · cum 732 km · T · Optional D/camping · Adolfström Camping</desc>
+    <name>D39 · Adolfström</name>
+    <desc>Section 4 · 2028-03-24 · cum 732 km · T · Optional D/camping · Adolfström Camping</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="66.21238232" lon="16.3781837">
-    <name>D39 · Hornavan ice</name>
-    <desc>Section 4 · 2028-03-24 · cum 753 km · T · Ice check AM only</desc>
+  <wpt lat="66.19448724" lon="16.37989985">
+    <name>D40 · Hornavan ice</name>
+    <desc>Section 4 · 2028-03-25 · cum 753 km · T · Ice check AM only</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="66.49" lon="16.55">
-    <name>D40 · Vuoggatjålme</name>
-    <desc>Section 4 · 2028-03-25 · cum 775 km · H · Optional middag · stuga/caravan site</desc>
+    <name>D41 · Vuoggatjålme</name>
+    <desc>Section 4 · 2028-03-26 · cum 775 km · H · Optional middag · stuga/caravan site</desc>
     <sym>Lodging</sym>
     <type>hut</type>
   </wpt>
-  <wpt lat="66.39273946" lon="17.04209376">
-    <name>D41 · Aktse</name>
-    <desc>Section 4 · 2028-03-26 · cum 797 km · T</desc>
+  <wpt lat="66.38601794" lon="17.00079762">
+    <name>D42 · Aktse</name>
+    <desc>Section 4 · 2028-03-27 · cum 797 km · T</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="66.52381553" lon="17.24173999">
-    <name>D42 · Rapadalen west</name>
-    <desc>Section 4 · 2028-03-27 · cum 819 km · T · Sarek views</desc>
+  <wpt lat="66.50597513" lon="17.23912439">
+    <name>D43 · Rapadalen west</name>
+    <desc>Section 4 · 2028-03-28 · cum 819 km · T · Sarek views</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="66.63932133" lon="17.39927263">
-    <name>D43 · Sitojaure</name>
-    <desc>Section 4 · 2028-03-28 · cum 841 km · T · STF tält + serviceavgift if hut open</desc>
+  <wpt lat="66.6235894" lon="17.37763704">
+    <name>D44 · Sitojaure</name>
+    <desc>Section 4 · 2028-03-29 · cum 841 km · T · STF tält + serviceavgift if hut open</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="66.79511588" lon="17.53961289">
-    <name>D44 · Kaitumjaure</name>
-    <desc>Section 4 · 2028-03-29 · cum 863 km · T</desc>
+  <wpt lat="66.77984618" lon="17.54441374">
+    <name>D45 · Kaitumjaure</name>
+    <desc>Section 4 · 2028-03-30 · cum 863 km · T</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="66.949475" lon="17.71881533">
-    <name>D45 · Toward Kvikkjokk</name>
-    <desc>Section 4 · 2028-03-30 · cum 885 km · T</desc>
+  <wpt lat="66.93199609" lon="17.72406383">
+    <name>D46 · Toward Kvikkjokk</name>
+    <desc>Section 4 · 2028-03-31 · cum 885 km · T</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="66.9513" lon="17.7285">
-    <name>D46 · Kvikkjokk</name>
-    <desc>Section 4 · 2028-03-31 · cum 905 km · D · STF max stock · wild T + paid shower</desc>
+    <name>D47 · Kvikkjokk</name>
+    <desc>Section 4 · 2028-04-01 · cum 905 km · D · STF max stock · wild T + paid shower</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>

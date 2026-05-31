@@ -20699,92 +20699,92 @@
     </trkseg>
   </trk>
   <wpt lat="66.95700038" lon="17.38019346">
-    <name>D47 · Kvikkjokk north</name>
-    <desc>Section 5 · 2028-04-01 · cum 922 km · T · 6–7 days food + all alkylate to Ritsem</desc>
+    <name>D48 · Kvikkjokk north</name>
+    <desc>Section 5 · 2028-04-02 · cum 922 km · T · 6–7 days food + all alkylate to Ritsem</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="67.07003175" lon="17.15146433">
-    <name>D48 · Padjelanta west</name>
-    <desc>Section 5 · 2028-04-02 · cum 940 km · T · GPS essential</desc>
+    <name>D49 · Padjelanta west</name>
+    <desc>Section 5 · 2028-04-03 · cum 940 km · T · GPS essential</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="67.21882159" lon="17.09909702">
-    <name>D49 · Stora Sjøfallet</name>
-    <desc>Section 5 · 2028-04-03 · cum 958 km · T · Laponia · no shops</desc>
+    <name>D50 · Stora Sjøfallet</name>
+    <desc>Section 5 · 2028-04-04 · cum 958 km · T · Laponia · no shops</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="67.33437354" lon="17.20599465">
-    <name>D50 · Saltoluokta side</name>
-    <desc>Section 5 · 2028-04-04 · cum 976 km · T · W corridor · STF tent if east detour</desc>
+    <name>D51 · Saltoluokta side</name>
+    <desc>Section 5 · 2028-04-05 · cum 976 km · T · W corridor · STF tent if east detour</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="67.47377796" lon="17.15589657">
-    <name>D51 · W of Saltoluokta</name>
-    <desc>Section 5 · 2028-04-05 · cum 993 km · T · W Saltoluokta</desc>
+    <name>D52 · W of Saltoluokta</name>
+    <desc>Section 5 · 2028-04-06 · cum 993 km · T · W Saltoluokta</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="67.58601913" lon="17.23024082">
-    <name>D52 · Áhkká / Ritsem fjäll</name>
-    <desc>Section 5 · 2028-04-06 · cum 1011 km · T</desc>
+    <name>D53 · Áhkká / Ritsem fjäll</name>
+    <desc>Section 5 · 2028-04-07 · cum 1011 km · T</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="67.71458861" lon="17.43534298">
-    <name>D53 · Ritsem approach</name>
-    <desc>Section 5 · 2028-04-07 · cum 1029 km · T</desc>
+    <name>D54 · Ritsem approach</name>
+    <desc>Section 5 · 2028-04-08 · cum 1029 km · T</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="67.7327" lon="17.4711">
-    <name>D54 · Ritsem</name>
-    <desc>Section 5 · 2028-04-08 · cum 1045 km · D · Power Fuel alkylate · STF H</desc>
+    <name>D55 · Ritsem</name>
+    <desc>Section 5 · 2028-04-09 · cum 1045 km · D · Power Fuel alkylate · STF H</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>
   <wpt lat="67.88321844" lon="17.77879173">
-    <name>D55 · Sitojaure</name>
-    <desc>Section 5 · 2028-04-09 · cum 1063 km · H · KL · optional hut top-up</desc>
+    <name>D56 · Sitojaure</name>
+    <desc>Section 5 · 2028-04-10 · cum 1063 km · H · KL · optional hut top-up</desc>
     <sym>Lodging</sym>
     <type>hut</type>
   </wpt>
   <wpt lat="67.93954578" lon="18.06530708">
-    <name>D56 · Hukejaure</name>
-    <desc>Section 5 · 2028-04-10 · cum 1081 km · T · W Nikkaluokta · Sarri camping optional</desc>
+    <name>D57 · Hukejaure</name>
+    <desc>Section 5 · 2028-04-11 · cum 1081 km · T · W Nikkaluokta · Sarri camping optional</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="67.946376" lon="18.281701">
-    <name>D57 · Sälka</name>
-    <desc>Section 5 · 2028-04-11 · cum 1098 km · H · STF Sälka · tent if full</desc>
+    <name>D58 · Sälka</name>
+    <desc>Section 5 · 2028-04-12 · cum 1098 km · H · STF Sälka · tent if full</desc>
     <sym>Lodging</sym>
     <type>hut</type>
   </wpt>
   <wpt lat="68.09912742" lon="18.31001481">
-    <name>D58 · Tjäktja</name>
-    <desc>Section 5 · 2028-04-12 · cum 1116 km · T · Steep pass</desc>
+    <name>D59 · Tjäktja</name>
+    <desc>Section 5 · 2028-04-13 · cum 1116 km · T · Steep pass</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="68.16665088" lon="18.44442508">
-    <name>D59 · Alesjaure</name>
-    <desc>Section 5 · 2028-04-13 · cum 1134 km · T · STF tält at hut</desc>
+    <name>D60 · Alesjaure</name>
+    <desc>Section 5 · 2028-04-14 · cum 1134 km · T · STF tält at hut</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="68.28653126" lon="18.59536907">
-    <name>D60 · Abiskojaure</name>
-    <desc>Section 5 · 2028-04-14 · cum 1152 km · T · Last hut before Abisko village</desc>
+    <name>D61 · Abiskojaure</name>
+    <desc>Section 5 · 2028-04-15 · cum 1152 km · T · Last hut before Abisko village</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="68.35" lon="18.83">
-    <name>D61 · Abisko</name>
-    <desc>Section 5 · 2028-04-15 · cum 1170 km · D · Fjällboden · STF tent site · Björkliden RV ~10 km</desc>
+    <name>D62 · Abisko</name>
+    <desc>Section 5 · 2028-04-16 · cum 1170 km · D · Fjällboden · STF tent site · Björkliden RV ~10 km</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>

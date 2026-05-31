@@ -79,6 +79,13 @@ MILESTONES = {
     "VALSJO": (64.068, 14.139),         # Valsjöbua Lanthandel
     "BLASJOFJALL": (64.836, 14.083),     # ICA Nära Blåsjöfjäll — ~35 km off Band track
     "GADDEDE": (64.52, 14.14),
+    "SLIPSIKSTUGAN": (64.984010, 14.717960),   # Lapplandsleden stuga (sec 3 D27)
+    "TJAKKELESTUGAN": (65.185522, 14.566881), # Lapplandsleden stuga (sec 3 D29)
+    "ATNIKSTUGAN": (65.304438, 14.605300),     # Lapplandsleden stuga (sec 3 D30)
+    "AREVATTNET": (65.516097, 14.549428),      # Lapplandsleden stuga (sec 3 D32)
+    "ATOSTUGAN": (65.683358, 14.589427),       # Atoklimpen stuga (sec 3 D33)
+    "BOXFJALL": (65.711408, 14.613874),        # Tärna Vilt butik · Boxfjäll, Joesjö (OSM) — shop only
+    "GOEBLEJAEVRIE": (65.783561, 14.800255),   # Goeblejaevrie lake · Lapplandsleden camp (sec 3 D34)
     "KLIMPF": (65.067, 14.770),          # Klimpfjäll village
     "HEMAVAN": (65.83, 15.08),
     "JACKVIK": (66.383, 16.967),
@@ -141,58 +148,59 @@ SECTION2_CAMPS = [
 ]
 
 SECTION3_CAMPS = [
-    (25, "2028-03-10", 442, "Vilhelmina fjäll", "T", "Wild camp · ~10 days food to Hemavan", None),
-    (26, "2028-03-11", 465, "Borgafjäll", "T", "Optional H Borgafjäll Hotell", "BORGAFJALL"),
-    (27, "2028-03-12", 487, "Saxnäs", "T", "Optional D Marsfjällshandlarn", "SAXNAS"),
-    (28, "2028-03-13", 509, "Pauträsk / Vitveden", "T", "", None),
-    (29, "2028-03-14", 531, "Klimpfjäll", "T", "Optional D Handlar'n", "KLIMPF"),
-    (30, "2028-03-15", 554, "Virisen", "T", "Lapplandsleden · cabins often closed Mar", None),
-    (31, "2028-03-16", 576, "Tärnaby west", "T", "", None),
-    (32, "2028-03-17", 598, "Atoklimpen approach", "T", "Exposed", None),
-    (33, "2028-03-18", 615, "Hemavan", "D", "ICA Fjällboden · STF · Hemavan Fjällcenter camping", "HEMAVAN"),
-    (34, "2028-03-19", 645, "Jäckvik W", "T", "W detour · optional ICA", "JACKVIK"),
+    (25, "2028-03-10", 435, "Vilhelmina fjäll", "T", "Wild camp · carry food for Lapplandsleden leg", None),
+    (26, "2028-03-11", 466, "Borgafjäll väster om", "T", "On track · optional H detour Borgafjäll Hotell (~24 km E)", None),
+    (27, "2028-03-12", 489, "Slipsikstugan", "T", "Länsstyrelsen stuga · 4–6 bunks · unlocked · tent in Mar", "SLIPSIKSTUGAN"),
+    (28, "2028-03-13", 503, "Klimpfjäll", "T", "Optional D Handlar'n (~633 m E) · Lapplandsleden northbound", None),
+    (29, "2028-03-14", 521, "Tjåkkelestugan", "T", "Länsstyrelsen stuga · 6+2 bunks · unlocked", "TJAKKELESTUGAN"),
+    (30, "2028-03-15", 538, "Åtnikstugan", "T", "Länsstyrelsen stuga · unlocked · 200 kr/n if used", "ATNIKSTUGAN"),
+    (31, "2028-03-16", 563, "Mot Arevattnet", "T", "On track between huts · long leg split · tent", None),
+    (32, "2028-03-17", 587, "Arevattnet", "T", "Länsstyrelsen stuga · unlocked", "AREVATTNET"),
+    (33, "2028-03-18", 608, "Atostugan", "T", "Atoklimpen stuga · Risbäcken", "ATOSTUGAN"),
+    (34, "2028-03-19", 629, "Goeblejaevrie", "T", "Lapplandsleden camp site · on track by lake", None),
+    (35, "2028-03-20", 647, "Hemavan", "D", "ICA Fjällboden · STF · halfway · Fjällcenter camping", None),
 ]
 
 SECTION4_CAMPS = [
-    (35, "2028-03-20", 667, "Syterstuga west", "T", "Steep · KL west", None),
-    (36, "2028-03-21", 689, "Tärnasjön", "T", "Ice travel · wind funnel", None),
-    (37, "2028-03-22", 710, "Ammarnäs", "T", "Optional D Handlar'n · Fritidscenter camping", "AMMARNAS"),
-    (38, "2028-03-23", 732, "Adolfström", "T", "Optional D/camping · Adolfström Camping", "ADOLFSTROM"),
-    (39, "2028-03-24", 753, "Hornavan ice", "T", "Ice check AM only", None),
-    (40, "2028-03-25", 775, "Vuoggatjålme", "H", "Optional middag · stuga/caravan site", "VUOGGATJALME"),
-    (41, "2028-03-26", 797, "Aktse", "T", "", None),
-    (42, "2028-03-27", 819, "Rapadalen west", "T", "Sarek views", None),
-    (43, "2028-03-28", 841, "Sitojaure", "T", "STF tält + serviceavgift if hut open", None),
-    (44, "2028-03-29", 863, "Kaitumjaure", "T", "", None),
-    (45, "2028-03-30", 885, "Toward Kvikkjokk", "T", "", None),
-    (46, "2028-03-31", 905, "Kvikkjokk", "D", "STF max stock · wild T + paid shower", "KVIKK"),
+    (36, "2028-03-21", 667, "Syterstuga west", "T", "Steep · KL west", None),
+    (37, "2028-03-22", 689, "Tärnasjön", "T", "Ice travel · wind funnel", None),
+    (38, "2028-03-23", 710, "Ammarnäs", "T", "Optional D Handlar'n · Fritidscenter camping", "AMMARNAS"),
+    (39, "2028-03-24", 732, "Adolfström", "T", "Optional D/camping · Adolfström Camping", "ADOLFSTROM"),
+    (40, "2028-03-25", 753, "Hornavan ice", "T", "Ice check AM only", None),
+    (41, "2028-03-26", 775, "Vuoggatjålme", "H", "Optional middag · stuga/caravan site", "VUOGGATJALME"),
+    (42, "2028-03-27", 797, "Aktse", "T", "", None),
+    (43, "2028-03-28", 819, "Rapadalen west", "T", "Sarek views", None),
+    (44, "2028-03-29", 841, "Sitojaure", "T", "STF tält + serviceavgift if hut open", None),
+    (45, "2028-03-30", 863, "Kaitumjaure", "T", "", None),
+    (46, "2028-03-31", 885, "Toward Kvikkjokk", "T", "", None),
+    (47, "2028-04-01", 905, "Kvikkjokk", "D", "STF max stock · wild T + paid shower", "KVIKK"),
 ]
 
 SECTION5_CAMPS = [
-    (47, "2028-04-01", 922, "Kvikkjokk north", "T", "6–7 days food + all alkylate to Ritsem", None),
-    (48, "2028-04-02", 940, "Padjelanta west", "T", "GPS essential", None),
-    (49, "2028-04-03", 958, "Stora Sjøfallet", "T", "Laponia · no shops", None),
-    (50, "2028-04-04", 976, "Saltoluokta side", "T", "W corridor · STF tent if east detour", None),
-    (51, "2028-04-05", 993, "W of Saltoluokta", "T", "W Saltoluokta", None),
-    (52, "2028-04-06", 1011, "Áhkká / Ritsem fjäll", "T", "", None),
-    (53, "2028-04-07", 1029, "Ritsem approach", "T", "", None),
-    (54, "2028-04-08", 1045, "Ritsem", "D", "Power Fuel alkylate · STF H", "RITSEM"),
-    (55, "2028-04-09", 1063, "Sitojaure", "H", "KL · optional hut top-up", None),
-    (56, "2028-04-10", 1081, "Hukejaure", "T", "W Nikkaluokta · Sarri camping optional", None),
-    (57, "2028-04-11", 1098, "Sälka", "H", "STF Sälka · tent if full", "SALKA"),
-    (58, "2028-04-12", 1116, "Tjäktja", "T", "Steep pass", None),
-    (59, "2028-04-13", 1134, "Alesjaure", "T", "STF tält at hut", None),
-    (60, "2028-04-14", 1152, "Abiskojaure", "T", "Last hut before Abisko village", None),
-    (61, "2028-04-15", 1170, "Abisko", "D", "Fjällboden · STF tent site · Björkliden RV ~10 km", "ABISKO"),
+    (48, "2028-04-02", 922, "Kvikkjokk north", "T", "6–7 days food + all alkylate to Ritsem", None),
+    (49, "2028-04-03", 940, "Padjelanta west", "T", "GPS essential", None),
+    (50, "2028-04-04", 958, "Stora Sjøfallet", "T", "Laponia · no shops", None),
+    (51, "2028-04-05", 976, "Saltoluokta side", "T", "W corridor · STF tent if east detour", None),
+    (52, "2028-04-06", 993, "W of Saltoluokta", "T", "W Saltoluokta", None),
+    (53, "2028-04-07", 1011, "Áhkká / Ritsem fjäll", "T", "", None),
+    (54, "2028-04-08", 1029, "Ritsem approach", "T", "", None),
+    (55, "2028-04-09", 1045, "Ritsem", "D", "Power Fuel alkylate · STF H", "RITSEM"),
+    (56, "2028-04-10", 1063, "Sitojaure", "H", "KL · optional hut top-up", None),
+    (57, "2028-04-11", 1081, "Hukejaure", "T", "W Nikkaluokta · Sarri camping optional", None),
+    (58, "2028-04-12", 1098, "Sälka", "H", "STF Sälka · tent if full", "SALKA"),
+    (59, "2028-04-13", 1116, "Tjäktja", "T", "Steep pass", None),
+    (60, "2028-04-14", 1134, "Alesjaure", "T", "STF tält at hut", None),
+    (61, "2028-04-15", 1152, "Abiskojaure", "T", "Last hut before Abisko village", None),
+    (62, "2028-04-16", 1170, "Abisko", "D", "Fjällboden · STF tent site · Björkliden RV ~10 km", "ABISKO"),
 ]
 
 SECTION6_CAMPS = [
-    (62, "2028-04-16", 1192, "Abisko north", "T", "7–8 days food + ~2 L alkylate", None),
-    (63, "2028-04-17", 1214, "Nikkaluokta W", "T", "W corridor · Sarri camping optional", "NIKKALUOKTA"),
-    (64, "2028-04-18", 1234, "Lappjordhytta", "H", "DNT · no pantry", "LAPPJORD"),
-    (65, "2028-04-19", 1256, "Altevasshytta", "H", "DNT · no pantry", "ALTEVASS"),
-    (66, "2028-04-20", 1273, "Treriksröset", "GOAL", "W goal · wide corridor OK", "TRERIK"),
-    (67, "2028-04-21", 1283, "Pältsa", "D", "STF shop · trip end", "PALTSA"),
+    (63, "2028-04-17", 1192, "Abisko north", "T", "7–8 days food + ~2 L alkylate", None),
+    (64, "2028-04-18", 1214, "Nikkaluokta W", "T", "W corridor · Sarri camping optional", "NIKKALUOKTA"),
+    (65, "2028-04-19", 1234, "Lappjordhytta", "H", "DNT · no pantry", "LAPPJORD"),
+    (66, "2028-04-20", 1256, "Altevasshytta", "H", "DNT · no pantry", "ALTEVASS"),
+    (67, "2028-04-21", 1273, "Treriksröset", "GOAL", "W goal · wide corridor OK", "TRERIK"),
+    (68, "2028-04-22", 1283, "Pältsa", "D", "STF shop · trip end", "PALTSA"),
 ]
 
 
@@ -251,9 +259,10 @@ SECTIONS: list[Section] = [
             SubSegment("Klimpfjäll → Hemavan (Lapplandsleden)",
                        "lapland-trail-summer.gpx", "KLIMPF", "HEMAVAN"),
         ],
-        waypoints=["GADDEDE", "BORGAFJALL", "SAXNAS", "KLIMPF", "HEMAVAN", "JACKVIK"],
+        waypoints=["GADDEDE", "BORGAFJALL", "SAXNAS", "KLIMPF", "SLIPSIKSTUGAN", "TJAKKELESTUGAN",
+                   "ATNIKSTUGAN", "AREVATTNET", "ATOSTUGAN", "BOXFJALL", "GOEBLEJAEVRIE", "HEMAVAN"],
         camps=SECTION3_CAMPS,
-        start_cum_km=423,
+        start_cum_km=416,
     ),
     Section(
         id=4,
@@ -265,7 +274,7 @@ SECTIONS: list[Section] = [
         ],
         waypoints=["HEMAVAN", "JACKVIK", "AMMARNAS", "ADOLFSTROM", "VUOGGATJALME", "KVIKK"],
         camps=SECTION4_CAMPS,
-        start_cum_km=645,
+        start_cum_km=647,
     ),
     Section(
         id=5,
@@ -531,6 +540,13 @@ WPT_LABELS = {
     "BLASJOFJALL": "ICA Nära Blåsjöfjäll (detour)",
     "GADDEDE":  "Gäddede",
     "KLIMPF":   "Klimpfjäll",
+    "SLIPSIKSTUGAN": "Slipsikstugan (Lapplandsleden)",
+    "TJAKKELESTUGAN": "Tjåkkelestugan (Lapplandsleden)",
+    "ATNIKSTUGAN": "Åtnikstugan (Lapplandsleden)",
+    "AREVATTNET": "Arevattnet (Lapplandsleden)",
+    "ATOSTUGAN": "Atostugan (Atoklimpen)",
+    "BOXFJALL": "Tärna Vilt (Boxfjäll, Joesjö)",
+    "GOEBLEJAEVRIE": "Goeblejaevrie",
     "HEMAVAN":  "Hemavan",
     "JACKVIK":  "Jäckvik",
     "KVIKK":    "Kvikkjokk",

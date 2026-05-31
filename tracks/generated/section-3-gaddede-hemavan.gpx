@@ -17109,63 +17109,69 @@
   </trk>
   <wpt lat="64.67307622" lon="14.18172267">
     <name>D25 · Vilhelmina fjäll</name>
-    <desc>Section 3 · 2028-03-10 · cum 442 km · T · Wild camp · ~10 days food to Hemavan</desc>
+    <desc>Section 3 · 2028-03-10 · cum 435 km · T · Wild camp · carry food for Lapplandsleden leg</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="64.83" lon="15.07">
-    <name>D26 · Borgafjäll</name>
-    <desc>Section 3 · 2028-03-11 · cum 465 km · T · Optional H Borgafjäll Hotell</desc>
+  <wpt lat="64.86185944" lon="14.42676738">
+    <name>D26 · Borgafjäll väster om</name>
+    <desc>Section 3 · 2028-03-11 · cum 466 km · T · On track · optional H detour Borgafjäll Hotell (~24 km E)</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="65.05" lon="15.32">
-    <name>D27 · Saxnäs</name>
-    <desc>Section 3 · 2028-03-12 · cum 487 km · T · Optional D Marsfjällshandlarn</desc>
+  <wpt lat="64.98401" lon="14.71796">
+    <name>D27 · Slipsikstugan</name>
+    <desc>Section 3 · 2028-03-12 · cum 489 km · T · Länsstyrelsen stuga · 4–6 bunks · unlocked · tent in Mar</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="65.06428806" lon="14.77435799">
-    <name>D28 · Pauträsk / Vitveden</name>
-    <desc>Section 3 · 2028-03-13 · cum 509 km · T</desc>
+  <wpt lat="65.06810785" lon="14.75668744">
+    <name>D28 · Klimpfjäll</name>
+    <desc>Section 3 · 2028-03-13 · cum 503 km · T · Optional D Handlar'n (~633 m E) · Lapplandsleden northbound</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="65.067" lon="14.77">
-    <name>D29 · Klimpfjäll</name>
-    <desc>Section 3 · 2028-03-14 · cum 531 km · T · Optional D Handlar'n</desc>
+  <wpt lat="65.185522" lon="14.566881">
+    <name>D29 · Tjåkkelestugan</name>
+    <desc>Section 3 · 2028-03-14 · cum 521 km · T · Länsstyrelsen stuga · 6+2 bunks · unlocked</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="65.32251027" lon="14.75977225">
-    <name>D30 · Virisen</name>
-    <desc>Section 3 · 2028-03-15 · cum 554 km · T · Lapplandsleden · cabins often closed Mar</desc>
+  <wpt lat="65.304438" lon="14.6053">
+    <name>D30 · Åtnikstugan</name>
+    <desc>Section 3 · 2028-03-15 · cum 538 km · T · Länsstyrelsen stuga · unlocked · 200 kr/n if used</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="65.42658379" lon="14.64984669">
-    <name>D31 · Tärnaby west</name>
-    <desc>Section 3 · 2028-03-16 · cum 576 km · T</desc>
+  <wpt lat="65.41873748" lon="14.76410437">
+    <name>D31 · Mot Arevattnet</name>
+    <desc>Section 3 · 2028-03-16 · cum 563 km · T · On track between huts · long leg split · tent</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="65.54355458" lon="14.58276928">
-    <name>D32 · Atoklimpen approach</name>
-    <desc>Section 3 · 2028-03-17 · cum 598 km · T · Exposed</desc>
+  <wpt lat="65.516097" lon="14.549428">
+    <name>D32 · Arevattnet</name>
+    <desc>Section 3 · 2028-03-17 · cum 587 km · T · Länsstyrelsen stuga · unlocked</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="65.83" lon="15.08">
-    <name>D33 · Hemavan</name>
-    <desc>Section 3 · 2028-03-18 · cum 615 km · D · ICA Fjällboden · STF · Hemavan Fjällcenter camping</desc>
+  <wpt lat="65.683358" lon="14.589427">
+    <name>D33 · Atostugan</name>
+    <desc>Section 3 · 2028-03-18 · cum 608 km · T · Atoklimpen stuga · Risbäcken</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.78193389" lon="14.81789108">
+    <name>D34 · Goeblejaevrie</name>
+    <desc>Section 3 · 2028-03-19 · cum 629 km · T · Lapplandsleden camp site · on track by lake</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="65.81474973" lon="15.08554308">
+    <name>D35 · Hemavan</name>
+    <desc>Section 3 · 2028-03-20 · cum 647 km · D · ICA Fjällboden · STF · halfway · Fjällcenter camping</desc>
     <sym>City</sym>
     <type>resupply</type>
-  </wpt>
-  <wpt lat="66.383" lon="16.967">
-    <name>D34 · Jäckvik W</name>
-    <desc>Section 3 · 2028-03-19 · cum 645 km · T · W detour · optional ICA</desc>
-    <sym>Campground</sym>
-    <type>camp</type>
   </wpt>
   <wpt lat="64.52" lon="14.14">
     <name>Gäddede</name>
@@ -17179,10 +17185,28 @@
   <wpt lat="65.067" lon="14.77">
     <name>Klimpfjäll</name>
   </wpt>
+  <wpt lat="64.98401" lon="14.71796">
+    <name>Slipsikstugan (Lapplandsleden)</name>
+  </wpt>
+  <wpt lat="65.185522" lon="14.566881">
+    <name>Tjåkkelestugan (Lapplandsleden)</name>
+  </wpt>
+  <wpt lat="65.304438" lon="14.6053">
+    <name>Åtnikstugan (Lapplandsleden)</name>
+  </wpt>
+  <wpt lat="65.516097" lon="14.549428">
+    <name>Arevattnet (Lapplandsleden)</name>
+  </wpt>
+  <wpt lat="65.683358" lon="14.589427">
+    <name>Atostugan (Atoklimpen)</name>
+  </wpt>
+  <wpt lat="65.711408" lon="14.613874">
+    <name>Tärna Vilt (Boxfjäll, Joesjö)</name>
+  </wpt>
+  <wpt lat="65.783561" lon="14.800255">
+    <name>Goeblejaevrie</name>
+  </wpt>
   <wpt lat="65.83" lon="15.08">
     <name>Hemavan</name>
-  </wpt>
-  <wpt lat="66.383" lon="16.967">
-    <name>Jäckvik</name>
   </wpt>
 </gpx>
