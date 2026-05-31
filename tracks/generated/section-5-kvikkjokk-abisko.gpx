@@ -20698,61 +20698,61 @@
       </trkpt>
     </trkseg>
   </trk>
-  <wpt lat="66.957000" lon="17.380193">
+  <wpt lat="66.95700038" lon="17.38019346">
     <name>D47 · Kvikkjokk north</name>
     <desc>Section 5 · 2028-04-01 · cum 922 km · T · 6–7 days food + all alkylate to Ritsem</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="67.070032" lon="17.151464">
+  <wpt lat="67.07003175" lon="17.15146433">
     <name>D48 · Padjelanta west</name>
     <desc>Section 5 · 2028-04-02 · cum 940 km · T · GPS essential</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="67.218822" lon="17.099097">
+  <wpt lat="67.21882159" lon="17.09909702">
     <name>D49 · Stora Sjøfallet</name>
     <desc>Section 5 · 2028-04-03 · cum 958 km · T · Laponia · no shops</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="67.334374" lon="17.205995">
+  <wpt lat="67.33437354" lon="17.20599465">
     <name>D50 · Saltoluokta side</name>
     <desc>Section 5 · 2028-04-04 · cum 976 km · T · W corridor · STF tent if east detour</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="67.473778" lon="17.155897">
+  <wpt lat="67.47377796" lon="17.15589657">
     <name>D51 · W of Saltoluokta</name>
     <desc>Section 5 · 2028-04-05 · cum 993 km · T · W Saltoluokta</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="67.586019" lon="17.230241">
+  <wpt lat="67.58601913" lon="17.23024082">
     <name>D52 · Áhkká / Ritsem fjäll</name>
     <desc>Section 5 · 2028-04-06 · cum 1011 km · T</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="67.714589" lon="17.435343">
+  <wpt lat="67.71458861" lon="17.43534298">
     <name>D53 · Ritsem approach</name>
     <desc>Section 5 · 2028-04-07 · cum 1029 km · T</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="67.732700" lon="17.471100">
+  <wpt lat="67.7327" lon="17.4711">
     <name>D54 · Ritsem</name>
     <desc>Section 5 · 2028-04-08 · cum 1045 km · D · Power Fuel alkylate · STF H</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>
-  <wpt lat="67.883218" lon="17.778792">
+  <wpt lat="67.88321844" lon="17.77879173">
     <name>D55 · Sitojaure</name>
     <desc>Section 5 · 2028-04-09 · cum 1063 km · H · KL · optional hut top-up</desc>
     <sym>Lodging</sym>
     <type>hut</type>
   </wpt>
-  <wpt lat="67.939546" lon="18.065307">
+  <wpt lat="67.93954578" lon="18.06530708">
     <name>D56 · Hukejaure</name>
     <desc>Section 5 · 2028-04-10 · cum 1081 km · T · W Nikkaluokta · Sarri camping optional</desc>
     <sym>Campground</sym>
@@ -20764,34 +20764,34 @@
     <sym>Lodging</sym>
     <type>hut</type>
   </wpt>
-  <wpt lat="68.099127" lon="18.310015">
+  <wpt lat="68.09912742" lon="18.31001481">
     <name>D58 · Tjäktja</name>
     <desc>Section 5 · 2028-04-12 · cum 1116 km · T · Steep pass</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="68.166651" lon="18.444425">
+  <wpt lat="68.16665088" lon="18.44442508">
     <name>D59 · Alesjaure</name>
     <desc>Section 5 · 2028-04-13 · cum 1134 km · T · STF tält at hut</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="68.286531" lon="18.595369">
+  <wpt lat="68.28653126" lon="18.59536907">
     <name>D60 · Abiskojaure</name>
     <desc>Section 5 · 2028-04-14 · cum 1152 km · T · Last hut before Abisko village</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="68.350000" lon="18.830000">
+  <wpt lat="68.35" lon="18.83">
     <name>D61 · Abisko</name>
     <desc>Section 5 · 2028-04-15 · cum 1170 km · D · Fjällboden · STF tent site · Björkliden RV ~10 km</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>
-  <wpt lat="66.951300" lon="17.728500">
+  <wpt lat="66.9513" lon="17.7285">
     <name>Kvikkjokk</name>
   </wpt>
-  <wpt lat="67.732700" lon="17.471100">
+  <wpt lat="67.7327" lon="17.4711">
     <name>Ritsem (STF)</name>
   </wpt>
   <wpt lat="67.394089" lon="18.520761">
@@ -20803,10 +20803,10 @@
   <wpt lat="67.850827" lon="19.012983">
     <name>Nikkaluokta Sarri</name>
   </wpt>
-  <wpt lat="68.350000" lon="18.830000">
+  <wpt lat="68.35" lon="18.83">
     <name>Abisko</name>
   </wpt>
-  <wpt lat="68.437000" lon="18.279000">
+  <wpt lat="68.437" lon="18.279">
     <name>Björkliden Camping</name>
   </wpt>
 </gpx>

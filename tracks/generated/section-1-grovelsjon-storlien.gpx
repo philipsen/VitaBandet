@@ -754,7 +754,7 @@
       </trkpt>
     </trkseg>
   </trk>
-  <wpt lat="62.216000" lon="12.354000">
+  <wpt lat="62.216" lon="12.354">
     <name>D1 · Hävlingestugorna</name>
     <desc>Section 1 · 2028-02-15 · cum 14 km · T · Länsstyrelsen stugor · ~13 km N of Grövelsjön</desc>
     <sym>Campground</sym>
@@ -766,25 +766,25 @@
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="62.420000" lon="12.286000">
+  <wpt lat="62.42" lon="12.286">
     <name>D3 · Dalstenshån N</name>
     <desc>Section 1 · 2028-02-17 · cum 44 km · T · North shore · Rogen nature reserve</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="62.574270" lon="12.226190">
+  <wpt lat="62.57427" lon="12.22619">
     <name>D4 · Tänndalen</name>
     <desc>Section 1 · 2028-02-18 · cum 60 km · D · Hamra Livs resup · ~6 km detour west</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>
-  <wpt lat="62.628445" lon="12.331780">
+  <wpt lat="62.62844547" lon="12.33178045">
     <name>D5 · Band line west</name>
     <desc>Section 1 · 2028-02-19 · cum 72 km · T · On track — STF Vålådalen is E detour only</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="62.766165" lon="12.351021">
+  <wpt lat="62.76616509" lon="12.35102106">
     <name>D6 · Helags approach</name>
     <desc>Section 1 · 2028-02-20 · cum 90 km · T · Mot Helags / Långfjällen</desc>
     <sym>Campground</sym>
@@ -808,25 +808,25 @@
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="63.298000" lon="12.101000">
+  <wpt lat="63.298" lon="12.101">
     <name>D10 · Storlien</name>
     <desc>Section 1 · 2028-02-24 · cum 161 km · D · Coop · resupply</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>
-  <wpt lat="62.100000" lon="12.310000">
+  <wpt lat="62.1" lon="12.31">
     <name>Grövelsjön</name>
   </wpt>
-  <wpt lat="62.216000" lon="12.354000">
+  <wpt lat="62.216" lon="12.354">
     <name>Hävlingestugorna</name>
   </wpt>
   <wpt lat="62.316879" lon="12.450456">
     <name>STF Rogen fjällstuga</name>
   </wpt>
-  <wpt lat="62.420000" lon="12.286000">
+  <wpt lat="62.42" lon="12.286">
     <name>Dalstenshån (north shore)</name>
   </wpt>
-  <wpt lat="62.574270" lon="12.226190">
+  <wpt lat="62.57427" lon="12.22619">
     <name>Hamra Livs (Tänndalen)</name>
   </wpt>
   <wpt lat="62.539318" lon="12.408265">
@@ -841,7 +841,7 @@
   <wpt lat="63.187081" lon="12.174362">
     <name>Blåhammaren fjällstation</name>
   </wpt>
-  <wpt lat="63.298000" lon="12.101000">
+  <wpt lat="63.298" lon="12.101">
     <name>Storlien</name>
   </wpt>
 </gpx>

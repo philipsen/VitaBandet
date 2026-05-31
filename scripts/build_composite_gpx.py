@@ -10,6 +10,7 @@ Output (all under tracks/generated/):
   - section-4-hemavan-kvikkjokk.gpx
   - section-5-kvikkjokk-abisko.gpx
   - section-6-abisko-paltsa.gpx
+  - section-N-*-basecamp.gpx          Garmin Basecamp import (route + track + camps)
   - lapland-klimpf-hemavan.gpx        Section 3 lapland-leg only (debug)
 
 Section source mix (best match per dag-for-dag-2028.md):
@@ -29,10 +30,11 @@ Section source mix (best match per dag-for-dag-2028.md):
 
 from __future__ import annotations
 
+import argparse
 import json
 import math
 from dataclasses import dataclass, field
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from xml.dom import minidom
 import xml.etree.ElementTree as ET
@@ -42,6 +44,17 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC_DIR = ROOT / "tracks" / "source"
 OUT_DIR = ROOT / "tracks" / "generated"
 GPX_NS = "http://www.topografix.com/GPX/1/1"
+GPXX_NS = "http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ET.register_namespace("gpxx", GPXX_NS)
+
+# Garmin Basecamp category for section milestone keys (optional resupply / detour pins).
+BASECAMP_MILESTONE_CATEGORY: dict[str, str] = {
+    "STORLIEN": "Food",
+    "GADDEDE": "Food",
+    "VALSJO": "Food",
+    "KOLASEN": "Lodging",
+    "BLASJOFJALL": "Food",
+}
 
 MILESTONES = {
     "GROVEL": (62.10, 12.31),
@@ -565,11 +578,15 @@ def camp_waypoints_for_section(section: Section, section_track: list[dict]) -> l
 # GPX writing
 # ----------------------------------------------------------------------------
 
+def _fmt_coord(v: float) -> str:
+    return f"{v:.8f}".rstrip("0").rstrip(".")
+
+
 def add_waypoint(
     gpx: Element, name: str, lat: float, lon: float,
     *, desc: str = "", sym: str | None = None, wpt_type: str | None = None,
 ) -> None:
-    w = SubElement(gpx, "wpt", attrib={"lat": f"{lat:.6f}", "lon": f"{lon:.6f}"})
+    w = SubElement(gpx, "wpt", attrib={"lat": _fmt_coord(lat), "lon": _fmt_coord(lon)})
     SubElement(w, "name").text = name
     if desc:
         SubElement(w, "desc").text = desc
@@ -577,6 +594,50 @@ def add_waypoint(
         SubElement(w, "sym").text = sym
     if wpt_type:
         SubElement(w, "type").text = wpt_type
+
+
+def add_basecamp_waypoint(
+    gpx: Element,
+    name: str,
+    lat: float,
+    lon: float,
+    *,
+    desc: str = "",
+    sym: str = "Flag, Blue",
+    wpt_type: str = "",
+    category: str | None = None,
+) -> None:
+    """Waypoint with optional Garmin gpxx category (Basecamp library sorting)."""
+    w = SubElement(gpx, "wpt", attrib={"lat": _fmt_coord(lat), "lon": _fmt_coord(lon)})
+    SubElement(w, "name").text = name
+    if desc:
+        SubElement(w, "desc").text = desc
+    SubElement(w, "sym").text = sym
+    if wpt_type:
+        SubElement(w, "type").text = wpt_type
+    if category:
+        ext = SubElement(w, "extensions")
+        wpt_ext = SubElement(ext, f"{{{GPXX_NS}}}WaypointExtension")
+        SubElement(wpt_ext, f"{{{GPXX_NS}}}DisplayMode").text = "SymbolAndName"
+        cats = SubElement(wpt_ext, f"{{{GPXX_NS}}}Categories")
+        SubElement(cats, f"{{{GPXX_NS}}}Category").text = category
+
+
+def _basecamp_category_for_camp(acc: str) -> str | None:
+    if acc == "T":
+        return "Camping"
+    if acc == "D":
+        return "Food"
+    if acc in ("H", "GOAL"):
+        return "Lodging"
+    return None
+
+
+def _emit_rtept(parent: Element, p: dict) -> None:
+    att = {"lat": _fmt_coord(p["lat"]), "lon": _fmt_coord(p["lng"])}
+    rtept = SubElement(parent, "rtept", attrib=att)
+    if p.get("_iso"):
+        SubElement(rtept, "time").text = p["_iso"]
 
 
 def write_track_gpx(path: Path, locs: list[dict], name: str, desc: str = "") -> None:
@@ -599,11 +660,10 @@ def write_track_gpx(path: Path, locs: list[dict], name: str, desc: str = "") -> 
 
 
 def _emit_trkpt(parent: Element, p: dict) -> None:
-    att = {
-        "lat": f"{p['lat']:.8f}".rstrip("0").rstrip("."),
-        "lon": f"{p['lng']:.8f}".rstrip("0").rstrip("."),
-    }
-    trkpt = SubElement(parent, "trkpt", attrib=att)
+    trkpt = SubElement(parent, "trkpt", attrib={
+        "lat": _fmt_coord(p["lat"]),
+        "lon": _fmt_coord(p["lng"]),
+    })
     if p.get("_iso"):
         SubElement(trkpt, "time").text = p["_iso"]
 
@@ -642,6 +702,76 @@ def write_section_gpx(
         add_waypoint(gpx, WPT_LABELS[key], lat, lon)
 
     out = OUT_DIR / section.filename
+    rough = ET.tostring(gpx, encoding="unicode")
+    parsed = minidom.parseString('<?xml version="1.0" encoding="UTF-8"?>\n' + rough)
+    out.write_text(parsed.toprettyxml(indent="  ", encoding="UTF-8").decode("UTF-8"), encoding="utf-8")
+    return out
+
+
+def write_basecamp_section_gpx(
+    section: Section,
+    subsegs: list[tuple[str, list[dict]]],
+    flat_track: list[dict],
+) -> Path:
+    """GPX tuned for Garmin Basecamp: categorized camps + direct route + track."""
+    title = f"Section {section.id} — {section.title}"
+    gpx = Element("gpx", attrib={
+        "version": "1.1",
+        "creator": "VitaBandet Basecamp",
+        "xmlns": GPX_NS,
+    })
+    meta = SubElement(gpx, "metadata")
+    SubElement(meta, "name").text = title
+    sources = ", ".join(sub.source for sub in section.subsegments)
+    SubElement(meta, "desc").text = (
+        f"Vita Bandet 2028 · {title}. "
+        f"Import into Basecamp: route = direct off-road line; track = recorded line. "
+        f"Sources: {sources}."
+    )
+    SubElement(meta, "time").text = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    for camp in camp_waypoints_for_section(section, flat_track):
+        acc = next(row[4] for row in section.camps if camp["name"] == f"D{row[0]} · {row[3]}")
+        add_basecamp_waypoint(
+            gpx,
+            camp["name"],
+            camp["lat"],
+            camp["lon"],
+            desc=camp["desc"],
+            sym=camp["sym"],
+            wpt_type=camp["type"],
+            category=_basecamp_category_for_camp(acc),
+        )
+
+    for key in section.waypoints:
+        lat, lon = MILESTONES[key]
+        add_basecamp_waypoint(
+            gpx,
+            WPT_LABELS[key],
+            lat,
+            lon,
+            sym="City" if key in BASECAMP_MILESTONE_CATEGORY else "Flag, Blue",
+            category=BASECAMP_MILESTONE_CATEGORY.get(key),
+        )
+
+    rte = SubElement(gpx, "rte")
+    SubElement(rte, "name").text = title
+    SubElement(rte, "desc").text = "Direct route (off-road) — use Direct routing profile in Basecamp"
+    for p in flat_track:
+        _emit_rtept(rte, p)
+
+    trk = SubElement(gpx, "trk")
+    SubElement(trk, "name").text = f"{title} (track)"
+    for label, points in subsegs:
+        if not points:
+            continue
+        seg = SubElement(trk, "trkseg")
+        SubElement(seg, "name").text = label
+        for p in points:
+            _emit_trkpt(seg, p)
+
+    stem = section.filename.removesuffix(".gpx")
+    out = OUT_DIR / f"{stem}-basecamp.gpx"
     rough = ET.tostring(gpx, encoding="unicode")
     parsed = minidom.parseString('<?xml version="1.0" encoding="UTF-8"?>\n' + rough)
     out.write_text(parsed.toprettyxml(indent="  ", encoding="UTF-8").decode("UTF-8"), encoding="utf-8")
@@ -727,6 +857,15 @@ def assign_plan_times(points: list[dict], start: datetime, end: datetime) -> Non
 # ----------------------------------------------------------------------------
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Build Vita Bandet composite + section GPX files")
+    parser.add_argument(
+        "--basecamp",
+        type=int,
+        metavar="N",
+        help="Also write Garmin Basecamp GPX for section N (e.g. 2)",
+    )
+    args = parser.parse_args()
+
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     state = {"summer_locs": None, "lapland_join": None, "lapland_end": None}
 
@@ -745,8 +884,12 @@ def main() -> None:
 
     # Per-section GPX files.
     section_paths: list[Path] = []
+    basecamp_paths: list[Path] = []
     for (section, subsegs), (_, flat) in zip(per_section_subsegs, section_flat):
         section_paths.append(write_section_gpx(section, subsegs, flat))
+        if args.basecamp is None or section.id == args.basecamp:
+            if args.basecamp is not None:
+                basecamp_paths.append(write_basecamp_section_gpx(section, subsegs, flat))
 
     # Composite GPX.
     composite_path = write_composite_gpx(section_flat)
@@ -765,6 +908,8 @@ def main() -> None:
           f"({total_pts} pts, {total_km:.0f} km, {len(section_flat)} sections)")
     for p in section_paths:
         print(f"  · {p.relative_to(ROOT)}")
+    for p in basecamp_paths:
+        print(f"  · {p.relative_to(ROOT)}  (Basecamp)")
     print()
     print("Section breakdown:")
     for section, flat in section_flat:
