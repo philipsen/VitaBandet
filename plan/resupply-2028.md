@@ -38,8 +38,8 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 | **7–8** | **Helags / Sylarna** (väster om · east detour) | **Rare** | STF butik if you detour to stations — opens **19–21 Feb 2026** | On Band track: no fuel; snacks only if **H** detour |
 | **9** | **Blåhammaren** (väster om · east detour) | **Rare** | STF butik if you detour — self-catering basics | Camp night before Storlien; snacks only if **H** detour |
 | **10** | **Storlien** | **Ask** | Coop / Fjellhandeln / Sportringen — outdoor | **Liquid alkylate only** (no canisters); ask **alkylbensin / Power Fuel** |
-| **15** | **Kolåsen** (Fjällhotell) | **No** | Hotel only — restaurant prebook; vandrarhem året om | **H** option; no shop |
-| **16** | **Olden** (corridor) | **No** | — | On track only — **not** Valsjöbua |
+| **15** | **Kallsedet** | **No** | — | On track · optional **H** Kolåsen (~10 km detour) |
+| **17** | **Olden** (corridor) | **No** | — | On track only — **not** Valsjöbua |
 | **21** | **Valsjöbyn** (Valsjöbua) ★ | **Maybe** | Lanthandel + Systembolag + post + frystorkad; **"gas" sold** — ask if liquid alkylbensin in stock | Bandet hub · **free Bandare vandrarhem** · jour 072-1933833 |
 | **23–24** | **Gäddede väster om / Gäddede** | **Maybe** | **Frostvikens El** (Gäddede) · **ICA Blåsjöfjäll** optional detour (~35 km off track) | Blåsjö pump ★ if you detour; else Frostvikens at **D24** |
 | **26** | **Borgafjäll** (Hotell) | **No** | Hotel/restaurant only — no village livs of size | **H** option; restaurant 18–21 daily |
@@ -179,9 +179,9 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 ---
 
-### Day 15 — Kolåsen · **H** (Fjällhotell)
+### Day 15 — Kallsedet (camp) · Kolåsen **H** optional detour
 
-*Kolåsen on the Band track ~63.71°N, 12.93°E (cum ~252 km).*
+*Camp on the Band track at Kallsedet (~63.701°N, 12.957°E · cum ~251 km). **Kolåsens Fjällhotell** is ~10 km off the line (~63.751°N, 12.957°E).*
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
@@ -196,7 +196,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
 
 ---
 
-### Day 16 — Olden (corridor only)
+### Day 17 — Olden (corridor only)
 
 *Olden ~63.71°N, 13.11°E on the Band track — **not** a shop. **Valsjöbua** is **~90 km further north** (Day 21).*
 

@@ -52,7 +52,6 @@ BASECAMP_MILESTONE_CATEGORY: dict[str, str] = {
     "STORLIEN": "Food",
     "GADDEDE": "Food",
     "VALSJO": "Food",
-    "KOLASEN": "Lodging",
     "BLASJOFJALL": "Food",
 }
 
@@ -68,7 +67,8 @@ MILESTONES = {
     "BLAHAMM": (63.187081, 12.174362),   # STF Blåhammaren
     "STORLIEN": (63.298, 12.101),
     "NORDER_RENSJON": (63.416652, 12.225886),  # Norder-Rensjön — track leaves lake N end
-    "KOLASEN": (63.713, 12.930),         # Kolåsens Fjällhotell area (on Band track)
+    "STOR_RENSJON": (63.676520, 12.545700),    # Stor-Rensjön — track leaves lake N end (Hotagen)
+    "KALLSEDEt": (63.701400, 12.957100),       # Kallsedet — on Band track (road 336 corridor)
     "OLDEN": (63.707, 13.107),           # Olden corridor (not Valsjöbua)
     "VALSJO": (64.068, 14.139),         # Valsjöbua Lanthandel
     "BLASJOFJALL": (64.836, 14.083),     # ICA Nära Blåsjöfjäll — ~35 km off Band track
@@ -117,14 +117,14 @@ SECTION1_CAMPS = [
 SECTION2_CAMPS = [
     (11, "2028-02-25", 183, "Norder Rensjön",        "T", "Track leaves north end of lake · carry 10–12 days food", None),
     (12, "2028-02-26", 201, "Skalstugan", "T", "Depot optional", None),
-    (13, "2028-02-27", 217, "Hotagen väster om", "T", "On track at lake edge · toward Kolåsen", None),
+    (13, "2028-02-27", 221, "Stor-Rensjön N", "T", "Track leaves north end of lake · Hotagen fringe", "STOR_RENSJON"),
     (14, "2028-02-28", 239, "Mot Kolåsen", "T", "Remote · no scooter spår", None),
-    (15, "2028-02-29", 257, "Kolåsen", "T", "H optional · depot · restaurant prebook", "KOLASEN"),
-    (16, "2028-03-01", 267, "Olden", "T", "On track — not Valsjöbua (that is D21)", "OLDEN"),
-    (17, "2028-03-02", 285, "Frostviken", "T", "Undersåker väster om corridor (bridge ~55 km E)", None),
-    (18, "2028-03-03", 303, "Ansättfjällen approach", "T", "", None),
-    (19, "2028-03-04", 321, "Ansättfjällen väster om", "T", "", None),
-    (20, "2028-03-05", 339, "Regnfallet", "T", "", None),
+    (15, "2028-02-29", 251, "Kallsedet", "T", "On band track · road 336 corridor", "KALLSEDEt"),
+    (16, "2028-03-01", 255, "Mot Olden", "T", "On track · halfway Kallsedet–Olden", None),
+    (17, "2028-03-02", 259, "Olden", "T", "On track — not Valsjöbua (that is D21)", "OLDEN"),
+    (18, "2028-03-03", 285, "Frostviken", "T", "Undersåker väster om corridor (bridge ~55 km E)", None),
+    (19, "2028-03-04", 303, "Ansättfjällen approach", "T", "", None),
+    (20, "2028-03-05", 321, "Ansättfjällen väster om", "T", "", None),
     (21, "2028-03-06", 357, "Valsjöbua", "D", "Valsjöbua ★ · Bandare vandrarhem", "VALSJO"),
     (22, "2028-03-07", 380, "Björkvattnet", "T", "After Valsjöbua resupply", None),
     (23, "2028-03-08", 402, "Gäddede väster om", "T", "Optional Blåsjö detour (~35 km off track)", None),
@@ -228,7 +228,7 @@ SECTIONS: list[Section] = [
             SubSegment("Storlien → Gäddede",
                        "lottas-och-bjorns-band-track.json", "STORLIEN", "GADDEDE"),
         ],
-        waypoints=["STORLIEN", "NORDER_RENSJON", "KOLASEN", "OLDEN", "VALSJO", "BLASJOFJALL", "GADDEDE"],
+        waypoints=["STORLIEN", "NORDER_RENSJON", "STOR_RENSJON", "OLDEN", "VALSJO", "BLASJOFJALL", "GADDEDE"],
         camps=SECTION2_CAMPS,
         start_cum_km=161,
     ),
@@ -516,7 +516,7 @@ WPT_LABELS = {
     "BLAHAMM":  "Blåhammaren fjällstation",
     "STORLIEN": "Storlien",
     "NORDER_RENSJON": "Norder-Rensjön (track leaves lake)",
-    "KOLASEN":  "Kolåsens Fjällhotell",
+    "STOR_RENSJON": "Stor-Rensjön (track leaves lake)",
     "OLDEN":    "Olden (corridor)",
     "VALSJO":   "Valsjöbua Lanthandel",
     "BLASJOFJALL": "ICA Nära Blåsjöfjäll (detour)",

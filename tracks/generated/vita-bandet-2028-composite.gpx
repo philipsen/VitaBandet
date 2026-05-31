@@ -77092,9 +77092,9 @@
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="63.6398137" lon="12.51673546">
-    <name>D13 · Hotagen väster om</name>
-    <desc>Section 2 · 2028-02-27 · cum 217 km · T · On track at lake edge · toward Kolåsen</desc>
+  <wpt lat="63.67652" lon="12.5457">
+    <name>D13 · Stor-Rensjön N</name>
+    <desc>Section 2 · 2028-02-27 · cum 221 km · T · Track leaves north end of lake · Hotagen fringe</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
@@ -77104,39 +77104,39 @@
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="63.713" lon="12.93">
-    <name>D15 · Kolåsen</name>
-    <desc>Section 2 · 2028-02-29 · cum 257 km · T · H optional · depot · restaurant prebook</desc>
+  <wpt lat="63.7014" lon="12.9571">
+    <name>D15 · Kallsedet</name>
+    <desc>Section 2 · 2028-02-29 · cum 251 km · T · On band track · road 336 corridor</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
+  </wpt>
+  <wpt lat="63.7132191" lon="13.04924645">
+    <name>D16 · Mot Olden</name>
+    <desc>Section 2 · 2028-03-01 · cum 255 km · T · On track · halfway Kallsedet–Olden</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.707" lon="13.107">
-    <name>D16 · Olden</name>
-    <desc>Section 2 · 2028-03-01 · cum 267 km · T · On track — not Valsjöbua (that is D21)</desc>
+    <name>D17 · Olden</name>
+    <desc>Section 2 · 2028-03-02 · cum 259 km · T · On track — not Valsjöbua (that is D21)</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.69503426" lon="13.60551981">
-    <name>D17 · Frostviken</name>
-    <desc>Section 2 · 2028-03-02 · cum 285 km · T · Undersåker väster om corridor (bridge ~55 km E)</desc>
+    <name>D18 · Frostviken</name>
+    <desc>Section 2 · 2028-03-03 · cum 285 km · T · Undersåker väster om corridor (bridge ~55 km E)</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.76947266" lon="13.81171347">
-    <name>D18 · Ansättfjällen approach</name>
-    <desc>Section 2 · 2028-03-03 · cum 303 km · T</desc>
+    <name>D19 · Ansättfjällen approach</name>
+    <desc>Section 2 · 2028-03-04 · cum 303 km · T</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="63.91305802" lon="13.86745623">
-    <name>D19 · Ansättfjällen väster om</name>
-    <desc>Section 2 · 2028-03-04 · cum 321 km · T</desc>
-    <sym>Campground</sym>
-    <type>camp</type>
-  </wpt>
-  <wpt lat="64.025185" lon="14.05574826">
-    <name>D20 · Regnfallet</name>
-    <desc>Section 2 · 2028-03-05 · cum 339 km · T</desc>
+    <name>D20 · Ansättfjällen väster om</name>
+    <desc>Section 2 · 2028-03-05 · cum 321 km · T</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
@@ -77455,8 +77455,8 @@
   <wpt lat="63.416652" lon="12.225886">
     <name>Norder-Rensjön (track leaves lake)</name>
   </wpt>
-  <wpt lat="63.713" lon="12.93">
-    <name>Kolåsens Fjällhotell</name>
+  <wpt lat="63.67652" lon="12.5457">
+    <name>Stor-Rensjön (track leaves lake)</name>
   </wpt>
   <wpt lat="63.707" lon="13.107">
     <name>Olden (corridor)</name>

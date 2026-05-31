@@ -25,7 +25,7 @@ Commercial **campings / ställplatser** and **STF tält + serviceavgift** (membe
 | **5–8** | **Band line** (Helags / Sylarna väster om) | **[Vålågårdens](https://www.valagarden.se/)** + **STF Vålådalen** only on **east detour** (~30 km off Band track) | **STF Helags / Sylarna** east of line — tent + service fee if weather forces **H**; plan camps on track west of stations |
 | **9** | **STF Blåhammaren** | — | **STF tält + serviceavgift**; butik/self-catering (restaurant closed since 2024) · camp west of station on Band track |
 | **10** | **Storlien** · **D** | **[Storlien Högfjällshotell](https://www.storlienhogfjallshotell.se/en/pitches.html)** — 18 pitches (10 el); heated cabin WC (no shower); **pre-book winter** | **STF Storliens fjällgård** = hostel, not caravan site |
-| **15** | **Kolåsen** · **H** (optional) | — (hotel **stugor** + Sportstugan only) | Wild **T**; depot pickup at hotel |
+| **15** | **Kallsedet** | — | Wild **T** on band track | Optional **H** at Kolåsen Fjällhotell (~10 km detour) |
 | **21** | **Valsjöbua** · **D** | — | Free **Bandare vandrarhem** at Valen (book 3 days ahead) — not camping |
 | **23** | Gäddede väster om | Wild **T** west of village · optional **Blåsjöfjäll** detour | — |
 | **24** | **Gäddede** · **D** | **[Gäddede Camping & Stugby](https://www.gaddedecamping.com/)** (Sagavägen 9) — **open year-round**; tent + el pitches; walk to ICA | **Pilgrimshotellet** next door (**H**, not camping) |
@@ -70,8 +70,9 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 | 15 Feb | Grövelsjön | 0 |
 | 23 Feb | Blåhammaren | 147 |
 | 24 Feb | Storlien · **D** | 161 |
-| 29 Feb | Kolåsen · **H** (optional) | 257 |
-| 1 Mar | Olden (on track — not Valsjöbua) | 267 |
+| 29 Feb | Kallsedet | 251 |
+| 1 Mar | Mot Olden | 255 |
+| 2 Mar | Olden (on track — not Valsjöbua) | 259 |
 | 6 Mar | Valsjöbua · **D** ★ | 357 |
 | 8 Mar | Gäddede väster om | 402 |
 | 9 Mar | Gäddede · **D** | 423 |
@@ -213,15 +214,15 @@ Fjäll travel toward **Skalstugan** on the Storlien–Kolåsen line — **Kolås
 |-----|-------|
 | **T** | Skalstugan corridor |
 
-#### Day 13 · Sun 27 Feb · 16 km (cum 217) · Hotagen väster om
+#### Day 13 · Sun 27 Feb · 20 km (cum 221) · Stor-Rensjön N
 
-Camp **on the band track** at the **west shore** of the lake in the **Hotagen** fringe (63.638°N, 12.515°E) — remote, GPS essential (no scooters in reserve core).
+Camp **on the band track** where the line leaves **Stor-Rensjön** at the **north end** (63.677°N, 12.546°E) — **Hotagen** fringe; remote, GPS essential (no scooters in reserve core).
 
 | Acc | Notes |
 |-----|-------|
-| **T** | On track · lake edge · west of Hotagen |
+| **T** | On track · north end Stor-Rensjön · Hotagen fringe |
 
-#### Day 14 · Mon 28 Feb · 22 km (cum 239) · Mot Kolåsen
+#### Day 14 · Mon 28 Feb · 18 km (cum 239) · Mot Kolåsen
 
 Continue north on permitted winter lines toward **Kolåsen**.
 
@@ -229,23 +230,31 @@ Continue north on permitted winter lines toward **Kolåsen**.
 |-----|-------|
 | **T** | Hotagen north fringe · remote |
 
-#### Day 15 · Tue 29 Feb · 18 km (cum 257) · Kolåsen · **H** (optional)
+#### Day 15 · Tue 29 Feb · 12 km (cum 251) · Kallsedet
 
-**Kolåsens Fjällhotell** (open **20 Feb – 25 Apr**) — **3-rätters middag 18:00** (**förboka**, 0647 81017); **Sportstugan** året om. Depot box pickup. See [resupply](./resupply-2028.md).
+Camp **on the band track** at **Kallsedet** (~63.701°N, 12.957°E) — road **336** corridor; remote fjäll. Optional **H** / depot at **Kolåsens Fjällhotell** (~10 km detour — see [resupply](./resupply-2028.md)).
 
 | Acc | Notes |
 |-----|-------|
-| **T** / H | Kolåsen · optional **H** + middag at Kolåsen |
+| **T** | Kallsedet · on track |
 
-#### Day 16 · Wed 1 Mar · 10 km (cum 267) · Olden
+#### Day 16 · Wed 1 Mar · 4 km (cum 255) · Mot Olden
 
-Short day on the **Olden** corridor (**63.71°N, 13.11°E**) — **not** Valsjöbua (that is **Day 21**). Carry food for the long stretch to Valsjöbyn.
+Camp **on the band track** between **Kallsedet** and **Olden** (~63.713°N, 13.028°E).
+
+| Acc | Notes |
+|-----|-------|
+| **T** | On track · toward Olden |
+
+#### Day 17 · Thu 2 Mar · 4 km (cum 259) · Olden
+
+Short day on the **Olden** corridor (~63.708°N, 13.103°E) — **not** Valsjöbua (that is **Day 21**). Carry food for the long stretch to Valsjöbyn.
 
 | Acc | Notes |
 |-----|-------|
 | **T** | Olden corridor |
 
-#### Day 17 · Thu 2 Mar · 18 km (cum 285) · Frostviken
+#### Day 18 · Fri 3 Mar · 26 km (cum 285) · Frostviken
 
 Enter **Frostviken**. **Undersåker väster om:** keep the Indalsälven bridge on your **east** when you cross that corridor (wide pass — you do not camp at the bridge).
 
@@ -253,7 +262,7 @@ Enter **Frostviken**. **Undersåker väster om:** keep the Indalsälven bridge o
 |-----|-------|
 | **T** | Frostviken · **W** Undersåker corridor (not a hut stop) |
 
-#### Day 18 · Fri 3 Mar · 18 km (cum 303) · Ansättfjällen approach
+#### Day 19 · Sat 4 Mar · 18 km (cum 303) · Ansättfjällen approach
 
 Steady progress toward **Ansättfjällen** / **Valsjöbyn**.
 
@@ -261,7 +270,7 @@ Steady progress toward **Ansättfjällen** / **Valsjöbyn**.
 |-----|-------|
 | **T** | On track · Ansättfjällen ahead |
 
-#### Day 19 · Sat 4 Mar · 18 km (cum 321) · Ansättfjällen väster om
+#### Day 20 · Sun 5 Mar · 18 km (cum 321) · Ansättfjällen väster om
 
 Open fjäll west of the **Ansättfjällen** massif.
 
@@ -269,15 +278,7 @@ Open fjäll west of the **Ansättfjällen** massif.
 |-----|-------|
 | **T** | On track west of Ansättfjällen |
 
-#### Day 20 · Sun 5 Mar · 18 km (cum 339) · Regnfallet
-
-Approach **Valsjöbyn** from the south.
-
-| Acc | Notes |
-|-----|-------|
-| **T** | Regnfallet fringe |
-
-#### Day 21 · Mon 6 Mar · 18 km (cum 357) · Valsjöbua · **D** ★ Bandet hero
+#### Day 21 · Mon 6 Mar · 36 km (cum 357) · Valsjöbua · **D** ★ Bandet hero
 
 **Valsjöbua Lanthandel** (64.068°N, 14.139°E) — Mon–Fri 10–18, Sat 10–14. Full lanthandel + Systembolag + post + frystorkad + café; **free vandrarhem at Valen for Bandare** (book 3 days ahead). **Jourtelefon 072-1933833**. **Primary mid-leg D** between Storlien and Gäddede. See [resupply](./resupply-2028.md).
 
