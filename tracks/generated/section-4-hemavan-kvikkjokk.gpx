@@ -1041,7 +1041,7 @@
   </trk>
   <wpt lat="65.87590824" lon="15.34772771">
     <name>D36 · Syterstuga west</name>
-    <desc>Section 4 · 2028-03-21 · cum 667 km · T · Steep · KL west</desc>
+    <desc>Section 4 · 2028-03-21 · cum 667 km · T · Steep · KL west · STF Syterstuga ~1 km · optional Jäckvik ICA detour E</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
@@ -1051,15 +1051,15 @@
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="65.9566" lon="16.2014">
-    <name>D38 · Ammarnäs</name>
-    <desc>Section 4 · 2028-03-23 · cum 710 km · T · Optional D Handlar'n · Fritidscenter camping</desc>
+  <wpt lat="65.96445707" lon="15.96646644">
+    <name>D38 · Situjaure approach</name>
+    <desc>Section 4 · 2028-03-23 · cum 710 km · T · Optional D: Ammarnäs Handlar'n + Fritidscenter camping + STF Wärdshus H (~7 km E)</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="66.27749" lon="16.665675">
-    <name>D39 · Adolfström</name>
-    <desc>Section 4 · 2028-03-24 · cum 732 km · T · Optional D/camping · Adolfström Camping</desc>
+  <wpt lat="66.03902078" lon="16.20753006">
+    <name>D39 · Pieljekaise approach</name>
+    <desc>Section 4 · 2028-03-24 · cum 732 km · T · Optional D: Adolfström Handelsbod (~7 km, phone ahead) · Camping H (~31 km E)</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
@@ -1069,15 +1069,15 @@
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
-  <wpt lat="66.49" lon="16.55">
-    <name>D41 · Vuoggatjålme</name>
-    <desc>Section 4 · 2028-03-26 · cum 775 km · H · Optional middag · stuga/caravan site</desc>
-    <sym>Lodging</sym>
-    <type>hut</type>
+  <wpt lat="66.28473009" lon="16.66337494">
+    <name>D41 · West of Vuoggatjålme</name>
+    <desc>Section 4 · 2028-03-26 · cum 775 km · T · Optional H/detour: Vuoggatjålme Fjällhotell restaurant + stugor (~21 km E, Silvervägen)</desc>
+    <sym>Campground</sym>
+    <type>camp</type>
   </wpt>
   <wpt lat="66.38601794" lon="17.00079762">
     <name>D42 · Aktse</name>
-    <desc>Section 4 · 2028-03-27 · cum 797 km · T</desc>
+    <desc>Section 4 · 2028-03-27 · cum 797 km · T · Skierffe area · on track</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
@@ -1089,19 +1089,19 @@
   </wpt>
   <wpt lat="66.6235894" lon="17.37763704">
     <name>D44 · Sitojaure</name>
-    <desc>Section 4 · 2028-03-29 · cum 841 km · T · STF tält + serviceavgift if hut open</desc>
+    <desc>Section 4 · 2028-03-29 · cum 841 km · T · STF Sitojaure ~4 km · tält + serviceavgift if open</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="66.77984618" lon="17.54441374">
     <name>D45 · Kaitumjaure</name>
-    <desc>Section 4 · 2028-03-30 · cum 863 km · T</desc>
+    <desc>Section 4 · 2028-03-30 · cum 863 km · T · Kaitum lakes · on track</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="66.93199609" lon="17.72406383">
     <name>D46 · Toward Kvikkjokk</name>
-    <desc>Section 4 · 2028-03-31 · cum 885 km · T</desc>
+    <desc>Section 4 · 2028-03-31 · cum 885 km · T · Penultimate · Kvikkjokk STF ~2 km ahead</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>

@@ -162,17 +162,21 @@ SECTION3_CAMPS = [
 ]
 
 SECTION4_CAMPS = [
-    (36, "2028-03-21", 667, "Syterstuga west", "T", "Steep · KL west", None),
+    (36, "2028-03-21", 667, "Syterstuga west", "T",
+     "Steep · KL west · STF Syterstuga ~1 km · optional Jäckvik ICA detour E", None),
     (37, "2028-03-22", 689, "Tärnasjön", "T", "Ice travel · wind funnel", None),
-    (38, "2028-03-23", 710, "Ammarnäs", "T", "Optional D Handlar'n · Fritidscenter camping", "AMMARNAS"),
-    (39, "2028-03-24", 732, "Adolfström", "T", "Optional D/camping · Adolfström Camping", "ADOLFSTROM"),
+    (38, "2028-03-23", 710, "Situjaure approach", "T",
+     "Optional D: Ammarnäs Handlar'n + Fritidscenter camping + STF Wärdshus H (~7 km E)", None),
+    (39, "2028-03-24", 732, "Pieljekaise approach", "T",
+     "Optional D: Adolfström Handelsbod (~7 km, phone ahead) · Camping H (~31 km E)", None),
     (40, "2028-03-25", 753, "Hornavan ice", "T", "Ice check AM only", None),
-    (41, "2028-03-26", 775, "Vuoggatjålme", "H", "Optional middag · stuga/caravan site", "VUOGGATJALME"),
-    (42, "2028-03-27", 797, "Aktse", "T", "", None),
+    (41, "2028-03-26", 775, "West of Vuoggatjålme", "T",
+     "Optional H/detour: Vuoggatjålme Fjällhotell restaurant + stugor (~21 km E, Silvervägen)", None),
+    (42, "2028-03-27", 797, "Aktse", "T", "Skierffe area · on track", None),
     (43, "2028-03-28", 819, "Rapadalen west", "T", "Sarek views", None),
-    (44, "2028-03-29", 841, "Sitojaure", "T", "STF tält + serviceavgift if hut open", None),
-    (45, "2028-03-30", 863, "Kaitumjaure", "T", "", None),
-    (46, "2028-03-31", 885, "Toward Kvikkjokk", "T", "", None),
+    (44, "2028-03-29", 841, "Sitojaure", "T", "STF Sitojaure ~4 km · tält + serviceavgift if open", None),
+    (45, "2028-03-30", 863, "Kaitumjaure", "T", "Kaitum lakes · on track", None),
+    (46, "2028-03-31", 885, "Toward Kvikkjokk", "T", "Penultimate · Kvikkjokk STF ~2 km ahead", None),
     (47, "2028-04-01", 905, "Kvikkjokk", "D", "STF max stock · wild T + paid shower", "KVIKK"),
 ]
 
