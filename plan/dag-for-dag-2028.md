@@ -69,8 +69,8 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 | Date | Place | Cum. km |
 |------|-------|---------|
 | 15 Feb | Grövelsjön | 0 |
-| 23 Feb | D9 · Blåhammaren point | 147 |
-| 24 Feb | Storlien · **D** | 161 |
+| 23 Feb | D9 - Blåhammaren fjällstation | 147 |
+| 24 Feb | D10 - Storlien · **D** | 161 |
 | 29 Feb | Kallsedet | 250 |
 | 1 Mar | Mot Olden | 271 |
 | 2 Mar | Olden | 286 |
@@ -117,16 +117,15 @@ North from **Hävlingen** across **Långfjället** toward **Rogen** — open hea
 | **T** | Tent sites by STF Rogen |
 | **H** | Optional — STF Rogen if open; book ahead |
 
-#### Day 3 · Thu 17 Feb · 15 km (cum 44) · Dalstenshån
+#### Day 3 · Thu 17 Feb · 15 km (cum 44) · Skedbrosjön
 
-Continue north through **Rogen** nature reserve toward **Dalstenshån** (~62.42°N, 12.29°E).  
-**T** on the **north shore** of the lake (open fjäll, good tent spots).
+Continue north through **Rogen** nature reserve toward **Skedbrosjön**.
 
 **Optional detour east** for **D** / restaurants at **Tännäs / Bruksvallarna**: **STF Tännäskröket + Restaurang Árran** (White Guide); **Stigmyhrs Livs** **24/7 with Bank-ID** (~62.62°N, 12.41°E); **Bruksvallarnas Sportcenter** (outdoor/friluftsbensin). See [resupply](./resupply-2028.md).
 
 | Acc | Notes |
 |-----|-------|
-| **T** | North shore Dalstenshån |
+| **T** | Camp at Skedbrosjön waypoint |
 
 #### Day 4 · Fri 18 Feb · 16 km (cum 60) · Tänndalen · **D**
 
@@ -176,15 +175,15 @@ Camp at **Sylarna Fjällstation** area.
 |-----|-------|
 | **T** / H | Sylarna waypoint · optional **H** at station |
 
-#### Day 9 · Wed 23 Feb · 18 km (cum 147) · D9 · Blåhammaren point
+#### Day 9 · Wed 23 Feb · 18 km (cum 147) · D9 - Blåhammaren fjällstation
 
-Day ends at **D9 · Blåhammaren point**.
+Day ends at **D9 - Blåhammaren fjällstation**.
 
 | Acc | Notes |
 |-----|-------|
-| **T** / H | Camp at Blåhammaren point · optional **H** at station |
+| **T** / H | Camp at D9 Blåhammaren waypoint · optional **H** at station |
 
-#### Day 10 · Thu 24 Feb · 14 km (cum 161) · Storlien · **D**
+#### Day 10 · Thu 24 Feb · 14 km (cum 161) · D10 - Storlien · **D**
 
 Short descent to **Storlien** for first major resupply. **Coop / Eurocash / Fjellhandeln** (food, pharmacy, outdoor); **STF Storliens fjällgård** / hotels for **H**.  
 **Camping:** **Storlien Högfjällshotell** pitches (el optional; pre-book winter) — see camping table.  
