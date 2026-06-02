@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2026-06-02T13:07:13Z</time>
+    <time>2026-06-02T13:25:05Z</time>
     <bounds maxlat="69.060333855450153" maxlon="20.739000029861927" minlat="62.098249979317188" minlon="12.109499964863062"/>
   </metadata>
   <wpt lat="68.349999999627471" lon="18.830000041052699">
@@ -89,23 +89,6 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2026-06-02T11:50:48Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="63.18708099424839" lon="12.174361981451511">
-    <time>2026-06-02T12:42:55Z</time>
-    <name>Blåhammaren fjällstation</name>
-    <sym>Flag, Blue</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -731,7 +714,7 @@
   <wpt lat="62.579383123666048" lon="12.216744069010019">
     <time>2026-05-29T17:05:13Z</time>
     <name>D4 hostel or camping</name>
-    <sym>Flag, Blue</sym>
+    <sym>Campground</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -742,25 +725,6 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2026-05-29T17:05:13Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="62.574269995093346" lon="12.226189970970154">
-    <time>2026-06-02T12:42:55Z</time>
-    <name>D4 · Tänndalen</name>
-    <cmt>Section 1 · 2028-02-18 · cum 60 km · D · Hamra Livs resup · ~6 km detour west</cmt>
-    <desc>Section 1 · 2028-02-18 · cum 60 km · D · Hamra Livs resup · ~6 km detour west</desc>
-    <sym>Waypoint</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -951,25 +915,6 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2026-06-02T11:50:48Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="62.628445001319051" lon="12.33177999034524">
-    <time>2026-06-02T12:42:55Z</time>
-    <name>D5 · Band line west</name>
-    <cmt>Section 1 · 2028-02-19 · cum 72 km · T · On track — STF Vålådalen is E detour only</cmt>
-    <desc>Section 1 · 2028-02-19 · cum 72 km · T · On track — STF Vålådalen is E detour only</desc>
-    <sym>Campground</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1180,7 +1125,7 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="62.823613593354821" lon="12.450154172256589">
+  <wpt lat="62.818556288257241" lon="12.446109987795353">
     <time>2026-05-28T09:37:36Z</time>
     <name>D6 · Fältjägaren Fjällstuga</name>
     <sym>Campground</sym>
@@ -1194,25 +1139,6 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="62.766165034845471" lon="12.351020984351635">
-    <time>2026-06-02T12:42:55Z</time>
-    <name>D6 · Helags approach</name>
-    <cmt>Section 1 · 2028-02-20 · cum 90 km · T · Mot Helags / Långfjällen</cmt>
-    <desc>Section 1 · 2028-02-20 · cum 90 km · T · Mot Helags / Långfjällen</desc>
-    <sym>Campground</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1387,7 +1313,7 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="62.917358977720141" lon="12.506156014278531">
+  <wpt lat="62.917188992723823" lon="12.505794502794743">
     <time>2026-05-28T09:37:36Z</time>
     <name>D7 · Helags Fjallstation</name>
     <sym>Campground</sym>
@@ -1404,49 +1330,10 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="62.917358977720141" lon="12.506156014278531">
-    <time>2026-06-02T12:42:55Z</time>
-    <name>D7 · Helags väster om</name>
-    <cmt>Section 1 · 2028-02-21 · cum 109 km · T · STF Helags · Sylarna/Blåhammaren pass-through tomorrow</cmt>
-    <desc>Section 1 · 2028-02-21 · cum 109 km · T · STF Helags · Sylarna/Blåhammaren pass-through tomorrow</desc>
-    <sym>Campground</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="63.043722873553634" lon="12.275482015684247">
+  <wpt lat="63.04280505515635" lon="12.274454645812511">
     <ele>1030</ele>
-    <time>2026-05-28T09:37:36Z</time>
-    <name>D8 · Sylarna Fjallstation</name>
-    <sym>Campground</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="63.043722873553634" lon="12.275482015684247">
-    <ele>1029.654139923758521</ele>
     <time>2026-06-02T12:42:55Z</time>
-    <name>D8 · Sylarna väster om</name>
-    <cmt>Section 1 · 2028-02-22 · cum 129 km · T · STF Sylarna · pass Blåhammaren (~147 km) en route D9</cmt>
-    <desc>Section 1 · 2028-02-22 · cum 129 km · T · STF Sylarna · pass Blåhammaren (~147 km) en route D9</desc>
+    <name>D8 · Sylarna Fjällstation</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -1461,7 +1348,7 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="63.187826732173562" lon="12.175315590575337">
+  <wpt lat="63.189225252717733" lon="12.174619557335973">
     <time>2026-05-28T09:37:36Z</time>
     <name>D9 - Blåhammaren fjällstation</name>
     <sym>Campground</sym>
@@ -1546,23 +1433,6 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="62.917358977720141" lon="12.506156014278531">
-    <time>2026-06-02T12:42:55Z</time>
-    <name>Helags fjällstation1</name>
-    <sym>Flag, Blue</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1784,24 +1654,6 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="63.042492158710957" lon="12.27453762665391">
-    <ele>1035.31035623355092</ele>
-    <time>2026-06-02T12:42:55Z</time>
-    <name>Sylarna fjällstation1</name>
-    <sym>Flag, Blue</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
