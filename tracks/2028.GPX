@@ -4,8 +4,8 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2026-06-02T12:21:54Z</time>
-    <bounds maxlat="69.060333855450153" maxlon="20.739000029861927" minlat="62.100000036880374" minlon="12.100999960675836"/>
+    <time>2026-06-02T13:07:13Z</time>
+    <bounds maxlat="69.060333855450153" maxlon="20.739000029861927" minlat="62.098249979317188" minlon="12.109499964863062"/>
   </metadata>
   <wpt lat="68.349999999627471" lon="18.830000041052699">
     <time>2026-06-02T11:50:48Z</time>
@@ -93,7 +93,7 @@
     </extensions>
   </wpt>
   <wpt lat="63.18708099424839" lon="12.174361981451511">
-    <time>2026-05-28T09:37:36Z</time>
+    <time>2026-06-02T12:42:55Z</time>
     <name>Blåhammaren fjällstation</name>
     <sym>Flag, Blue</sym>
     <type>user</type>
@@ -105,7 +105,7 @@
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
+        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -126,7 +126,7 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="62.184709226712584" lon="12.388883968815207">
+  <wpt lat="62.185000581666827" lon="12.390258433297276">
     <ele>789.756472170679444</ele>
     <time>2026-05-28T09:37:36Z</time>
     <name>D1 · Hävlingestugorna</name>
@@ -149,8 +149,6 @@
   <wpt lat="63.286430770531297" lon="12.116731200367212">
     <time>2026-05-31T08:43:40Z</time>
     <name>D10 - Storlien</name>
-    <cmt>Track</cmt>
-    <desc>Track</desc>
     <sym>Lodging</sym>
     <type>user</type>
     <extensions>
@@ -168,8 +166,6 @@
   <wpt lat="63.418134273961186" lon="12.224281998351216">
     <time>2026-05-31T08:58:23Z</time>
     <name>D11 · Norder Rensjön</name>
-    <cmt>Section 2 · 2028-02-25 · cum 183 km · T · Track leaves north end of lake · carry 10–12 days food</cmt>
-    <desc>Section 2 · 2028-02-25 · cum 183 km · T · Track leaves north end of lake · carry 10–12 days food</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -187,8 +183,6 @@
   <wpt lat="63.571258150041103" lon="12.266387147828937">
     <time>2026-05-31T08:58:23Z</time>
     <name>D12 · Anjan</name>
-    <cmt>Section 2 · 2028-02-26 · cum 201 km · T · Depot optional</cmt>
-    <desc>Section 2 · 2028-02-26 · cum 201 km · T · Depot optional</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -203,11 +197,9 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="63.65729670971632" lon="12.526245340704918">
+  <wpt lat="63.667616844177246" lon="12.534105889499187">
     <time>2026-05-31T08:58:23Z</time>
     <name>D13 · Hotagen väster om</name>
-    <cmt>Section 2 · 2028-02-27 · cum 219 km · T · Remote · toward Kolåsen</cmt>
-    <desc>Section 2 · 2028-02-27 · cum 219 km · T · Remote · toward Kolåsen</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -336,7 +328,7 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="62.316879015415907" lon="12.450456004589796">
+  <wpt lat="62.31863628141582" lon="12.449443805962801">
     <time>2026-05-28T09:37:36Z</time>
     <name>D2 · STF Rogen area</name>
     <cmt>Section 1 · 2028-02-16 · cum 29 km · T · Tent sites ~100 m from hut · H optional if open (27 Feb–19 Apr)</cmt>
@@ -547,12 +539,10 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="62.422022363170981" lon="12.285870211198926">
-    <ele>820.085196425766412</ele>
+  <wpt lat="62.391496393829584" lon="12.293404033407569">
+    <ele>820</ele>
     <time>2026-05-28T09:37:36Z</time>
-    <name>D3 · Dalstenshån N</name>
-    <cmt>Section 1 · 2028-02-17 · cum 44 km · T · North shore · Rogen nature reserve</cmt>
-    <desc>Section 1 · 2028-02-17 · cum 44 km · T · North shore · Rogen nature reserve</desc>
+    <name>D3 · Skedbrosjon</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -741,8 +731,6 @@
   <wpt lat="62.579383123666048" lon="12.216744069010019">
     <time>2026-05-29T17:05:13Z</time>
     <name>D4 hostel or camping</name>
-    <cmt>Fjällnäsvägen and Svansjökläppsvägen</cmt>
-    <desc>Fjällnäsvägen and Svansjökläppsvägen</desc>
     <sym>Flag, Blue</sym>
     <type>user</type>
     <extensions>
@@ -758,7 +746,7 @@
     </extensions>
   </wpt>
   <wpt lat="62.574269995093346" lon="12.226189970970154">
-    <time>2026-05-28T09:37:36Z</time>
+    <time>2026-06-02T12:42:55Z</time>
     <name>D4 · Tänndalen</name>
     <cmt>Section 1 · 2028-02-18 · cum 60 km · D · Hamra Livs resup · ~6 km detour west</cmt>
     <desc>Section 1 · 2028-02-18 · cum 60 km · D · Hamra Livs resup · ~6 km detour west</desc>
@@ -772,7 +760,7 @@
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
+        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -966,11 +954,28 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="62.713368264958262" lon="12.298644986003637">
-    <time>2026-05-28T09:37:36Z</time>
+  <wpt lat="62.628445001319051" lon="12.33177999034524">
+    <time>2026-06-02T12:42:55Z</time>
     <name>D5 · Band line west</name>
     <cmt>Section 1 · 2028-02-19 · cum 72 km · T · On track — STF Vålådalen is E detour only</cmt>
     <desc>Section 1 · 2028-02-19 · cum 72 km · T · On track — STF Vålådalen is E detour only</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="62.713368264958262" lon="12.298644986003637">
+    <time>2026-05-28T09:37:36Z</time>
+    <name>D5 · Ramundberget west</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -1178,6 +1183,23 @@
   <wpt lat="62.823613593354821" lon="12.450154172256589">
     <time>2026-05-28T09:37:36Z</time>
     <name>D6 · Fältjägaren Fjällstuga</name>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="62.766165034845471" lon="12.351020984351635">
+    <time>2026-06-02T12:42:55Z</time>
+    <name>D6 · Helags approach</name>
     <cmt>Section 1 · 2028-02-20 · cum 90 km · T · Mot Helags / Långfjällen</cmt>
     <desc>Section 1 · 2028-02-20 · cum 90 km · T · Mot Helags / Långfjällen</desc>
     <sym>Campground</sym>
@@ -1190,7 +1212,7 @@
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
+        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1368,8 +1390,43 @@
   <wpt lat="62.917358977720141" lon="12.506156014278531">
     <time>2026-05-28T09:37:36Z</time>
     <name>D7 · Helags Fjallstation</name>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="62.917358977720141" lon="12.506156014278531">
+    <time>2026-06-02T12:42:55Z</time>
+    <name>D7 · Helags väster om</name>
     <cmt>Section 1 · 2028-02-21 · cum 109 km · T · STF Helags · Sylarna/Blåhammaren pass-through tomorrow</cmt>
     <desc>Section 1 · 2028-02-21 · cum 109 km · T · STF Helags · Sylarna/Blåhammaren pass-through tomorrow</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="63.043722873553634" lon="12.275482015684247">
+    <ele>1030</ele>
+    <time>2026-05-28T09:37:36Z</time>
+    <name>D8 · Sylarna Fjallstation</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -1386,10 +1443,27 @@
   </wpt>
   <wpt lat="63.043722873553634" lon="12.275482015684247">
     <ele>1029.654139923758521</ele>
-    <time>2026-05-28T09:37:36Z</time>
-    <name>D8 · Sylarna Fjallstation</name>
+    <time>2026-06-02T12:42:55Z</time>
+    <name>D8 · Sylarna väster om</name>
     <cmt>Section 1 · 2028-02-22 · cum 129 km · T · STF Sylarna · pass Blåhammaren (~147 km) en route D9</cmt>
     <desc>Section 1 · 2028-02-22 · cum 129 km · T · STF Sylarna · pass Blåhammaren (~147 km) en route D9</desc>
+    <sym>Campground</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="63.187826732173562" lon="12.175315590575337">
+    <time>2026-05-28T09:37:36Z</time>
+    <name>D9 - Blåhammaren fjällstation</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -1404,10 +1478,10 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="63.185611730441451" lon="12.176996832713485">
+  <wpt lat="63.287262674421072" lon="12.120218742638826">
     <ele>578.078853401309061</ele>
-    <time>2026-05-28T09:37:36Z</time>
-    <name>D9 · Storlien</name>
+    <time>2026-06-02T12:42:55Z</time>
+    <name>D9 · Storlien1</name>
     <cmt>Section 1 · 2028-02-23 · cum 161 km · D · Coop · resupply</cmt>
     <desc>Section 1 · 2028-02-23 · cum 161 km · D · Coop · resupply</desc>
     <sym>Waypoint</sym>
@@ -1420,25 +1494,7 @@
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="62.422618735581636" lon="12.289044940844178">
-    <ele>821.9844319605279</ele>
-    <time>2026-05-28T09:37:36Z</time>
-    <name>Dalstenshån (north shore)</name>
-    <sym>Flag, Blue</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
+        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1493,6 +1549,23 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="62.917358977720141" lon="12.506156014278531">
+    <time>2026-06-02T12:42:55Z</time>
+    <name>Helags fjällstation1</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="65.830000005662441" lon="15.080000013113022">
     <time>2026-05-31T15:07:09Z</time>
     <name>Hemavan1</name>
@@ -1507,24 +1580,6 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2026-05-31T15:07:09Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="62.185935918241739" lon="12.390355076640844">
-    <ele>787.364627493554963</ele>
-    <time>2026-05-28T09:37:36Z</time>
-    <name>Hävlingestugorna</name>
-    <sym>Flag, Blue</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1647,23 +1702,6 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="63.416652018204331" lon="12.225885959342122">
-    <time>2026-05-31T08:58:23Z</time>
-    <name>Norder-Rensjön (track leaves lake)</name>
-    <sym>Flag, Blue</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-05-31T08:58:23Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
   <wpt lat="63.706999970600009" lon="13.107000002637506">
     <time>2026-05-31T08:58:23Z</time>
     <name>Olden (corridor)1</name>
@@ -1732,23 +1770,6 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="62.316879015415907" lon="12.450456004589796">
-    <time>2026-05-28T09:37:36Z</time>
-    <name>STF Rogen fjällstuga</name>
-    <sym>Flag, Blue</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
   <wpt lat="62.539317961782217" lon="12.408265024423599">
     <time>2026-05-28T09:37:36Z</time>
     <name>STF Skarvruet vandrarhem</name>
@@ -1766,9 +1787,10 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="63.297999976202846" lon="12.100999960675836">
-    <time>2026-05-31T08:58:23Z</time>
-    <name>Storlien1</name>
+  <wpt lat="63.042492158710957" lon="12.27453762665391">
+    <ele>1035.31035623355092</ele>
+    <time>2026-06-02T12:42:55Z</time>
+    <name>Sylarna fjällstation1</name>
     <sym>Flag, Blue</sym>
     <type>user</type>
     <extensions>
@@ -1779,7 +1801,7 @@
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-05-31T08:58:23Z</ctx:CreationTime>
+        <ctx:CreationTime>2026-06-02T12:42:55Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -78160,6 +78182,266 @@
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
+      <trkpt lat="62.098249979317188" lon="12.315049963071942">
+        <time>2028-02-15T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="62.099150028079748" lon="12.322469959035516">
+        <time>2028-02-15T10:27:54Z</time>
+      </trkpt>
+      <trkpt lat="62.10141004063189" lon="12.33001995831728">
+        <time>2028-02-15T11:00:33Z</time>
+      </trkpt>
+      <trkpt lat="62.10484997369349" lon="12.332620024681091">
+        <time>2028-02-15T11:28:56Z</time>
+      </trkpt>
+      <trkpt lat="62.109149973839521" lon="12.336179986596107">
+        <time>2028-02-15T12:04:49Z</time>
+      </trkpt>
+      <trkpt lat="62.113349977880716" lon="12.33902002684772">
+        <time>2028-02-15T12:39:06Z</time>
+      </trkpt>
+      <trkpt lat="62.118950011208653" lon="12.351249977946281">
+        <time>2028-02-15T13:41:24Z</time>
+      </trkpt>
+      <trkpt lat="62.126479977741838" lon="12.356399986892939">
+        <time>2028-02-15T14:42:55Z</time>
+      </trkpt>
+      <trkpt lat="62.13237002491951" lon="12.360490020364523">
+        <time>2028-02-15T15:31:07Z</time>
+      </trkpt>
+      <trkpt lat="62.13772002607584" lon="12.362079983577132">
+        <time>2028-02-15T16:13:09Z</time>
+      </trkpt>
+      <trkpt lat="62.144050039350986" lon="12.366270013153553">
+        <time>2028-02-15T17:04:42Z</time>
+      </trkpt>
+      <trkpt lat="62.150869974866509" lon="12.370689958333969">
+        <time>2028-02-15T18:00:10Z</time>
+      </trkpt>
+      <trkpt lat="62.157160006463528" lon="12.375579960644245">
+        <time>2028-02-15T18:52:14Z</time>
+      </trkpt>
+      <trkpt lat="62.165620028972626" lon="12.380429981276393">
+        <time>2028-02-15T20:00:23Z</time>
+      </trkpt>
+      <trkpt lat="62.173830019310117" lon="12.380540035665035">
+        <time>2028-02-15T21:04:17Z</time>
+      </trkpt>
+      <trkpt lat="62.181640025228262" lon="12.388859996572137">
+        <time>2028-02-15T22:12:09Z</time>
+      </trkpt>
+      <trkpt lat="62.186479987576604" lon="12.390320040285587">
+        <time>2028-02-15T22:50:12Z</time>
+      </trkpt>
+      <trkpt lat="62.19278996810317" lon="12.387570021674037">
+        <time>2028-02-15T23:40:18Z</time>
+      </trkpt>
+      <trkpt lat="62.200180040672421" lon="12.382339965552092">
+        <time>2028-02-16T00:40:52Z</time>
+      </trkpt>
+      <trkpt lat="62.207129979506135" lon="12.376440027728677">
+        <time>2028-02-16T01:39:02Z</time>
+      </trkpt>
+      <trkpt lat="62.212779968976974" lon="12.364270007237792">
+        <time>2028-02-16T02:41:21Z</time>
+      </trkpt>
+      <trkpt lat="62.216830020770431" lon="12.353760022670031">
+        <time>2028-02-16T03:30:49Z</time>
+      </trkpt>
+      <trkpt lat="62.223079986870289" lon="12.348589980974793">
+        <time>2028-02-16T04:22:57Z</time>
+      </trkpt>
+      <trkpt lat="62.228299984708428" lon="12.353240009397268">
+        <time>2028-02-16T05:06:56Z</time>
+      </trkpt>
+      <trkpt lat="62.234910037368536" lon="12.35219000838697">
+        <time>2028-02-16T05:58:30Z</time>
+      </trkpt>
+      <trkpt lat="62.240850040689111" lon="12.348180022090673">
+        <time>2028-02-16T06:46:58Z</time>
+      </trkpt>
+      <trkpt lat="62.24723001010716" lon="12.347130021080375">
+        <time>2028-02-16T07:36:46Z</time>
+      </trkpt>
+      <trkpt lat="62.254080036655068" lon="12.35002001747489">
+        <time>2028-02-16T08:31:05Z</time>
+      </trkpt>
+      <trkpt lat="62.258729981258512" lon="12.352280030027032">
+        <time>2028-02-16T09:08:11Z</time>
+      </trkpt>
+      <trkpt lat="62.258950006216764" lon="12.363029988482594">
+        <time>2028-02-16T09:47:10Z</time>
+      </trkpt>
+      <trkpt lat="62.261150004342198" lon="12.377850031480193">
+        <time>2028-02-16T10:43:31Z</time>
+      </trkpt>
+      <trkpt lat="62.267670035362244" lon="12.38560002297163">
+        <time>2028-02-16T11:41:30Z</time>
+      </trkpt>
+      <trkpt lat="62.274760035797954" lon="12.391310026869178">
+        <time>2028-02-16T12:40:25Z</time>
+      </trkpt>
+      <trkpt lat="62.28048998862505" lon="12.39743996411562">
+        <time>2028-02-16T13:30:13Z</time>
+      </trkpt>
+      <trkpt lat="62.286409959197044" lon="12.401290023699403">
+        <time>2028-02-16T14:18:21Z</time>
+      </trkpt>
+      <trkpt lat="62.291909996420145" lon="12.408320009708405">
+        <time>2028-02-16T15:08:09Z</time>
+      </trkpt>
+      <trkpt lat="62.292769979685545" lon="12.41830000653863">
+        <time>2028-02-16T15:44:52Z</time>
+      </trkpt>
+      <trkpt lat="62.294850032776594" lon="12.426760029047728">
+        <time>2028-02-16T16:19:30Z</time>
+      </trkpt>
+      <trkpt lat="62.300860024988651" lon="12.434700038284063">
+        <time>2028-02-16T17:14:23Z</time>
+      </trkpt>
+      <trkpt lat="62.308020014315844" lon="12.438580021262169">
+        <time>2028-02-16T18:11:51Z</time>
+      </trkpt>
+      <trkpt lat="62.314959978684783" lon="12.444200003519654">
+        <time>2028-02-16T19:09:33Z</time>
+      </trkpt>
+      <trkpt lat="62.319849980995059" lon="12.438339963555336">
+        <time>2028-02-16T19:53:06Z</time>
+      </trkpt>
+      <trkpt lat="62.32414998114109" lon="12.424670001491904">
+        <time>2028-02-16T20:52:47Z</time>
+      </trkpt>
+      <trkpt lat="62.328249989077449" lon="12.411670004948974">
+        <time>2028-02-16T21:49:35Z</time>
+      </trkpt>
+      <trkpt lat="62.33241998590529" lon="12.398500023409724">
+        <time>2028-02-16T22:47:11Z</time>
+      </trkpt>
+      <trkpt lat="62.33658998273313" lon="12.385619971901178">
+        <time>2028-02-16T23:43:55Z</time>
+      </trkpt>
+      <trkpt lat="62.341570006683469" lon="12.374529959633946">
+        <time>2028-02-17T00:39:39Z</time>
+      </trkpt>
+      <trkpt lat="62.3462999984622" lon="12.363989967852831">
+        <time>2028-02-17T01:32:37Z</time>
+      </trkpt>
+      <trkpt lat="62.351280022412539" lon="12.353279991075397">
+        <time>2028-02-17T02:27:22Z</time>
+      </trkpt>
+      <trkpt lat="62.355180038139224" lon="12.345620021224022">
+        <time>2028-02-17T03:08:26Z</time>
+      </trkpt>
+      <trkpt lat="62.361070001497865" lon="12.342080008238554">
+        <time>2028-02-17T03:56:01Z</time>
+      </trkpt>
+      <trkpt lat="62.368009965866804" lon="12.338200025260448">
+        <time>2028-02-17T04:51:49Z</time>
+      </trkpt>
+      <trkpt lat="62.373660039156675" lon="12.329900013282895">
+        <time>2028-02-17T05:45:01Z</time>
+      </trkpt>
+      <trkpt lat="62.377749988809228" lon="12.317450037226081">
+        <time>2028-02-17T06:40:04Z</time>
+      </trkpt>
+      <trkpt lat="62.381039969623089" lon="12.30518002063036">
+        <time>2028-02-17T07:31:13Z</time>
+      </trkpt>
+      <trkpt lat="62.386059975251555" lon="12.296829968690872">
+        <time>2028-02-17T08:20:32Z</time>
+      </trkpt>
+      <trkpt lat="62.387569975107908" lon="12.289490019902587">
+        <time>2028-02-17T08:49:30Z</time>
+      </trkpt>
+      <trkpt lat="62.391330013051629" lon="12.284619966521859">
+        <time>2028-02-17T09:23:38Z</time>
+      </trkpt>
+      <trkpt lat="62.395639987662435" lon="12.280799997970462">
+        <time>2028-02-17T09:59:53Z</time>
+      </trkpt>
+      <trkpt lat="62.400079965591431" lon="12.277280017733574">
+        <time>2028-02-17T10:36:42Z</time>
+      </trkpt>
+      <trkpt lat="62.40476000122726" lon="12.274130014702678">
+        <time>2028-02-17T11:14:51Z</time>
+      </trkpt>
+      <trkpt lat="62.410720037296414" lon="12.275779992341995">
+        <time>2028-02-17T12:01:37Z</time>
+      </trkpt>
+      <trkpt lat="62.416740003973246" lon="12.279410026967525">
+        <time>2028-02-17T12:50:15Z</time>
+      </trkpt>
+      <trkpt lat="62.421019971370697" lon="12.287299996241927">
+        <time>2028-02-17T13:34:02Z</time>
+      </trkpt>
+      <trkpt lat="62.427519969642162" lon="12.294280026108027">
+        <time>2028-02-17T14:30:32Z</time>
+      </trkpt>
+      <trkpt lat="62.431949973106384" lon="12.295560026541352">
+        <time>2028-02-17T15:05:19Z</time>
+      </trkpt>
+      <trkpt lat="62.437359988689423" lon="12.292600041255355">
+        <time>2028-02-17T15:48:44Z</time>
+      </trkpt>
+      <trkpt lat="62.441480029374361" lon="12.2866400051862">
+        <time>2028-02-17T16:27:19Z</time>
+      </trkpt>
+      <trkpt lat="62.445339979603887" lon="12.289810040965676">
+        <time>2028-02-17T16:59:27Z</time>
+      </trkpt>
+      <trkpt lat="62.448450000956655" lon="12.28348002769053">
+        <time>2028-02-17T17:32:42Z</time>
+      </trkpt>
+      <trkpt lat="62.455590041354299" lon="12.280519958585501">
+        <time>2028-02-17T18:29:16Z</time>
+      </trkpt>
+      <trkpt lat="62.459949972108006" lon="12.283810023218393">
+        <time>2028-02-17T19:05:12Z</time>
+      </trkpt>
+      <trkpt lat="62.464739978313446" lon="12.285910025238991">
+        <time>2028-02-17T19:43:15Z</time>
+      </trkpt>
+      <trkpt lat="62.467429982498288" lon="12.284170025959611">
+        <time>2028-02-17T20:05:06Z</time>
+      </trkpt>
+      <trkpt lat="62.471069991588593" lon="12.288029976189137">
+        <time>2028-02-17T20:36:38Z</time>
+      </trkpt>
+      <trkpt lat="62.474949974566698" lon="12.284809984266758">
+        <time>2028-02-17T21:08:59Z</time>
+      </trkpt>
+      <trkpt lat="62.478359984233975" lon="12.275740010663867">
+        <time>2028-02-17T21:51:02Z</time>
+      </trkpt>
+      <trkpt lat="62.482899958267808" lon="12.272450029850006">
+        <time>2028-02-17T22:28:17Z</time>
+      </trkpt>
+      <trkpt lat="62.488149963319302" lon="12.269900003448129">
+        <time>2028-02-17T23:10:09Z</time>
+      </trkpt>
+      <trkpt lat="62.494189962744713" lon="12.269579982385039">
+        <time>2028-02-17T23:57:10Z</time>
+      </trkpt>
+      <trkpt lat="62.501290021464229" lon="12.271570013836026">
+        <time>2028-02-18T00:52:53Z</time>
+      </trkpt>
+      <trkpt lat="62.509010005742311" lon="12.274620020762086">
+        <time>2028-02-18T01:53:57Z</time>
+      </trkpt>
+      <trkpt lat="62.51407996751368" lon="12.281080037355423">
+        <time>2028-02-18T02:39:44Z</time>
+      </trkpt>
+      <trkpt lat="62.523429980501533" lon="12.290500039234757">
+        <time>2028-02-18T03:59:58Z</time>
+      </trkpt>
+      <trkpt lat="62.52375871874392" lon="12.29010877199471">
+        <time>2026-06-02T12:45:39Z</time>
+      </trkpt>
+      <trkpt lat="62.525056153535843" lon="12.29010877199471"/>
+      <trkpt lat="62.55259808152914" lon="12.262370623648167"/>
+      <trkpt lat="62.557012410834432" lon="12.271014461293817"/>
+      <trkpt lat="62.567997984588146" lon="12.239184100180864"/>
+      <trkpt lat="62.576484745368361" lon="12.218934344127774"/>
       <trkpt lat="62.57738328538835" lon="12.217359971255064">
         <time>2026-06-02T12:02:05Z</time>
       </trkpt>

@@ -9,7 +9,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 **Status:** day-by-day draft ready
 
 **Day-by-day itinerary:** [dag-for-dag-2028.md](./dag-for-dag-2028.md)  
-**Composite GPX:** [vita-bandet-2028-composite.gpx](../tracks/generated/vita-bandet-2028-composite.gpx) — six trksegs, one per Section (Lotta & Björn S1+S2 · Kalle+Lapplandsleden summer S3 · Mårten S4+S6 · own `2028-plan-kvikkjokk-abisko.gpx` for S5 + S5b). Per-section files in [tracks/generated/](../tracks/generated/). Detail: [band-tracks-comparison.md](./band-tracks-comparison.md).  
+**Master GPX:** [2028.gpx](../tracks/2028.gpx) — maintained manually in BaseCamp and used as the route source of truth. Detail/context: [band-tracks-comparison.md](./band-tracks-comparison.md).  
 **Resupply (local):** [resupply-2028.md](./resupply-2028.md)  
 **Gear inventory:** [gear-inventory-2028.md](./gear-inventory-2028.md)
 

@@ -10,7 +10,7 @@
 | **T** | Tent · **H** | Hut · **R** | Rest · **D** | Resupply · **W** | Waypoint (side pass) |
 
 **First major shop:** **Storlien**.  
-**GPX (full route):** [`vita-bandet-2028-composite.gpx`](../tracks/generated/vita-bandet-2028-composite.gpx) · per-section files in [`tracks/generated/`](../tracks/generated/) (`section-1-grovelsjon-storlien.gpx` … `section-6-abisko-paltsa.gpx`). Track provenance: [band-tracks-comparison.md](./band-tracks-comparison.md).  
+**GPX (full route):** [`2028.gpx`](../tracks/2028.gpx) — maintained manually in BaseCamp and used as the route source of truth. Track provenance/context: [band-tracks-comparison.md](./band-tracks-comparison.md).  
 **Resupply:** [resupply-2028.md](./resupply-2028.md) · **Pulk packing:** [packing-pulk-2028.md](./packing-pulk-2028.md) · **Solo:** daily inReach
 
 ### Camping near huts & resupply (reference)
@@ -69,7 +69,7 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 | Date | Place | Cum. km |
 |------|-------|---------|
 | 15 Feb | Grövelsjön | 0 |
-| 23 Feb | Blåhammaren | 147 |
+| 23 Feb | D9 · Blåhammaren point | 147 |
 | 24 Feb | Storlien · **D** | 161 |
 | 29 Feb | Kallsedet | 250 |
 | 1 Mar | Mot Olden | 271 |
@@ -152,41 +152,41 @@ Short leg on the **Band track** west of Tänndalen — open fjäll toward Helags
 |-----|-------|
 | **T** | On track · wild camp |
 
-#### Day 6 · Sun 20 Feb · 18 km (cum 90) · Helags approach
+#### Day 6 · Sun 20 Feb · 18 km (cum 90) · Fältjägaren Fjällstuga
 
-Northwest on the Band line toward **STF Helags** (station east of track — pass **väster om** unless storm **H**).
+Northwest on the Band line toward **Fältjägaren Fjällstuga**.
 
 | Acc | Notes |
 |-----|-------|
 | **T** | |
 
-#### Day 7 · Mon 21 Feb · 19 km (cum 109) · Helags väster om · STF cluster opens
+#### Day 7 · Mon 21 Feb · 19 km (cum 109) · Helags Fjällstation
 
-Camp west of **STF Helags** (62.917°N, 12.506°E). **STF Jämtland cluster opens 19–21 Feb 2026** (likely same window 2028): **Storulvån** (19 Feb), **Sylarna + Blåhammaren** (20 Feb), **Helags** (21 Feb). Restaurants/butiks — verify 2028 arrende. Small **east detour** only if weather forces **H** + tent/service fee.
-
-| Acc | Notes |
-|-----|-------|
-| **T** / H | On track west of Helags · optional **H** at station |
-
-#### Day 8 · Tue 22 Feb · 20 km (cum 129) · Sylarna väster om
-
-Camp west of **STF Sylarna** (63.046°N, 12.259°E). **Blåhammaren** is **~18 km** ahead on the Band line — camp there tomorrow.
+Camp at **Helags Fjällstation** area. **STF Jämtland cluster opens 19–21 Feb 2026** (likely same window 2028): **Storulvån** (19 Feb), **Sylarna + Blåhammaren** (20 Feb), **Helags** (21 Feb). Restaurants/butiks — verify 2028 arrende.
 
 | Acc | Notes |
 |-----|-------|
-| **T** | On track west of Sylarna |
+| **T** / H | Camp at Helags area waypoint · optional **H** at station |
 
-#### Day 9 · Wed 23 Feb · 18 km (cum 147) · Blåhammaren väster om
+#### Day 8 · Tue 22 Feb · 20 km (cum 129) · Sylarna Fjällstation
 
-Camp west of **STF Blåhammaren** (63.187°N, 12.174°E). Station east of track — small **east detour** only if weather forces **H** + tent/service fee. **Butik/self-catering** (restaurant closed since 2024); opens with Sylarna cluster (~20 Feb).
+Camp at **Sylarna Fjällstation** area.
 
 | Acc | Notes |
 |-----|-------|
-| **T** / H | On track west of Blåhammaren · optional **H** at station |
+| **T** / H | Sylarna waypoint · optional **H** at station |
+
+#### Day 9 · Wed 23 Feb · 18 km (cum 147) · D9 · Blåhammaren point
+
+Day ends at **D9 · Blåhammaren point**.
+
+| Acc | Notes |
+|-----|-------|
+| **T** / H | Camp at Blåhammaren point · optional **H** at station |
 
 #### Day 10 · Thu 24 Feb · 14 km (cum 161) · Storlien · **D**
 
-Short descent from Blåhammaren to **Storlien** — first major resupply. **Coop / Eurocash / Fjellhandeln** (food, pharmacy, outdoor); **STF Storliens fjällgård** / hotels for **H**.  
+Short descent to **Storlien** for first major resupply. **Coop / Eurocash / Fjellhandeln** (food, pharmacy, outdoor); **STF Storliens fjällgård** / hotels for **H**.  
 **Camping:** **Storlien Högfjällshotell** pitches (el optional; pre-book winter) — see camping table.  
 **Fuel:** ask **alkylbensin / Power Fuel** (liquid tins into bottles) — **no gas canisters** until Abisko. Optional **depot box** to **Kolåsen** for the next leg (see [resupply](./resupply-2028.md)).
 
@@ -199,7 +199,7 @@ Short descent from Blåhammaren to **Storlien** — first major resupply. **Coop
 ## Section 2 — Storlien → Gäddede (255 km · days 11–24)
 
 *North via Kolåsen / Hotagen / **Valsjöbyn** — Undersåker is a **wide väster om corridor**, not a camp pin (bridge ~55 km east of track).*  
-**Camp waypoints (D11–D24):** from [`section-2-storlien-gaddede.gpx`](../tracks/generated/section-2-storlien-gaddede.gpx) (hand-edited — source of truth for this section).
+**Camp waypoints (D11–D24):** from [`2028.gpx`](../tracks/2028.gpx) (manual BaseCamp track — source of truth).
 
 #### Day 11 · Fri 25 Feb · 22 km (cum 183) · Norder Rensjön
 
@@ -321,7 +321,7 @@ Short ski into **Gäddede** — **ICA**, **Frostvikens El** (alkylate). Stock **
 
 *Vildmarksvägen approach → **Klimpfjäll** → **[Lapplandsleden](https://www.lansstyrelsen.se/vasterbotten/besoksmal/vandringsleder/lapplandsleden.html)** (red winter crosses) with camps at each **Länsstyrelsen stuga**.*
 
-**Section 3 GPX:** [`section-3-gaddede-hemavan.gpx`](../tracks/generated/section-3-gaddede-hemavan.gpx) — Gäddede → Klimpfjäll (Kalle), then Lapplandsleden → Hemavan.  
+**Section 3 GPX:** [`2028.gpx`](../tracks/2028.gpx) — section traced in the manual BaseCamp route.  
 **Camp waypoints (D25–D35):** on track; after **Klimpfjäll** one camp per hut plus **Goeblejaevrie** (D34) and **Hemavan** **D** (D35).
 
 #### Day 25 · Fri 10 Mar · 19 km (cum 435) · Vilhelmina fjäll
@@ -433,7 +433,7 @@ From **Goeblejaevrie** into **Hemavan** — **halfway** sign (~65.815°N, 15.085
 ## Section 4 — Hemavan → Kvikkjokk (260 km · days 36–47)
 
 *Kungsleden west · Tärnasjö · Pieljekaise · Hornavan ice · Rapadalen · Kaitum.*  
-**Camp waypoints (D36–D47):** on track in [`section-4-hemavan-kvikkjokk.gpx`](../tracks/generated/section-4-hemavan-kvikkjokk.gpx); optional **D**/**H** detours as commercial pins (Hemavan, Jäckvik, Ammarnäs, Adolfström Camping, Vuoggatjålme, Kvikkjokk).
+**Camp waypoints (D36–D47):** on track in [`2028.gpx`](../tracks/2028.gpx); optional **D**/**H** detours as commercial pins (Hemavan, Jäckvik, Ammarnäs, Adolfström Camping, Vuoggatjålme, Kvikkjokk).
 
 #### Day 36 · Tue 21 Mar · 22 km (cum 667) · Syterstuga west
 
@@ -544,7 +544,7 @@ Arrive **STF Kvikkjokk** — critical resupply before **Padjelanta-west → Rits
 
 ## Section 5 — Kvikkjokk → Sälka · Padjelanta-west (193 km · days 48–58)
 
-*Direct **Laponia / Áhkká** line via **Ritsem**. **Section 5 + 5b GPX:** [`section-5-kvikkjokk-abisko.gpx`](../tracks/generated/section-5-kvikkjokk-abisko.gpx).  
+*Direct **Laponia / Áhkká** line via **Ritsem**. **Section 5 + 5b GPX:** [`2028.gpx`](../tracks/2028.gpx).  
 **Camp waypoints (D48–D62):** on the plan GPX; **D**/**H** pins at Ritsem, Sälka, Abisko; optional Nikkaluokta Sarri (D57).
 
 #### Day 48 · Sun 2 Apr · 17 km (cum 922) · Kvikkjokk north
@@ -691,10 +691,10 @@ Prepare for **Section 6** Abisko → Pältsa — **Nordkalottleden** via **Lappj
 
 ## Section 6 — Abisko → Treriksröset · Nordkalottleden (~168 km · days 63–68)
 
-*Track: `tracks/source/2028-plan-abisko-paltsa.gpx` (Garmin `2028 nord.GPX`).*
+*Track: [`2028.gpx`](../tracks/2028.gpx) (manual BaseCamp master route).*
 
 *Abisko → **Lappjord** → **Altevass** → **Treriksröset** in **~5 days**. **DNT huts = no pantry** — eat from Abisko load.*  
-**Camp waypoints (D63–D68):** on [`section-6-abisko-paltsa.gpx`](../tracks/generated/section-6-abisko-paltsa.gpx); **H** pins at Lappjordhytta, Altevasshytta; optional Nikkaluokta Sarri (D64).
+**Camp waypoints (D63–D68):** on [`2028.gpx`](../tracks/2028.gpx); **H** pins at Lappjordhytta, Altevasshytta; optional Nikkaluokta Sarri (D64).
 
 #### Day 63 · Mon 17 Apr · 22 km (cum 1192) · Abisko north
 
