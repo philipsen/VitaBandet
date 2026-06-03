@@ -1,9 +1,9 @@
 # Vita Bandet 2028 — day-by-day plan (compact)
 
-**Season:** **15 Feb – 22 Apr 2028** (68 days · Apr 23–30 slack)  
+**Season:** **15 Feb – 24 Apr 2028** (70 days · Apr 23–30 slack)  
 **Party:** **solo** · ski + **pulk** · **mostly tent**  
 **Direction:** **S → N** — Grövelsjön → Treriksröset  
-**Total:** **~1,283 km** (table) · GPS often **1,320–1,380 km**
+**Total:** **~1,302 km** (table) · GPS track **~1,304 km**
 
 | Symbol | Meaning |
 |--------|---------|
@@ -34,9 +34,8 @@ Commercial **campings / ställplatser** and **STF tält + serviceavgift** (membe
 | **27–31, 33** | **Lapplandsleden stugor** | **No** | Länsstyrelsen huts · unlocked · **tent in Mar** | Slipsik · Tjåkkele · Åtnik · Arevattnet · Atostugan |
 | **32** | **Arevattnet** + **Gränssjö** (optional ~1 km off track) | **[Gränssjöarnas Camping](https://granssjoarna.se/camping)** — year-round; **tent 200 kr**/n (no pre-book); kitchen · shower · WC; sauna **200 kr**; **6 stugor** | Arevattnet stuga on track · or paid tent/cabin + shower in village |
 | **28** | Klimpfjäll (optional **D**) | Wild **T** on track | Handlar'n grocery |
-| **34** | **Goeblejaevrie** | Wild **T** on track | Optional **Tärna Vilt** shop (~170 m off track, day 34) — no camp at shop |
-| **35** | **Hemavan** · **D** | **[Hemavan Fjällcenter](https://hemavan.nu/stallplatser-camping/)** ställplatser · **[Umfors Camping](https://camping.umfors.se/)** (~15 km) | **STF Hemavan** |
-| **38** | KL west · optional **D** Ammarnäs (~7 km E) | **[Ammarnäs Fritidscenter](https://www.ammarnasfritidscenter.com/)** — tent **150 kr**/night, pitch **300 kr**/night incl. el + service house | Wild **T** on track default · STF **H** in village if detour |
+| **34** | **Hemavan** · **D** | **[Hemavan Fjällcenter](https://hemavan.nu/stallplatser-camping/)** ställplatser · **[Umfors Camping](https://camping.umfors.se/)** (~15 km) | **STF Hemavan** |
+| **39** | KL west · optional **D** Ammarnäs (~7 km E) | **[Ammarnäs Fritidscenter](https://www.ammarnasfritidscenter.com/)** — tent **150 kr**/night, pitch **300 kr**/night incl. el + service house | Wild **T** on track default · STF **H** in village if detour |
 | **39** | KL west · optional **D** Adolfström (~7 km to Handelsbod) | **[Adolfström Camping](https://adolfstromcamping.se/)** — year-round **stugor** + tent/RV (Mar–May RV season; call **070-236 75 10**) · latrine dump · farther E | Wild **T** on track default |
 | **41** | KL west · optional **H** Vuoggatjålme (~21 km E) | **Caravan** year-round (Jan–May mostly seasonal); **stugor** on site — [vuoggatjalme.se](https://vuoggatjalme.se/boende/) | Wild **T** on track default · VGB: **no tent** at hotel — confirm if detour |
 | **47** | **STF Kvikkjokk** · **D** | **No campsite** — wild **T** only | Paid shower **~70 kr**/30 min in external building; restaurant/café/shop |
@@ -46,7 +45,7 @@ Commercial **campings / ställplatser** and **STF tält + serviceavgift** (membe
 | **59–61** | **Tjäktja**, **Alesjaure**, **Abiskojaure** | — | STF tält at huts when stugvärd season open |
 | **62** | **Abisko** · **D** | **STF Abisko** designated **tent site** in nationalpark (pay service fee; winter showers at **Vandrarhem Keron** ~400 m) | **No RV** in park — nearest **[Björkliden Camping](https://bjorkliden.com/)** ~**10 km** (pre-book winter day pitches) |
 | **56, 64** | **Nikkaluokta** **W** (village east) | **[Nikkaluokta Sarri](https://nikkaluokta.com/boende/camping)** — tent **150 kr**/person; RV with/without el; service house (kitchen, shower, sauna) · **no** latrine/grey-water dump | Optional detour if you need **H**/shop — pass **väster om** on Bandet |
-| **68** | **STF Pältsa** · **D** | — | **H** + shop at station |
+| **69** | **STF Pältastugan** · **D** | — | **H** + shop at station |
 
 ### Waypoint compliance (VGB)
 
@@ -69,34 +68,29 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 
 | Date | Place | Cum. km |
 |------|-------|---------|
-| 15 Feb | Grövelsjön | 0 |
-| 23 Feb | D9 - Blåhammaren fjällstation | 147 |
-| 24 Feb | D10 - Storlien | 161 |
-| 29 Feb | Kallsedet | 250 |
-| 1 Mar | Mot Olden | 271 |
-| 2 Mar | Olden | 286 |
-| 5 Mar | Valsjöbua · **D** ★ | 346 |
-| 8 Mar | Gäddede väster om | 414 |
-| 9 Mar | Gäddede · **D** | 416 |
-| 14 Mar | Klimpfjäll | 503 |
-| 18 Mar | Atostugan | 608 |
-| 19 Mar | Goeblejaevrie | 629 |
-| 20 Mar | Hemavan · **D** | 647 |
-| 1 Apr | Kvikkjokk | 905 |
-| 9 Apr | Ritsem · **D** | 1,045 |
-| 12 Apr | **Sälka** fjällstuga · **H** | 1,098 |
-| 16 Apr | Abisko | 1,170 |
-| 21 Apr | Treriksröset · **GOAL** | 1,273 |
-| **22 Apr** | **Pältsa** · end | **1,283** |
+| 15 Feb | Grövelsjön | 0  |
+| 23 Feb | Blåhammaren fjällstation | 150  |
+| 24 Feb | Storlien | 162  |
+| 29 Feb | Kolåsen | 258  |
+| 2 Mar | Olden | 288  |
+| 9 Mar | Gäddede | 415  |
+| 13 Mar | Klimpfjäll | 498  |
+| 19 Mar | Atostugan | 608  |
+| 20 Mar | Hemavan · **D** | 652  |
+| 1 Apr | Kvikkjokk | 887  |
+| 9 Apr | Ritsem | 1,013  |
+| 12 Apr | Sälka | 1,074  |
+| 16 Apr | Abisko | 1,134  |
+| 24 Apr | Treriksröset · **GOAL** | 1,302  |
 
 ---
 
-## Section 1 — Grövelsjön → Storlien (161 km · days 1–10)
+## Section 1 — Grövelsjön → Storlien (162 km · days 1–10)
 
 *Härjedalen → Jämtland alpine (Helags / Sylarna väster om — Band track does not pass STF Vålådalen).*
 **Camp waypoints (D1–D10):** pinned to landmarks where noted; otherwise on the Band track at planned km.
 
-#### Day 1 · Tue 15 Feb · 14 km (cum 14) · ↑212 m ↓268 m · D1 · Hävlingestugorna
+#### Day 1 · Tue 15 Feb · 11 km (cum 11) · ↑212 m ↓266 m · Hävlingestugorna
 
 **D** at **STF Grövelsjön** (shop, register Vita Bandet, final pulk check) — then leave on **Södra Kungsleden** north toward **Långfjället** and **Hävlingen**.  
 **Camping (night before / after):** **Sjöstugan** or STF Grövelsjön tent + service fee — see [camping reference](#camping-near-huts--resupply-reference).
@@ -108,7 +102,7 @@ Camp near **Hävlingestugorna** (Länsstyrelsen · five 4-bed cabins + one 6-bed
 | **D** | Resupply at STF Grövelsjön before departure |
 | **T** | Camp near Hävlingestugorna |
 
-#### Day 2 · Wed 16 Feb · 15 km (cum 29) · ↑66 m ↓91 m · D2 · STF Rogen area
+#### Day 2 · Wed 16 Feb · 17 km (cum 28) · ↑66 m ↓93 m · STF Rogen area
 
 North from **Hävlingen** across **Långfjället** toward **Rogen** — open heath and bog, snowmobile spår where safe.  
 **T** at STF tent sites (~100 m from hut) in sparse birch forest. **H optional:** **STF Rogen fjällstuga** if stugvärd is on duty (listed winter season **27 Feb – 19 Apr** · ~18 beds · shop · sauna · book via STF). On **16 Feb** the main hut is usually still closed — plan tent unless you have confirmed opening.
@@ -118,7 +112,7 @@ North from **Hävlingen** across **Långfjället** toward **Rogen** — open hea
 | **T** | Tent sites by STF Rogen |
 | **H** | Optional — STF Rogen if open; book ahead |
 
-#### Day 3 · Thu 17 Feb · 15 km (cum 44) · ↑98 m ↓39 m · D3 · Skedbrosjon
+#### Day 3 · Thu 17 Feb · 12 km (cum 40) · ↑50 m ↓24 m · Skedbrosjon
 
 Continue north through **Rogen** nature reserve toward **Skedbrosjön**.
 
@@ -128,7 +122,7 @@ Continue north through **Rogen** nature reserve toward **Skedbrosjön**.
 |-----|-------|
 | **T** | Camp at Skedbrosjön waypoint |
 
-#### Day 4 · Fri 18 Feb · 16 km (cum 60) · ↑371 m ↓455 m · D4 hostel or camping
+#### Day 4 · Fri 18 Feb · 24 km (cum 64) · ↑519 m ↓529 m · Tänndalen
 
 North from **Dalstenshån** along the band line, then **detour west** to **Hamra Livs** (**Hamravägen 73** · 846 98 Tänndalen · **62.574°N, 12.226°E** — Hamra / Tännäs side, not Skarvruet) — **~6 km** round-trip off the line (~62.55°N, **12.31°E** on track). Village livs **daily 09:00–19:00** (often until 21:00 peak winter); **070-241 11 84**. Mid-leg **D**: carry **~4–5 days** food from Grövelsjön, restock **~4–5 days** to Storlien. Unlikely alkylate — food only. See [resupply](./resupply-2028.md).
 
@@ -144,7 +138,7 @@ North from **Dalstenshån** along the band line, then **detour west** to **Hamra
 | **H** | Optional budget — STF Skarvruet; or Fjällnäs lodges / apartments |
 | **T** | Village / Hamra, Tänndalsvallens Camping, or Fjällnäs Camping |
 
-#### Day 5 · Sat 19 Feb · 12 km (cum 72) · ↑441 m ↓147 m · D5 · Ramundberget west
+#### Day 5 · Sat 19 Feb · 21 km (cum 85) · ↑513 m ↓417 m · Ramundberget west
 
 Short leg on the **Band track** west of Tänndalen — open fjäll toward Helags. **STF Vålådalen** and **Vålågårdens** sit **~30 km east** of this line; only detour if weather forces **H**.
 
@@ -152,7 +146,7 @@ Short leg on the **Band track** west of Tänndalen — open fjäll toward Helags
 |-----|-------|
 | **T** | On track · wild camp |
 
-#### Day 6 · Sun 20 Feb · 18 km (cum 90) · ↑476 m ↓447 m · D6 · Fältjägaren Fjällstuga
+#### Day 6 · Sun 20 Feb · 15 km (cum 100) · ↑477 m ↓311 m · Fältjägaren Fjällstuga
 
 Northwest on the Band line toward **Fältjägaren Fjällstuga**.
 
@@ -160,7 +154,7 @@ Northwest on the Band line toward **Fältjägaren Fjällstuga**.
 |-----|-------|
 | **T** | |
 
-#### Day 7 · Mon 21 Feb · 19 km (cum 109) · ↑371 m ↓461 m · D7 · Helags Fjallstation
+#### Day 7 · Mon 21 Feb · 12 km (cum 112) · ↑229 m ↓299 m · Helags Fjallstation
 
 Camp at **Helags Fjällstation** area. **STF Jämtland cluster opens 19–21 Feb 2026** (likely same window 2028): **Storulvån** (19 Feb), **Sylarna + Blåhammaren** (20 Feb), **Helags** (21 Feb). Restaurants/butiks — verify 2028 arrende.
 
@@ -168,7 +162,7 @@ Camp at **Helags Fjällstation** area. **STF Jämtland cluster opens 19–21 Feb
 |-----|-------|
 | **T** / H | Camp at Helags area waypoint · optional **H** at station |
 
-#### Day 8 · Tue 22 Feb · 20 km (cum 129) · ↑325 m ↓219 m · D8 · Sylarna Fjällstation
+#### Day 8 · Tue 22 Feb · 20 km (cum 132) · ↑338 m ↓236 m · Sylarna Fjällstation
 
 Camp at **Sylarna Fjällstation** area.
 
@@ -176,7 +170,7 @@ Camp at **Sylarna Fjällstation** area.
 |-----|-------|
 | **T** / H | Sylarna waypoint · optional **H** at station |
 
-#### Day 9 · Wed 23 Feb · 18 km (cum 147) · ↑445 m ↓442 m · D9 - Blåhammaren fjällstation
+#### Day 9 · Wed 23 Feb · 18 km (cum 150) · ↑430 m ↓481 m · Blåhammaren fjällstation
 
 Day ends at **D9 - Blåhammaren fjällstation**.
 
@@ -184,7 +178,7 @@ Day ends at **D9 - Blåhammaren fjällstation**.
 |-----|-------|
 | **T** / H | Camp at D9 Blåhammaren waypoint · optional **H** at station |
 
-#### Day 10 · Thu 24 Feb · 14 km (cum 161) · ↑269 m ↓760 m · D10 - Storlien
+#### Day 10 · Thu 24 Feb · 12 km (cum 162) · ↑229 m ↓665 m · Storlien · **D**
 
 Short descent to **Storlien** for first major resupply. **Coop / Eurocash / Fjellhandeln** (food, pharmacy, outdoor); **STF Storliens fjällgård** / hotels for **H**.  
 **Camping:** **Storlien Högfjällshotell** pitches (el optional; pre-book winter) — see camping table.  
@@ -196,12 +190,12 @@ Short descent to **Storlien** for first major resupply. **Coop / Eurocash / Fjel
 
 ---
 
-## Section 2 — Storlien → Gäddede (255 km · days 11–24)
+## Section 2 — Storlien → Gäddede (253 km · days 11–24)
 
 *North via Kolåsen / Hotagen / **Valsjöbyn** — Undersåker is a **wide väster om corridor**, not a camp pin (bridge ~55 km east of track).*  
 **Camp waypoints (D11–D24):** from [`2028.gpx`](../tracks/2028.gpx) (manual BaseCamp track — source of truth).
 
-#### Day 11 · Fri 25 Feb · 22 km (cum 183) · ↑385 m ↓309 m · Norder Rensjön
+#### Day 11 · Fri 25 Feb · 22 km (cum 184) · ↑376 m ↓287 m · Norder Rensjön
 
 Leave Storlien **north** on snowmobile spår past **Norder-Rensjön** — camp **on the band track** where the line leaves the lake at the north end (63.417°N, 12.226°E).
 
@@ -209,7 +203,7 @@ Leave Storlien **north** on snowmobile spår past **Norder-Rensjön** — camp *
 |-----|-------|
 | **T** | On track · north end Norder-Rensjön · carry 10–12 days food from Storlien |
 
-#### Day 12 · Sat 26 Feb · 18 km (cum 201) · ↑294 m ↓372 m · Skalstugan
+#### Day 12 · Sat 26 Feb · 18 km (cum 202) · ↑285 m ↓373 m · Anjan
 
 Fjäll travel toward **Skalstugan** on the Storlien–Kolåsen line — **Kolåsen** is still **~55 km** ahead on the track.
 
@@ -217,7 +211,7 @@ Fjäll travel toward **Skalstugan** on the Storlien–Kolåsen line — **Kolås
 |-----|-------|
 | **T** | Skalstugan corridor |
 
-#### Day 13 · Sun 27 Feb · 20 km (cum 221) · ↑201 m ↓250 m · Stor-Rensjön N
+#### Day 13 · Sun 27 Feb · 19 km (cum 221) · ↑192 m ↓249 m · Hotagen väster om
 
 Camp **on the band track** where the line leaves **Stor-Rensjön** at the **north end** (63.677°N, 12.546°E) — **Hotagen** fringe; remote, GPS essential (no scooters in reserve core).
 
@@ -225,7 +219,7 @@ Camp **on the band track** where the line leaves **Stor-Rensjön** at the **nort
 |-----|-------|
 | **T** | On track · north end Stor-Rensjön · Hotagen fringe |
 
-#### Day 14 · Mon 28 Feb · 18 km (cum 239) · ↑290 m ↓292 m · Mot Kolåsen
+#### Day 14 · Mon 28 Feb · 19 km (cum 240) · ↑316 m ↓307 m · Mot Kolåsen
 
 Continue north on permitted winter lines toward **Kolåsen**.
 
@@ -233,7 +227,7 @@ Continue north on permitted winter lines toward **Kolåsen**.
 |-----|-------|
 | **T** | Hotagen north fringe · remote |
 
-#### Day 15 · Tue 29 Feb · 12 km (cum 250) · ↑180 m ↓312 m · Kallsedet
+#### Day 15 · Tue 29 Feb · 18 km (cum 258) · ↑183 m ↓319 m · Kolåsen
 
 Camp **on the band track** at **Kallsedet** (~63.701°N, 12.957°E) — road **336** corridor; remote fjäll. Optional **H** / depot at **Kolåsens Fjällhotell** (~10 km detour — see [resupply](./resupply-2028.md)).
 
@@ -241,7 +235,7 @@ Camp **on the band track** at **Kallsedet** (~63.701°N, 12.957°E) — road **3
 |-----|-------|
 | **T** | Kallsedet · on track |
 
-#### Day 16 · Wed 1 Mar · 21 km (cum 271) · ↑46 m ↓18 m · Mot Olden
+#### Day 16 · Wed 01 Mar · 17 km (cum 275) · ↑108 m ↓95 m · Olden Approach
 
 Camp **on the band track** toward **Olden** (~63.683°N, 13.327°E).
 
@@ -249,7 +243,7 @@ Camp **on the band track** toward **Olden** (~63.683°N, 13.327°E).
 |-----|-------|
 | **T** | On track · toward Olden |
 
-#### Day 17 · Thu 2 Mar · 15 km (cum 286) · ↑154 m ↓239 m · Olden
+#### Day 17 · Thu 02 Mar · 13 km (cum 288) · ↑80 m ↓147 m · Olden
 
 **Olden** corridor (~63.698°N, 13.632°E) — **not** Valsjöbua (that is **Day 20**). Carry food for the stretch to Valsjöbyn.
 
@@ -257,7 +251,7 @@ Camp **on the band track** toward **Olden** (~63.683°N, 13.327°E).
 |-----|-------|
 | **T** | Olden corridor |
 
-#### Day 18 · Fri 3 Mar · 19 km (cum 305) · ↑420 m ↓116 m · Jänsmässholen
+#### Day 18 · Fri 03 Mar · 16 km (cum 304) · ↑398 m ↓96 m · Ansättfjällen approach
 
 **Jänsmässholen** (~63.780°N, 13.825°E). **Undersåker väster om:** keep the Indalsälven bridge on your **east** when you cross that corridor (wide pass — you do not camp at the bridge).
 
@@ -265,7 +259,7 @@ Camp **on the band track** toward **Olden** (~63.683°N, 13.327°E).
 |-----|-------|
 | **T** | Jänsmässholen · **W** Undersåker corridor |
 
-#### Day 19 · Sat 4 Mar · 21 km (cum 326) · ↑50 m ↓218 m · Ansättfjällen approach
+#### Day 19 · Sat 04 Mar · 19 km (cum 323) · ↑69 m ↓86 m · Ansättfjällen väster om
 
 Steady progress toward **Ansättfjällen** / **Valsjöbyn** (~63.948°N, 13.924°E).
 
@@ -273,7 +267,7 @@ Steady progress toward **Ansättfjällen** / **Valsjöbyn** (~63.948°N, 13.924�
 |-----|-------|
 | **T** | On track · Ansättfjällen ahead |
 
-#### Day 20 · Sun 5 Mar · 20 km (cum 346) · ↑306 m ↓435 m · Valsjöbua · **D** ★ Bandet hero
+#### Day 20 · Sun 05 Mar · 17 km (cum 340) · ↑247 m ↓391 m · Regnfallet · **D** · ★ Bandet hero
 
 **Valsjöbua Lanthandel** (64.068°N, 14.139°E) — Mon–Fri 10–18, Sat 10–14. Full lanthandel + Systembolag + post + frystorkad + café; **free vandrarhem at Valen for Bandare** (book 3 days ahead). **Jourtelefon 072-1933833**. **Primary mid-leg D** between Storlien and Gäddede. See [resupply](./resupply-2028.md).
 
@@ -281,7 +275,7 @@ Steady progress toward **Ansättfjällen** / **Valsjöbyn** (~63.948°N, 13.924�
 |-----|-------|
 | **H** | **D** ★ Valsjöbua · free Bandare vandrarhem |
 
-#### Day 21 · Mon 6 Mar · 20 km (cum 366) · ↑669 m ↓147 m · North of Vals
+#### Day 21 · Mon 06 Mar · 20 km (cum 360) · ↑549 m ↓214 m · North of Valsjöbua · **D** · ★ Bandet hero
 
 Camp **north of Valsjöbyn** (~64.218°N, 14.283°E) after resupply.
 
@@ -289,7 +283,7 @@ Camp **north of Valsjöbyn** (~64.218°N, 14.283°E) after resupply.
 |-----|-------|
 | **T** | North of Vals · on track |
 
-#### Day 22 · Tue 7 Mar · 24 km (cum 390) · ↑318 m ↓882 m · Björkvattnet
+#### Day 22 · Tue 07 Mar · 21 km (cum 381) · ↑419 m ↓677 m · Björkvattnet
 
 **Björkvattnet** area (~64.374°N, 14.369°E) — long day after resupply.
 
@@ -297,7 +291,7 @@ Camp **north of Valsjöbyn** (~64.218°N, 14.283°E) after resupply.
 |-----|-------|
 | **T** | Björkvattnet |
 
-#### Day 23 · Wed 8 Mar · 24 km (cum 414) · ↑287 m ↓277 m · Gäddede väster om
+#### Day 23 · Wed 08 Mar · 23 km (cum 404) · ↑84 m ↓351 m · Gäddede väster om
 
 Camp on the fjäll **west of Gäddede** (~64.507°N, 14.155°E).  
 **ICA Blåsjöfjäll** (64.836°N, 14.083°E) is **~35 km off the Band track** — optional **detour today or tomorrow** for fuel if you skipped Valsjöbua stock. See [resupply](./resupply-2028.md).
@@ -306,7 +300,7 @@ Camp on the fjäll **west of Gäddede** (~64.507°N, 14.155°E).
 |-----|-------|
 | **T** | On track west of Gäddede · optional Blåsjö detour |
 
-#### Day 24 · Thu 9 Mar · 2 km (cum 416) · ↑1 m ↓5 m · Gäddede · **D**
+#### Day 24 · Thu 09 Mar · 11 km (cum 415) · ↑276 m ↓260 m · Gäddede · **D**
 
 Short ski into **Gäddede** — **ICA**, **Frostvikens El** (alkylate). Stock **9–10 days** for **Arjeplog → Lapplandsleden → Hemavan**.  
 **Camping:** **[Gäddede Camping & Stugby](https://www.gaddedecamping.com/)** (year-round) · **H** Pilgrims Hotel nearby.
@@ -317,14 +311,14 @@ Short ski into **Gäddede** — **ICA**, **Frostvikens El** (alkylate). Stock **
 
 ---
 
-## Section 3 — Gäddede → Hemavan · Lapplandsleden (231 km · days 25–35)
+## Section 3 — Gäddede → Hemavan · Lapplandsleden (237 km · days 25–34)
 
 *Vildmarksvägen approach → **Klimpfjäll** → **[Lapplandsleden](https://www.lansstyrelsen.se/vasterbotten/besoksmal/vandringsleder/lapplandsleden.html)** (red winter crosses) with camps at each **Länsstyrelsen stuga**.*
 
 **Section 3 GPX:** [`2028.gpx`](../tracks/2028.gpx) — section traced in the manual BaseCamp route.  
 **Camp waypoints (D25–D35):** on track; after **Klimpfjäll** one camp per hut plus **Goeblejaevrie** (D34) and **Hemavan** **D** (D35).
 
-#### Day 25 · Fri 10 Mar · 19 km (cum 435) · ↑144 m ↓38 m · Vilhelmina fjäll
+#### Day 25 · Fri 10 Mar · 21 km (cum 436) · ↑146 m ↓45 m · Vilhelmina fjäll
 
 North from Gäddede into **Vilhelmina fjäll** west line (~64.673°N, 14.179°E).  
 Carry food for the **Lapplandsleden** leg — next shop **Klimpfjäll** (Day 28) or **Hemavan** (Day 35).
@@ -333,7 +327,7 @@ Carry food for the **Lapplandsleden** leg — next shop **Klimpfjäll** (Day 28)
 |-----|-------|
 | **T** | On track |
 
-#### Day 26 · Sat 11 Mar · 31 km (cum 466) · ↑488 m ↓190 m · Borgafjäll väster om
+#### Day 26 · Sat 11 Mar · 22 km (cum 458) · ↑235 m ↓108 m · Borgafjäll
 
 **Lapplandsleden** track west of **Borgafjäll** (~64.861°N, 14.425°E). **Borgafjäll Hotell** (64.83°N, 15.07°E) is **~24 km east** — optional **H** + spa detour (restaurant 18–21, 0942-421 00). **Saxnäs / Marsfjällshandlarn** is a similar east detour if you need resupply before Klimpfjäll.
 
@@ -341,7 +335,7 @@ Carry food for the **Lapplandsleden** leg — next shop **Klimpfjäll** (Day 28)
 |-----|-------|
 | **T** / H | On track · optional **H** or **D** detour E |
 
-#### Day 27 · Sun 12 Mar · 23 km (cum 489) · ↑427 m ↓296 m · Slipsikstugan
+#### Day 27 · Sun 12 Mar · 21 km (cum 479) · ↑362 m ↓291 m · Saxnäs
 
 **Slipsikstugan** (~64.984°N, 14.718°E) — first **Länsstyrelsen** hut on Lapplandsleden. Unlocked; **4–6 bunks**; 200 kr/person/night if used. **Carry tent** — huts often cold/occupied in March.
 
@@ -349,7 +343,7 @@ Carry food for the **Lapplandsleden** leg — next shop **Klimpfjäll** (Day 28)
 |-----|-------|
 | **T** / H | Slipsikstugan · tent default |
 
-#### Day 28 · Mon 13 Mar · 14 km (cum 503) · ↑398 m ↓419 m · Klimpfjäll · **D** (optional)
+#### Day 28 · Mon 13 Mar · 19 km (cum 498) · ↑361 m ↓435 m · Klimpfjälll · **D** (optional)
 
 **Klimpfjäll** (~65.068°N, 14.757°E) — **Handlar'n** village grocery; mid-leg top-up (split carry Gäddede → Hemavan). See [resupply](./resupply-2028.md).
 
@@ -357,7 +351,7 @@ Carry food for the **Lapplandsleden** leg — next shop **Klimpfjäll** (Day 28)
 |-----|-------|
 | **T** | Optional **D** Handlar'n |
 
-#### Day 29 · Tue 14 Mar · 18 km (cum 521) · ↑215 m ↓333 m · Tjåkkelestugan
+#### Day 29 · Tue 14 Mar · 23 km (cum 521) · ↑551 m ↓377 m · Tjakkelestugorna
 
 **Tjåkkelestugan** (~65.186°N, 14.567°E) — Länsstyrelsen stuga; main cabin **6 beds** + smaller **2-bed** cabin. Unlocked; tent backup.
 
@@ -365,7 +359,7 @@ Carry food for the **Lapplandsleden** leg — next shop **Klimpfjäll** (Day 28)
 |-----|-------|
 | **T** / H | Tjåkkelestugan · tent default |
 
-#### Day 30 · Wed 15 Mar · 17 km (cum 538) · ↑278 m ↓374 m · Åtnikstugan
+#### Day 30 · Wed 15 Mar · 17 km (cum 538) · ↑278 m ↓374 m · Atnikstugan
 
 **Åtnikstugan** (~65.304°N, 14.605°E) — Länsstyrelsen stuga on the Norgefararleden section. Unlocked; vedspis · kök · madrasser.
 
@@ -373,7 +367,7 @@ Carry food for the **Lapplandsleden** leg — next shop **Klimpfjäll** (Day 28)
 |-----|-------|
 | **T** / H | Åtnikstugan · tent default |
 
-#### Day 31 · Thu 16 Mar · 25 km (cum 563) · ↑556 m ↓604 m · Mot Arevattnet
+#### Day 31 · Thu 16 Mar · 23 km (cum 561) · ↑528 m ↓573 m · Gränssjö
 
 Long **Lapplandsleden** leg — camp **on track** between **Åtnikstugan** and **Arevattnet** (~65.419°N, 14.763°E). Exposed kalfjäll.
 
@@ -381,7 +375,7 @@ Long **Lapplandsleden** leg — camp **on track** between **Åtnikstugan** and *
 |-----|-------|
 | **T** | Split long hut gap · tent |
 
-#### Day 32 · Fri 17 Mar · 24 km (cum 587) · ↑1079 m ↓880 m · Arevattnet
+#### Day 32 · Fri 17 Mar · 27 km (cum 588) · ↑1163 m ↓941 m · Tärnaby west
 
 **Arevattnet stuga** (~65.516°N, 14.549°E) — Länsstyrelsen hut on Lapplandsleden.
 
@@ -401,7 +395,7 @@ Long **Lapplandsleden** leg — camp **on track** between **Åtnikstugan** and *
 |-----|-------|
 | **T** / **H** | Arevattnet stuga default · optional commercial **T/H** at Gränssjö (~1 km) |
 
-#### Day 33 · Sat 18 Mar · 21 km (cum 608) · ↑554 m ↓712 m · Atostugan
+#### Day 33 · Sat 18 Mar · 20 km (cum 608) · ↑528 m ↓715 m · Atostugan
 
 **Atostugan** (~65.683°N, 14.589°E) at **Atoklimpen** kulturreservat — Länsstyrelsen stuga by Risbäcken. Exposed approach; start early in whiteout.
 
@@ -409,7 +403,7 @@ Long **Lapplandsleden** leg — camp **on track** between **Åtnikstugan** and *
 |-----|-------|
 | **T** / H | Atostugan · last Länsstyrelsen hut before Goeblejaevrie |
 
-#### Day 34 · Sun 19 Mar · 21 km (cum 629) · ↑590 m ↓408 m · Goeblejaevrie
+#### Day 34 · Sun 19 Mar · 44 km (cum 652) · ↑1097 m ↓886 m · Hemavan · **D** · **R**?
 
 From **Atostugan** over **Joesjöfjället** / road section toward **Goeblejaevrie** (~65.782°N, 14.818°E) — Lapplandsleden camp site by the lake ([Wikivoyage](https://en.wikivoyage.org/wiki/Lapplandsleden)).
 
@@ -419,7 +413,7 @@ Early in the day, optional detour to **[Tärna Vilt](https://boka.hemavan.nu/tar
 |-----|-------|
 | **T** | Goeblejaevrie · on track |
 
-#### Day 35 · Mon 20 Mar · 18 km (cum 647) · ↑155 m ↓476 m · Hemavan · **D** · **R**?
+#### Day 35 · Mon 20 Mar · 7 km (cum 659) · ↑140 m ↓148 m · Viterskalet Fjallstuga
 
 From **Goeblejaevrie** into **Hemavan** — **halfway** sign (~65.815°N, 15.085°E). **ICA Nära Fjällboden** (Blå Vägen 35, 0954 30003) + STF shop — **max food + ask alkylate** before Kvikkjokk leg.  
 **Camping:** **Hemavan Fjällcenter** ställplatser · **Umfors Camping** (~15 km) · **STF Hemavan**. Restaurant cluster: **Anders Bistro**, **Barobro**, **Tärnaby Fjällhotell** (~15 km W). Consider a **R** day. See [resupply](./resupply-2028.md).
@@ -430,12 +424,12 @@ From **Goeblejaevrie** into **Hemavan** — **halfway** sign (~65.815°N, 15.085
 
 ---
 
-## Section 4 — Hemavan → Kvikkjokk (260 km · days 36–47)
+## Section 4 — Viterskalet → Kvikkjokk (235 km · days 35–47)
 
 *Kungsleden west · Tärnasjö · Pieljekaise · Hornavan ice · Rapadalen · Kaitum.*  
 **Camp waypoints (D36–D47):** on track in [`2028.gpx`](../tracks/2028.gpx); optional **D**/**H** detours as commercial pins (Hemavan, Jäckvik, Ammarnäs, Adolfström Camping, Vuoggatjålme, Kvikkjokk).
 
-#### Day 36 · Tue 21 Mar · 22 km (cum 667) · ↑714 m ↓206 m · Syterstuga west
+#### Day 36 · Tue 21 Mar · 12 km (cum 671) · ↑222 m ↓317 m · Syterstuga
 
 Leave **Hemavan** — climb west of **Syterstuga** / Syterskalet on **KL** — steep with pulk; start early. **STF Syterstuga** ~1 km off track.  
 Optional **Jäckvik ICA** detour east (~66.38°N, 16.97°E) before or after Syterskalet — food only, skip fuel (canisters). Pin on GPX.  
@@ -445,7 +439,7 @@ First serious mountain day after Hemavan.
 |-----|-------|
 | **T** | Steep · Syterstuga ~1 km |
 
-#### Day 37 · Wed 22 Mar · 22 km (cum 689) · ↑161 m ↓391 m · Tärnasjön
+#### Day 37 · Wed 22 Mar · 19 km (cum 690) · ↑161 m ↓132 m · Tärnasjön
 
 Along **Tärnasjön** west shore — iconic KL views. Ice travel on lake sections; check locally.  
 Wind funnel on lake.
@@ -454,7 +448,7 @@ Wind funnel on lake.
 |-----|-------|
 | **T** | |
 
-#### Day 38 · Thu 23 Mar · 21 km (cum 710) · ↑192 m ↓398 m · Situjaure approach
+#### Day 38 · Thu 23 Mar · 11 km (cum 701) · ↑159 m ↓213 m · Situjaure approach
 
 North end **Tärnasjö** — camp **on KL west** toward **Situjaure**. Optional detour **~7 km E** to **Ammarnäs**: **Handlar'n** village grocery (food top-up; splits 12-day Hemavan → Kvikkjokk carry into ~5 + ~7), **STF Ammarnäs Wärdshus** (**H**), **Fritidscenter** camping (tent **150 kr**, pitch **300 kr** incl. el) — see camping table · [resupply](./resupply-2028.md). Commercial pin on GPX.
 
@@ -462,7 +456,7 @@ North end **Tärnasjö** — camp **on KL west** toward **Situjaure**. Optional 
 |-----|-------|
 | **T** | On track · optional Ammarnäs **D**/**H** detour |
 
-#### Day 39 · Fri 24 Mar · 22 km (cum 732) · ↑129 m ↓170 m · Pieljekaise approach
+#### Day 39 · Fri 24 Mar · 21 km (cum 722) · ↑60 m ↓336 m · Ammarnäs (Fritidscenter / STF) · **D** (optional)
 
 **Pieljekaise** NP fringe — camp **on KL west**. Optional **~7 km** to **Adolfströms Handelsbod & Stugby** (~66.10°N, 16.34°E — Marianne & Caroline): dried foods, bread, reindeer — **by arrangement outside v.14–15** (we're ~week 12); **phone 1–2 weeks ahead** from Hemavan. Optional **[Adolfström Camping](https://adolfstromcamping.se/)** farther E — year-round stugor + tent/RV (Mar–May RV season); latrine dump; **070-236 75 10** · [resupply](./resupply-2028.md). Pins on GPX.
 
@@ -470,7 +464,7 @@ North end **Tärnasjö** — camp **on KL west** toward **Situjaure**. Optional 
 |-----|-------|
 | **T** | On track · optional Handelsbod **D** / camping **H** |
 
-#### Day 40 · Sat 25 Mar · 21 km (cum 753) · ↑531 m ↓288 m · Hornavan ice
+#### Day 40 · Sat 25 Mar · 10 km (cum 732) · ↑75 m ↓14 m · Hobacken
 
 Approach **Hornavan** — Sweden’s deepest lake. **Morning ice check** before crossing; open water possible late day.  
 Camp on near shore if uncertain.
@@ -479,7 +473,7 @@ Camp on near shore if uncertain.
 |-----|-------|
 | **T** | Ice AM only |
 
-#### Day 41 · Sun 26 Mar · 22 km (cum 775) · ↑192 m ↓411 m · West of Vuoggatjålme
+#### Day 41 · Sun 26 Mar · 23 km (cum 755) · ↑566 m ↓300 m · Hornavan ice
 
 Camp **on KL west** past **Hornavan** — track stays west of Silvervägen. Optional detour **~21 km E** to **Vuoggatjålme Fjällhotell** (~66.49°N, 16.55°E — Polcirkeln / E97): restaurant **Feb–Apr Wed–Sat 12–20, Sun 12–16** (other times by request); reception 08–17 daily — **only sit-down meal between Hemavan (D35) and Kvikkjokk (D47)**; pre-book middag. On-site **stugor** + **caravan** (year-round; Jan–May mostly seasonal pitches) — [vuoggatjalme.se](https://vuoggatjalme.se/boende/) · Bandet lists **no tent** — confirm · [resupply](./resupply-2028.md). Pin on GPX.
 
@@ -487,7 +481,7 @@ Camp **on KL west** past **Hornavan** — track stays west of Silvervägen. Opti
 |-----|-------|
 | **T** | On track · optional Vuoggatjålme **H** + restaurant detour |
 
-#### Day 42 · Mon 27 Mar · 22 km (cum 797) · ↑427 m ↓520 m · Aktse
+#### Day 42 · Mon 27 Mar · 19 km (cum 774) · ↑126 m ↓407 m · Adolström
 
 **Aktse** / Skierffe area west lines. Dramatic topography; photo terrain if weather clear.  
 Approaching Rapadalen.
@@ -496,7 +490,7 @@ Approaching Rapadalen.
 |-----|-------|
 | **T** | |
 
-#### Day 43 · Tue 28 Mar · 22 km (cum 819) · ↑309 m ↓151 m · Rapadalen west
+#### Day 43 · Tue 28 Mar · 45 km (cum 819) · ↑769 m ↓664 m · Rapadalen west
 
 West side **Rapadalen** — gateway to Sarek views. Exposed sections; respect wind.  
 Pulk weight felt on small climbs.
@@ -505,7 +499,7 @@ Pulk weight felt on small climbs.
 |-----|-------|
 | **T** | |
 
-#### Day 44 · Wed 29 Mar · 22 km (cum 841) · ↑277 m ↓204 m · Sitojaure
+#### Day 44 · Wed 29 Mar · 0 km (cum 819) · ↑0 m ↓0 m · Jäckvik · **W**
 
 **Sitojaure** region on west Bandet line — **STF Sitojaure** ~4 km off track (tent + service fee if hut open). Forest + fjäll mix toward **Kaitum**.
 
@@ -513,7 +507,7 @@ Pulk weight felt on small climbs.
 |-----|-------|
 | **T** / H | On track · optional STF Sitojaure |
 
-#### Day 45 · Thu 30 Mar · 22 km (cum 863) · ↑230 m ↓289 m · Kaitumjaure
+#### Day 45 · Thu 30 Mar · 22 km (cum 841) · ↑292 m ↓199 m · Approach Kvikjock · **D**
 
 **Kaitumjaure** and surrounding lakes. Classic Jokkmokk-Kvikkjokk winter country.  
 Near STF network.
@@ -522,7 +516,7 @@ Near STF network.
 |-----|-------|
 | **T** | |
 
-#### Day 46 · Fri 31 Mar · 22 km (cum 885) · ↑443 m ↓739 m · Toward Kvikkjokk
+#### Day 46 · Fri 31 Mar · 22 km (cum 863) · ↑233 m ↓280 m · Barkajahka
 
 Penultimate day — descend tendencies toward **Kvikkjokk** valley.  
 Prepare depot sorting list mentally.
@@ -531,7 +525,7 @@ Prepare depot sorting list mentally.
 |-----|-------|
 | **T** | |
 
-#### Day 47 · Sat 1 Apr · 20 km (cum 905) · ↑216 m ↓60 m · Kvikkjokk · **D**
+#### Day 47 · Sat 01 Apr · 24 km (cum 887) · ↑446 m ↓756 m · Kvikkjokk · **D**
 
 Arrive **STF Kvikkjokk** — critical resupply before **Padjelanta-west → Ritsem → Sälka**. Food + **liquid alkylate if in stock** (often sprit only — see resupply doc). **Liquid alkylate in bottles** until Abisko (see [resupply](./resupply-2028.md)).  
 **Camping:** **no STF tent field** — wild **T** nearby; shower **~70 kr** (reception). Load pulk for **Padjelanta-west** to Ritsem (~6–7 days on trail) then **KL** to Sälka — see Section 5.
@@ -542,12 +536,12 @@ Arrive **STF Kvikkjokk** — critical resupply before **Padjelanta-west → Rits
 
 ---
 
-## Section 5 — Kvikkjokk → Sälka · Padjelanta-west (193 km · days 48–58)
+## Section 5 — Kvikkjokk → Sälka · Padjelanta-west (187 km · days 48–58)
 
 *Direct **Laponia / Áhkká** line via **Ritsem**. **Section 5 + 5b GPX:** [`2028.gpx`](../tracks/2028.gpx).  
 **Camp waypoints (D48–D62):** on the plan GPX; **D**/**H** pins at Ritsem, Sälka, Abisko; optional Nikkaluokta Sarri (D57).
 
-#### Day 48 · Sun 2 Apr · 17 km (cum 922) · ↑129 m ↓55 m · Kvikkjokk north
+#### Day 48 · Sun 02 Apr · 15 km (cum 902) · ↑151 m ↓35 m · Njunjes
 
 Leave **STF Kvikkjokk** west/north toward **Áhkká** and **Padjelanta-west**.  
 GPS essential; winter line often faint.
@@ -556,7 +550,7 @@ GPS essential; winter line often faint.
 |-----|-------|
 | **T** | Carry **6–7 days** food + **all alkylate** for leg to Ritsem |
 
-#### Day 49 · Mon 3 Apr · 18 km (cum 940) · ↑427 m ↓28 m · Padjelanta west fringe
+#### Day 49 · Mon 03 Apr · 20 km (cum 922) · ↑200 m ↓83 m · Sämerlappa
 
 Open fjäll on **west side** of Padjelanta — reindeer, wind. Stay on safe valleys; avoid steep Áhkká slopes.
 
@@ -564,7 +558,7 @@ Open fjäll on **west side** of Padjelanta — reindeer, wind. Stay on safe vall
 |-----|-------|
 | **T** | |
 
-#### Day 50 · Tue 4 Apr · 18 km (cum 958) · ↑165 m ↓323 m · Stora Sjøfallet / Laponia
+#### Day 50 · Tue 04 Apr · 24 km (cum 946) · ↑493 m ↓115 m · Duottarstuga
 
 Continue north through **Laponia** toward **Stora Sjøfallet** country — exposed plateaus.  
 No shops; check fuel.
@@ -573,7 +567,7 @@ No shops; check fuel.
 |-----|-------|
 | **T** | |
 
-#### Day 51 · Wed 5 Apr · 18 km (cum 976) · ↑173 m ↓146 m · Toward Saltoluokta side
+#### Day 51 · Wed 05 Apr · 12 km (cum 958) · ↑106 m ↓236 m · Saltoluokta side
 
 Pass **väster om Saltoluokta** — STF stays **to your east**.  
 Whiteout: follow GPX. **Camping (optional east detour):** **STF Saltoluokta** tent ≥100 m + service fee — only if weather/**H** forces it (VGB: pass **väster om**).
@@ -582,7 +576,7 @@ Whiteout: follow GPX. **Camping (optional east detour):** **STF Saltoluokta** te
 |-----|-------|
 | **T** | **W** corridor · Saltoluokta tent if detour |
 
-#### Day 52 · Thu 6 Apr · 17 km (cum 993) · ↑81 m ↓335 m · W of Saltoluokta **W**
+#### Day 52 · Thu 06 Apr · 17 km (cum 975) · ↑152 m ↓146 m · Sarek W of Saltoluokta · **W**
 
 Pass **väster om Saltoluokta** — STF stays **to your east** ([VGB](https://www.vitagronabandet.se/infor-turen/regler/)).
 
@@ -590,7 +584,7 @@ Pass **väster om Saltoluokta** — STF stays **to your east** ([VGB](https://ww
 |-----|-------|
 | **T** | **W** Saltoluokta |
 
-#### Day 53 · Fri 7 Apr · 18 km (cum 1011) · ↑50 m ↓163 m · Áhkká / Ritsem fjäll
+#### Day 53 · Fri 07 Apr · 18 km (cum 993) · ↑94 m ↓319 m · Áhkká / Ritsem fjäll
 
 Enter **Áhkká** / **Ritsem** dam landscapes (67.72°N, 17.47°E). Long exposed day.  
 First hint of Ritsem infrastructure.
@@ -599,7 +593,7 @@ First hint of Ritsem infrastructure.
 |-----|-------|
 | **T** | |
 
-#### Day 54 · Sat 8 Apr · 18 km (cum 1029) · ↑289 m ↓142 m · Ritsem approach
+#### Day 54 · Sat 08 Apr · 18 km (cum 1011) · ↑46 m ↓172 m · Ritsem approach
 
 Descend toward **Ritsem** village / STF. Sort food list for shop tomorrow.  
 Camp near road if late — no night skiing on dam.
@@ -608,7 +602,7 @@ Camp near road if late — no night skiing on dam.
 |-----|-------|
 | **T** | |
 
-#### Day 55 · Sun 9 Apr · 16 km (cum 1045) · ↑215 m ↓45 m · Ritsem · **D**
+#### Day 55 · Sun 09 Apr · 2 km (cum 1013) · ↑0 m ↓0 m · Ritsem · **D**
 
 **STF Ritsem** — **D** ★ food + **Power Fuel** (alkylate). **H** + laundry; 10 % Bandet discount.  
 Reload for **KL → Sälka → Abisko**.
@@ -617,7 +611,7 @@ Reload for **KL → Sälka → Abisko**.
 |-----|-------|
 | **H** | **D** ★ |
 
-#### Day 56 · Mon 10 Apr · 18 km (cum 1063) · ↑412 m ↓204 m · Sitojaure · KL
+#### Day 56 · Mon 10 Apr · 22 km (cum 1035) · ↑342 m ↓160 m · Sitojaure
 
 **Ritsem → Sitojaure** on **Kungsleden** winter route.  
 **H** Sitojaure — optional hut food top-up.
@@ -626,7 +620,7 @@ Reload for **KL → Sälka → Abisko**.
 |-----|-------|
 | **H** | |
 
-#### Day 57 · Tue 11 Apr · 18 km (cum 1081) · ↑223 m ↓282 m · Hukejaure · **W** Nikkaluokta
+#### Day 57 · Tue 11 Apr · 19 km (cum 1054) · ↑408 m ↓183 m · Hukejaure · **W**
 
 **Hukejaure** lake travel. Pass **väster om Nikkaluokta** — village **to your east**.  
 Corridor OK; no village required. **Camping (optional detour east):** **[Nikkaluokta Sarri](https://nikkaluokta.com/boende/camping)** — tent **150 kr**/person, RV + service house — see camping table.
@@ -635,7 +629,7 @@ Corridor OK; no village required. **Camping (optional detour east):** **[Nikkalu
 |-----|-------|
 | **T** | **W** Nikkaluokta · optional Sarri camping |
 
-#### Day 58 · Wed 12 Apr · 17 km (cum 1098) · ↑286 m ↓333 m · Sälka fjällstuga · **H**
+#### Day 58 · Wed 12 Apr · 20 km (cum 1074) · ↑308 m ↓330 m · Sälka · **H**
 
 **STF Sälka** — end of Section 5. Exposed pass nearby; **H** book if possible. **Camping:** STF **tent + serviceavgift** when hut open — see camping table.  
 Next: **Tjäktja → Abisko** (Section 5b).
@@ -646,11 +640,11 @@ Next: **Tjäktja → Abisko** (Section 5b).
 
 ---
 
-## Section 5b — Sälka → Abisko · Kungsleden (72 km · days 59–62)
+## Section 5b — Sälka → Abisko · Kungsleden (60 km · days 59–62)
 
 *KL continuation · Tjäktja · Alesjaure · Abiskojaure.*
 
-#### Day 59 · Thu 13 Apr · 18 km (cum 1116) · ↑362 m ↓429 m · Tjäktja
+#### Day 59 · Thu 13 Apr · 13 km (cum 1087) · ↑346 m ↓96 m · Tjäktja
 
 **Tjäktja** pass area — steep pulk section. Often slow km despite distance.  
 Camp below pass if late.
@@ -659,7 +653,7 @@ Camp below pass if late.
 |-----|-------|
 | **T** | Steep |
 
-#### Day 60 · Fri 14 Apr · 18 km (cum 1134) · ↑120 m ↓415 m · Alesjaure
+#### Day 60 · Fri 14 Apr · 12 km (cum 1099) · ↑56 m ↓310 m · Alesjaure
 
 Descent to **Alesjaure** — long lake **Álesjaure**. Open Arctic birch zone.  
 Beautiful if clear; disorienting in fog.
@@ -668,7 +662,7 @@ Beautiful if clear; disorienting in fog.
 |-----|-------|
 | **T** | |
 
-#### Day 61 · Sat 15 Apr · 18 km (cum 1152) · ↑67 m ↓221 m · Abiskojaure
+#### Day 61 · Sat 15 Apr · 22 km (cum 1121) · ↑113 m ↓427 m · Abiskojaure
 
 **Abiskojaure** last big hut before Abisko village. Shop top-up if open.  
 Almost through the mountains.
@@ -677,7 +671,7 @@ Almost through the mountains.
 |-----|-------|
 | **T** | |
 
-#### Day 62 · Sun 16 Apr · 18 km (cum 1170) · ↑207 m ↓0 m · Abisko · **D**
+#### Day 62 · Sun 16 Apr · 13 km (cum 1134) · ↑33 m ↓131 m · Abisko · **D**
 
 Ski into **Abisko** turiststation. **Fjällboden** + **Godisfabriken** (2 km). **Major resupply:** pack **7–8 days food** + fuel for Abisko → Pältsa — DNT huts have **no pantry**.  
 **Camping:** STF **tent site** in nationalpark (service fee; winter showers **Keron** hostel ~400 m) · **no RV** — **[Björkliden Camping](https://bjorkliden.com/)** ~10 km (pre-book winter).  
@@ -689,64 +683,76 @@ Prepare for **Section 6** Abisko → Pältsa — **Nordkalottleden** via **Lappj
 
 ---
 
-## Section 6 — Abisko → Treriksröset · Nordkalottleden (~168 km · days 63–68)
+## Section 6 — Abisko → Treriksröset · Nordkalottleden (168 km · days 63–70)
 
 *Track: [`2028.gpx`](../tracks/2028.gpx) (manual BaseCamp master route).*
 
-*Abisko → **Lappjord** → **Altevass** → **Treriksröset** in **~5 days**. **DNT huts = no pantry** — eat from Abisko load.*  
-**Camp waypoints (D63–D68):** on [`2028.gpx`](../tracks/2028.gpx); **H** pins at Lappjordhytta, Altevasshytta; optional Nikkaluokta Sarri (D64).
+*Abisko → **Lappjord** → **Altevass** → **Gaskashytta** → **Vuomahytta** → **Dividalshytta** → **Daertahytta** → **Pältastugan** → **Treriksröset**. **DNT huts = no pantry** — eat from Abisko load.*  
+**Camp waypoints (D63–D70):** on [`2028.gpx`](../tracks/2028.gpx); **H** pins at Lappjordhytta, Altevasshytta, Gaskashytta, Vuomahytta, Dividalshytta, Daertahytta; **D** at Pältastugan (D69).
 
-#### Day 63 · Mon 17 Apr · 22 km (cum 1192) · ↑558 m ↓498 m · Abisko north
+#### Day 63 · Mon 17 Apr · 20 km (cum 1154) · ↑77 m ↓85 m · Lappjordhytta · **H**
 
-Leave **Abisko** northeast along **Nordkalottleden** / lake country toward **Björkliden** side. Follow **GPX**.
-
-| Acc | Notes |
-|-----|-------|
-| **T** | **7–8 days food** + **~2 L alkylate** from day 62 |
-
-#### Day 64 · Tue 18 Apr · 22 km (cum 1214) · ↑587 m ↓232 m · Toward Nikkaluokta **W**
-
-Continue north/east — pass **väster om Nikkaluokta** (village on your **east**).  
-Open fjäll and forest benches; scooter spår may appear. Optional **Nikkaluokta Sarri** camping if you detour — see camping table.
+Leave **Abisko** northeast on **Nordkalottleden** toward **Lappjordhytta**.
 
 | Acc | Notes |
 |-----|-------|
-| **T** | **W** Nikkaluokta |
+| **H** | DNT key · **7–8 days food** + fuel from day 62 |
 
-#### Day 65 · Wed 19 Apr · 20 km (cum 1234) · ↑177 m ↓448 m · Lappjordhytta · **H**
+#### Day 64 · Tue 18 Apr · 25 km (cum 1179) · ↑708 m ↓580 m · Altevasshytta · **H**
 
-**Lappjordhytta** (Nordkalottleden) — steep haul from lake possible; pulk carry sections.  
-**H** DNT — **no pantry**; **OmniLite** + own fuel.
-
-| Acc | Notes |
-|-----|-------|
-| **H** | DNT key |
-
-#### Day 66 · Thu 20 Apr · 22 km (cum 1256) · ↑541 m ↓426 m · Altevasshytta · **H**
-
-**Lappjord → Altevasshytta** — through **Rohkusborri** / **Altevatnet** country toward **Treriksröset**.
+**Lappjord → Altevasshytta** — Rohkusborri / Altevatnet country.
 
 | Acc | Notes |
 |-----|-------|
-| **H** | No food at hut |
+| **H** | DNT · no pantry |
 
-#### Day 67 · Fri 21 Apr · 17 km (cum 1273) · ↑157 m ↓274 m · Treriksröset · **GOAL**
+#### Day 65 · Wed 19 Apr · 11 km (cum 1190) · ↑89 m ↓113 m · Gaskashytta · **H**
 
-**Altevass → Treriksröset** — three-country cairn. Short emotional finish leg.  
-**W** goal marker — wide corridor OK.
-
-| Acc | Notes |
-|-----|-------|
-| **GOAL** | **W** Treriksröset |
-
-#### Day 68 · Sat 22 Apr · 10 km (cum 1283) · ↑384 m ↓121 m · Pältsa · **D**
-
-**STF Pältsa** — first **shop** since Abisko — meals, sauna, **cash** often needed.  
-Arrange transport **Kilpisjärvi / Gällivare**.
+Continue north toward **Gaskashytta** (DNT).
 
 | Acc | Notes |
 |-----|-------|
-| **H** | **D** · trip end |
+| **H** | DNT |
+
+#### Day 66 · Thu 20 Apr · 19 km (cum 1209) · ↑544 m ↓329 m · Vuomahytta · **H**
+
+**Gaskashytta → Vuomahytta** on Nordkalottleden.
+
+| Acc | Notes |
+|-----|-------|
+| **H** | DNT |
+
+#### Day 67 · Fri 21 Apr · 22 km (cum 1231) · ↑182 m ↓553 m · Dividalshytta · **H**
+
+**Vuomahytta → Dividalshytta** — Dividalen country.
+
+| Acc | Notes |
+|-----|-------|
+| **H** | DNT |
+
+#### Day 68 · Sat 22 Apr · 29 km (cum 1260) · ↑658 m ↓300 m · Daertahytta · **H**
+
+**Dividalshytta → Daertahytta** — long fjell leg.
+
+| Acc | Notes |
+|-----|-------|
+| **H** | DNT |
+
+#### Day 69 · Sun 23 Apr · 29 km (cum 1289) · ↑596 m ↓641 m · Pältastugan · **D**
+
+**Pältastugan** (STF) — shop and **H** on the Nordkalottleden corridor toward **Treriksröset**.
+
+| Acc | Notes |
+|-----|-------|
+| **H** / **D** | STF shop · last resupply before goal |
+
+#### Day 70 · Mon 24 Apr · 13 km (cum 1302) · ↑431 m ↓446 m · Treriksröset · **GOAL**
+
+**Treriksröset** — three-country cairn. **GOAL**.
+
+| Acc | Notes |
+|-----|-------|
+| **GOAL** | **W** Treriksröset · wide corridor OK |
 
 ---
 
