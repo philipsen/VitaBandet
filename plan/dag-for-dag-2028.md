@@ -3,7 +3,7 @@
 **Season:** **15 Feb – 24 Apr 2028** (70 days · Apr 23–30 slack)  
 **Party:** **solo** · ski + **pulk** · **mostly tent**  
 **Direction:** **S → N** — Grövelsjön → Treriksröset  
-**Total:** **~1,302 km** (table) · GPS track **~1,304 km**
+**Total:** **~1,301 km** (table) · GPS track **~1,304 km**
 
 | Symbol | Meaning |
 |--------|---------|
@@ -536,7 +536,7 @@ Arrive **STF Kvikkjokk** — critical resupply before **Padjelanta-west → Rits
 
 ---
 
-## Section 5 — Kvikkjokk → Sälka · Padjelanta-west (187 km · days 48–58)
+## Section 5 — Kvikkjokk → Sälka · Padjelanta-west (186 km · days 48–58)
 
 *Direct **Laponia / Áhkká** line via **Ritsem**. **Section 5 + 5b GPX:** [`2028.gpx`](../tracks/2028.gpx).  
 **Camp waypoints (D48–D62):** on the plan GPX; **D**/**H** pins at Ritsem, Sälka, Abisko; optional Nikkaluokta Sarri (D57).
@@ -584,7 +584,7 @@ Pass **väster om Saltoluokta** — STF stays **to your east** ([VGB](https://ww
 |-----|-------|
 | **T** | **W** Saltoluokta |
 
-#### Day 53 · Fri 07 Apr · 18 km (cum 993) · ↑94 m ↓319 m · Áhkká / Ritsem fjäll
+#### Day 53 · Fri 07 Apr · 11 km (cum 986) · ↑62 m ↓195 m · Kisurgis
 
 Enter **Áhkká** / **Ritsem** dam landscapes (67.72°N, 17.47°E). Long exposed day.  
 First hint of Ritsem infrastructure.
@@ -593,7 +593,7 @@ First hint of Ritsem infrastructure.
 |-----|-------|
 | **T** | |
 
-#### Day 54 · Sat 08 Apr · 18 km (cum 1011) · ↑46 m ↓172 m · Ritsem approach
+#### Day 54 · Sat 08 Apr · 26 km (cum 1012) · ↑78 m ↓296 m · Ritsem approach
 
 Descend toward **Ritsem** village / STF. Sort food list for shop tomorrow.  
 Camp near road if late — no night skiing on dam.
@@ -602,7 +602,7 @@ Camp near road if late — no night skiing on dam.
 |-----|-------|
 | **T** | |
 
-#### Day 55 · Sun 09 Apr · 2 km (cum 1013) · ↑0 m ↓0 m · Ritsem · **D**
+#### Day 55 · Sun 09 Apr · 0 km (cum 1012) · ↑0 m ↓0 m · Ritsem · **D**
 
 **STF Ritsem** — **D** ★ food + **Power Fuel** (alkylate). **H** + laundry; 10 % Bandet discount.  
 Reload for **KL → Sälka → Abisko**.
@@ -611,7 +611,7 @@ Reload for **KL → Sälka → Abisko**.
 |-----|-------|
 | **H** | **D** ★ |
 
-#### Day 56 · Mon 10 Apr · 22 km (cum 1035) · ↑342 m ↓160 m · Sitojaure
+#### Day 56 · Mon 10 Apr · 22 km (cum 1034) · ↑338 m ↓157 m · Sitojaure
 
 **Ritsem → Sitojaure** on **Kungsleden** winter route.  
 **H** Sitojaure — optional hut food top-up.
@@ -620,7 +620,7 @@ Reload for **KL → Sälka → Abisko**.
 |-----|-------|
 | **H** | |
 
-#### Day 57 · Tue 11 Apr · 19 km (cum 1054) · ↑408 m ↓183 m · Hukejaure · **W**
+#### Day 57 · Tue 11 Apr · 19 km (cum 1053) · ↑412 m ↓159 m · Hukejaure · **W**
 
 **Hukejaure** lake travel. Pass **väster om Nikkaluokta** — village **to your east**.  
 Corridor OK; no village required. **Camping (optional detour east):** **[Nikkaluokta Sarri](https://nikkaluokta.com/boende/camping)** — tent **150 kr**/person, RV + service house — see camping table.
@@ -629,7 +629,7 @@ Corridor OK; no village required. **Camping (optional detour east):** **[Nikkalu
 |-----|-------|
 | **T** | **W** Nikkaluokta · optional Sarri camping |
 
-#### Day 58 · Wed 12 Apr · 20 km (cum 1074) · ↑308 m ↓330 m · Sälka · **H**
+#### Day 58 · Wed 12 Apr · 20 km (cum 1073) · ↑289 m ↓356 m · Sälka · **H**
 
 **STF Sälka** — end of Section 5. Exposed pass nearby; **H** book if possible. **Camping:** STF **tent + serviceavgift** when hut open — see camping table.  
 Next: **Tjäktja → Abisko** (Section 5b).
@@ -644,7 +644,7 @@ Next: **Tjäktja → Abisko** (Section 5b).
 
 *KL continuation · Tjäktja · Alesjaure · Abiskojaure.*
 
-#### Day 59 · Thu 13 Apr · 13 km (cum 1087) · ↑346 m ↓96 m · Tjäktja
+#### Day 59 · Thu 13 Apr · 13 km (cum 1086) · ↑365 m ↓49 m · Tjäktja
 
 **Tjäktja** pass area — steep pulk section. Often slow km despite distance.  
 Camp below pass if late.
@@ -653,7 +653,7 @@ Camp below pass if late.
 |-----|-------|
 | **T** | Steep |
 
-#### Day 60 · Fri 14 Apr · 12 km (cum 1099) · ↑56 m ↓310 m · Alesjaure
+#### Day 60 · Fri 14 Apr · 12 km (cum 1098) · ↑51 m ↓332 m · Alesjaure
 
 Descent to **Alesjaure** — long lake **Álesjaure**. Open Arctic birch zone.  
 Beautiful if clear; disorienting in fog.
@@ -662,7 +662,7 @@ Beautiful if clear; disorienting in fog.
 |-----|-------|
 | **T** | |
 
-#### Day 61 · Sat 15 Apr · 22 km (cum 1121) · ↑113 m ↓427 m · Abiskojaure
+#### Day 61 · Sat 15 Apr · 22 km (cum 1120) · ↑117 m ↓432 m · Abiskojaure
 
 **Abiskojaure** last big hut before Abisko village. Shop top-up if open.  
 Almost through the mountains.
@@ -671,7 +671,7 @@ Almost through the mountains.
 |-----|-------|
 | **T** | |
 
-#### Day 62 · Sun 16 Apr · 13 km (cum 1134) · ↑33 m ↓131 m · Abisko · **D**
+#### Day 62 · Sun 16 Apr · 13 km (cum 1133) · ↑24 m ↓144 m · Abisko · **D**
 
 Ski into **Abisko** turiststation. **Fjällboden** + **Godisfabriken** (2 km). **Major resupply:** pack **7–8 days food** + fuel for Abisko → Pältsa — DNT huts have **no pantry**.  
 **Camping:** STF **tent site** in nationalpark (service fee; winter showers **Keron** hostel ~400 m) · **no RV** — **[Björkliden Camping](https://bjorkliden.com/)** ~10 km (pre-book winter).  
@@ -690,7 +690,7 @@ Prepare for **Section 6** Abisko → Pältsa — **Nordkalottleden** via **Lappj
 *Abisko → **Lappjord** → **Altevass** → **Gaskashytta** → **Vuomahytta** → **Dividalshytta** → **Daertahytta** → **Pältastugan** → **Treriksröset**. **DNT huts = no pantry** — eat from Abisko load.*  
 **Camp waypoints (D63–D70):** on [`2028.gpx`](../tracks/2028.gpx); **H** pins at Lappjordhytta, Altevasshytta, Gaskashytta, Vuomahytta, Dividalshytta, Daertahytta; **D** at Pältastugan (D69).
 
-#### Day 63 · Mon 17 Apr · 20 km (cum 1154) · ↑77 m ↓85 m · Lappjordhytta · **H**
+#### Day 63 · Mon 17 Apr · 20 km (cum 1153) · ↑27 m ↓92 m · Lappjordhytta · **H**
 
 Leave **Abisko** northeast on **Nordkalottleden** toward **Lappjordhytta**.
 
@@ -698,7 +698,7 @@ Leave **Abisko** northeast on **Nordkalottleden** toward **Lappjordhytta**.
 |-----|-------|
 | **H** | DNT key · **7–8 days food** + fuel from day 62 |
 
-#### Day 64 · Tue 18 Apr · 25 km (cum 1179) · ↑708 m ↓580 m · Altevasshytta · **H**
+#### Day 64 · Tue 18 Apr · 25 km (cum 1178) · ↑767 m ↓515 m · Altevasshytta · **H**
 
 **Lappjord → Altevasshytta** — Rohkusborri / Altevatnet country.
 
@@ -706,7 +706,7 @@ Leave **Abisko** northeast on **Nordkalottleden** toward **Lappjordhytta**.
 |-----|-------|
 | **H** | DNT · no pantry |
 
-#### Day 65 · Wed 19 Apr · 11 km (cum 1190) · ↑89 m ↓113 m · Gaskashytta · **H**
+#### Day 65 · Wed 19 Apr · 11 km (cum 1189) · ↑89 m ↓176 m · Gaskashytta · **H**
 
 Continue north toward **Gaskashytta** (DNT).
 
@@ -714,7 +714,7 @@ Continue north toward **Gaskashytta** (DNT).
 |-----|-------|
 | **H** | DNT |
 
-#### Day 66 · Thu 20 Apr · 19 km (cum 1209) · ↑544 m ↓329 m · Vuomahytta · **H**
+#### Day 66 · Thu 20 Apr · 19 km (cum 1208) · ↑544 m ↓289 m · Vuomahytta · **H**
 
 **Gaskashytta → Vuomahytta** on Nordkalottleden.
 
@@ -722,7 +722,7 @@ Continue north toward **Gaskashytta** (DNT).
 |-----|-------|
 | **H** | DNT |
 
-#### Day 67 · Fri 21 Apr · 22 km (cum 1231) · ↑182 m ↓553 m · Dividalshytta · **H**
+#### Day 67 · Fri 21 Apr · 22 km (cum 1230) · ↑176 m ↓592 m · Dividalshytta · **H**
 
 **Vuomahytta → Dividalshytta** — Dividalen country.
 
@@ -730,7 +730,7 @@ Continue north toward **Gaskashytta** (DNT).
 |-----|-------|
 | **H** | DNT |
 
-#### Day 68 · Sat 22 Apr · 29 km (cum 1260) · ↑658 m ↓300 m · Daertahytta · **H**
+#### Day 68 · Sat 22 Apr · 29 km (cum 1259) · ↑643 m ↓303 m · Daertahytta · **H**
 
 **Dividalshytta → Daertahytta** — long fjell leg.
 
@@ -738,7 +738,7 @@ Continue north toward **Gaskashytta** (DNT).
 |-----|-------|
 | **H** | DNT |
 
-#### Day 69 · Sun 23 Apr · 29 km (cum 1289) · ↑596 m ↓641 m · Pältastugan · **D**
+#### Day 69 · Sun 23 Apr · 29 km (cum 1288) · ↑617 m ↓576 m · Pältastugan · **D**
 
 **Pältastugan** (STF) — shop and **H** on the Nordkalottleden corridor toward **Treriksröset**.
 
@@ -746,7 +746,7 @@ Continue north toward **Gaskashytta** (DNT).
 |-----|-------|
 | **H** / **D** | STF shop · last resupply before goal |
 
-#### Day 70 · Mon 24 Apr · 13 km (cum 1302) · ↑431 m ↓446 m · Treriksröset · **GOAL**
+#### Day 70 · Mon 24 Apr · 13 km (cum 1301) · ↑431 m ↓426 m · Treriksröset · **GOAL**
 
 **Treriksröset** — three-country cairn. **GOAL**.
 
