@@ -78,10 +78,10 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 | 19 Mar | Atostugan | 608  |
 | 20 Mar | Hemavan · **D** | 652  |
 | 1 Apr | Kvikkjokk | 887  |
-| 9 Apr | Ritsem | 1,013  |
-| 12 Apr | Sälka | 1,074  |
-| 16 Apr | Abisko | 1,134  |
-| 24 Apr | Treriksröset · **GOAL** | 1,302  |
+| 9 Apr | Ritsem | 1,012 |
+| 12 Apr | Sälka | 1,073 |
+| 16 Apr | Abisko | 1,133 |
+| 24 Apr | Treriksröset · **GOAL** | 1,301 |
 
 ---
 

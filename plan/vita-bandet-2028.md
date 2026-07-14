@@ -9,6 +9,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 **Status:** day-by-day draft ready
 
 **Day-by-day itinerary:** [dag-for-dag-2028.md](./dag-for-dag-2028.md)  
+**2027 rehearsal (March, hut-to-hut):** [practice-2027-march.md](./practice-2027-march.md)  
 **Master GPX:** [2028.gpx](../tracks/2028.gpx) — maintained manually in BaseCamp and used as the route source of truth. Detail/context: [band-tracks-comparison.md](./band-tracks-comparison.md).  
 **Resupply (local):** [resupply-2028.md](./resupply-2028.md)  
 **Gear inventory:** [gear-inventory-2028.md](./gear-inventory-2028.md)
@@ -43,7 +44,8 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 |------|-----------|
 | 2026 | Confirm route variant (direction: **S → N** ✓) |
 | 2026–2027 | Gear trials, training blocks, shorter winter tours |
-| 2027 | Long rehearsal trip(s); finalize resupply & comms plan |
+| 2027 | **March:** [STF hut-to-hut KL Jämtland](./practice-2027-march.md) (10 days · Storulvån → Storlien) · other rehearsal trip(s) TBD |
+| 2027 | Finalize resupply & comms plan after rehearsal |
 | Pre‑departure | Register route; notify contacts; last equipment check |
 | **Expedition** | *(planned start → finish dates)* |
 
@@ -199,3 +201,4 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 | 2026-05-19 | **Section 3:** Lapplandsleden Klimpfjäll → Hemavan; Jäckvik **W** day 32 |
 | 2026-05-19 | **Section 5:** Kvikkjokk → Sälka via Padjelanta-west / Ritsem |
 | 2026-05-19 | **Section 6:** Abisko → Treriksröset via Nordkalottleden (Lappjord / Altevass) |
+| 2026-06-03 | **2027 March rehearsal:** [practice-2027-march.md](./practice-2027-march.md) — STF KL Storulvån → Storlien, hut every night, NL public transport |

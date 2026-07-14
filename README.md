@@ -7,6 +7,7 @@ Winter planning for [Fjällfararnas Vita Bandet](https://www.vitagronabandet.se/
 | Doc | Contents |
 |-----|----------|
 | [vita-bandet-2028.md](plan/vita-bandet-2028.md) | Master plan |
+| [practice-2027-march.md](plan/practice-2027-march.md) | March 2027 rehearsal — STF hut-to-hut |
 | [dag-for-dag-2028.md](plan/dag-for-dag-2028.md) | 65-day itinerary |
 | [resupply-2028.md](plan/resupply-2028.md) | Food & alkylate stops |
 | [gear-inventory-2028.md](plan/gear-inventory-2028.md) | Gear notes |
