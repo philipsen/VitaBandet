@@ -105,7 +105,7 @@ Camp near **Hävlingestugorna** (Länsstyrelsen · five 4-bed cabins + one 6-bed
 #### Day 2 · Tue 16 Feb · 17 km (cum 28) · ↑66 m ↓93 m · STF Rogen area
 
 North from **Hävlingen** across **Långfjället** toward **Rogen** — open heath and bog, snowmobile spår where safe.  
-**T** at STF tent sites (~100 m from hut) in sparse birch forest. **H optional:** **STF Rogen fjällstuga** if stugvärd is on duty (listed winter season **27 Feb – 19 Apr** · ~18 beds · shop · sauna · book via STF). On **16 Feb** the main hut is usually still closed — plan tent unless you have confirmed opening.
+**T** at STF tent sites (~100 m from hut) in sparse birch forest. **H optional:** **STF Rogen fjällstuga** if stugvärd is on duty (**2026:** winter **27 Feb – 19 Apr** · ~18 beds · shop · sauna · book via STF). **2027 winter not published** on STF page (Jul 2026) — see [stf-openings-2027.md](./stf-openings-2027.md). On **16 Feb** the hut is **closed** — plan tent.
 
 | Acc | Notes |
 |-----|-------|
@@ -156,7 +156,7 @@ Northwest on the Band line toward **Fältjägaren Fjällstuga**.
 
 #### Day 7 · Sun 21 Feb · 12 km (cum 112) · ↑229 m ↓299 m · Helags Fjallstation
 
-Camp at **Helags Fjällstation** area. **STF Jämtland cluster opens 19–21 Feb 2026** (likely same window 2027): **Storulvån** (19 Feb), **Sylarna + Blåhammaren** (20 Feb), **Helags** (21 Feb). Restaurants/butiks — verify 2027 arrende.
+Camp at **Helags Fjällstation** area. **STF Jämtland cluster — winter 2027 (STF site):** **Helags / Sylarna / Blåhammaren 5 Mar – 18 Apr**; **Storulvån 25 Feb – 18 Apr** ([stf-openings-2027.md](./stf-openings-2027.md)). **D7 (21 Feb): all three are closed** — plan **T** on Band track west of station; optional east detour for **H** only from **5 Mar** (D19).
 
 | Acc | Notes |
 |-----|-------|
@@ -164,7 +164,7 @@ Camp at **Helags Fjällstation** area. **STF Jämtland cluster opens 19–21 Feb
 
 #### Day 8 · Mon 22 Feb · 20 km (cum 132) · ↑338 m ↓236 m · Sylarna Fjällstation
 
-Camp at **Sylarna Fjällstation** area.
+Camp at **Sylarna Fjällstation** area. **D8 (22 Feb):** STF Sylarna **closed until 5 Mar 2027** — **T** on track; see [stf-openings-2027.md](./stf-openings-2027.md).
 
 | Acc | Notes |
 |-----|-------|
@@ -172,7 +172,7 @@ Camp at **Sylarna Fjällstation** area.
 
 #### Day 9 · Tue 23 Feb · 18 km (cum 150) · ↑430 m ↓481 m · Blåhammaren fjällstation
 
-Day ends at **D9 - Blåhammaren fjällstation**.
+Day ends at **D9 - Blåhammaren fjällstation**. **D9 (23 Feb):** STF Blåhammaren **closed until 5 Mar 2027** — **T** on track west of station.
 
 | Acc | Notes |
 |-----|-------|
@@ -741,7 +741,7 @@ Continue north toward **Gaskashytta** (DNT).
 
 #### Day 69 · Sat 24 Apr · 29 km (cum 1288) · ↑617 m ↓576 m · Pältastugan · **D**
 
-**Pältastugan** (STF) — shop and **H** on the Nordkalottleden corridor toward **Treriksröset**.
+**Pältastugan** (STF) — shop and **H** on the Nordkalottleden corridor toward **Treriksröset**. **STF 2026 winter:** **20 Mar – 19 Apr** (2027 not published Jul 2026) — **D69 (24 Apr) may be after close**; verify before trip · safety room may still be open · see [stf-openings-2027.md](./stf-openings-2027.md).
 
 | Acc | Notes |
 |-----|-------|

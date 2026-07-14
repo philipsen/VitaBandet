@@ -10,7 +10,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] **Skins** — reglue short + long, or new Åsnes short (+ skin wax + glue tube)
 - [ ] **Ski poles** — Åsnes Ingstad Alloy (or Start) + 2 spare baskets + flex tip + repair sleeve
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
-- [ ] **2nd 1 L fuel bottle** (have 1 L + 0.3 L → max **1.3 L** until then)
+- [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
 - [ ] **2× power bank** 20k mAh USB-C + wall charger 30–45 W + cables
 - [ ] **Fairphone** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
 - [ ] **DNT key** + membership
@@ -49,7 +49,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] Tent **Nallo 3GT** + stakes **12+** alu snow/sand + guy line + repair kit
 - [ ] Sleeping bag **−30 °C** + dry bag → **Sleeper 200** (+ liner for huts)
 - [ ] Pad **Exped Ultra 7R** + dry bag → **Sleeper 200** (active)
-- [ ] Pad **NeoAir XLite** + stuff sack → **main pulk** (backup · optional switch at Abisko D62)
+- [x] Pad **NeoAir XLite** ✓ + stuff sack → **main pulk** (backup · optional switch at Abisko D62)
 - [ ] Pump + pad repair kit
 
 ---
@@ -58,7 +58,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 
 - [ ] Stove **OmniLite Ti** + **silencer** + windscreen
 - [ ] **White-gas jet fitted** (only jet until Abisko)
-- [ ] **Alkylate** in bottles (1 L + 0.3 L + 2nd 1 L) — **no gas canisters before Abisko**
+- [ ] **Alkylate** in **2× 1 L** bottles — **no gas canisters before Abisko**
 - [ ] **Gas jet** (optional — pack/use from **Abisko** onward if you switch to canisters)
 - [ ] Funnel/cloth · bottle insulator
 - [ ] Pot **TOAKS 1600 ml** + pan/lid + spork + mug
@@ -212,8 +212,8 @@ Sanity-check your kit against these published Lighterpack lists from prior Vita 
 | Pulk | "Rulk" hybrid | Acapulka Featherlight XL 150 (5.2 kg) | **Jemtlander 14** + **Fjellpulken Sleeper 200** |
 | Tent | Hilleberg Soulo (2.27 kg, 1p) | Hilleberg Keron 3 (3.8 kg) + 2p Windsack | **Hilleberg Nallo 3GT** |
 | Sleep | Marmot Never Summer −10/−18 only | WM Puma −25 °C + EE Apex 40 quilt + Piteraq | **−30 °C bag** + Sleeper 200 bivi backup |
-| Pad | Nemo Tensor + Naturehike CCF (torso) | Xtherm MAX + Z-Lite full | **Xlite** (test) + foam backup |
-| Stove | OmniLite + 1× 350 ml | OmniLite Ti + **1 L + 1 L + 2 L** = 4 L capacity | OmniLite + **1 L + 0.3 L** (buy 2nd 1 L) |
+| Pad | Nemo Tensor + Naturehike CCF (torso) | Xtherm MAX + Z-Lite full | **Ultra 7R** ★ + **XLite** ✓ (Abisko switch) |
+| Stove | OmniLite + 1× 350 ml | OmniLite Ti + **1 L + 1 L + 2 L** = 4 L capacity | OmniLite + **2× 1 L** (~2 L carry) |
 | Boots | Alpina Alaska (light XC BC) | Lundhags Guide Expedition (heavy expedition) | **Alfa Outback / Xplore** |
 | Skis | Fischer E89 Easy Skin (light tour) | Åsnes Amundsen Fram 187 (expedition BC) | **Åsnes Ingstad BC** |
 | Comms | inReach Mini | inReach Mini 2 + dual power banks | **inReach + GPSMAP 68i** |
@@ -221,8 +221,8 @@ Sanity-check your kit against these published Lighterpack lists from prior Vita 
 
 **Take-aways for your 2027 list:**
 
-- [ ] **Fuel capacity** — list B carries **4 L** between shops; you plan **1.3 L** (add 2nd 1 L bottle). Re-confirm your **g/day at −15 °C** measurement justifies the lighter carry, especially **Kvikkjokk → Ritsem** (6–7 days, no fuel source). If shakedown shows > ~150 ml/day, you need closer to **1.5–1.8 L**.
-- [ ] **Double-pad** — list B uses inflatable + foam. Your plan has Xlite + foam backup; confirm both pack onto pulk (Sleeper 200 has room).
+- [ ] **Fuel capacity** — list B carries **4 L** between shops; you carry **2× 1 L** (**~2 L** max). Re-confirm **g/day** on shakedown at **−15 °C**; if > ~250 ml/day, Padjelanta leg may need a partial top-up at Kvikkjokk.
+- [ ] **Double-pad** — **Ultra 7R** in Sleeper + **XLite** ✓ in main bag until optional Abisko switch; confirm both fit (Sleeper 200 has room).
 - [ ] **Face protection** — list B carries Bekö Cheeko + Fantom for storms. Add **balaclava or face mask** to your list if you don't already (currently just buff + beanie).
 - [ ] **Spare BC binding** — list B carries one. Worth considering for solo 65-day route; weighs ~250 g.
 - [ ] **Pulk bag IKEA Frakta** — list B carries a cheap big blue Ikea bag inside the pulk for organising / emergency raft. Practical free trick.

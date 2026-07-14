@@ -1,7 +1,7 @@
 # Gear inventory — Vita Bandet 2027
 
 **Trip:** solo · S→N · Feb–Apr · ski + **pulk** · ~65 days · mostly **tent**  
-**Your core kit (owned):** Hilleberg **Nallo 3GT** · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Sleeping bag −30 °C** · **Exped Ultra 7R** ★ (buy) · **NeoAir XLite** (late backup) · **Optimus OmniLite Ti** + **silencer** · **Jemtlander 14** pulk · **Fjellpulken Sleeper 200** · **TOAKS Ti 1600 ml** pot/pan · **GPSMAP 68i** · **OsmAnd+**  
+**Your core kit (owned):** Hilleberg **Nallo 3GT** · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Sleeping bag −30 °C** · **Exped Ultra 7R** ★ (buy) · **NeoAir XLite** ✓ · **Optimus OmniLite Ti** + **silencer** · **Jemtlander 14** pulk · **Fjellpulken Sleeper 200** · **TOAKS Ti 1600 ml** pot/pan · **GPSMAP 68i** · **OsmAnd+**  
 
 Use this list for shakedowns, weight audit, and resupply planning. **Packing guide:** [packing-pulk-2027.md](./packing-pulk-2027.md). Weigh your packed pulk + daypack before departure.
 
@@ -38,7 +38,7 @@ Use this list for shakedowns, weight audit, and resupply planning. **Packing gui
 | USB lader + kabel B/C | **2× 20k power bank** + wall charger + cables |
 | E-reader | **Skip** (weight) or 1 if you insist |
 | **Tent** | **Nallo 3GT** ✓ |
-| **Slaapmat** + **foam mat** | **Exped Ultra 7R** ★ (buy) · **NeoAir XLite** backup / late-trip switch |
+| **Slaapmat** + **foam mat** | **Exped Ultra 7R** ★ (buy) · **NeoAir XLite** ✓ (backup / late-trip switch) |
 | **Winterslaapzak** + lakenzak | **−30 °C bag** ✓ + silk liner (huts) |
 | Kussen | Optional inflatable |
 | **Sneeuwschep** | ✓ **Tent** snow shovel (not avy shovel) |
@@ -51,7 +51,7 @@ Use this list for shakedowns, weight audit, and resupply planning. **Packing gui
 | **Raggertjes** (tandenstokers) | ✓ Small bag — repair, food, splinter |
 | Koplamp | ✓ + spare batteries / USB |
 
-**New on Bandet (not on old list):** **Jemtlander 14** pulk · **Sleeper 200** (sleep system on pulk) · **inReach** plan on 68i · **2nd 1 L fuel bottle** · no **lawine** set
+**New on Bandet (not on old list):** **Jemtlander 14** pulk · **Sleeper 200** (sleep system on pulk) · **inReach** plan on 68i · **2× 1 L fuel bottles** (no 0.3 L) · no **lawine** set
 
 ### Eten — normal vs 65-day resupply
 
@@ -103,7 +103,7 @@ Use this list for shakedowns, weight audit, and resupply planning. **Packing gui
 | 2e **1 L** benzinefles | Before Padjelanta |
 | Fairphone | Replace Ulefone before trip |
 | inReach / 68i plan | Activate subscription |
-| Pad | **Exped Ultra 7R** ★ buy · XLite for late switch |
+| Pad | **Exped Ultra 7R** ★ buy · **NeoAir XLite** ✓ (late switch) |
 
 ---
 
@@ -553,8 +553,8 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 
 ### What you have
 
-| | Therm-a-Rest **NeoAir XLite** (check your label) |
-|---|--------------------------------------------------|
+| | Therm-a-Rest **NeoAir XLite** ✓ |
+|---|----------------------------------|
 | **Typical R-value** | **~3.5–4.5** (older XLite / XLite NXT ≈ 4.5 ASTM) |
 | **Role** | 3-season lightweight pad |
 | **Packed weight** | ~350–400 g (size dependent) |
@@ -636,17 +636,18 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 
 | Bottle | Status | Role |
 |--------|--------|------|
-| **1 L** | ✓ Own | **Main** — fill with **alkylaatbenzine** / Power Fuel tins at resupply |
-| **0.3 L** | ✓ Own | **Auxiliary** — second fill for **1.3 L total** carry; or **priming / emergency** only |
+| **1 L** (×2) | ✓ Own | **Main carry** — fill with **alkylaatbenzine** / Power Fuel tins at resupply |
 
-**Max on-trail liquid fuel with current bottles: ~1.3 L** (both full). The route plan often assumes **2–2.5 L** between shops (especially **Kvikkjokk → Ritsem**, 8 days, no shops).
+**Not taking:** **0.3 L** auxiliary bottle (left at home).
+
+**Max on-trail liquid fuel: ~2 L** (both 1 L bottles full). Matches most guide legs; **Kvikkjokk → Ritsem** (6–7 days, no shops) is the tightest — measure **g/day** on shakedown.
 
 | Leg | Guide carry | Your bottles |
 |-----|-------------|--------------|
-| Most legs (≤10 days) | **~2 L** | **1.3 L** — tight; melt less / use hut water where possible, or **buy 2nd 1 L** |
-| **Padjelanta** (days 45–51) | **2–2.5 L** | **1.3 L is not enough** — **buy second 1 L** at Kvikkjokk (or before trip) |
+| Most legs (≤10 days) | **~2 L** | **2 L** — OK if usage ≤ ~250 ml/day |
+| **Padjelanta** (days 45–51) | **2–2.5 L** | **2 L** — OK at typical usage; melt less / hut water if high burn |
 
-**Recommendation:** Keep **0.3 L** for preheat/priming and top-up; add **one more 1 L bottle** (Primus or MSR) before **Padjelanta** — cheapest fix at **STF Kvikkjokk** if they sell bottles. Until then, measure **g/day** on shakedown with **1 L + 0.3 L** full.
+**Recommendation:** Warm **1 L** bottle in jacket below −20 °C; decant from shop tins at each **★** stop.
 
 | Also pack | Notes |
 |-----------|-------|
@@ -669,9 +670,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 
 | Bottle | Qty | Notes |
 |--------|-----|-------|
-| Fuel bottle **1 L** | 1 | ✓ Own | Main carry |
-| Fuel bottle **0.3 L** | 1 | ✓ Own | Top-up or priming — **1.3 L max** combined |
-| Fuel bottle **1 L** (second) | 0–1 | **Need** for Padjelanta | Buy before trip or at **Kvikkjokk** |
+| Fuel bottle **1 L** | 2 | ✓ Own | **2 L max** combined — no 0.3 L |
 | Funnel / small cloth | 1 | | Strain when refilling from shop bottles |
 | Fuel bottle insulator | 1 | | Warm 1 L bottle in cold |
 
@@ -693,7 +692,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 |------|-----|-------|
 | OmniLite Ti + silencer | ✓ | Test boil time with silencer on |
 | Pot | ✓ | **TOAKS Ti 1600 ml + pan** (~231 g) |
-| Fuel bottles | **1 L** + **0.3 L** | ✓ | Add **2nd 1 L** before Padjelanta |
+| Fuel bottles | **2× 1 L** | ✓ | No 0.3 L |
 | Lighter + backup | ? | |
 | Repair / service kit | ? | Primus #737280 or equivalent |
 | Spoon / cup / knife | ? | Fill in |
@@ -853,7 +852,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 |------|--------------|-----|------------|-----|------|-------|
 | Stove | **Optimus OmniLite Ti** | 1 | ~230 | ✓ | | White-gas jet for trip |
 | Silencer | **OmniLite silencer** | 1 | ~58 | ✓ | | LP / white gas only |
-| Fuel bottles | **1 L** + **0.3 L** | 1+1 | ~200+80? | ✓ | **+1 L?** | **1.3 L** max; 2nd **1 L** for Padjelanta |
+| Fuel bottles | **2× 1 L** | 2 | ~400? | ✓ | | **~2 L** max carry |
 | Service kit | OmniLite Ti | 1 | | | ? | Pump leather, O-rings |
 | Windscreen / reflector | (with stove) | 1 | | ✓ | | |
 | Canister + gas jet | optional | 0–1 | | | ? | Backup only; cold Feb |
@@ -972,7 +971,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 7. **Power** + **Fairphone**; **OsmAnd+** map downloads + VGB GPX on phone; inReach plan on 68i; optional Mini 3+  
 8. **DNT key** (huts without pantry — carry food from Abisko)  
 9. Tent **repair** (fabric, zipper) — stakes OK if **12+** alu snow/sand on shakedown  
-10. **OmniLite** service kit; **2nd 1 L bottle** before Padjelanta; [resupply](./resupply-2027.md) **alkylate** list  
+10. **OmniLite** service kit; **2× 1 L bottles** packed; [resupply](./resupply-2027.md) **alkylate** list  
 11. **New merino ski socks** (4–5); optional **VBL** after shakedown; **shell** if missing  
 12. Tent upgrade **only after** shakedown — if buying, compare **Black Label** (**Nammatj 2 GT**) vs keep **Nallo 3GT**  
 

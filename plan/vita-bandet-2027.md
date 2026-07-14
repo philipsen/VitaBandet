@@ -11,6 +11,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 **Day-by-day itinerary:** [dag-for-dag-2027.md](./dag-for-dag-2027.md)  
 **Master GPX:** [`2027.GPX`](../tracks/2027.GPX) — maintained manually in BaseCamp and used as the route source of truth. Detail/context: [band-tracks-comparison.md](./band-tracks-comparison.md).  
 **Resupply (local):** [resupply-2027.md](./resupply-2027.md)  
+**STF hut openings:** [stf-openings-2027.md](./stf-openings-2027.md) (scraped from [svenskaturistforeningen.se](https://www.svenskaturistforeningen.se))
 **Gear inventory:** [gear-inventory-2027.md](./gear-inventory-2027.md)
 
 ---
@@ -117,7 +118,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 ### Buy / test next
 
-**Skins: reglue/replace**, **Exped Ultra 7R** + pump, ski poles, **new merino ski socks** (4–5), **2× power banks**, **Fairphone**, **OsmAnd+** maps + GPX, paper maps, **inReach plan** (68i), DNT key, **2nd 1 L fuel bottle**, OmniLite service kit, skin wax, **shell** if missing *(merino base + 2× **Hesta** owned; VBL optional)*.
+**Skins: reglue/replace**, **Exped Ultra 7R** + pump, ski poles, **new merino ski socks** (4–5), **2× power banks**, **Fairphone**, **OsmAnd+** maps + GPX, paper maps, **inReach plan** (68i), DNT key, **2× 1 L fuel bottles**, OmniLite service kit, skin wax, **shell** if missing *(merino base + 2× **Hesta** owned; VBL optional)*.
 
 ### Shakedown trips
 | Date | Location | Duration | Lessons learned |

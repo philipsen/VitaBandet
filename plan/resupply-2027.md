@@ -35,7 +35,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 **Your stove:** **Optimus OmniLite Ti** + **silencer** — **white-gasoline jet only** with silencer.
 
-**Your fuel:** **Alkylaatbenzine** (NL) = **alkylbensin / alkylatbensin** (SE) = **chemically clean gasoline** = same class as **Coleman Fuel** / **Primus Power Fuel**. Decant from shop **1 L tins** into your **1 L + 0.3 L** bottles (funnel + cloth).
+**Your fuel:** **Alkylaatbenzine** (NL) = **alkylbensin / alkylatbensin** (SE) = **chemically clean gasoline** = same class as **Coleman Fuel** / **Primus Power Fuel**. Decant from shop **1 L tins** into your **2× 1 L** bottles (funnel + cloth).
 
 **Plan rule — no gas canisters until Abisko:** From **Grövelsjön through Ritsem** (days **1–61**) use **liquid alkylate in bottles only** (white-gas jet + silencer). Shops often stock **Primus/ICA gas cylinders** — **do not buy or carry** them on this leg. **From Abisko (day 62)** canisters are OK if you want (pack **gas jet**); liquid Power Fuel tins still work and stay the default.
 
@@ -58,8 +58,8 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | **1** | **Grövelsjön** | **Ask** | STF shop / Fjällbua — outdoor section | Often **canisters only** — **ignore**; start bottles **full from home** |
 | **~3** | **Tännäs / Bruksvallarna** (off-line) | **Ask** | **Stigmyhrs Livs** Bruksvallarna (24/7 Bank-ID) + Bruksvallarnas Sportcenter | Side trip 5–10 km; Sportcenter may have **friluftsbensin** |
 | **4** | **Tänndalen** (Hamra Livs) | **Unlikely** | Village livs — small selection | Planned **D** · ~6 km detour **west** · food top-up only |
-| **7–8** | **Helags / Sylarna** (väster om · east detour) | **Rare** | STF butik if you detour to stations — opens **19–21 Feb 2026** | On Band track: no fuel; snacks only if **H** detour |
-| **9** | **Blåhammaren** (väster om · east detour) | **Rare** | STF butik if you detour — self-catering basics | Camp night before Storlien; snacks only if **H** detour |
+| **7–8** | **Helags / Sylarna** (väster om · east detour) | **Rare** | STF butik if you detour to stations — winter **5 Mar – 18 Apr 2027** ([scraped](./stf-openings-2027.md)) | On Band track D7–D8 (21–22 Feb): **closed** — tent only |
+| **9** | **Blåhammaren** (väster om · east detour) | **Rare** | STF butik if you detour — winter **5 Mar – 18 Apr 2027** | D9 (23 Feb): **closed** — tent; optional **H** from D19 (5 Mar) |
 | **10** | **Storlien** | **Ask** | Coop / Fjellhandeln / Sportringen — outdoor | **Liquid alkylate only** (no canisters); ask **alkylbensin / Power Fuel** |
 | **15** | **Kallsedet** | **No** | — | On track · optional **H** Kolåsen (~10 km detour) |
 | **17** | **Olden** (corridor) | **No** | — | On track only — **not** Valsjöbua |
@@ -76,7 +76,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | **39** | **Adolfström** (Handelsbod) | **No** | Handelsbod — dried foods, bread, reindeer; **by arrangement** outside v.14–15 | Phone-ahead Kungsleden classic |
 | **41** | **Vuoggatjålme** (Fjällhotell) | **Ask** | Hotel + restaurant on Silvervägen — small shop possible | **H** option; restaurant Feb–Apr Wed–Sat 12–20 |
 | **47** | **Kvikkjokk** | **⚠️ Often NO** | STF shop lists **T-sprit + Primus gas** — **no canisters** | **Critical:** max **liquid** fill from **Hemavan** for Kvikkjokk → Ritsem |
-| **48–55** | **Kvikkjokk → Ritsem** (Padjelanta-west) | **None** | — | **6–7 days** on trail; carry from Kvikkjokk · **2nd 1 L bottle** before leaving |
+| **48–55** | **Kvikkjokk → Ritsem** (Padjelanta-west) | **None** | — | **6–7 days** on trail; carry **2× 1 L** full from Kvikkjokk/Hemavan |
 | **55** | **Ritsem** ★ | **Yes** | **Primus Power Fuel** + sprit | **Best refill** — buy **max** for Ritsem → Abisko KL |
 | **56–61** | **KL huts** | **Rare** | Huts sometimes **gas cans** — **do not use** | Snacks only; fuel from **Ritsem** bottles |
 | **62** | **Abisko** ★ | **Yes** | **STF Fjällboden** — **Power Fuel** tins + **canisters OK from here** | **Max liquid fill** (~2 L); optional gas jet + canister for Norway |
@@ -87,9 +87,9 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 | Priority stop | Action |
 |---------------|--------|
-| **Before Day 1** | Fill bottles at home (hardware/outdoor shop **alkylbensin** 1 L) |
+| **Before Day 1** | Fill **both 1 L bottles** at home (hardware/outdoor shop **alkylbensin** 1 L tins) |
 | **Gäddede (24)** | Try **Frostvikens** — top up if found; optional **Blåsjöfjäll** detour (D23–24) |
-| **Hemavan (35)** | **Max fill** both bottles + buy **2nd 1 L bottle** if needed |
+| **Hemavan (35)** | **Max fill** both 1 L bottles |
 | **Kvikkjokk (47)** | Confirm alkylate stock; else **Padjelanta on Hemavan fill only** |
 | **Ritsem (55)** | **Largest refill** — Power Fuel tins → your bottles |
 | **Abisko (62)** | **Last big liquid fill** + **canisters allowed from here** if desired |
@@ -99,7 +99,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 - [x] Stove: **OmniLite Ti** + silencer — **white-gas jet** + **alkylaatbenzine** until Abisko  
 - [x] **No gas canisters** before Abisko — liquid bottles only  
 - [ ] At Abisko: optional **gas jet** + canister for Norway (Apr); or stay on liquid tins  
-- [x] Bottles: **1 L** + **0.3 L** — add **2nd 1 L** before **Padjelanta** (max carry **~1.3 L** now)  
+- [x] Bottles: **2× 1 L** (no 0.3 L) — max carry **~2 L** liquid alkylate
 - [ ] Shakedown: measure **g/day** on **alkylate** at **−15 °C**  
 - [ ] **Phone Kvikkjokk + Hemavan** shops for **alkylbensin / Power Fuel** stock in Feb  
 - [ ] **T-sprit** = emergency only (swap jet, no silencer) — not your main fuel  
@@ -263,14 +263,14 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ### Day 7–8 — Helags / Sylarna (väster om) · STF east detour
 
-*Band track passes **west** of **STF Helags** (D7) and **STF Sylarna** (D8). Full cluster (Storulvån / Sylarna / Blåhammaren / Helags) opens **19–21 Feb 2026** (verify 2027).*
+*Band track passes **west** of **STF Helags** (D7) and **STF Sylarna** (D8). **2027 winter** (STF site, scraped Jul 2026): cluster opens **5 Mar – 18 Apr** — see [stf-openings-2027.md](./stf-openings-2027.md). Plan days 7–9 (21–23 Feb) are **before** staffed season → **tent** on track; optional **H** detour east only from **5 Mar** (plan D19).*
 
-| Station | Opens (2026) | Restaurant | Butik | Notes |
-|---------|--------------|------------|-------|-------|
-| **STF Storulvån Fjällstation** | 19 Feb – 19 Apr | **Yes** — frukost + middag | Yes (STF Small/Large) | Roadhead from Enafors; biggest hub |
-| **STF Sylarna Fjällstation** | 20 Feb – 19 Apr | **Yes** — frukost + 2-rätters middag from 18:00 | Yes | Restaurant **closes by 2027** per arrendeavtal — verify nearer the trip |
-| **STF Blåhammaren Fjällstation** | 20 Feb – 19 Apr | **CLOSED** since Jan 2024 | Yes (basics) | 30 beds · self-catering only · no restaurant |
-| **STF Helags Fjällstation** | 21 Feb – 19 Apr | **Yes** (closes by 2027) | Yes | Verify restaurant status closer to date |
+| Station | Winter 2027 | Restaurant | Butik | Notes |
+|---------|-------------|------------|-------|-------|
+| **STF Storulvån Fjällstation** | **25 Feb – 18 Apr** | **Yes** — frukost + middag | Yes (STF Small/Large) | Opens **day after** D10 (24 Feb) |
+| **STF Sylarna Fjällstation** | **5 Mar – 18 Apr** | **Yes** — frukost + 2-rätters middag from 18:00 | Yes | Restaurant **closes by 2027** per arrendeavtal — verify nearer the trip |
+| **STF Blåhammaren Fjällstation** | **5 Mar – 18 Apr** | **CLOSED** since Jan 2024 | Yes (basics) | 30 beds · self-catering only · no restaurant |
+| **STF Helags Fjällstation** | **5 Mar – 18 Apr** | **Yes** (closes by 2027) | Yes | Verify restaurant status closer to date |
 
 **Use it as:** warm meal + **H** only if weather forces an **east detour** to a station. Routine plan: camp **väster om** on the Band track.
 
@@ -516,7 +516,7 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 | **Funäsdalen** (ICA Supermarket Coop) | Year-round full village — Rörosvägen 13A · 0684 21007 | ~15 km east of Tänndalen / Day 4–5 line | Storm hold; resupply for both food + bus rescue |
 | **Skalstugan** (border guesthouse, Day 12) | **Private SEB pension** — outsiders only "i mån av plats" (full pension) | On Storlien–Kolåsen scooter line | Skip — not a public stop |
 | **Laisvall / Laisdalen** | Eastern corridor — small services | Long detour east | Only if weather forces lower route |
-| **STF Saltoluokta Fjällstation** | **27 Feb – 19 Apr 2026** · restaurant (frukost+middag) + butik · 25–27 Jun music festival | **East of plan line — VGB rule: väster om only** | Emergency H + meal; loses VGB compliance for Saltoluokta |
+| **STF Saltoluokta Fjällstation** | **26 Feb – 18 Apr 2027** · restaurant (frukost+middag) + butik · 25–27 Jun music festival | **East of plan line — VGB rule: väster om only** | Emergency H + meal; loses VGB compliance for Saltoluokta |
 | **STF Vakkotavare Fjällstuga** | 27 Feb – 19 Apr · self-service only · roadside Gällivare–Ritsem | Roadside hut — bail-out node | Bus to Gällivare / Ritsem · no pantry |
 | **STF Kebnekaise Fjällstation** | 27 Feb – 19 Apr · Elsas kök 3-rätters middag (förboka) · 200 beds | **East of Nikkaluokta** — VGB says väster om | Major H + restaurant detour if storm caught near Sälka |
 | **Björkliden** (Hotell Fjället, restaurant Lapporten) | **20 Feb – 24 Maj 2026** · multiple restaurants + Sportshop | **West of Abisko on E10/järnvägen** — Ola line goes east/north | Train-accessible bail-out before/after Abisko |
@@ -562,7 +562,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days.
 
 - [ ] **DNT key** + membership (hut access Lappjord, Altevass, Gaskash, Rostah) — **no food for sale**  
 - [ ] **DNT app** for hut payment / registration if required (not pantry)  
-- [ ] Confirm **ICA / STF winter opening** by phone for Feb–Mar stops  
+- [ ] Confirm **ICA / STF winter opening** by phone for Feb–Mar stops — refresh [stf-openings-2027.md](./stf-openings-2027.md) (`python3 scripts/scrape_stf_openings.py`)  
 - [ ] Bottles filled with **alkylaatbenzine**; white-gas jet tested with silencer  
 - [ ] **Kvikkjokk + Hemavan** — alkylate stock confirmed by phone  
 - [ ] Swedish cash for Pältsa; card usually OK at STF/ICA  
