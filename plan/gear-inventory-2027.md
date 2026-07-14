@@ -1,7 +1,7 @@
 # Gear inventory — Vita Bandet 2027
 
 **Trip:** solo · S→N · Feb–Apr · ski + **pulk** · ~65 days · mostly **tent**  
-**Your core kit (owned):** Hilleberg **Nallo 3GT** · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Sleeping bag −30 °C** · Therm-a-Rest **NeoAir XLite** · **Optimus OmniLite Ti** + **silencer** · **Jemtlander 14** pulk · **Fjellpulken Sleeper 200** · **TOAKS Ti 1600 ml** pot/pan · **GPSMAP 68i** · **OsmAnd+**  
+**Your core kit (owned):** Hilleberg **Nallo 3GT** · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Sleeping bag −30 °C** · **Exped Ultra 7R** ★ (buy) · **NeoAir XLite** (late backup) · **Optimus OmniLite Ti** + **silencer** · **Jemtlander 14** pulk · **Fjellpulken Sleeper 200** · **TOAKS Ti 1600 ml** pot/pan · **GPSMAP 68i** · **OsmAnd+**  
 
 Use this list for shakedowns, weight audit, and resupply planning. **Packing guide:** [packing-pulk-2027.md](./packing-pulk-2027.md). Weigh your packed pulk + daypack before departure.
 
@@ -38,7 +38,7 @@ Use this list for shakedowns, weight audit, and resupply planning. **Packing gui
 | USB lader + kabel B/C | **2× 20k power bank** + wall charger + cables |
 | E-reader | **Skip** (weight) or 1 if you insist |
 | **Tent** | **Nallo 3GT** ✓ |
-| **Slaapmat** + **foam mat** | **NeoAir XLite** ✓ + optional Z-lite Feb boost |
+| **Slaapmat** + **foam mat** | **Exped Ultra 7R** ★ (buy) · **NeoAir XLite** backup / late-trip switch |
 | **Winterslaapzak** + lakenzak | **−30 °C bag** ✓ + silk liner (huts) |
 | Kussen | Optional inflatable |
 | **Sneeuwschep** | ✓ **Tent** snow shovel (not avy shovel) |
@@ -103,7 +103,7 @@ Use this list for shakedowns, weight audit, and resupply planning. **Packing gui
 | 2e **1 L** benzinefles | Before Padjelanta |
 | Fairphone | Replace Ulefone before trip |
 | inReach / 68i plan | Activate subscription |
-| Pad upgrade? | XLite test vs Exped |
+| Pad | **Exped Ultra 7R** ★ buy · XLite for late switch |
 
 ---
 
@@ -265,7 +265,7 @@ You still have the right **two-set strategy** (short + long) once glue is fixed:
 
 ## Fjellpulken Sleeper 200 — **sleep system on the pulk**
 
-**Daily carry:** **−30 °C bag + NeoAir XLite** live in the Sleeper (each in its own **dry bag**), strapped to the **Jemtlander 14** as Fjellpulken intended. That keeps the main 200 L bag for food, tent, fuel, and clothes — and makes camp setup faster (unclip Sleeper, not dig through the sled).
+**Daily carry:** **−30 °C bag + Exped Ultra 7R** live in the Sleeper (each in its own **dry bag**), strapped to the **Jemtlander 14** as Fjellpulken intended. **NeoAir XLite** rides in the main pulk bag (or bottom of Sleeper) as **backup** and for an **optional late-trip switch** at Abisko. That keeps the main 200 L bag for food, tent, fuel, and clothes — and makes camp setup faster (unclip Sleeper, not dig through the sled).
 
 | | **Fjellpulken Sleeper 200** |
 |---|----------------------------|
@@ -279,7 +279,8 @@ You still have the right **two-set strategy** (short + long) once glue is fixed:
 | Item | Pack in |
 |------|---------|
 | **−30 °C sleeping bag** | **Dry bag** → Sleeper compartment |
-| **NeoAir XLite** | **Dry bag** or stuff sack → Sleeper compartment |
+| **Exped Ultra 7R** (active pad) | **Dry bag** → Sleeper compartment |
+| **NeoAir XLite** (backup / late switch) | Stuff sack → **main pulk** until Abisko swap |
 | **Sleeper 200** | **On the pulk** (Fjellpulken attachment) — not loose in main cargo |
 
 At camp: unstrap Sleeper → pull bag/pad → pitch Nallo. Repack dry before next day so wet snow does not soak the main pulk bag.
@@ -584,12 +585,22 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 | In pulk | Dura is bulky; Ultra 7R OK | Easiest to pack small |
 | Repair | Exped Synmat repair kit | Therm-a-Rest patch kit |
 
-**Recommendation for solo pulk 65 days** *(−30 °C bag owned)*
+**Recommendation for solo pulk 70 days** *(−30 °C bag owned)*
 
-1. **Shakedown test:** sleep on snow at **−15 °C or colder** in Nallo with **XLite + −30 °C bag** — if you wake cold, it will be **hips/back** (pad), not shoulders (bag).  
-2. **Best balance (weight/warmth):** **Exped Ultra 7R LW** or **XTherm NXT LW** — both cover Feb→Apr.  
-3. **Budget fix:** **Z-lite ½ torso** under XLite in February only.  
-4. **Keep XLite** for April or as backup after pad upgrade.
+**Chosen plan:** **Exped Ultra 7R LW** from **Grövelsjön** through the cold tent-heavy middle of the trip. **Optional switch** to **NeoAir XLite** at **Abisko (day 62)** for the final **~8 days** (Section 6 · April · more DNT hut nights) — saves **~450 g** in the Sleeper if April ground is mild enough.
+
+| Phase | Days | Pad in Sleeper | Notes |
+|-------|------|----------------|-------|
+| **Start → Abisko** | **1–62** (Feb–mid Apr) | **Exped Ultra 7R** | February snow, long wild-camping legs, Padjelanta — **R ~7.1** |
+| **Late trip (optional)** | **63–70** (Abisko → Treriksröset) | **NeoAir XLite** | Warmer April; DNT huts often heated · still carry **tent** backup |
+| **If no switch** | 1–70 | **Ultra 7R** | Safest if cold April or you skip depot logistics at Abisko |
+
+**At Abisko resupply (if switching):** repack Sleeper with **XLite**; **Ultra 7R** → **Bussgods/post home** (confirm STF Abisko / Fjällboden accepts outbound parcel) or carry Ultra in main bag as dead weight if unsure.
+
+1. **Shakedown:** sleep on snow at **−15 °C** with **Ultra 7R + −30 °C bag** in Nallo — confirm hips stay warm.  
+2. **Also test XLite** once — know your April floor if you switch at Abisko.  
+3. **Skip** Z-lite boost if Ultra 7R works on shakedown.  
+4. **Pump:** Exped Widget or schnozzel for Ultra 7R.
 
 **Also use**
 
@@ -725,7 +736,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 | Pole repair sleeve | ~14 mm | 1 | | | **Need** | |
 | Pulk | **Jemtlander 14** (200 L) | 1 | ~5300 | ✓ | **Test** | See pulk section; “140” = 1.4 m |
 | Pulk harness | (with J14) | 1 | incl. | ✓ | | Shaft ~173 cm; crisis-release buckle |
-| Sleep carry | **Fjellpulken Sleeper 200** | 1 | ~1400 | ✓ | | Bag + XLite in dry bags; on pulk daily |
+| Sleep carry | **Fjellpulken Sleeper 200** | 1 | ~1400 | ✓ | | Bag + **Ultra 7R** in dry bags; XLite in main bag |
 | Ski bag / tip covers | | 1 | | | ? | Travel to Grövelsjön |
 | Booties / hut shoes | Crocs, down booties | **0** | — | — | **Skip** | Not bringing — **liner socks** or **Outback** unlaced in hut |
 | Crampons | *(if steep ice days)* | 0–1 | | | ? | Usually skip on Bandet line |
@@ -746,9 +757,9 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 |------|--------------|-----|------------|-----|------|-------|
 | Sleeping bag | **−30 °C** *(add brand/model)* | 1 | ~1500–2500? | ✓ | | **Good** for full trip; keep dry |
 | Compress sack / dry bag | for sleeping bag | 1+ | | | ? | Main pulk — keep down dry |
-| Sleeping pad | Therm-a-Rest **NeoAir XLite** | 1 | ~400 | ✓ | | Check R on label; marginal Feb |
-| Sleeping pad (upgrade?) | **Exped Ultra 7R** or **Dura 8R** LW | 0–1 | 855–1215 | | **Test** | See pad section |
-| Foam supplement | e.g. Z-lite 1/2 torso | 0–1 | ~200 | | ? | Cheap Feb boost if keeping XLite |
+| Sleeping pad | **Exped Ultra 7R** LW | 1 | ~855 | | **Buy** ★ | **Primary** in Sleeper · Feb → Abisko |
+| Sleeping pad (backup) | Therm-a-Rest **NeoAir XLite** | 1 | ~400 | ✓ | | Optional **switch** at Abisko (D62) |
+| Foam supplement | e.g. Z-lite 1/2 torso | 0 | ~200 | | **Skip** | Not needed if Ultra 7R OK on shakedown |
 | Pad repair kit | Exped / McNett | 1 | | | ? | |
 | Pump | Exped Schnozzel or TAR pump | 1 | | | ? | |
 | Liner bag | silk or synth | 1 | | | ? | Hut hygiene |
@@ -924,7 +935,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 | Pulk — food (10-day leg max) | 12–16 kg | |
 | Pulk — fuel | 2–4 kg | |
 | Pulk — tent (Nallo 3GT) | ~3.1 kg | |
-| Pulk — sleep (bag + XLite **in Sleeper 200**) | 4–6 kg | |
+| Pulk — sleep (bag + **Ultra 7R** **in Sleeper 200**) | 4.5–6.5 kg | +XLite ~400 g in main bag until switch |
 | Pulk — clothing spare | 3–5 kg | |
 | Pulk — kitchen + misc | ~2 kg | |
 | **Cargo + rig (estimate)** | **~27–38 kg** | Weigh loaded on shakedown |
@@ -938,12 +949,12 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 | # | Test | Pass? |
 |---|------|-------|
 | 1 | 3 nights **Nallo 3GT** in wind + sub −20 °C with pulk in vestibule | |
-| 2 | **Jemtlander 14** + **Sleeper 200** (bag + pad inside) — 8 h day, 18–22 km, **10-day** main-bag load | |
+| 2 | **Jemtlander 14** + **Sleeper 200** (bag + **Ultra 7R** inside; XLite in main bag) — 8 h day, 18–22 km, **10-day** main-bag load | |
 | 2b | **Ingstad + Xplore + Outback** on same days | |
 | 3 | **Skins (after reglue):** peel test + on/off cold gloves; short vs long vs fishscale, pulk on hill | |
 | 4 | **Comms:** inReach test; banks at −10 °C; **nav:** 68i skiing + **OsmAnd** GPX at camp | |
 | 4b | **OmniLite Ti** + silencer at −20 °C on **alkylate** — measure g/day | |
-| 5 | Sleep on snow: **−30 °C bag + XLite** at −15 °C — cold from **below**? (pad decision) | |
+| 5 | Sleep on snow: **−30 °C bag + Ultra 7R** at −15 °C — cold from below? | |
 | 6 | **New poles** — loaded pulk day; baskets in soft snow; flex tip / sleeve drill | |
 | 7 | Full repair drill: tent zipper, binding | |
 | 8 | Weigh pulk — adjust food/fuel to target | |
@@ -953,15 +964,17 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 ## Purchase priority (if starting from your three items)
 
 1. **Skins — reglue both pairs or buy new Åsnes short** (+ wax + patch glue tube) — **blocker** for Padjelanta  
-2. **Ski poles** — **Åsnes Ingstad Alloy** (or Start Aluminium) + spare baskets + flex tip + repair sleeve  
-3. **Pad** test with **−30 °C bag**; **Sleeper 200** on pulk with both inside; once: **bivi drill** if Nallo fails (20 min)  
-4. **Jemtlander 14** shakedown — 10-day load, side wind  
-5. **Power** + **Fairphone**; **OsmAnd+** map downloads + VGB GPX on phone; inReach plan on 68i; optional Mini 3+  
-6. **DNT key** (huts without pantry — carry food from Abisko)  
-7. Tent **repair** (fabric, zipper) — stakes OK if **12+** alu snow/sand on shakedown  
-8. **OmniLite** service kit; **2nd 1 L bottle** before Padjelanta; [resupply](./resupply-2027.md) **alkylate** list  
-9. **New merino ski socks** (4–5); optional **VBL** after shakedown; **shell** if missing  
-10. Tent upgrade **only after** shakedown — if buying, compare **Black Label** (**Nammatj 2 GT**) vs keep **Nallo 3GT**  
+2. **Exped Ultra 7R** LW + pump + pad repair kit — **primary pad** from Grövelsjön  
+3. **Ski poles** — **Åsnes Ingstad Alloy** (or Start Aluminium) + spare baskets + flex tip + repair sleeve  
+4. **Pad shakedown** — **Ultra 7R + −30 °C bag** on snow; test **XLite** once for Abisko switch decision  
+5. **Sleeper 200** on pulk — bag + Ultra inside; once: **bivi drill** if Nallo fails (20 min)  
+6. **Jemtlander 14** shakedown — 10-day load, side wind  
+7. **Power** + **Fairphone**; **OsmAnd+** map downloads + VGB GPX on phone; inReach plan on 68i; optional Mini 3+  
+8. **DNT key** (huts without pantry — carry food from Abisko)  
+9. Tent **repair** (fabric, zipper) — stakes OK if **12+** alu snow/sand on shakedown  
+10. **OmniLite** service kit; **2nd 1 L bottle** before Padjelanta; [resupply](./resupply-2027.md) **alkylate** list  
+11. **New merino ski socks** (4–5); optional **VBL** after shakedown; **shell** if missing  
+12. Tent upgrade **only after** shakedown — if buying, compare **Black Label** (**Nammatj 2 GT**) vs keep **Nallo 3GT**  
 
 ---
 

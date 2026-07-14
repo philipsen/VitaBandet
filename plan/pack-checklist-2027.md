@@ -18,7 +18,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] **OmniLite** service kit
 - [ ] **Shell** jacket + pants (if missing)
 - [ ] **Paper Fjällkarta** strips (backup)
-- [ ] **Pad** — test XLite; buy Exped/XTherm or foam if cold from below
+- [ ] **Exped Ultra 7R** LW + pump + pad repair kit — primary pad in Sleeper
 - [ ] **Alkylate** — fill bottles at home; phone **Hemavan + Kvikkjokk** for stock
 
 ---
@@ -48,7 +48,8 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 
 - [ ] Tent **Nallo 3GT** + stakes **12+** alu snow/sand + guy line + repair kit
 - [ ] Sleeping bag **−30 °C** + dry bag → **Sleeper 200** (+ liner for huts)
-- [ ] Pad **NeoAir XLite** + dry bag → **Sleeper 200** (+ foam/Z-lite if Feb boost)
+- [ ] Pad **Exped Ultra 7R** + dry bag → **Sleeper 200** (active)
+- [ ] Pad **NeoAir XLite** + stuff sack → **main pulk** (backup · optional switch at Abisko D62)
 - [ ] Pump + pad repair kit
 
 ---

@@ -109,14 +109,15 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 | **Åsnes Ingstad BC** + **Alfa Outback Xplore** | Primary ski system |
 | **Jemtlander 14** (200 L) + **Sleeper 200** | Pulk; **Sleeper = sleep system** (bag + pad on sled) |
 | **TOAKS Ti 1600 ml** pot/pan | With OmniLite for melt + cook |
-| **Sleeping bag −30 °C** | **Good** for Feb–Apr; pad is the weak link |
-| **Therm-a-Rest NeoAir XLite** | Owned — upgrade or foam boost for February ground cold (see gear doc) |
+| **Sleeping bag −30 °C** | **Good** for Feb–Apr |
+| **Exped Ultra 7R** | **Buy** — primary pad in Sleeper (Feb → Abisko) |
+| **Therm-a-Rest NeoAir XLite** | Owned — backup; **optional switch** at Abisko for final ~8 days |
 | **Optimus OmniLite Ti + silencer** | Owned — **alkylaatbenzine** on trail |
 | **OsmAnd+** | Owned — download offline maps + VGB GPX on Fairphone before Feb |
 
 ### Buy / test next
 
-**Skins: reglue/replace**, **pad upgrade/test**, ski poles, **new merino ski socks** (4–5), **2× power banks**, **Fairphone**, **OsmAnd+** maps + GPX, paper maps, **inReach plan** (68i), DNT key, **2nd 1 L fuel bottle**, OmniLite service kit, skin wax, **shell** if missing *(merino base + 2× **Hesta** owned; VBL optional)*.
+**Skins: reglue/replace**, **Exped Ultra 7R** + pump, ski poles, **new merino ski socks** (4–5), **2× power banks**, **Fairphone**, **OsmAnd+** maps + GPX, paper maps, **inReach plan** (68i), DNT key, **2nd 1 L fuel bottle**, OmniLite service kit, skin wax, **shell** if missing *(merino base + 2× **Hesta** owned; VBL optional)*.
 
 ### Shakedown trips
 | Date | Location | Duration | Lessons learned |
@@ -199,3 +200,4 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 | 2026-05-19 | **Section 5:** Kvikkjokk → Sälka via Padjelanta-west / Ritsem |
 | 2026-05-19 | **Section 6:** Abisko → Treriksröset via Nordkalottleden (Lappjord / Altevass) |
 | 2026-06-03 | **Target year moved to 2027** — all plan dates shifted; practice trip dropped |
+| 2026-07-14 | **Sleep pad:** **Exped Ultra 7R** primary in Sleeper (Feb → Abisko); optional **XLite** switch at D62 |
