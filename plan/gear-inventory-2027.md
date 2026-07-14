@@ -119,7 +119,7 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 | Pulk | **Jemtlander 14** (200 L) | 1 | ~5300 | ✓ | **Test** | |
 | Pulk harness | (with J14) | 1 | incl. | ✓ | | |
 | Sleep carry | **Sleeper 200** | 1 | ~1400 | ✓ | | Bag + Ultra 7R inside |
-| Booties | Down camp — sole | 1 pair | ~120–200 | | **Buy** | [booties](./gear-considerations-2027.md#down-booties-camp) |
+| Booties | **Rab Down Hut Slipper** | 1 pair | ~198 | | **Buy** | ~€45–65 — [booties](./gear-considerations-2027.md#down-booties-camp) |
 
 ### Shelter
 
@@ -134,11 +134,10 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 | Item | Model / spec | Qty | Weight (g) | Own | Need | Notes |
 |------|--------------|-----|------------|-----|------|-------|
 | Sleeping bag | **Lowland K2** Expedition | 1 | ~1995 | ✓ | | −35 °C comfort · 1250 g 95% down |
-| Compress / dry bag | | 1+ | | | ? | |
-| Sleeping pad | **Exped Ultra 7R** LW | 1 | ~855 | ✓ | | D1–62 in Sleeper |
+| Compress / dry bag | | 6+ | | ✓ | | Enough for bag + pad + clothes |
+| Sleeping pad | **Exped Ultra 7R** LW | 1 | ~855 | ✓ | | D1–62 in Sleeper · incl. pump + repair kit |
 | Sleeping pad | **NeoAir XLite** | 1 | ~400 | ✓ | | Optional switch D62+ |
-| Pad repair + pump | | 1 | | | ? | |
-| Liner bag | silk / synth | 1 | | | ? | Huts |
+| Liner bag | silk / synth | 1 | | ✓ | | Huts |
 
 ### Clothing
 
@@ -155,7 +154,7 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 | Shell jacket + pants | 1+1 | | ? | **Priority** if missing |
 | Softshell / touring pants | 1 | | ? | |
 | Mittens **Hesta** | 2 sets | ✓ | | |
-| Hat / balaclava / buff | 2+2 | ✓? | ? | |
+| Hat / balaclava / buff | 2+2 | ✓ | | |
 
 ### Cooking
 
@@ -166,7 +165,6 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 | Fuel bottles | **1 L** | 2 | ~400? | ✓ | | **2 L** max |
 | Service kit | OmniLite Ti | 1 | | | ? | |
 | Pot | **TOAKS Ti 1600 ml Pot with Pan** | 1 | ~231 | ✓ | | Pan/lid ~142 mm |
-| Funnel / cloth / insulator | | **0** | — | — | **Skip** |
 | Lighter + matches | | 2+2 | | | ? | |
 | Spoon / cup | | 1+1 | | | ? | |
 | Thermos | 1 L | 0–1 | | | ? | |
@@ -176,12 +174,12 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 | Item | Model / spec | Qty | Own | Need | Notes |
 |------|--------------|-----|-----|------|-------|
 | GPS + inReach | **GPSMAP 68i** | 1 | ✓ | **Plan** | On body for SOS |
-| inReach Mini 3+ | | 0–1 | | **?** | If 68i in pulk |
 | Phone | **Fairphone** | 1 | | **Buy** | OsmAnd+ |
-| Power bank 20k | USB-C PD | 2 | | **Need** | |
-| USB-C + wall charger | PD 30–45 W | 1 set | | **Need** | 68i · phone · headlamp |
-| Compass + paper maps | Fjällkarta 1:100k | 1 set | | **Need** | |
-| Headlamp | **USB-C rechargeable** | 1 | | **Buy** | [headlamp](./gear-considerations-2027.md#headlamp-usb) |
+| Power bank 20k | USB-C PD | 2 | | **Buy** | |
+| USB-C + wall charger | PD 30–45 W | 1 set | | **Buy** | 68i · phone · headlamp · cables |
+| Compass | | 1 | ✓ | | |
+| Paper maps | Fjällkarta 1:100k | 1 set | | **Need** | Backup |
+| Headlamp | **Nitecore NU43** (USB-C) | 1 | | **Buy** | ~€73 — [headlamp](./gear-considerations-2027.md#headlamp-usb) |
 
 ### Safety & repair
 
@@ -192,7 +190,6 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 | Duct tape on pole | 1 | | ? | |
 | **DNT key** | 1 | ✓ | | |
 | Sunscreen, goggles, glasses | 1+1+1 | | ? | |
-| Hand warmers | **0** | — | **Skip** | |
 
 ### Personal & misc
 
@@ -243,7 +240,7 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 
 1. **Long skins** — reglue or replace + wax + glue tube  
 2. **Ski poles** — Ingstad Alloy + baskets + flex tip + sleeve  
-3. **Power** — 2× 20k banks, wall charger, **USB headlamp**; **Fairphone**; OsmAnd maps; inReach plan  
+3. **Power** — **2× 20k power banks** + **wall charger** (30–45 W USB-C) + cables; **USB headlamp**; **Fairphone**; OsmAnd maps; inReach plan  
 4. **New ski socks** (4–5) + **down booties**; **shell** if missing  
 5. **OmniLite** service kit; fill **2× 1 L** bottles  
 6. Tent upgrade **only after** shakedown — [considerations](./gear-considerations-2027.md#tent--nallo-3gt--upgrades)

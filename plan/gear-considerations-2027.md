@@ -158,25 +158,23 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 
 | Device | Role |
 |--------|------|
-| **GPSMAP 68i** | Primary GPS + inReach (with plan) |
+| **GPSMAP 68i** | Primary GPS + inReach (with plan) — **on body** |
 | **Fairphone** | **OsmAnd+** offline + GPX at camp |
-| **inReach Mini 3+** | Optional if 68i not on body daily |
 | **2× 20k power banks** | Primary recharge strategy |
-| **USB headlamp** | **Buy** — camp / tent; see [headlamp](#headlamp-usb) |
+| **USB headlamp** | **Buy** — **NU43** ~€73 · see [headlamp](#headlamp-usb) |
 
-### inReach Mini 3+ vs 68i
+### GPSMAP 68i — carry rule
 
-| | **68i** | **Mini 3+** |
-|---|---------|-------------|
-| Navigation | **Excellent** — buttons, maps | Basic; mainly messaging |
-| Satellite | inReach (with plan) | inReach (with plan) |
-| Carry | Often pulk — **SOS useless if buried** | **Inside jacket** |
-| Battery | **USB Li-ion** — expedition mode | Li-ion — USB |
+**No inReach Mini** — **68i on body** every ski day. SOS is useless if the unit is buried in the pulk.
 
-1. Confirm **68i inReach plan** before buying Mini.  
-2. If 68i **on body** daily: Mini is **optional** redundancy.  
-3. If 68i **in pulk**: get Mini **or** belt pouch for 68i.  
-4. One subscription usually = **one** active inReach unit.
+| Rule | Why |
+|------|-----|
+| **Chest pocket or belt pouch** | Reachable without opening pulk |
+| **inReach plan active** before Feb | Satellite messaging + SOS |
+| **USB Li-ion** — expedition mode | Long runtime; charge from power banks |
+| **One subscription** | Single active inReach unit |
+
+Confirm **68i inReach plan** before departure. Shakedown: ski one day with 68i on body only — no pulk bury test.
 
 ### OsmAnd+ setup
 
@@ -237,14 +235,19 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 | **~60–100 g** | Worth carrying daily |
 | **Runtime** | Check **manufacturer spec at 0 °C** — marketing numbers are optimistic |
 
-### Options
+### Options (prices · July 2026 · EUR incl. VAT)
 
-| Lamp | Weight | Comment |
-|------|--------|---------|
-| **Petzl Actik Core** ★ | ~75 g | USB rechargeable core; proven winter standard |
-| **Nitecore NU43 / NU53** | ~70–95 g | USB-C; good value |
-| **Black Diamond Spot 400-R** | ~85 g | USB recharge; flood + spot |
-| **Fenix HM65R** | ~100 g | Bright; USB-C — heavier |
+Indicative — check retailer before buying; sales move fast.
+
+| Lamp | Weight | Price (typical) | Charge | Comment |
+|------|--------|-----------------|--------|---------|
+| **Nitecore NU43** ★ | ~116 g | **€60–90** · ~**€73** NL/BE | **USB-C** | Best value for your USB kit — [Nitecore BE/NL](https://nitecore-belux.com/nl/koplamp/76-nu43-lichtgewicht-1400lm-koplamp-met-afstandssensor.html) €72,90 |
+| **Petzl Actik Core** | ~88 g | **€55–80** · ~**€60–80** | **micro-USB** (CORE pack) | Proven winter pick — [Bever](https://www.bever.nl/p/petzl-actik-core-hoofdlamp-B48B390147.html) €79,95 · sale ~€59 |
+| **Black Diamond Spot 400-R** | ~86–100 g | **€44–66** · ~**€45–60** | **micro-USB** | Cheapest — [BD EU](https://eu.blackdiamondequipment.com/products/spot-400-r-rechargeable-headlamp) €60 · sales ~€45 |
+| **Nitecore NU53** | ~151 g | **€71–95** · ~**€85** | **USB-C** | Brighter; heavier — [zaklampen.nl](https://www.zaklampen.nl/nitecore-nu53-hoofdlamp-oplaadbaar.html) €84,95 |
+| **Fenix HM65R** | ~97 g | **€85–95** · ~**€85–95** | **USB-C** | Dual beam; metal body — [Military.eu](https://military.eu/p/fenix/fenix-hm65r-headlamp-1400-lumens-94936) €85 |
+
+**USB-C note:** Only **NU43 / NU53 / HM65R** match your **USB-C** power banks + wall charger one-cable kit. **Actik Core** and **Spot 400-R** need **micro-USB** for the battery/lamp — fine if you carry a second cable, but not ideal.
 
 **Skip:** AAA/AA-only lamps; built-in non-replaceable battery with **proprietary** dock only (hard to charge in hut).
 
@@ -261,7 +264,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 **Shakedown:** pitch **Nallo** at dusk with gloves; confirm band over hat and USB charge from power bank.
 
-**Verdict:** **Buy one USB-C lamp** (**Petzl Actik Core** or **Nitecore NU43** class). Short USB-C cable in repair/nav pouch.
+**Verdict:** **Buy Nitecore NU43** (~**€73**) — USB-C, red mode, IP68, fits one-cable power kit. **Petzl Actik Core** (~**€60–80**) if you prefer Petzl and will carry micro-USB. Short USB-C cable in repair/nav pouch.
 
 ---
 
@@ -410,15 +413,22 @@ Earlier plan: unlaced **Outback** in hut, no camp shoe. For **65 days** that lea
 | **DWR upper + water-resistant base** | Melting snow at tent door |
 | **Size up one** | Over **camp socks**; optional in-bag wear |
 
-### Options
+### Options (prices · July 2026 · EUR incl. VAT)
 
-| Bootie | Weight (pair) | Insulation | Comment |
-|--------|---------------|------------|---------|
-| **Rab Down Sleep Bootie** ★ | ~180 g | 650 down | Nylon sole — good hut/tent default |
-| **Western Mountaineering Booty** | ~170–220 g | goose down | Expedition standard; durable sole |
-| **Exped Down Booty** | ~130–180 g | down | Light — confirm sole version (not sock-only) |
-| **Rab Latok Extreme Bootie** | ~250 g | Primaloft | Damp-tolerant; heavier — if feet run cold/wet |
-| **Cumulus Magic Booties** | ~100 g | down | Minimal sole — **tent/bag only** |
+Indicative — check retailer before buying; sales move fast. Size **up one** for camp socks.
+
+| Bootie | Weight (pair) | Price (typical) | Insulation | Comment |
+|--------|---------------|-----------------|------------|---------|
+| **Rab Down Hut Slipper** ★ | ~198 g | **€40–65** · ~**€45–50** sale | 700 down | Replaces old “Sleep Bootie” — EVA sole · [Rab EU](https://rab.equipment/eu/down-hut-slipper) €65 · [Alpinstore NL](https://www.alpinstore.com/nl/580410-rab-dons-hut-pantoffel-donker-butternut.html) ~€39 |
+| **Rab Cirrus Hut Boot** | ~250 g+ | **€55–70** | Primaloft | Synthetic — damp feet · [Rab EU](https://rab.equipment/eu/cirrus-hut-boot) €65 |
+| **Exped Syn Booty** | ~130 g | **~€50–55** | synthetic | Budget; light sole — [Korak AT](https://www.bergsport-korak.at/Exped-Syn-Booty) €52,50 |
+| **Fjällräven Expedition Down Booties** | ~200 g | **~€150** | down | Foam footbed · good sole — [Fjällräven EU](https://www.fjallraven.com/eu/en-gb/men/accessories/other-accessories/expedition-down-booties/) €149,95 |
+| **Western Mountaineering Expedition Booties** | ~230 g | **€169–180** | 800 down | Gore Windstopper · expedition — [Outdoorfeeling CH](https://outdoorfeeling.ch/products/western-mountaineering-expedition-booties) €168,95 |
+| **Cumulus Cover Boots** | ~43 g (M) | **~€78** | 850 down | **Tent/bag only** — minimal sole |
+| **Cumulus Protection Boots** | ~90 g | **~€115** | 850 down | Light hut sole — [Cumulus EU](https://cumulus.equipment/en/eu/p/down-accessories-protection-boots) |
+| **Rab Expedition Down Slipper** | ~240 g | **€99–150** | 800 down | Overkill for Bandet — specialist/expedition |
+
+**Note:** **Exped Down Booty** (down) largely **discontinued** (~€70 when in stock). **Cumulus “Magic”** renamed — see **Cover** / **Protection** boots above.
 
 **Skip:** down “socks” with no sole; heavy après boots; duplicate Crocs.
 
@@ -435,7 +445,7 @@ Earlier plan: unlaced **Outback** in hut, no camp shoe. For **65 days** that lea
 
 **Shakedown:** one sub −15 °C tent night — boots off at camp, booties for cook + in bag; confirm sole grips Nallo floor.
 
-**Verdict:** **Buy one pair** with a real sole (**Rab Down Sleep Bootie** or **WM Booty** class). Pair with **1–2 camp socks** from [socks](#socks--vbl).
+**Verdict:** **Buy Rab Down Hut Slipper** (~**€45–50** on sale, ~**€65** RRP) — best value, real sole, hut/tent default. **WM Expedition Booties** (~**€170**) if you want maximum warmth. Pair with **1–2 camp socks** from [socks](#socks--vbl).
 
 ---
 

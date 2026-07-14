@@ -9,14 +9,15 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 
 - [ ] **Long skins** — reglue or replace (+ skin wax + glue tube); short Åsnes ✓
 - [ ] **Ski poles** — Åsnes Ingstad Alloy (or Start) + 2 spare baskets + flex tip + repair sleeve
-- [ ] **Down booties** — insulated sole (Rab / WM class) — [booties](./gear-considerations-2027.md#down-booties-camp)
+- [ ] **Down booties** — **Rab Down Hut Slipper** (~€45–65) — [booties](./gear-considerations-2027.md#down-booties-camp)
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
-- [ ] **USB headlamp** — USB-C rechargeable (Petzl Actik Core / Nitecore class) — [headlamp](./gear-considerations-2027.md#headlamp-usb)
-- [ ] **2× power bank** 20k mAh USB-C + wall charger 30–45 W + cables
+- [ ] **USB headlamp** — **Nitecore NU43** USB-C (~€73) or Petzl Actik Core — [headlamp](./gear-considerations-2027.md#headlamp-usb)
+- [ ] **2× power bank** 20k mAh USB-C PD
+- [ ] **Wall charger** 30–45 W USB-C + cables (68i · phone · headlamp)
 - [ ] **Fairphone** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
 - [x] **DNT key** + membership
-- [ ] **Garmin inReach plan** on GPSMAP 68i (Mini 3+ optional)
+- [ ] **Garmin inReach plan** on GPSMAP 68i
 - [ ] **OmniLite** service kit
 - [ ] **Shell** jacket + pants (if missing)
 - [ ] **Paper Fjällkarta** strips (backup)
@@ -50,10 +51,9 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 ## Shelter & sleep
 
 - [ ] Tent **Nallo 3GT** + stakes **12+** alu snow/sand + guy line + repair kit
-- [ ] Sleeping bag **Lowland K2** + dry bag → **Sleeper 200** (+ liner for huts)
-- [ ] Pad **Exped Ultra 7R** + dry bag → **Sleeper 200** (active)
+- [ ] Sleeping bag **Lowland K2** + dry bag + **liner** ✓ → **Sleeper 200**
+- [ ] Pad **Exped Ultra 7R** + pump + repair kit + dry bag → **Sleeper 200** (active)
 - [x] Pad **NeoAir XLite** ✓ + stuff sack → **main pulk** (backup · optional switch at Abisko D62)
-- [ ] Pump + pad repair kit
 
 ---
 
@@ -75,7 +75,8 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 
 - [ ] **GPSMAP 68i** + USB-C cable + inReach active
 - [ ] **Fairphone** + **OsmAnd+** maps downloaded
-- [ ] Compass + paper maps
+- [x] Compass
+- [ ] Paper maps
 - [ ] **2× power bank** (one warm in jacket while skiing)
 - [ ] **USB headlamp** + USB-C charge cable
 
