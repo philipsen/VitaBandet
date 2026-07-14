@@ -35,7 +35,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 **Your stove:** **Optimus OmniLite Ti** + **silencer** — **white-gasoline jet only** with silencer.
 
-**Your fuel:** **Alkylaatbenzine** (NL) = **alkylbensin / alkylatbensin** (SE) = **chemically clean gasoline** = same class as **Coleman Fuel** / **Primus Power Fuel**. Decant from shop **1 L tins** into your **2× 1 L** bottles (funnel + cloth).
+**Your fuel:** **Alkylaatbenzine** (NL) = **alkylbensin / alkylatbensin** (SE) = **chemically clean gasoline** = same class as **Coleman Fuel** / **Primus Power Fuel**. Decant from shop **1 L tins** into your **2× 1 L** bottles.
 
 **Plan rule — no gas canisters until Abisko:** From **Grövelsjön through Ritsem** (days **1–61**) use **liquid alkylate in bottles only** (white-gas jet + silencer). Shops often stock **Primus/ICA gas cylinders** — **do not buy or carry** them on this leg. **From Abisko (day 62)** canisters are OK if you want (pack **gas jet**); liquid Power Fuel tins still work and stay the default.
 

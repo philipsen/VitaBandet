@@ -44,13 +44,13 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 
 | Item | Pack in | Notes |
 |------|---------|-------|
-| Sleeping bag −30 °C | Dry bag → **Sleeper** | Vent/fluff at camp; liner in huts |
+| **Lowland K2** | Dry bag → **Sleeper** | Vent/fluff at camp; liner in huts |
 | **Exped Ultra 7R** | Dry bag → **Sleeper** (primary) | Pump in main bag |
 | **NeoAir XLite** | Stuff sack → **main pulk** | Switch into Sleeper at Abisko if desired |
 | Nallo 3GT | Main bag, **middle/top** | Last out at camp, first in next morning if wet |
 | Food (leg) | Main bag **bottom** — **flat clear boxes** | Dense, heavy; repack after every shop |
-| Alkylate bottles | Main bag **bottom centre**, upright | **Liquid only** until Abisko; funnel + cloth; separate from food |
-| Stove + pot + fuel tools | Main bag **middle** | OmniLite + silencer |
+| Alkylate bottles | Main bag **bottom centre**, upright | **Liquid only** until Abisko; separate from food |
+| Stove + **TOAKS 1600 ml** pot/pan + fuel tools | Main bag **middle** | OmniLite + silencer |
 | Spare clothes | Dry bags, main bag | One dry set packed deep |
 | Phone, spare battery, maps | Main bag top **or** body | 68i on **body** preferred |
 | Sleeper 200 (empty shell weight) | **On pulk** | Fjellpulken straps — not inside main cargo |
@@ -206,7 +206,8 @@ If the tent is unusable: bag + pad already in Sleeper → zip up as wind shell. 
 | Doc | Use |
 |-----|-----|
 | [pack-checklist-2027.md](./pack-checklist-2027.md) | Tick-list before departure |
-| [gear-inventory-2027.md](./gear-inventory-2027.md) | Kit detail, pulk & Sleeper specs |
+| [gear-inventory-2027.md](./gear-inventory-2027.md) | Master list, fuel legs, weight budget |
+| [gear-considerations-2027.md](./gear-considerations-2027.md) | Poles, skins, tent/pad upgrades, nav, VBL |
 | [resupply-2027.md](./resupply-2027.md) | Shops, alkylate, carry table |
 | [trail-meals-2027.md](./trail-meals-2027.md) | Breakfast + dinner recipes, protein guide |
 | [dag-for-dag-2027.md](./dag-for-dag-2027.md) | Daily km and resupply days |

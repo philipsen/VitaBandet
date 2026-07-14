@@ -12,7 +12,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 **Master GPX:** [`2027.GPX`](../tracks/2027.GPX) — maintained manually in BaseCamp and used as the route source of truth. Detail/context: [band-tracks-comparison.md](./band-tracks-comparison.md).  
 **Resupply (local):** [resupply-2027.md](./resupply-2027.md)  
 **STF hut openings:** [stf-openings-2027.md](./stf-openings-2027.md) (scraped from [svenskaturistforeningen.se](https://www.svenskaturistforeningen.se))
-**Gear inventory:** [gear-inventory-2027.md](./gear-inventory-2027.md)
+**Gear inventory:** [gear-inventory-2027.md](./gear-inventory-2027.md) · **Comparisons & upgrades:** [gear-considerations-2027.md](./gear-considerations-2027.md)
 
 ---
 
@@ -100,7 +100,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 ## Equipment
 
-**Full inventory:** [gear-inventory-2027.md](./gear-inventory-2027.md) · **Pulk packing:** [packing-pulk-2027.md](./packing-pulk-2027.md) · **Print pack list:** [pack-checklist-2027.md](./pack-checklist-2027.md)
+**Full inventory:** [gear-inventory-2027.md](./gear-inventory-2027.md) · [gear-considerations-2027.md](./gear-considerations-2027.md) · **Pulk packing:** [packing-pulk-2027.md](./packing-pulk-2027.md) · **Print pack list:** [pack-checklist-2027.md](./pack-checklist-2027.md)
 
 ### Owned core
 
@@ -109,8 +109,8 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 | **Hilleberg Nallo 3GT** (Red) | Upgrade path: **Black Label** e.g. **Nammatj 2 GT** — see gear doc |
 | **Åsnes Ingstad BC** + **Alfa Outback Xplore** | Primary ski system |
 | **Jemtlander 14** (200 L) + **Sleeper 200** | Pulk; **Sleeper = sleep system** (bag + pad on sled) |
-| **TOAKS Ti 1600 ml** pot/pan | With OmniLite for melt + cook |
-| **Sleeping bag −30 °C** | **Good** for Feb–Apr |
+| **TOAKS Ti 1600 ml Pot with Pan** | Owned — OmniLite melt + cook |
+| **Lowland K2** (−35 °C) | **Excellent** for Feb–Apr |
 | **Exped Ultra 7R** | **Buy** — primary pad in Sleeper (Feb → Abisko) |
 | **Therm-a-Rest NeoAir XLite** | Owned — backup; **optional switch** at Abisko for final ~8 days |
 | **Optimus OmniLite Ti + silencer** | Owned — **alkylaatbenzine** on trail |

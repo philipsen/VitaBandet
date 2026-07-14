@@ -1,7 +1,7 @@
 # Vita Bandet 2027 — pack checklist
 
 **Solo · S→N · 15 Feb–19 Apr · ski + pulk · mostly tent**  
-Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gear-inventory-2027.md](./gear-inventory-2027.md) · [resupply-2027.md](./resupply-2027.md) · [dag-for-dag-2027.md](./dag-for-dag-2027.md)
+Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gear-inventory-2027.md](./gear-inventory-2027.md) · [gear-considerations-2027.md](./gear-considerations-2027.md) · [resupply-2027.md](./resupply-2027.md) · [dag-for-dag-2027.md](./dag-for-dag-2027.md)
 
 ---
 
@@ -47,7 +47,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 ## Shelter & sleep
 
 - [ ] Tent **Nallo 3GT** + stakes **12+** alu snow/sand + guy line + repair kit
-- [ ] Sleeping bag **−30 °C** + dry bag → **Sleeper 200** (+ liner for huts)
+- [ ] Sleeping bag **Lowland K2** + dry bag → **Sleeper 200** (+ liner for huts)
 - [ ] Pad **Exped Ultra 7R** + dry bag → **Sleeper 200** (active)
 - [x] Pad **NeoAir XLite** ✓ + stuff sack → **main pulk** (backup · optional switch at Abisko D62)
 - [ ] Pump + pad repair kit
@@ -60,8 +60,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] **White-gas jet fitted** (only jet until Abisko)
 - [ ] **Alkylate** in **2× 1 L** bottles — **no gas canisters before Abisko**
 - [ ] **Gas jet** (optional — pack/use from **Abisko** onward if you switch to canisters)
-- [ ] Funnel/cloth · bottle insulator
-- [ ] Pot **TOAKS 1600 ml** + pan/lid + spork + mug
+- [x] Pot **TOAKS Ti 1600 ml Pot with Pan** ✓ + spork + mug
 - [ ] Lighters ×2 + waterproof matches
 - [ ] Thermos (optional)
 
@@ -97,7 +96,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 | 2 | Hat / balaclava |
 | 1 | Sun cap (April) |
 
-**Not bringing:** down booties · Crocs · town clothes · hand warmers · avy kit
+**Not bringing:** funnel · cloth · bottle insulator · down booties · Crocs · town clothes · hand warmers · avy kit
 
 ---
 
@@ -211,7 +210,7 @@ Sanity-check your kit against these published Lighterpack lists from prior Vita 
 |-------|------------------|----------------|--------------------|
 | Pulk | "Rulk" hybrid | Acapulka Featherlight XL 150 (5.2 kg) | **Jemtlander 14** + **Fjellpulken Sleeper 200** |
 | Tent | Hilleberg Soulo (2.27 kg, 1p) | Hilleberg Keron 3 (3.8 kg) + 2p Windsack | **Hilleberg Nallo 3GT** |
-| Sleep | Marmot Never Summer −10/−18 only | WM Puma −25 °C + EE Apex 40 quilt + Piteraq | **−30 °C bag** + Sleeper 200 bivi backup |
+| Sleep | Marmot Never Summer −10/−18 only | WM Puma −25 °C + EE Apex 40 quilt + Piteraq | **Lowland K2** + Sleeper 200 bivi backup |
 | Pad | Nemo Tensor + Naturehike CCF (torso) | Xtherm MAX + Z-Lite full | **Ultra 7R** ★ + **XLite** ✓ (Abisko switch) |
 | Stove | OmniLite + 1× 350 ml | OmniLite Ti + **1 L + 1 L + 2 L** = 4 L capacity | OmniLite + **2× 1 L** (~2 L carry) |
 | Boots | Alpina Alaska (light XC BC) | Lundhags Guide Expedition (heavy expedition) | **Alfa Outback / Xplore** |
