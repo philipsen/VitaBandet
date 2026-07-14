@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sync dag-for-dag-2028.md day headers and distances from tracks/2028.GPX."""
+"""Sync dag-for-dag-2027.md day headers and distances from tracks/2027.GPX."""
 from __future__ import annotations
 
 import argparse
@@ -17,13 +17,13 @@ from urllib.parse import quote
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parent.parent
-GPX = ROOT / "tracks" / "2028.GPX"
-PLAN = ROOT / "plan" / "dag-for-dag-2028.md"
-ELEV_CSV = ROOT / "plan" / "day-elevation-2028.csv"
+GPX = ROOT / "tracks" / "2027.GPX"
+PLAN = ROOT / "plan" / "dag-for-dag-2027.md"
+ELEV_CSV = ROOT / "plan" / "day-elevation-2027.csv"
 NS = {"g": "http://www.topografix.com/GPX/1/1"}
 TRACK_ORDER = ["Section1", "Section 2", "Section 3", "Section 4", "Section 5", "Section 6"]
 START = (62.10, 12.31)
-START_DATE = datetime(2028, 2, 15)
+START_DATE = datetime(2027, 2, 15)
 SIDE_PASS_DAYS = {44}  # Jäckvik — VGB väster om; pin off main track
 
 
@@ -289,7 +289,7 @@ def day_header(row: dict, date: str, up: int, down: int) -> str:
 
 def stub_body(day: int, label: str) -> str:
     return (
-        f"\nCamp at **{label}** — on [`2028.gpx`](../tracks/2028.gpx) track.\n\n"
+        f"\nCamp at **{label}** — on [`2027.GPX`](../tracks/2027.GPX) track.\n\n"
         f"| Acc | Notes |\n|-----|-------|\n| **T** / **H** | See GPX pin |\n"
     )
 
@@ -319,7 +319,7 @@ def update_plan(rows: list[dict], elev: list[tuple[int, int]]) -> None:
     end_date = (START_DATE + timedelta(days=max_day - 1)).strftime("%d %b")
     text = re.sub(
         r"\*\*Season:\*\* \*\*15 Feb – .*?\*\* \(\d+ days",
-        f"**Season:** **15 Feb – {end_date} 2028** ({max_day} days",
+        f"**Season:** **15 Feb – {end_date} 2027** ({max_day} days",
         text,
         count=1,
     )
@@ -366,35 +366,40 @@ def update_plan(rows: list[dict], elev: list[tuple[int, int]]) -> None:
             flags=re.MULTILINE,
         )
 
-    # Update milestones table rows for key dates
-    milestone_dates = {
-        "15 Feb": (0, "Grövelsjön", 0),
-        "23 Feb": (9, None, None),
-        "24 Feb": (10, None, None),
-        "29 Feb": (15, None, None),
-        "2 Mar": (17, None, None),
-        "9 Mar": (24, None, None),
-        "13 Mar": (28, "Klimpfjäll", None),
-        "19 Mar": (33, None, None),
-        "20 Mar": (34, "Hemavan · **D**", None),
-        "1 Apr": (47, None, None),
-        "9 Apr": (55, None, None),
-        "12 Apr": (58, None, None),
-        "16 Apr": (62, None, None),
-        "24 Apr": (70, "Treriksröset · **GOAL**", None),
-    }
-    for date, (day_num, default_name, _) in milestone_dates.items():
-        if day_num == 0:
+    # Update milestones table from plan day numbers (handles non-leap 2027)
+    milestone_days = [
+        (1, "Grövelsjön", 0),
+        (9, "Blåhammaren fjällstation", None),
+        (10, "Storlien", None),
+        (15, "Kolåsen", None),
+        (17, "Olden", None),
+        (24, "Gäddede", None),
+        (28, "Klimpfjäll", None),
+        (33, "Atostugan", None),
+        (35, "Hemavan · **D**", None),
+        (47, "Kvikkjokk", None),
+        (55, "Ritsem", None),
+        (58, "Sälka", None),
+        (62, "Abisko", None),
+        (70, "Treriksröset · **GOAL**", None),
+    ]
+    milestone_block = ["| Date | Place | Cum. km |", "|------|-------|---------|"]
+    for day_num, default_name, default_km in milestone_days:
+        if day_num == 1 and default_km == 0:
+            date_str = f"{(START_DATE + timedelta(days=day_num - 1)).day} {(START_DATE + timedelta(days=day_num - 1)).strftime('%b')}"
             km, name = 0, default_name
         else:
             row = rows[day_num - 1]
-            km, name = row["cum_km"], default_name or row["label"]
-        text = re.sub(
-            rf"(\| {re.escape(date)} \| )[^|]+( \| )[\d,]+( \|)",
-            rf"\g<1>{name}\g<2>{km:,} \3",
-            text,
-            count=1,
-        )
+            date_str = f"{(START_DATE + timedelta(days=day_num - 1)).day} {(START_DATE + timedelta(days=day_num - 1)).strftime('%b')}"
+            km = default_km if default_km is not None else row["cum_km"]
+            name = default_name if default_name else row["label"]
+        milestone_block.append(f"| {date_str} | {name} | {km:,}  |")
+    text = re.sub(
+        r"## Milestones\n\n\| Date \| Place \| Cum\. km \|\n\|[-| ]+\n(?:\| [^\n]+\n)+",
+        "## Milestones\n\n" + "\n".join(milestone_block) + "\n",
+        text,
+        count=1,
+    )
 
     # Remove obsolete Pältsa milestone if present
     text = re.sub(r"\| \*\*22 Apr\*\* \| \*\*Pältsa\*\*.*\n", "", text)

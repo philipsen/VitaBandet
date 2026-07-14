@@ -2,1112 +2,1112 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="VitaBandet section">
   <metadata>
     <name>Section 4 — Hemavan → Kvikkjokk</name>
-    <desc>Section 4 of Vita Bandet 2028 — Hemavan → Kvikkjokk. Sources: martens-band-track.json.</desc>
+    <desc>Section 4 of Vita Bandet 2027 — Hemavan → Kvikkjokk. Sources: martens-band-track.json.</desc>
   </metadata>
   <trk>
     <name>Section 4</name>
     <trkseg>
       <name>Hemavan → Jäckvik → Kvikkjokk</name>
       <trkpt lat="65.8153" lon="15.08706">
-        <time>2028-03-17T20:41:10Z</time>
+        <time>2027-03-21T07:34:09Z</time>
       </trkpt>
       <trkpt lat="65.81484" lon="15.09847">
-        <time>2028-03-17T21:17:43Z</time>
+        <time>2027-03-21T08:13:34Z</time>
       </trkpt>
       <trkpt lat="65.81464" lon="15.10703">
-        <time>2028-03-17T21:45:03Z</time>
+        <time>2027-03-21T08:43:02Z</time>
       </trkpt>
       <trkpt lat="65.8146" lon="15.11512">
-        <time>2028-03-17T22:10:51Z</time>
+        <time>2027-03-21T09:10:50Z</time>
       </trkpt>
       <trkpt lat="65.81742" lon="15.12019">
-        <time>2028-03-17T22:38:06Z</time>
+        <time>2027-03-21T09:40:13Z</time>
       </trkpt>
       <trkpt lat="65.82293" lon="15.10778">
-        <time>2028-03-17T23:36:27Z</time>
+        <time>2027-03-21T10:43:07Z</time>
       </trkpt>
       <trkpt lat="65.82791" lon="15.10405">
-        <time>2028-03-18T00:16:59Z</time>
+        <time>2027-03-21T11:26:49Z</time>
       </trkpt>
       <trkpt lat="65.82923" lon="15.09828">
-        <time>2028-03-18T00:38:02Z</time>
+        <time>2027-03-21T11:49:31Z</time>
       </trkpt>
       <trkpt lat="65.83241" lon="15.09824">
-        <time>2028-03-18T01:02:47Z</time>
+        <time>2027-03-21T12:16:12Z</time>
       </trkpt>
       <trkpt lat="65.83572" lon="15.09652">
-        <time>2028-03-18T01:29:07Z</time>
+        <time>2027-03-21T12:44:35Z</time>
       </trkpt>
       <trkpt lat="65.84344" lon="15.09113">
-        <time>2028-03-18T02:31:36Z</time>
+        <time>2027-03-21T13:51:56Z</time>
       </trkpt>
       <trkpt lat="65.84654" lon="15.096">
-        <time>2028-03-18T03:00:17Z</time>
+        <time>2027-03-21T14:22:51Z</time>
       </trkpt>
       <trkpt lat="65.85536" lon="15.09349">
-        <time>2028-03-18T04:09:23Z</time>
+        <time>2027-03-21T15:37:21Z</time>
       </trkpt>
       <trkpt lat="65.85824" lon="15.09564">
-        <time>2028-03-18T04:32:49Z</time>
+        <time>2027-03-21T16:02:37Z</time>
       </trkpt>
       <trkpt lat="65.8619" lon="15.09836">
-        <time>2028-03-18T05:02:35Z</time>
+        <time>2027-03-21T16:34:42Z</time>
       </trkpt>
       <trkpt lat="65.86514" lon="15.10851">
-        <time>2028-03-18T05:43:34Z</time>
+        <time>2027-03-21T17:18:53Z</time>
       </trkpt>
       <trkpt lat="65.86742" lon="15.11409">
-        <time>2028-03-18T06:08:40Z</time>
+        <time>2027-03-21T17:45:56Z</time>
       </trkpt>
       <trkpt lat="65.87217" lon="15.12536">
-        <time>2028-03-18T07:00:10Z</time>
+        <time>2027-03-21T18:41:27Z</time>
       </trkpt>
       <trkpt lat="65.87581" lon="15.1339">
-        <time>2028-03-18T07:39:25Z</time>
+        <time>2027-03-21T19:23:46Z</time>
       </trkpt>
       <trkpt lat="65.88031" lon="15.14469">
-        <time>2028-03-18T08:28:26Z</time>
+        <time>2027-03-21T20:16:37Z</time>
       </trkpt>
       <trkpt lat="65.88453" lon="15.15568">
-        <time>2028-03-18T09:16:24Z</time>
+        <time>2027-03-21T21:08:19Z</time>
       </trkpt>
       <trkpt lat="65.88789" lon="15.17021">
-        <time>2028-03-18T10:09:29Z</time>
+        <time>2027-03-21T22:05:32Z</time>
       </trkpt>
       <trkpt lat="65.88827" lon="15.18186">
-        <time>2028-03-18T10:46:38Z</time>
+        <time>2027-03-21T22:45:35Z</time>
       </trkpt>
       <trkpt lat="65.8863" lon="15.19643">
-        <time>2028-03-18T11:35:25Z</time>
+        <time>2027-03-21T23:38:11Z</time>
       </trkpt>
       <trkpt lat="65.88393" lon="15.21162">
-        <time>2028-03-18T12:27:07Z</time>
+        <time>2027-03-22T00:33:55Z</time>
       </trkpt>
       <trkpt lat="65.88113" lon="15.22696">
-        <time>2028-03-18T13:20:33Z</time>
+        <time>2027-03-22T01:31:31Z</time>
       </trkpt>
       <trkpt lat="65.87992" lon="15.23679">
-        <time>2028-03-18T13:53:12Z</time>
+        <time>2027-03-22T02:06:42Z</time>
       </trkpt>
       <trkpt lat="65.87853" lon="15.2487">
-        <time>2028-03-18T14:32:35Z</time>
+        <time>2027-03-22T02:49:10Z</time>
       </trkpt>
       <trkpt lat="65.87732" lon="15.26513">
-        <time>2028-03-18T15:25:41Z</time>
+        <time>2027-03-22T03:46:25Z</time>
       </trkpt>
       <trkpt lat="65.87566" lon="15.28146">
-        <time>2028-03-18T16:19:12Z</time>
+        <time>2027-03-22T04:44:06Z</time>
       </trkpt>
       <trkpt lat="65.87374" lon="15.28932">
-        <time>2028-03-18T16:48:20Z</time>
+        <time>2027-03-22T05:15:30Z</time>
       </trkpt>
       <trkpt lat="65.87275" lon="15.30466">
-        <time>2028-03-18T17:37:44Z</time>
+        <time>2027-03-22T06:08:46Z</time>
       </trkpt>
       <trkpt lat="65.87315" lon="15.32406">
-        <time>2028-03-18T18:39:31Z</time>
+        <time>2027-03-22T07:15:22Z</time>
       </trkpt>
       <trkpt lat="65.87354" lon="15.33221">
-        <time>2028-03-18T19:05:37Z</time>
+        <time>2027-03-22T07:43:31Z</time>
       </trkpt>
       <trkpt lat="65.87376" lon="15.34114">
-        <time>2028-03-18T19:34:05Z</time>
+        <time>2027-03-22T08:14:11Z</time>
       </trkpt>
       <trkpt lat="65.88037" lon="15.36141">
-        <time>2028-03-18T20:56:33Z</time>
+        <time>2027-03-22T09:43:06Z</time>
       </trkpt>
       <trkpt lat="65.8844" lon="15.37287">
-        <time>2028-03-18T21:44:38Z</time>
+        <time>2027-03-22T10:34:56Z</time>
       </trkpt>
       <trkpt lat="65.88952" lon="15.38839">
-        <time>2028-03-18T22:48:03Z</time>
+        <time>2027-03-22T11:43:18Z</time>
       </trkpt>
       <trkpt lat="65.89279" lon="15.39669">
-        <time>2028-03-18T23:24:42Z</time>
+        <time>2027-03-22T12:22:49Z</time>
       </trkpt>
       <trkpt lat="65.89241" lon="15.40521">
-        <time>2028-03-18T23:51:57Z</time>
+        <time>2027-03-22T12:52:11Z</time>
       </trkpt>
       <trkpt lat="65.89581" lon="15.42834">
-        <time>2028-03-19T01:10:05Z</time>
+        <time>2027-03-22T14:16:25Z</time>
       </trkpt>
       <trkpt lat="65.90184" lon="15.44581">
-        <time>2028-03-19T02:22:46Z</time>
+        <time>2027-03-22T15:34:46Z</time>
       </trkpt>
       <trkpt lat="65.90941" lon="15.45089">
-        <time>2028-03-19T03:23:51Z</time>
+        <time>2027-03-22T16:40:37Z</time>
       </trkpt>
       <trkpt lat="65.91744" lon="15.45072">
-        <time>2028-03-19T04:26:21Z</time>
+        <time>2027-03-22T17:47:59Z</time>
       </trkpt>
       <trkpt lat="65.92189" lon="15.45581">
-        <time>2028-03-19T05:04:34Z</time>
+        <time>2027-03-22T18:29:11Z</time>
       </trkpt>
       <trkpt lat="65.93177" lon="15.46772">
-        <time>2028-03-19T06:30:14Z</time>
+        <time>2027-03-22T20:01:33Z</time>
       </trkpt>
       <trkpt lat="65.94015" lon="15.47196">
-        <time>2028-03-19T07:36:50Z</time>
+        <time>2027-03-22T21:13:20Z</time>
       </trkpt>
       <trkpt lat="65.94826" lon="15.47497">
-        <time>2028-03-19T08:40:40Z</time>
+        <time>2027-03-22T22:22:08Z</time>
       </trkpt>
       <trkpt lat="65.95619" lon="15.47752">
-        <time>2028-03-19T09:42:54Z</time>
+        <time>2027-03-22T23:29:14Z</time>
       </trkpt>
       <trkpt lat="65.96099" lon="15.47883">
-        <time>2028-03-19T10:20:29Z</time>
+        <time>2027-03-23T00:09:45Z</time>
       </trkpt>
       <trkpt lat="65.96924" lon="15.47956">
-        <time>2028-03-19T11:24:44Z</time>
+        <time>2027-03-23T01:19:01Z</time>
       </trkpt>
       <trkpt lat="65.97893" lon="15.48574">
-        <time>2028-03-19T12:42:38Z</time>
+        <time>2027-03-23T02:43:00Z</time>
       </trkpt>
       <trkpt lat="65.98664" lon="15.49297">
-        <time>2028-03-19T13:46:51Z</time>
+        <time>2027-03-23T03:52:14Z</time>
       </trkpt>
       <trkpt lat="65.98858" lon="15.49776">
-        <time>2028-03-19T14:08:15Z</time>
+        <time>2027-03-23T04:15:18Z</time>
       </trkpt>
       <trkpt lat="65.9913" lon="15.48735">
-        <time>2028-03-19T14:47:26Z</time>
+        <time>2027-03-23T04:57:32Z</time>
       </trkpt>
       <trkpt lat="66.00047" lon="15.48997">
-        <time>2028-03-19T15:59:16Z</time>
+        <time>2027-03-23T06:14:59Z</time>
       </trkpt>
       <trkpt lat="66.0065" lon="15.49668">
-        <time>2028-03-19T16:50:47Z</time>
+        <time>2027-03-23T07:10:30Z</time>
       </trkpt>
       <trkpt lat="66.00499" lon="15.50572">
-        <time>2028-03-19T17:21:42Z</time>
+        <time>2027-03-23T07:43:51Z</time>
       </trkpt>
       <trkpt lat="66.00333" lon="15.5193">
-        <time>2028-03-19T18:06:35Z</time>
+        <time>2027-03-23T08:32:13Z</time>
       </trkpt>
       <trkpt lat="66.00424" lon="15.53308">
-        <time>2028-03-19T18:50:46Z</time>
+        <time>2027-03-23T09:19:51Z</time>
       </trkpt>
       <trkpt lat="66.00326" lon="15.54059">
-        <time>2028-03-19T19:15:44Z</time>
+        <time>2027-03-23T09:46:46Z</time>
       </trkpt>
       <trkpt lat="66.00171" lon="15.54604">
-        <time>2028-03-19T19:36:47Z</time>
+        <time>2027-03-23T10:09:27Z</time>
       </trkpt>
       <trkpt lat="66.002" lon="15.55986">
-        <time>2028-03-19T20:20:34Z</time>
+        <time>2027-03-23T10:56:40Z</time>
       </trkpt>
       <trkpt lat="65.99758" lon="15.5711">
-        <time>2028-03-19T21:10:04Z</time>
+        <time>2027-03-23T11:50:01Z</time>
       </trkpt>
       <trkpt lat="65.99215" lon="15.57391">
-        <time>2028-03-19T21:53:15Z</time>
+        <time>2027-03-23T12:36:34Z</time>
       </trkpt>
       <trkpt lat="65.98836" lon="15.57717">
-        <time>2028-03-19T22:24:29Z</time>
+        <time>2027-03-23T13:10:15Z</time>
       </trkpt>
       <trkpt lat="65.98365" lon="15.58138">
-        <time>2028-03-19T23:03:30Z</time>
+        <time>2027-03-23T13:52:18Z</time>
       </trkpt>
       <trkpt lat="65.97959" lon="15.58704">
-        <time>2028-03-19T23:39:49Z</time>
+        <time>2027-03-23T14:31:28Z</time>
       </trkpt>
       <trkpt lat="65.97163" lon="15.59777">
-        <time>2028-03-20T00:50:29Z</time>
+        <time>2027-03-23T15:47:38Z</time>
       </trkpt>
       <trkpt lat="65.96985" lon="15.60582">
-        <time>2028-03-20T01:19:31Z</time>
+        <time>2027-03-23T16:18:56Z</time>
       </trkpt>
       <trkpt lat="65.96883" lon="15.61719">
-        <time>2028-03-20T01:56:24Z</time>
+        <time>2027-03-23T16:58:42Z</time>
       </trkpt>
       <trkpt lat="65.967" lon="15.64086">
-        <time>2028-03-20T03:12:46Z</time>
+        <time>2027-03-23T18:21:01Z</time>
       </trkpt>
       <trkpt lat="65.97013" lon="15.66165">
-        <time>2028-03-20T04:23:00Z</time>
+        <time>2027-03-23T19:36:44Z</time>
       </trkpt>
       <trkpt lat="65.96999" lon="15.67047">
-        <time>2028-03-20T04:50:59Z</time>
+        <time>2027-03-23T20:06:54Z</time>
       </trkpt>
       <trkpt lat="65.97033" lon="15.69463">
-        <time>2028-03-20T06:07:35Z</time>
+        <time>2027-03-23T21:29:29Z</time>
       </trkpt>
       <trkpt lat="65.96558" lon="15.70461">
-        <time>2028-03-20T06:56:14Z</time>
+        <time>2027-03-23T22:21:55Z</time>
       </trkpt>
       <trkpt lat="65.96289" lon="15.71467">
-        <time>2028-03-20T07:34:23Z</time>
+        <time>2027-03-23T23:03:03Z</time>
       </trkpt>
       <trkpt lat="65.96517" lon="15.73598">
-        <time>2028-03-20T08:44:13Z</time>
+        <time>2027-03-24T00:18:20Z</time>
       </trkpt>
       <trkpt lat="65.97119" lon="15.7537">
-        <time>2028-03-20T09:57:21Z</time>
+        <time>2027-03-24T01:37:10Z</time>
       </trkpt>
       <trkpt lat="65.97211" lon="15.76257">
-        <time>2028-03-20T10:26:21Z</time>
+        <time>2027-03-24T02:08:26Z</time>
       </trkpt>
       <trkpt lat="65.96746" lon="15.77975">
-        <time>2028-03-20T11:31:44Z</time>
+        <time>2027-03-24T03:18:55Z</time>
       </trkpt>
       <trkpt lat="65.96726" lon="15.79823">
-        <time>2028-03-20T12:30:19Z</time>
+        <time>2027-03-24T04:22:04Z</time>
       </trkpt>
       <trkpt lat="65.97296" lon="15.82112">
-        <time>2028-03-20T13:55:21Z</time>
+        <time>2027-03-24T05:53:44Z</time>
       </trkpt>
       <trkpt lat="65.97534" lon="15.83385">
-        <time>2028-03-20T14:39:44Z</time>
+        <time>2027-03-24T06:41:35Z</time>
       </trkpt>
       <trkpt lat="65.97477" lon="15.84063">
-        <time>2028-03-20T15:01:40Z</time>
+        <time>2027-03-24T07:05:13Z</time>
       </trkpt>
       <trkpt lat="65.97421" lon="15.85172">
-        <time>2028-03-20T15:37:04Z</time>
+        <time>2027-03-24T07:43:24Z</time>
       </trkpt>
       <trkpt lat="65.97216" lon="15.86458">
-        <time>2028-03-20T16:20:50Z</time>
+        <time>2027-03-24T08:30:34Z</time>
       </trkpt>
       <trkpt lat="65.9702" lon="15.88082">
-        <time>2028-03-20T17:14:30Z</time>
+        <time>2027-03-24T09:28:26Z</time>
       </trkpt>
       <trkpt lat="65.9662" lon="15.89698">
-        <time>2028-03-20T18:14:26Z</time>
+        <time>2027-03-24T10:33:02Z</time>
       </trkpt>
       <trkpt lat="65.96339" lon="15.91487">
-        <time>2028-03-20T19:15:12Z</time>
+        <time>2027-03-24T11:38:33Z</time>
       </trkpt>
       <trkpt lat="65.96003" lon="15.93146">
-        <time>2028-03-20T20:13:56Z</time>
+        <time>2027-03-24T12:41:52Z</time>
       </trkpt>
       <trkpt lat="65.96292" lon="15.95137">
-        <time>2028-03-20T21:20:57Z</time>
+        <time>2027-03-24T13:54:06Z</time>
       </trkpt>
       <trkpt lat="65.96505" lon="15.97229">
-        <time>2028-03-20T22:29:18Z</time>
+        <time>2027-03-24T15:07:47Z</time>
       </trkpt>
       <trkpt lat="65.96374" lon="15.99298">
-        <time>2028-03-20T23:35:40Z</time>
+        <time>2027-03-24T16:19:20Z</time>
       </trkpt>
       <trkpt lat="65.96304" lon="16.00954">
-        <time>2028-03-21T00:28:26Z</time>
+        <time>2027-03-24T17:16:13Z</time>
       </trkpt>
       <trkpt lat="65.96314" lon="16.0387">
-        <time>2028-03-21T02:00:52Z</time>
+        <time>2027-03-24T18:55:52Z</time>
       </trkpt>
       <trkpt lat="65.96158" lon="16.05834">
-        <time>2028-03-21T03:04:18Z</time>
+        <time>2027-03-24T20:04:15Z</time>
       </trkpt>
       <trkpt lat="65.96205" lon="16.06827">
-        <time>2028-03-21T03:35:59Z</time>
+        <time>2027-03-24T20:38:24Z</time>
       </trkpt>
       <trkpt lat="65.96274" lon="16.07739">
-        <time>2028-03-21T04:05:24Z</time>
+        <time>2027-03-24T21:10:06Z</time>
       </trkpt>
       <trkpt lat="65.96292" lon="16.09909">
-        <time>2028-03-21T05:14:12Z</time>
+        <time>2027-03-24T22:24:16Z</time>
       </trkpt>
       <trkpt lat="65.96149" lon="16.12267">
-        <time>2028-03-21T06:29:46Z</time>
+        <time>2027-03-24T23:45:45Z</time>
       </trkpt>
       <trkpt lat="65.95721" lon="16.14215">
-        <time>2028-03-21T07:39:56Z</time>
+        <time>2027-03-25T01:01:23Z</time>
       </trkpt>
       <trkpt lat="65.95358" lon="16.1593">
-        <time>2028-03-21T08:41:13Z</time>
+        <time>2027-03-25T02:07:27Z</time>
       </trkpt>
       <trkpt lat="65.95499" lon="16.17593">
-        <time>2028-03-21T09:35:04Z</time>
+        <time>2027-03-25T03:05:30Z</time>
       </trkpt>
       <trkpt lat="65.95478" lon="16.19316">
-        <time>2028-03-21T10:29:44Z</time>
+        <time>2027-03-25T04:04:26Z</time>
       </trkpt>
       <trkpt lat="65.9562" lon="16.20916">
-        <time>2028-03-21T11:21:39Z</time>
+        <time>2027-03-25T05:00:24Z</time>
       </trkpt>
       <trkpt lat="65.95794" lon="16.21899">
-        <time>2028-03-21T11:55:38Z</time>
+        <time>2027-03-25T05:37:02Z</time>
       </trkpt>
       <trkpt lat="65.961" lon="16.22914">
-        <time>2028-03-21T12:35:40Z</time>
+        <time>2027-03-25T06:20:11Z</time>
       </trkpt>
       <trkpt lat="65.96843" lon="16.22058">
-        <time>2028-03-21T13:39:32Z</time>
+        <time>2027-03-25T07:29:03Z</time>
       </trkpt>
       <trkpt lat="65.97455" lon="16.21298">
-        <time>2028-03-21T14:32:54Z</time>
+        <time>2027-03-25T08:26:35Z</time>
       </trkpt>
       <trkpt lat="65.9803" lon="16.20558">
-        <time>2028-03-21T15:23:25Z</time>
+        <time>2027-03-25T09:21:02Z</time>
       </trkpt>
       <trkpt lat="65.98818" lon="16.20163">
-        <time>2028-03-21T16:26:00Z</time>
+        <time>2027-03-25T10:28:30Z</time>
       </trkpt>
       <trkpt lat="65.99767" lon="16.19547">
-        <time>2028-03-21T17:42:23Z</time>
+        <time>2027-03-25T11:50:51Z</time>
       </trkpt>
       <trkpt lat="66.00712" lon="16.19597">
-        <time>2028-03-21T18:55:57Z</time>
+        <time>2027-03-25T13:10:09Z</time>
       </trkpt>
       <trkpt lat="66.01425" lon="16.19528">
-        <time>2028-03-21T19:51:28Z</time>
+        <time>2027-03-25T14:10:00Z</time>
       </trkpt>
       <trkpt lat="66.02391" lon="16.19477">
-        <time>2028-03-21T21:06:40Z</time>
+        <time>2027-03-25T15:31:04Z</time>
       </trkpt>
       <trkpt lat="66.03042" lon="16.18977">
-        <time>2028-03-21T21:59:44Z</time>
+        <time>2027-03-25T16:28:16Z</time>
       </trkpt>
       <trkpt lat="66.03728" lon="16.19007">
-        <time>2028-03-21T22:53:08Z</time>
+        <time>2027-03-25T17:25:50Z</time>
       </trkpt>
       <trkpt lat="66.03928" lon="16.21013">
-        <time>2028-03-21T23:58:25Z</time>
+        <time>2027-03-25T18:36:13Z</time>
       </trkpt>
       <trkpt lat="66.03916" lon="16.22217">
-        <time>2028-03-22T00:36:29Z</time>
+        <time>2027-03-25T19:17:14Z</time>
       </trkpt>
       <trkpt lat="66.03774" lon="16.23539">
-        <time>2028-03-22T01:19:42Z</time>
+        <time>2027-03-25T20:03:50Z</time>
       </trkpt>
       <trkpt lat="66.03802" lon="16.24629">
-        <time>2028-03-22T01:54:13Z</time>
+        <time>2027-03-25T20:41:03Z</time>
       </trkpt>
       <trkpt lat="66.04136" lon="16.25764">
-        <time>2028-03-22T02:38:31Z</time>
+        <time>2027-03-25T21:28:48Z</time>
       </trkpt>
       <trkpt lat="66.04596" lon="16.26465">
-        <time>2028-03-22T03:20:36Z</time>
+        <time>2027-03-25T22:14:11Z</time>
       </trkpt>
       <trkpt lat="66.05152" lon="16.26757">
-        <time>2028-03-22T04:04:51Z</time>
+        <time>2027-03-25T23:01:52Z</time>
       </trkpt>
       <trkpt lat="66.05602" lon="16.27006">
-        <time>2028-03-22T04:40:44Z</time>
+        <time>2027-03-25T23:40:34Z</time>
       </trkpt>
       <trkpt lat="66.06229" lon="16.27161">
-        <time>2028-03-22T05:29:47Z</time>
+        <time>2027-03-26T00:33:26Z</time>
       </trkpt>
       <trkpt lat="66.06947" lon="16.27154">
-        <time>2028-03-22T06:25:39Z</time>
+        <time>2027-03-26T01:33:40Z</time>
       </trkpt>
       <trkpt lat="66.07225" lon="16.27358">
-        <time>2028-03-22T06:48:13Z</time>
+        <time>2027-03-26T01:58:00Z</time>
       </trkpt>
       <trkpt lat="66.07638" lon="16.27648">
-        <time>2028-03-22T07:21:38Z</time>
+        <time>2027-03-26T02:34:01Z</time>
       </trkpt>
       <trkpt lat="66.08374" lon="16.28693">
-        <time>2028-03-22T08:27:44Z</time>
+        <time>2027-03-26T03:45:16Z</time>
       </trkpt>
       <trkpt lat="66.08925" lon="16.29532">
-        <time>2028-03-22T09:18:07Z</time>
+        <time>2027-03-26T04:39:35Z</time>
       </trkpt>
       <trkpt lat="66.09743" lon="16.30802">
-        <time>2028-03-22T10:33:20Z</time>
+        <time>2027-03-26T06:00:40Z</time>
       </trkpt>
       <trkpt lat="66.1023" lon="16.31566">
-        <time>2028-03-22T11:18:14Z</time>
+        <time>2027-03-26T06:49:04Z</time>
       </trkpt>
       <trkpt lat="66.10745" lon="16.32441">
-        <time>2028-03-22T12:06:53Z</time>
+        <time>2027-03-26T07:41:31Z</time>
       </trkpt>
       <trkpt lat="66.11208" lon="16.33544">
-        <time>2028-03-22T12:56:57Z</time>
+        <time>2027-03-26T08:35:30Z</time>
       </trkpt>
       <trkpt lat="66.1182" lon="16.3484">
-        <time>2028-03-22T13:59:41Z</time>
+        <time>2027-03-26T09:43:07Z</time>
       </trkpt>
       <trkpt lat="66.12523" lon="16.35853">
-        <time>2028-03-22T15:03:01Z</time>
+        <time>2027-03-26T10:51:24Z</time>
       </trkpt>
       <trkpt lat="66.12848" lon="16.35885">
-        <time>2028-03-22T15:28:20Z</time>
+        <time>2027-03-26T11:18:41Z</time>
       </trkpt>
       <trkpt lat="66.13457" lon="16.35842">
-        <time>2028-03-22T16:15:45Z</time>
+        <time>2027-03-26T12:09:48Z</time>
       </trkpt>
       <trkpt lat="66.14062" lon="16.35808">
-        <time>2028-03-22T17:02:50Z</time>
+        <time>2027-03-26T13:00:34Z</time>
       </trkpt>
       <trkpt lat="66.14449" lon="16.35611">
-        <time>2028-03-22T17:33:35Z</time>
+        <time>2027-03-26T13:33:43Z</time>
       </trkpt>
       <trkpt lat="66.15125" lon="16.35124">
-        <time>2028-03-22T18:28:23Z</time>
+        <time>2027-03-26T14:32:47Z</time>
       </trkpt>
       <trkpt lat="66.1606" lon="16.35171">
-        <time>2028-03-22T19:41:10Z</time>
+        <time>2027-03-26T15:51:14Z</time>
       </trkpt>
       <trkpt lat="66.17045" lon="16.35988">
-        <time>2028-03-22T21:02:00Z</time>
+        <time>2027-03-26T17:18:23Z</time>
       </trkpt>
       <trkpt lat="66.17588" lon="16.36486">
-        <time>2028-03-22T21:47:04Z</time>
+        <time>2027-03-26T18:06:58Z</time>
       </trkpt>
       <trkpt lat="66.1845" lon="16.3725">
-        <time>2028-03-22T22:58:19Z</time>
+        <time>2027-03-26T19:23:47Z</time>
       </trkpt>
       <trkpt lat="66.19349" lon="16.37973">
-        <time>2028-03-23T00:11:52Z</time>
+        <time>2027-03-26T20:43:04Z</time>
       </trkpt>
       <trkpt lat="66.20171" lon="16.38113">
-        <time>2028-03-23T01:16:00Z</time>
+        <time>2027-03-26T21:52:12Z</time>
       </trkpt>
       <trkpt lat="66.20951" lon="16.37851">
-        <time>2028-03-23T02:17:15Z</time>
+        <time>2027-03-26T22:58:14Z</time>
       </trkpt>
       <trkpt lat="66.21576" lon="16.3778">
-        <time>2028-03-23T03:05:56Z</time>
+        <time>2027-03-26T23:50:43Z</time>
       </trkpt>
       <trkpt lat="66.22104" lon="16.37512">
-        <time>2028-03-23T03:47:53Z</time>
+        <time>2027-03-27T00:35:56Z</time>
       </trkpt>
       <trkpt lat="66.22712" lon="16.38694">
-        <time>2028-03-23T04:48:00Z</time>
+        <time>2027-03-27T01:40:44Z</time>
       </trkpt>
       <trkpt lat="66.23572" lon="16.3907">
-        <time>2028-03-23T05:55:57Z</time>
+        <time>2027-03-27T02:54:00Z</time>
       </trkpt>
       <trkpt lat="66.24258" lon="16.3819">
-        <time>2028-03-23T06:56:03Z</time>
+        <time>2027-03-27T03:58:47Z</time>
       </trkpt>
       <trkpt lat="66.24802" lon="16.38057">
-        <time>2028-03-23T07:38:35Z</time>
+        <time>2027-03-27T04:44:38Z</time>
       </trkpt>
       <trkpt lat="66.25256" lon="16.38379">
-        <time>2028-03-23T08:15:20Z</time>
+        <time>2027-03-27T05:24:15Z</time>
       </trkpt>
       <trkpt lat="66.25676" lon="16.38765">
-        <time>2028-03-23T08:50:11Z</time>
+        <time>2027-03-27T06:01:49Z</time>
       </trkpt>
       <trkpt lat="66.26369" lon="16.39248">
-        <time>2028-03-23T09:46:11Z</time>
+        <time>2027-03-27T07:02:12Z</time>
       </trkpt>
       <trkpt lat="66.26757" lon="16.40737">
-        <time>2028-03-23T10:41:45Z</time>
+        <time>2027-03-27T08:02:06Z</time>
       </trkpt>
       <trkpt lat="66.27197" lon="16.42945">
-        <time>2028-03-23T11:58:55Z</time>
+        <time>2027-03-27T09:25:17Z</time>
       </trkpt>
       <trkpt lat="66.27895" lon="16.46277">
-        <time>2028-03-23T13:56:32Z</time>
+        <time>2027-03-27T11:32:05Z</time>
       </trkpt>
       <trkpt lat="66.28271" lon="16.47934">
-        <time>2028-03-23T14:56:05Z</time>
+        <time>2027-03-27T12:36:17Z</time>
       </trkpt>
       <trkpt lat="66.2828" lon="16.4958">
-        <time>2028-03-23T15:47:37Z</time>
+        <time>2027-03-27T13:31:49Z</time>
       </trkpt>
       <trkpt lat="66.28159" lon="16.51079">
-        <time>2028-03-23T16:35:28Z</time>
+        <time>2027-03-27T14:23:25Z</time>
       </trkpt>
       <trkpt lat="66.28291" lon="16.52234">
-        <time>2028-03-23T17:13:03Z</time>
+        <time>2027-03-27T15:03:56Z</time>
       </trkpt>
       <trkpt lat="66.28223" lon="16.53863">
-        <time>2028-03-23T18:04:19Z</time>
+        <time>2027-03-27T15:59:12Z</time>
       </trkpt>
       <trkpt lat="66.28493" lon="16.55242">
-        <time>2028-03-23T18:52:19Z</time>
+        <time>2027-03-27T16:50:57Z</time>
       </trkpt>
       <trkpt lat="66.28485" lon="16.56056">
-        <time>2028-03-23T19:17:49Z</time>
+        <time>2027-03-27T17:18:25Z</time>
       </trkpt>
       <trkpt lat="66.28314" lon="16.58272">
-        <time>2028-03-23T20:28:26Z</time>
+        <time>2027-03-27T18:34:33Z</time>
       </trkpt>
       <trkpt lat="66.28738" lon="16.59551">
-        <time>2028-03-23T21:20:19Z</time>
+        <time>2027-03-27T19:30:29Z</time>
       </trkpt>
       <trkpt lat="66.28432" lon="16.61476">
-        <time>2028-03-23T22:25:06Z</time>
+        <time>2027-03-27T20:40:19Z</time>
       </trkpt>
       <trkpt lat="66.28097" lon="16.63409">
-        <time>2028-03-23T23:30:59Z</time>
+        <time>2027-03-27T21:51:20Z</time>
       </trkpt>
       <trkpt lat="66.27931" lon="16.65033">
-        <time>2028-03-24T00:23:26Z</time>
+        <time>2027-03-27T22:47:53Z</time>
       </trkpt>
       <trkpt lat="66.27949" lon="16.66722">
-        <time>2028-03-24T01:16:19Z</time>
+        <time>2027-03-27T23:44:54Z</time>
       </trkpt>
       <trkpt lat="66.28452" lon="16.66312">
-        <time>2028-03-24T01:57:31Z</time>
+        <time>2027-03-28T00:29:19Z</time>
       </trkpt>
       <trkpt lat="66.28705" lon="16.66619">
-        <time>2028-03-24T02:19:26Z</time>
+        <time>2027-03-28T00:52:56Z</time>
       </trkpt>
       <trkpt lat="66.29325" lon="16.67392">
-        <time>2028-03-24T03:13:24Z</time>
+        <time>2027-03-28T01:51:07Z</time>
       </trkpt>
       <trkpt lat="66.29826" lon="16.67647">
-        <time>2028-03-24T03:53:12Z</time>
+        <time>2027-03-28T02:34:01Z</time>
       </trkpt>
       <trkpt lat="66.30368" lon="16.68012">
-        <time>2028-03-24T04:36:53Z</time>
+        <time>2027-03-28T03:21:07Z</time>
       </trkpt>
       <trkpt lat="66.30737" lon="16.68409">
-        <time>2028-03-24T05:08:11Z</time>
+        <time>2027-03-28T03:54:51Z</time>
       </trkpt>
       <trkpt lat="66.31077" lon="16.696">
-        <time>2028-03-24T05:53:52Z</time>
+        <time>2027-03-28T04:44:06Z</time>
       </trkpt>
       <trkpt lat="66.31804" lon="16.70327">
-        <time>2028-03-24T06:54:50Z</time>
+        <time>2027-03-28T05:49:49Z</time>
       </trkpt>
       <trkpt lat="66.32074" lon="16.7084">
-        <time>2028-03-24T07:21:16Z</time>
+        <time>2027-03-28T06:18:19Z</time>
       </trkpt>
       <trkpt lat="66.32285" lon="16.72934">
-        <time>2028-03-24T08:28:44Z</time>
+        <time>2027-03-28T07:31:03Z</time>
       </trkpt>
       <trkpt lat="66.32501" lon="16.74737">
-        <time>2028-03-24T09:27:32Z</time>
+        <time>2027-03-28T08:34:26Z</time>
       </trkpt>
       <trkpt lat="66.3281" lon="16.76103">
-        <time>2028-03-24T10:16:31Z</time>
+        <time>2027-03-28T09:27:15Z</time>
       </trkpt>
       <trkpt lat="66.33204" lon="16.77146">
-        <time>2028-03-24T11:01:16Z</time>
+        <time>2027-03-28T10:15:29Z</time>
       </trkpt>
       <trkpt lat="66.33361" lon="16.77947">
-        <time>2028-03-24T11:29:07Z</time>
+        <time>2027-03-28T10:45:30Z</time>
       </trkpt>
       <trkpt lat="66.3371" lon="16.78964">
-        <time>2028-03-24T12:10:54Z</time>
+        <time>2027-03-28T11:30:33Z</time>
       </trkpt>
       <trkpt lat="66.34043" lon="16.79977">
-        <time>2028-03-24T12:51:48Z</time>
+        <time>2027-03-28T12:14:39Z</time>
       </trkpt>
       <trkpt lat="66.34352" lon="16.80614">
-        <time>2028-03-24T13:23:00Z</time>
+        <time>2027-03-28T12:48:17Z</time>
       </trkpt>
       <trkpt lat="66.34808" lon="16.81933">
-        <time>2028-03-24T14:17:22Z</time>
+        <time>2027-03-28T13:46:54Z</time>
       </trkpt>
       <trkpt lat="66.34988" lon="16.82888">
-        <time>2028-03-24T14:50:19Z</time>
+        <time>2027-03-28T14:22:24Z</time>
       </trkpt>
       <trkpt lat="66.35202" lon="16.83772">
-        <time>2028-03-24T15:22:32Z</time>
+        <time>2027-03-28T14:57:09Z</time>
       </trkpt>
       <trkpt lat="66.35286" lon="16.84854">
-        <time>2028-03-24T15:56:57Z</time>
+        <time>2027-03-28T15:34:14Z</time>
       </trkpt>
       <trkpt lat="66.35467" lon="16.86008">
-        <time>2028-03-24T16:35:37Z</time>
+        <time>2027-03-28T16:15:56Z</time>
       </trkpt>
       <trkpt lat="66.35574" lon="16.86626">
-        <time>2028-03-24T16:56:38Z</time>
+        <time>2027-03-28T16:38:35Z</time>
       </trkpt>
       <trkpt lat="66.35757" lon="16.87856">
-        <time>2028-03-24T17:37:34Z</time>
+        <time>2027-03-28T17:22:43Z</time>
       </trkpt>
       <trkpt lat="66.35886" lon="16.89085">
-        <time>2028-03-24T18:17:13Z</time>
+        <time>2027-03-28T18:05:27Z</time>
       </trkpt>
       <trkpt lat="66.35867" lon="16.90843">
-        <time>2028-03-24T19:12:06Z</time>
+        <time>2027-03-28T19:04:37Z</time>
       </trkpt>
       <trkpt lat="66.35933" lon="16.92607">
-        <time>2028-03-24T20:07:23Z</time>
+        <time>2027-03-28T20:04:13Z</time>
       </trkpt>
       <trkpt lat="66.35829" lon="16.94372">
-        <time>2028-03-24T21:03:03Z</time>
+        <time>2027-03-28T21:04:14Z</time>
       </trkpt>
       <trkpt lat="66.35593" lon="16.96014">
-        <time>2028-03-24T21:57:30Z</time>
+        <time>2027-03-28T22:02:55Z</time>
       </trkpt>
       <trkpt lat="66.35651" lon="16.97673">
-        <time>2028-03-24T22:49:28Z</time>
+        <time>2027-03-28T22:58:57Z</time>
       </trkpt>
       <trkpt lat="66.35813" lon="16.989">
-        <time>2028-03-24T23:29:47Z</time>
+        <time>2027-03-28T23:42:24Z</time>
       </trkpt>
       <trkpt lat="66.36404" lon="16.99518">
-        <time>2028-03-25T00:19:39Z</time>
+        <time>2027-03-29T00:36:10Z</time>
       </trkpt>
       <trkpt lat="66.3677" lon="16.99424">
-        <time>2028-03-25T00:48:17Z</time>
+        <time>2027-03-29T01:07:02Z</time>
       </trkpt>
       <trkpt lat="66.37393" lon="16.98449">
-        <time>2028-03-25T01:45:31Z</time>
+        <time>2027-03-29T02:08:44Z</time>
       </trkpt>
       <trkpt lat="66.37977" lon="16.98608">
-        <time>2028-03-25T02:31:14Z</time>
+        <time>2027-03-29T02:58:01Z</time>
       </trkpt>
       <trkpt lat="66.38439" lon="16.99462">
-        <time>2028-03-25T03:15:58Z</time>
+        <time>2027-03-29T03:46:15Z</time>
       </trkpt>
       <trkpt lat="66.38858" lon="17.01052">
-        <time>2028-03-25T04:15:18Z</time>
+        <time>2027-03-29T04:50:12Z</time>
       </trkpt>
       <trkpt lat="66.39144" lon="17.02994">
-        <time>2028-03-25T05:19:47Z</time>
+        <time>2027-03-29T05:59:43Z</time>
       </trkpt>
       <trkpt lat="66.39264" lon="17.04114">
-        <time>2028-03-25T05:55:55Z</time>
+        <time>2027-03-29T06:38:40Z</time>
       </trkpt>
       <trkpt lat="66.39454" lon="17.05936">
-        <time>2028-03-25T06:54:36Z</time>
+        <time>2027-03-29T07:41:56Z</time>
       </trkpt>
       <trkpt lat="66.39645" lon="17.07977">
-        <time>2028-03-25T07:59:55Z</time>
+        <time>2027-03-29T08:52:20Z</time>
       </trkpt>
       <trkpt lat="66.39832" lon="17.10015">
-        <time>2028-03-25T09:05:03Z</time>
+        <time>2027-03-29T10:02:34Z</time>
       </trkpt>
       <trkpt lat="66.39961" lon="17.11534">
-        <time>2028-03-25T09:53:26Z</time>
+        <time>2027-03-29T10:54:43Z</time>
       </trkpt>
       <trkpt lat="66.40103" lon="17.13596">
-        <time>2028-03-25T10:58:37Z</time>
+        <time>2027-03-29T12:04:59Z</time>
       </trkpt>
       <trkpt lat="66.40357" lon="17.14968">
-        <time>2028-03-25T11:45:43Z</time>
+        <time>2027-03-29T12:55:45Z</time>
       </trkpt>
       <trkpt lat="66.40627" lon="17.15532">
-        <time>2028-03-25T12:13:06Z</time>
+        <time>2027-03-29T13:25:17Z</time>
       </trkpt>
       <trkpt lat="66.40954" lon="17.16903">
-        <time>2028-03-25T13:02:49Z</time>
+        <time>2027-03-29T14:18:52Z</time>
       </trkpt>
       <trkpt lat="66.40683" lon="17.18823">
-        <time>2028-03-25T14:06:13Z</time>
+        <time>2027-03-29T15:27:13Z</time>
       </trkpt>
       <trkpt lat="66.41098" lon="17.18841">
-        <time>2028-03-25T14:38:31Z</time>
+        <time>2027-03-29T16:02:03Z</time>
       </trkpt>
       <trkpt lat="66.41716" lon="17.18736">
-        <time>2028-03-25T15:26:43Z</time>
+        <time>2027-03-29T16:54:01Z</time>
       </trkpt>
       <trkpt lat="66.42059" lon="17.18729">
-        <time>2028-03-25T15:53:25Z</time>
+        <time>2027-03-29T17:22:47Z</time>
       </trkpt>
       <trkpt lat="66.42349" lon="17.1868">
-        <time>2028-03-25T16:16:02Z</time>
+        <time>2027-03-29T17:47:10Z</time>
       </trkpt>
       <trkpt lat="66.42753" lon="17.18881">
-        <time>2028-03-25T16:48:05Z</time>
+        <time>2027-03-29T18:21:44Z</time>
       </trkpt>
       <trkpt lat="66.43093" lon="17.1962">
-        <time>2028-03-25T17:23:09Z</time>
+        <time>2027-03-29T18:59:31Z</time>
       </trkpt>
       <trkpt lat="66.43313" lon="17.20379">
-        <time>2028-03-25T17:52:19Z</time>
+        <time>2027-03-29T19:30:58Z</time>
       </trkpt>
       <trkpt lat="66.43722" lon="17.22351">
-        <time>2028-03-25T19:01:26Z</time>
+        <time>2027-03-29T20:45:28Z</time>
       </trkpt>
       <trkpt lat="66.43888" lon="17.2381">
-        <time>2028-03-25T19:48:37Z</time>
+        <time>2027-03-29T21:36:21Z</time>
       </trkpt>
       <trkpt lat="66.44579" lon="17.24102">
-        <time>2028-03-25T20:43:10Z</time>
+        <time>2027-03-29T22:35:08Z</time>
       </trkpt>
       <trkpt lat="66.45331" lon="17.24261">
-        <time>2028-03-25T21:41:53Z</time>
+        <time>2027-03-29T23:38:27Z</time>
       </trkpt>
       <trkpt lat="66.46045" lon="17.24192">
-        <time>2028-03-25T22:37:30Z</time>
+        <time>2027-03-30T00:38:23Z</time>
       </trkpt>
       <trkpt lat="66.46652" lon="17.24147">
-        <time>2028-03-25T23:24:45Z</time>
+        <time>2027-03-30T01:29:20Z</time>
       </trkpt>
       <trkpt lat="66.47419" lon="17.23905">
-        <time>2028-03-26T00:24:55Z</time>
+        <time>2027-03-30T02:34:11Z</time>
       </trkpt>
       <trkpt lat="66.48409" lon="17.23501">
-        <time>2028-03-26T01:42:58Z</time>
+        <time>2027-03-30T03:58:20Z</time>
       </trkpt>
       <trkpt lat="66.49033" lon="17.23267">
-        <time>2028-03-26T02:32:04Z</time>
+        <time>2027-03-30T04:51:16Z</time>
       </trkpt>
       <trkpt lat="66.49184" lon="17.24203">
-        <time>2028-03-26T03:03:25Z</time>
+        <time>2027-03-30T05:25:03Z</time>
       </trkpt>
       <trkpt lat="66.49213" lon="17.2351">
-        <time>2028-03-26T03:25:02Z</time>
+        <time>2027-03-30T05:48:22Z</time>
       </trkpt>
       <trkpt lat="66.49461" lon="17.2316">
-        <time>2028-03-26T03:47:11Z</time>
+        <time>2027-03-30T06:12:15Z</time>
       </trkpt>
       <trkpt lat="66.50009" lon="17.23476">
-        <time>2028-03-26T04:30:57Z</time>
+        <time>2027-03-30T06:59:25Z</time>
       </trkpt>
       <trkpt lat="66.5056" lon="17.2389">
-        <time>2028-03-26T05:15:42Z</time>
+        <time>2027-03-30T07:47:40Z</time>
       </trkpt>
       <trkpt lat="66.51105" lon="17.24216">
-        <time>2028-03-26T05:59:19Z</time>
+        <time>2027-03-30T08:34:41Z</time>
       </trkpt>
       <trkpt lat="66.51903" lon="17.24158">
-        <time>2028-03-26T07:01:26Z</time>
+        <time>2027-03-30T09:41:39Z</time>
       </trkpt>
       <trkpt lat="66.5292" lon="17.24192">
-        <time>2028-03-26T08:20:35Z</time>
+        <time>2027-03-30T11:06:59Z</time>
       </trkpt>
       <trkpt lat="66.5349" lon="17.23915">
-        <time>2028-03-26T09:05:46Z</time>
+        <time>2027-03-30T11:55:41Z</time>
       </trkpt>
       <trkpt lat="66.54266" lon="17.231">
-        <time>2028-03-26T10:11:13Z</time>
+        <time>2027-03-30T13:06:15Z</time>
       </trkpt>
       <trkpt lat="66.54846" lon="17.22918">
-        <time>2028-03-26T10:56:43Z</time>
+        <time>2027-03-30T13:55:17Z</time>
       </trkpt>
       <trkpt lat="66.55264" lon="17.23059">
-        <time>2028-03-26T11:29:32Z</time>
+        <time>2027-03-30T14:30:40Z</time>
       </trkpt>
       <trkpt lat="66.56292" lon="17.23218">
-        <time>2028-03-26T12:49:41Z</time>
+        <time>2027-03-30T15:57:04Z</time>
       </trkpt>
       <trkpt lat="66.56568" lon="17.24227">
-        <time>2028-03-26T13:27:35Z</time>
+        <time>2027-03-30T16:37:56Z</time>
       </trkpt>
       <trkpt lat="66.56482" lon="17.25649">
-        <time>2028-03-26T14:12:06Z</time>
+        <time>2027-03-30T17:25:55Z</time>
       </trkpt>
       <trkpt lat="66.56518" lon="17.27053">
-        <time>2028-03-26T14:55:39Z</time>
+        <time>2027-03-30T18:12:52Z</time>
       </trkpt>
       <trkpt lat="66.56348" lon="17.28261">
-        <time>2028-03-26T15:35:18Z</time>
+        <time>2027-03-30T18:55:37Z</time>
       </trkpt>
       <trkpt lat="66.5611" lon="17.29902">
-        <time>2028-03-26T16:29:22Z</time>
+        <time>2027-03-30T19:53:54Z</time>
       </trkpt>
       <trkpt lat="66.55972" lon="17.30681">
-        <time>2028-03-26T16:55:46Z</time>
+        <time>2027-03-30T20:22:21Z</time>
       </trkpt>
       <trkpt lat="66.55727" lon="17.322">
-        <time>2028-03-26T17:46:31Z</time>
+        <time>2027-03-30T21:17:03Z</time>
       </trkpt>
       <trkpt lat="66.55363" lon="17.34076">
-        <time>2028-03-26T18:51:08Z</time>
+        <time>2027-03-30T22:26:43Z</time>
       </trkpt>
       <trkpt lat="66.55564" lon="17.35947">
-        <time>2028-03-26T19:51:08Z</time>
+        <time>2027-03-30T23:31:25Z</time>
       </trkpt>
       <trkpt lat="66.55501" lon="17.36977">
-        <time>2028-03-26T20:23:24Z</time>
+        <time>2027-03-31T00:06:12Z</time>
       </trkpt>
       <trkpt lat="66.55369" lon="17.37908">
-        <time>2028-03-26T20:54:00Z</time>
+        <time>2027-03-31T00:39:11Z</time>
       </trkpt>
       <trkpt lat="66.55598" lon="17.3867">
-        <time>2028-03-26T21:23:34Z</time>
+        <time>2027-03-31T01:11:03Z</time>
       </trkpt>
       <trkpt lat="66.55897" lon="17.38957">
-        <time>2028-03-26T21:48:29Z</time>
+        <time>2027-03-31T01:37:54Z</time>
       </trkpt>
       <trkpt lat="66.56358" lon="17.39097">
-        <time>2028-03-26T22:24:37Z</time>
+        <time>2027-03-31T02:16:52Z</time>
       </trkpt>
       <trkpt lat="66.57069" lon="17.39957">
-        <time>2028-03-26T23:26:01Z</time>
+        <time>2027-03-31T03:23:03Z</time>
       </trkpt>
       <trkpt lat="66.57979" lon="17.39807">
-        <time>2028-03-27T00:36:59Z</time>
+        <time>2027-03-31T04:39:34Z</time>
       </trkpt>
       <trkpt lat="66.58419" lon="17.39174">
-        <time>2028-03-27T01:16:26Z</time>
+        <time>2027-03-31T05:22:05Z</time>
       </trkpt>
       <trkpt lat="66.59311" lon="17.38595">
-        <time>2028-03-27T02:28:07Z</time>
+        <time>2027-03-31T06:39:22Z</time>
       </trkpt>
       <trkpt lat="66.59625" lon="17.39389">
-        <time>2028-03-27T03:02:45Z</time>
+        <time>2027-03-31T07:16:42Z</time>
       </trkpt>
       <trkpt lat="66.60368" lon="17.39148">
-        <time>2028-03-27T04:01:03Z</time>
+        <time>2027-03-31T08:19:33Z</time>
       </trkpt>
       <trkpt lat="66.60719" lon="17.38708">
-        <time>2028-03-27T04:31:34Z</time>
+        <time>2027-03-31T08:52:26Z</time>
       </trkpt>
       <trkpt lat="66.6137" lon="17.37269">
-        <time>2028-03-27T05:38:58Z</time>
+        <time>2027-03-31T10:05:06Z</time>
       </trkpt>
       <trkpt lat="66.61846" lon="17.37303">
-        <time>2028-03-27T06:16:01Z</time>
+        <time>2027-03-31T10:45:03Z</time>
       </trkpt>
       <trkpt lat="66.62445" lon="17.37841">
-        <time>2028-03-27T07:05:30Z</time>
+        <time>2027-03-31T11:38:24Z</time>
       </trkpt>
       <trkpt lat="66.63022" lon="17.38837">
-        <time>2028-03-27T07:59:56Z</time>
+        <time>2027-03-31T12:37:04Z</time>
       </trkpt>
       <trkpt lat="66.63299" lon="17.39135">
-        <time>2028-03-27T08:23:22Z</time>
+        <time>2027-03-31T13:02:19Z</time>
       </trkpt>
       <trkpt lat="66.64234" lon="17.40305">
-        <time>2028-03-27T09:44:35Z</time>
+        <time>2027-03-31T14:29:53Z</time>
       </trkpt>
       <trkpt lat="66.64788" lon="17.397">
-        <time>2028-03-27T10:31:34Z</time>
+        <time>2027-03-31T15:20:32Z</time>
       </trkpt>
       <trkpt lat="66.65424" lon="17.40298">
-        <time>2028-03-27T11:24:23Z</time>
+        <time>2027-03-31T16:17:28Z</time>
       </trkpt>
       <trkpt lat="66.65747" lon="17.41429">
-        <time>2028-03-27T12:07:23Z</time>
+        <time>2027-03-31T17:03:49Z</time>
       </trkpt>
       <trkpt lat="66.66201" lon="17.41845">
-        <time>2028-03-27T12:44:58Z</time>
+        <time>2027-03-31T17:44:20Z</time>
       </trkpt>
       <trkpt lat="66.66656" lon="17.41365">
-        <time>2028-03-27T13:23:20Z</time>
+        <time>2027-03-31T18:25:43Z</time>
       </trkpt>
       <trkpt lat="66.67471" lon="17.41006">
-        <time>2028-03-27T14:27:43Z</time>
+        <time>2027-03-31T19:35:07Z</time>
       </trkpt>
       <trkpt lat="66.68319" lon="17.41082">
-        <time>2028-03-27T15:33:45Z</time>
+        <time>2027-03-31T20:46:18Z</time>
       </trkpt>
       <trkpt lat="66.69057" lon="17.40813">
-        <time>2028-03-27T16:31:47Z</time>
+        <time>2027-03-31T21:48:51Z</time>
       </trkpt>
       <trkpt lat="66.69738" lon="17.40361">
-        <time>2028-03-27T17:26:34Z</time>
+        <time>2027-03-31T22:47:55Z</time>
       </trkpt>
       <trkpt lat="66.70371" lon="17.39597">
-        <time>2028-03-27T18:21:10Z</time>
+        <time>2027-03-31T23:46:46Z</time>
       </trkpt>
       <trkpt lat="66.70975" lon="17.38844">
-        <time>2028-03-27T19:13:34Z</time>
+        <time>2027-04-01T00:43:16Z</time>
       </trkpt>
       <trkpt lat="66.71794" lon="17.39363">
-        <time>2028-03-27T20:19:16Z</time>
+        <time>2027-04-01T01:54:05Z</time>
       </trkpt>
       <trkpt lat="66.72085" lon="17.39893">
-        <time>2028-03-27T20:47:10Z</time>
+        <time>2027-04-01T02:24:10Z</time>
       </trkpt>
       <trkpt lat="66.72425" lon="17.39689">
-        <time>2028-03-27T21:14:22Z</time>
+        <time>2027-04-01T02:53:29Z</time>
       </trkpt>
       <trkpt lat="66.72886" lon="17.39749">
-        <time>2028-03-27T21:50:17Z</time>
+        <time>2027-04-01T03:32:13Z</time>
       </trkpt>
       <trkpt lat="66.73624" lon="17.39955">
-        <time>2028-03-27T22:48:04Z</time>
+        <time>2027-04-01T04:34:30Z</time>
       </trkpt>
       <trkpt lat="66.74332" lon="17.40846">
-        <time>2028-03-27T23:49:36Z</time>
+        <time>2027-04-01T05:40:49Z</time>
       </trkpt>
       <trkpt lat="66.74559" lon="17.42015">
-        <time>2028-03-28T00:29:37Z</time>
+        <time>2027-04-01T06:23:58Z</time>
       </trkpt>
       <trkpt lat="66.74859" lon="17.43858">
-        <time>2028-03-28T01:30:52Z</time>
+        <time>2027-04-01T07:30:00Z</time>
       </trkpt>
       <trkpt lat="66.75418" lon="17.45648">
-        <time>2028-03-28T02:40:59Z</time>
+        <time>2027-04-01T08:45:35Z</time>
       </trkpt>
       <trkpt lat="66.7577" lon="17.46755">
-        <time>2028-03-28T03:24:38Z</time>
+        <time>2027-04-01T09:32:39Z</time>
       </trkpt>
       <trkpt lat="66.76112" lon="17.47729">
-        <time>2028-03-28T04:04:41Z</time>
+        <time>2027-04-01T10:15:49Z</time>
       </trkpt>
       <trkpt lat="66.76463" lon="17.48815">
-        <time>2028-03-28T04:47:47Z</time>
+        <time>2027-04-01T11:02:17Z</time>
       </trkpt>
       <trkpt lat="66.76737" lon="17.49401">
-        <time>2028-03-28T05:15:41Z</time>
+        <time>2027-04-01T11:32:21Z</time>
       </trkpt>
       <trkpt lat="66.77109" lon="17.49858">
-        <time>2028-03-28T05:47:51Z</time>
+        <time>2027-04-01T12:07:02Z</time>
       </trkpt>
       <trkpt lat="66.7774" lon="17.51737">
-        <time>2028-03-28T07:03:35Z</time>
+        <time>2027-04-01T13:28:41Z</time>
       </trkpt>
       <trkpt lat="66.77623" lon="17.53411">
-        <time>2028-03-28T07:55:45Z</time>
+        <time>2027-04-01T14:24:55Z</time>
       </trkpt>
       <trkpt lat="66.78154" lon="17.54924">
-        <time>2028-03-28T08:57:54Z</time>
+        <time>2027-04-01T15:31:55Z</time>
       </trkpt>
       <trkpt lat="66.78734" lon="17.55087">
-        <time>2028-03-28T09:43:19Z</time>
+        <time>2027-04-01T16:20:52Z</time>
       </trkpt>
       <trkpt lat="66.79058" lon="17.54111">
-        <time>2028-03-28T10:22:27Z</time>
+        <time>2027-04-01T17:03:04Z</time>
       </trkpt>
       <trkpt lat="66.79567" lon="17.53943">
-        <time>2028-03-28T11:02:24Z</time>
+        <time>2027-04-01T17:46:07Z</time>
       </trkpt>
       <trkpt lat="66.79971" lon="17.53842">
-        <time>2028-03-28T11:33:59Z</time>
+        <time>2027-04-01T18:20:11Z</time>
       </trkpt>
       <trkpt lat="66.80398" lon="17.54018">
-        <time>2028-03-28T12:07:39Z</time>
+        <time>2027-04-01T18:56:28Z</time>
       </trkpt>
       <trkpt lat="66.8068" lon="17.54398">
-        <time>2028-03-28T12:32:30Z</time>
+        <time>2027-04-01T19:23:15Z</time>
       </trkpt>
       <trkpt lat="66.80963" lon="17.54883">
-        <time>2028-03-28T12:59:04Z</time>
+        <time>2027-04-01T19:51:54Z</time>
       </trkpt>
       <trkpt lat="66.81632" lon="17.55774">
-        <time>2028-03-28T13:57:51Z</time>
+        <time>2027-04-01T20:55:16Z</time>
       </trkpt>
       <trkpt lat="66.81943" lon="17.56336">
-        <time>2028-03-28T14:27:33Z</time>
+        <time>2027-04-01T21:27:17Z</time>
       </trkpt>
       <trkpt lat="66.82638" lon="17.57387">
-        <time>2028-03-28T15:30:30Z</time>
+        <time>2027-04-01T22:35:08Z</time>
       </trkpt>
       <trkpt lat="66.8389" lon="17.58426">
-        <time>2028-03-28T17:12:59Z</time>
+        <time>2027-04-02T00:25:38Z</time>
       </trkpt>
       <trkpt lat="66.84493" lon="17.58919">
-        <time>2028-03-28T18:02:17Z</time>
+        <time>2027-04-02T01:18:46Z</time>
       </trkpt>
       <trkpt lat="66.85317" lon="17.59215">
-        <time>2028-03-28T19:07:03Z</time>
+        <time>2027-04-02T02:28:35Z</time>
       </trkpt>
       <trkpt lat="66.85953" lon="17.5969">
-        <time>2028-03-28T19:58:37Z</time>
+        <time>2027-04-02T03:24:11Z</time>
       </trkpt>
       <trkpt lat="66.86387" lon="17.60037">
-        <time>2028-03-28T20:34:02Z</time>
+        <time>2027-04-02T04:02:21Z</time>
       </trkpt>
       <trkpt lat="66.86792" lon="17.60441">
-        <time>2028-03-28T21:07:53Z</time>
+        <time>2027-04-02T04:38:51Z</time>
       </trkpt>
       <trkpt lat="66.87174" lon="17.61451">
-        <time>2028-03-28T21:50:44Z</time>
+        <time>2027-04-02T05:25:03Z</time>
       </trkpt>
       <trkpt lat="66.87595" lon="17.63129">
-        <time>2028-03-28T22:51:36Z</time>
+        <time>2027-04-02T06:30:39Z</time>
       </trkpt>
       <trkpt lat="66.87756" lon="17.63831">
-        <time>2028-03-28T23:16:26Z</time>
+        <time>2027-04-02T06:57:26Z</time>
       </trkpt>
       <trkpt lat="66.87945" lon="17.6556">
-        <time>2028-03-29T00:11:17Z</time>
+        <time>2027-04-02T07:56:34Z</time>
       </trkpt>
       <trkpt lat="66.8846" lon="17.65367">
-        <time>2028-03-29T00:51:48Z</time>
+        <time>2027-04-02T08:40:14Z</time>
       </trkpt>
       <trkpt lat="66.88962" lon="17.66009">
-        <time>2028-03-29T01:35:30Z</time>
+        <time>2027-04-02T09:27:21Z</time>
       </trkpt>
       <trkpt lat="66.8953" lon="17.6652">
-        <time>2028-03-29T02:22:23Z</time>
+        <time>2027-04-02T10:17:53Z</time>
       </trkpt>
       <trkpt lat="66.89923" lon="17.67005">
-        <time>2028-03-29T02:56:22Z</time>
+        <time>2027-04-02T10:54:31Z</time>
       </trkpt>
       <trkpt lat="66.9022" lon="17.67369">
-        <time>2028-03-29T03:22:01Z</time>
+        <time>2027-04-02T11:22:10Z</time>
       </trkpt>
       <trkpt lat="66.9086" lon="17.67159">
-        <time>2028-03-29T04:12:14Z</time>
+        <time>2027-04-02T12:16:18Z</time>
       </trkpt>
       <trkpt lat="66.91165" lon="17.66962">
-        <time>2028-03-29T04:36:43Z</time>
+        <time>2027-04-02T12:42:42Z</time>
       </trkpt>
       <trkpt lat="66.92116" lon="17.66874">
-        <time>2028-03-29T05:50:46Z</time>
+        <time>2027-04-02T14:02:32Z</time>
       </trkpt>
       <trkpt lat="66.92488" lon="17.66487">
-        <time>2028-03-29T06:22:02Z</time>
+        <time>2027-04-02T14:36:14Z</time>
       </trkpt>
       <trkpt lat="66.922" lon="17.685">
-        <time>2028-03-29T07:27:24Z</time>
+        <time>2027-04-02T15:46:42Z</time>
       </trkpt>
       <trkpt lat="66.92106" lon="17.70768">
-        <time>2028-03-29T08:36:58Z</time>
+        <time>2027-04-02T17:01:42Z</time>
       </trkpt>
       <trkpt lat="66.92771" lon="17.72133">
-        <time>2028-03-29T09:43:23Z</time>
+        <time>2027-04-02T18:13:18Z</time>
       </trkpt>
       <trkpt lat="66.93511" lon="17.72605">
-        <time>2028-03-29T10:42:45Z</time>
+        <time>2027-04-02T19:17:17Z</time>
       </trkpt>
       <trkpt lat="66.94379" lon="17.72423">
-        <time>2028-03-29T11:50:31Z</time>
+        <time>2027-04-02T20:30:21Z</time>
       </trkpt>
       <trkpt lat="66.95094" lon="17.71742">
-        <time>2028-03-29T12:49:54Z</time>
+        <time>2027-04-02T21:34:22Z</time>
       </trkpt>
       <trkpt lat="66.95384" lon="17.71991">
-        <time>2028-03-29T13:13:43Z</time>
+        <time>2027-04-02T22:00:02Z</time>
       </trkpt>
     </trkseg>
   </trk>
   <wpt lat="65.87590824" lon="15.34772771">
     <name>D36 · Syterstuga west</name>
-    <desc>Section 4 · 2028-03-21 · cum 667 km · T · Steep · KL west · STF Syterstuga ~1 km · optional Jäckvik ICA detour E</desc>
+    <desc>Section 4 · 2027-03-22 · cum 667 km · T · Steep · KL west · STF Syterstuga ~1 km · optional Jäckvik ICA detour E</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="65.99374403" lon="15.5730851">
     <name>D37 · Tärnasjön</name>
-    <desc>Section 4 · 2028-03-22 · cum 689 km · T · Ice travel · wind funnel</desc>
+    <desc>Section 4 · 2027-03-23 · cum 689 km · T · Ice travel · wind funnel</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="65.96445707" lon="15.96646644">
     <name>D38 · Situjaure approach</name>
-    <desc>Section 4 · 2028-03-23 · cum 710 km · T · Optional D: Ammarnäs Handlar'n + Fritidscenter camping + STF Wärdshus H (~7 km E)</desc>
+    <desc>Section 4 · 2027-03-24 · cum 710 km · T · Optional D: Ammarnäs Handlar'n + Fritidscenter camping + STF Wärdshus H (~7 km E)</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="66.03902078" lon="16.20753006">
     <name>D39 · Pieljekaise approach</name>
-    <desc>Section 4 · 2028-03-24 · cum 732 km · T · Optional D: Adolfström Handelsbod (~7 km, phone ahead) · Camping H (~31 km E)</desc>
+    <desc>Section 4 · 2027-03-25 · cum 732 km · T · Optional D: Adolfström Handelsbod (~7 km, phone ahead) · Camping H (~31 km E)</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="66.19448724" lon="16.37989985">
     <name>D40 · Hornavan ice</name>
-    <desc>Section 4 · 2028-03-25 · cum 753 km · T · Ice check AM only</desc>
+    <desc>Section 4 · 2027-03-26 · cum 753 km · T · Ice check AM only</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="66.28473009" lon="16.66337494">
     <name>D41 · West of Vuoggatjålme</name>
-    <desc>Section 4 · 2028-03-26 · cum 775 km · T · Optional H/detour: Vuoggatjålme Fjällhotell restaurant + stugor (~21 km E, Silvervägen)</desc>
+    <desc>Section 4 · 2027-03-27 · cum 775 km · T · Optional H/detour: Vuoggatjålme Fjällhotell restaurant + stugor (~21 km E, Silvervägen)</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="66.38601794" lon="17.00079762">
     <name>D42 · Aktse</name>
-    <desc>Section 4 · 2028-03-27 · cum 797 km · T · Skierffe area · on track</desc>
+    <desc>Section 4 · 2027-03-28 · cum 797 km · T · Skierffe area · on track</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="66.50597513" lon="17.23912439">
     <name>D43 · Rapadalen west</name>
-    <desc>Section 4 · 2028-03-28 · cum 819 km · T · Sarek views</desc>
+    <desc>Section 4 · 2027-03-29 · cum 819 km · T · Sarek views</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="66.6235894" lon="17.37763704">
     <name>D44 · Sitojaure</name>
-    <desc>Section 4 · 2028-03-29 · cum 841 km · T · STF Sitojaure ~4 km · tält + serviceavgift if open</desc>
+    <desc>Section 4 · 2027-03-30 · cum 841 km · T · STF Sitojaure ~4 km · tält + serviceavgift if open</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="66.77984618" lon="17.54441374">
     <name>D45 · Kaitumjaure</name>
-    <desc>Section 4 · 2028-03-30 · cum 863 km · T · Kaitum lakes · on track</desc>
+    <desc>Section 4 · 2027-03-31 · cum 863 km · T · Kaitum lakes · on track</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="66.93199609" lon="17.72406383">
     <name>D46 · Toward Kvikkjokk</name>
-    <desc>Section 4 · 2028-03-31 · cum 885 km · T · Penultimate · Kvikkjokk STF ~2 km ahead</desc>
+    <desc>Section 4 · 2027-04-01 · cum 885 km · T · Penultimate · Kvikkjokk STF ~2 km ahead</desc>
     <sym>Campground</sym>
     <type>camp</type>
   </wpt>
   <wpt lat="66.9513" lon="17.7285">
     <name>D47 · Kvikkjokk</name>
-    <desc>Section 4 · 2028-04-01 · cum 905 km · D · STF max stock · wild T + paid shower</desc>
+    <desc>Section 4 · 2027-04-02 · cum 905 km · D · STF max stock · wild T + paid shower</desc>
     <sym>City</sym>
     <type>resupply</type>
   </wpt>

@@ -1,19 +1,19 @@
-# Gear inventory — Vita Bandet 2028
+# Gear inventory — Vita Bandet 2027
 
 **Trip:** solo · S→N · Feb–Apr · ski + **pulk** · ~65 days · mostly **tent**  
 **Your core kit (owned):** Hilleberg **Nallo 3GT** · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Sleeping bag −30 °C** · Therm-a-Rest **NeoAir XLite** · **Optimus OmniLite Ti** + **silencer** · **Jemtlander 14** pulk · **Fjellpulken Sleeper 200** · **TOAKS Ti 1600 ml** pot/pan · **GPSMAP 68i** · **OsmAnd+**  
 
-Use this list for shakedowns, weight audit, and resupply planning. **Packing guide:** [packing-pulk-2028.md](./packing-pulk-2028.md). Weigh your packed pulk + daypack before departure.
+Use this list for shakedowns, weight audit, and resupply planning. **Packing guide:** [packing-pulk-2027.md](./packing-pulk-2027.md). Weigh your packed pulk + daypack before departure.
 
 ---
 
-## Your normal winter list (NL) → Vita Bandet 2028
+## Your normal winter list (NL) → Vita Bandet 2027
 
 *Mapped from your usual spreadsheet (papieren / tocht / eten / kleding dag / kleding avond).*
 
 ### Papieren
 
-| Normal list | Bandet 2028 |
+| Normal list | Bandet 2027 |
 |-------------|-------------|
 | Paspoort, rijbewijs, pinpas, portefuille | ✓ Bring — waterproof pouch |
 | NKBV kaart | Optional — not required for VGB |
@@ -23,7 +23,7 @@ Use this list for shakedowns, weight audit, and resupply planning. **Packing gui
 
 ### Tocht — travel & ski
 
-| Normal list | Bandet 2028 |
+| Normal list | Bandet 2027 |
 |-------------|-------------|
 | **Ski’s** | **Åsnes Ingstad BC** ✓ |
 | **Schoenen** | **Alfa Outback + Xplore** ✓ |
@@ -42,7 +42,7 @@ Use this list for shakedowns, weight audit, and resupply planning. **Packing gui
 | **Winterslaapzak** + lakenzak | **−30 °C bag** ✓ + silk liner (huts) |
 | Kussen | Optional inflatable |
 | **Sneeuwschep** | ✓ **Tent** snow shovel (not avy shovel) |
-| **Brander** + **benzine** | **OmniLite Ti** + silencer ✓ · **alkylaatbenzine** ([resupply](./resupply-2028.md)) |
+| **Brander** + **benzine** | **OmniLite Ti** + silencer ✓ · **alkylaatbenzine** ([resupply](./resupply-2027.md)) |
 | Pan, mok, spork | **TOAKS 1600 ml** ✓ — mug/spork fill in |
 | **Blauwe thermos** | Optional — nice on cold days |
 | Ehbo, sporttape, zakmes, aansteker | ✓ Kits |
@@ -55,9 +55,9 @@ Use this list for shakedowns, weight audit, and resupply planning. **Packing gui
 
 ### Eten — normal vs 65-day resupply
 
-| Normal list | Bandet 2028 |
+| Normal list | Bandet 2027 |
 |-------------|-------------|
-| Muesli, melk, cup-a-soup, bars, granola, fruit, noten | **Buy on trail** every **~10 days** — [resupply](./resupply-2028.md) |
+| Muesli, melk, cup-a-soup, bars, granola, fruit, noten | **Buy on trail** every **~10 days** — [resupply](./resupply-2027.md) |
 | Thee, koffie | ✓ Small carry + top-up at STF |
 | Limo tabletten | Optional electrolytes |
 | **5× maaltijd** | **Not enough** — plan **~4,000–5,000 kcal/day** × 10-day carries |
@@ -67,7 +67,7 @@ Use this list for shakedowns, weight audit, and resupply planning. **Packing gui
 
 ### Kleding dag (your list → pack in pulk)
 
-| Normal list | Bandet 2028 |
+| Normal list | Bandet 2027 |
 |-------------|-------------|
 | Onderbroek | **3** merino ✓ (lots at home) |
 | Lange onderbroek | **2** merino base ✓ |
@@ -81,7 +81,7 @@ Use this list for shakedowns, weight audit, and resupply planning. **Packing gui
 
 ### Kleding avond (your list → tent / hut)
 
-| Normal list | Bandet 2028 |
+| Normal list | Bandet 2027 |
 |-------------|-------------|
 | IB 200 lang, lange onderbroek ×2 | **Dry base set** in pulk ✓ |
 | Onderbroek ×2, sokken dun/dik | Same merino rotation |
@@ -194,11 +194,11 @@ You still have the right **two-set strategy** (short + long) once glue is fixed:
 
 **Do not plan on skins every km** — most of 65 days is glide. Ingstad fishscale is the main engine; skins are for **climb insurance**.
 
-### Fix glue — choose one path (before 2028)
+### Fix glue — choose one path (before 2027)
 
 | Option | What | When | Comment |
 |--------|------|------|---------|
-| **A — Reglue both** ★ | Strip old glue → **full reglue** short + long | **Autumn 2027** | Cheapest if fabric is OK. Shop reglue (~€80–150/pair) or DIY (**Contaquigi**, **Pomoca**, **BD Gold Label** — follow kit instructions) |
+| **A — Reglue both** ★ | Strip old glue → **full reglue** short + long | **Autumn 2026** | Cheapest if fabric is OK. Shop reglue (~€80–150/pair) or DIY (**Contaquigi**, **Pomoca**, **BD Gold Label** — follow kit instructions) |
 | **B — New short only** | Buy **Åsnes X-Skin** (45 or 58 mm) for Ingstad | Before shakedowns | **Reglue long** yourself if width fits; skip long if budget tight |
 | **C — Replace both** | New short + new full-length | If long fabric worn | Easiest mentally for a 65-day trip |
 | **D — No skins** | Fishscale + grip wax only | — | **Not recommended** for Padjelanta + Lappjord with pulk |
@@ -232,7 +232,7 @@ You still have the right **two-set strategy** (short + long) once glue is fixed:
 
 **Without working skins:** plan **extra time** on Padjelanta (days 45–51) and **Lappjord**; more kick-turns; may need **long wax** days — higher energy cost.
 
-**Verdict:** **Priority buy/fix** — reglue both or **new Åsnes short** + reglue long. Do **not** start Feb 2028 with dead glue.
+**Verdict:** **Priority buy/fix** — reglue both or **new Åsnes short** + reglue long. Do **not** start Feb 2027 with dead glue.
 
 ---
 
@@ -366,11 +366,11 @@ At camp: unstrap Sleeper → pull bag/pad → pitch Nallo. Repack dry before nex
 | **Cold shutdown** | **68i** still works when phone is dead |
 | **OSM winter tracks** | Can be wrong/outdated — follow **official VGB line** + 68i + paper |
 
-#### OsmAnd+ setup checklist (before Feb 2028)
+#### OsmAnd+ setup checklist (before Feb 2027)
 
 1. **OsmAnd+** ✓ owned — install on **Fairphone** (or test on Ulefone now).  
 2. **Download offline maps:** Sweden north (Jämtland, Lappland), Norway (Troms, Nordland strips you cross). Budget **5–15 GB** storage — test size on phone.  
-3. **Import GPX:** **`tracks/2028.gpx`** (manual BaseCamp master). Keep this as the only active planning/route file on device.  
+3. **Import GPX:** **`tracks/2027.GPX`** (manual BaseCamp master). Keep this as the only active planning/route file on device.  
 4. **Waypoints:** VGB six places — GPX **corridor** väster om (east of track, S→N); not spot-on hits.  
 5. **Display:** winter-friendly profile — high contrast, **contour lines on**, track up.  
 6. **Backup export:** copy GPX + favourites to **SD card / cloud** before trip.  
@@ -401,7 +401,7 @@ At camp: unstrap Sleeper → pull bag/pad → pitch Nallo. Repack dry before nex
 | **Compliance / doubt** | **Paper** strip for current section + **compass** |
 | **Skip unless you love it** | Avenza for whole route (expensive); Gaia as only nav |
 
-**Do not navigate Padjelanta or Torneträsk ice on phone alone** — use **68i + GPX +** [dag-for-dag](./dag-for-dag-2028.md) notes; OsmAnd confirms big picture when stopped.
+**Do not navigate Padjelanta or Torneträsk ice on phone alone** — use **68i + GPX +** [dag-for-dag](./dag-for-dag-2027.md) notes; OsmAnd confirms big picture when stopped.
 
 ---
 
@@ -429,7 +429,7 @@ At camp: unstrap Sleeper → pull bag/pad → pitch Nallo. Repack dry before nex
 
 **Daily power habits**
 
-- Charge everything possible at **every resupply / hut** (see [resupply](./resupply-2028.md) — Ritsem, Abisko have power).  
+- Charge everything possible at **every resupply / hut** (see [resupply](./resupply-2027.md) — Ritsem, Abisko have power).  
 - Sleep with **phone + one bank** in bag foot if **−20 °C** tent night.  
 - inReach: **airplane mode** on phone when using Mini to save phone battery; track **inReach battery %** in journal.
 
@@ -609,7 +609,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 |---|-----------------------------------------------|
 | **Type** | Multi-fuel expedition stove (~230 g) |
 | **Silencer** | ~58 g — quieter flame; **only with white gas or LP canister** (not diesel/kerosene) |
-| **Best fuel this trip** | **Alkylaatbenzine** (alkylbensin) — same as **Primus Power Fuel** in tins; see [resupply](./resupply-2028.md) |
+| **Best fuel this trip** | **Alkylaatbenzine** (alkylbensin) — same as **Primus Power Fuel** in tins; see [resupply](./resupply-2027.md) |
 | **Fit for Vita Bandet** | **Excellent** — same brand as fjäll shops; liquid fuel works in **February cold** better than canisters |
 
 **Why this stove matches the route**
@@ -959,7 +959,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 5. **Power** + **Fairphone**; **OsmAnd+** map downloads + VGB GPX on phone; inReach plan on 68i; optional Mini 3+  
 6. **DNT key** (huts without pantry — carry food from Abisko)  
 7. Tent **repair** (fabric, zipper) — stakes OK if **12+** alu snow/sand on shakedown  
-8. **OmniLite** service kit; **2nd 1 L bottle** before Padjelanta; [resupply](./resupply-2028.md) **alkylate** list  
+8. **OmniLite** service kit; **2nd 1 L bottle** before Padjelanta; [resupply](./resupply-2027.md) **alkylate** list  
 9. **New merino ski socks** (4–5); optional **VBL** after shakedown; **shell** if missing  
 10. Tent upgrade **only after** shakedown — if buying, compare **Black Label** (**Nammatj 2 GT**) vs keep **Nallo 3GT**  
 
@@ -967,7 +967,7 @@ Official overview: [Hilleberg label system](https://hilleberg.com/eng/about-our-
 
 ## Links
 
-- **[pack-checklist-2028.md](./pack-checklist-2028.md)** — compact printable checklist  
-- [dag-for-dag-2028.md](./dag-for-dag-2028.md)  
-- [resupply-2028.md](./resupply-2028.md)  
+- **[pack-checklist-2027.md](./pack-checklist-2027.md)** — compact printable checklist  
+- [dag-for-dag-2027.md](./dag-for-dag-2027.md)  
+- [resupply-2027.md](./resupply-2027.md)  
 - [vitagronabandet.se — service](https://www.vitagronabandet.se/infor-turen/service-depaer/)

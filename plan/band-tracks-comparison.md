@@ -1,8 +1,8 @@
 # Vita Bandet — historical track comparison
 
-Nine completed Band tracks downloaded from [vgb.vitagronabandet.se](https://vgb.vitagronabandet.se) via `ajax/getRouteData.php` and converted to GPX. Factual comparison against the [2028 plan](./dag-for-dag-2028.md) (target **~900 km at Kvikkjokk by ~29 Mar**, start **15 Feb**) — describes range, not pacing prescription.
+Nine completed Band tracks downloaded from [vgb.vitagronabandet.se](https://vgb.vitagronabandet.se) via `ajax/getRouteData.php` and converted to GPX. Factual comparison against the [2027 plan](./dag-for-dag-2027.md) (target **~900 km at Kvikkjokk by ~29 Mar**, start **15 Feb**) — describes range, not pacing prescription.
 
-**2028 plan composite GPX:** [`vita-bandet-2028-composite.gpx`](../tracks/generated/vita-bandet-2028-composite.gpx) — 6 trksegs (one per Section).
+**2027 plan composite GPX:** [`vita-bandet-2027-composite.gpx`](../tracks/generated/vita-bandet-2027-composite.gpx) — 6 trksegs (one per Section).
 
 | Section | Source(s) | Why |
 |---------|-----------|-----|
@@ -10,8 +10,8 @@ Nine completed Band tracks downloaded from [vgb.vitagronabandet.se](https://vgb.
 | 2 Storlien → Gäddede | **Lotta & Björn** | Same source as S1 → clean **0.00 km seam** at Storlien (single continuous track for Sections 1 + 2) |
 | 3 Gäddede → Hemavan | **Kalle** (G→Klimpfjäll) + `lapland-trail-summer.gpx` (Klimpfjäll→Hemavan) | Kalle has 139 dense pts (max gap 1.4 km) G→Klimpfjäll vs Ola's 17 pts (max 13.8 km); marked Lapplandsleden continues to Hemavan |
 | 4 Hemavan → Kvikkjokk | Mårten | Dense, väster om Jäckvik |
-| 5 Kvikkjokk → Abisko | **`2028-plan-kvikkjokk-abisko.gpx`** (own Garmin plan) | 6 902-pt dense planned route on Padjelanta-west / Ritsem then KL via Sälka. Two internal subsegs (§5 K→Sälka, §5b Sälka→Abisko) — 0 km seam at Sälka |
-| 6 Abisko → Pältsa | **`2028-plan-abisko-paltsa.gpx`** (own Garmin plan, from `2028 nord.GPX`) | 12 123 pts · ~168 km · max gap ~7.7 km near Abisko start |
+| 5 Kvikkjokk → Abisko | **`2027-plan-kvikkjokk-abisko.gpx`** (own Garmin plan) | 6 902-pt dense planned route on Padjelanta-west / Ritsem then KL via Sälka. Two internal subsegs (§5 K→Sälka, §5b Sälka→Abisko) — 0 km seam at Sälka |
+| 6 Abisko → Pältsa | **`2027-plan-abisko-paltsa.gpx`** (own Garmin plan, from `2027 nord.GPX`) | 12 123 pts · ~168 km · max gap ~7.7 km near Abisko start |
 
 **Reference point:** Kvikkjokk ≈ `66.9513°N, 17.7285°E`.
 
@@ -93,7 +93,7 @@ S→N · all offsets in **km** · `—` means the hiker did not pass within 50 k
 - **Storlien village:** Erik, Jonathan, Noah, Kalle, Mårten all skipped Storlien (10–43 km off — Undersåker corridor or väster om). Bernhard, Ola, Paolo, Lotta & Björn entered the village. **L&B got closest at 0.44 km** — primary reason it's used for Section 1+2.
 - **Blåhammaren fjällstation:** Only **Bernhard, Ola, Lotta & Björn** pass through (≤ 0.2 km). Everyone else skirts ~9–35 km west or east.
 - **Hemavan village skip:** Noah (11.6 km) and Kalle (12.1 km) went väster om — no village resupply stop. All others within 1.6 km of the ICA.
-- **Ritsem (Section 5 question):** Only **Paolo** went the Padjelanta-west corridor (1.17 km off Ritsem). All other dense tracks (Mårten, Erik, L&B, Noah, Kalle, Bernhard, Jonathan, Ola) took the **Kungsleden / Saltoluokta line** (≥ 28 km off Ritsem). Because Paolo is only 13 pts on Kvikkjokk→Abisko (avg gap ~17 km), Section 5 now uses an **own planned GPX** (`2028-plan-kvikkjokk-abisko.gpx`, 6 902 pts, Garmin Desktop) on the same Padjelanta-west corridor — Ritsem +0.21 km, Sälka +0.01 km, Abisko +0.18 km.
+- **Ritsem (Section 5 question):** Only **Paolo** went the Padjelanta-west corridor (1.17 km off Ritsem). All other dense tracks (Mårten, Erik, L&B, Noah, Kalle, Bernhard, Jonathan, Ola) took the **Kungsleden / Saltoluokta line** (≥ 28 km off Ritsem). Because Paolo is only 13 pts on Kvikkjokk→Abisko (avg gap ~17 km), Section 5 now uses an **own planned GPX** (`2027-plan-kvikkjokk-abisko.gpx`, 6 902 pts, Garmin Desktop) on the same Padjelanta-west corridor — Ritsem +0.21 km, Sälka +0.01 km, Abisko +0.18 km.
 - **Pältsa finish:** Only Ola finishes exactly at Pältsa (0 km). Mårten gets to 0.52 km. The rest stop at Treriksröset (7–8 km north of Pältsa).
 
 ---
@@ -137,13 +137,13 @@ The single big gaps in Mårten (16.7 km, between Klimpfjäll +22 km and +38 km),
 | Slow (15–17) | 17 | Bernhard, Jonathan |
 | Very slow (≤ 15) | 12 | Paolo |
 
-2028 plan target (~20 km/day from 900 km / 44 days to Kvikkjokk) sits in **Moderate**.
+2027 plan target (~20 km/day from 900 km / 44 days to Kvikkjokk) sits in **Moderate**.
 
 ---
 
 ## Storlien vs Undersåker fork
 
-| First village | Tracks | 2028 plan |
+| First village | Tracks | 2027 plan |
 |---------------|--------|-----------|
 | **Storlien** (via Blåhammaren) | Bernhard, Ola, Lotta & Björn, Paolo | **✓ chosen** |
 | Undersåker corridor (west) | Erik, Mårten, Noah, Kalle | — |

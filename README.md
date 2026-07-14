@@ -1,14 +1,13 @@
-# Vita Bandet 2028
+# Vita Bandet 2027
 
-Winter planning for [Fjällfararnas Vita Bandet](https://www.vitagronabandet.se/) — **Grövelsjön → Treriksröset**, solo, ski + pulk, Feb–Apr 2028.
+Winter planning for [Fjällfararnas Vita Bandet](https://www.vitagronabandet.se/) — **Grövelsjön → Treriksröset**, solo, ski + pulk, Feb–Apr 2027.
 
 ## Plan
 
 | Doc | Contents |
 |-----|----------|
-| [vita-bandet-2028.md](plan/vita-bandet-2028.md) | Master plan |
-| [practice-2027-march.md](plan/practice-2027-march.md) | March 2027 rehearsal — STF hut-to-hut |
-| [dag-for-dag-2028.md](plan/dag-for-dag-2028.md) | 65-day itinerary |
-| [resupply-2028.md](plan/resupply-2028.md) | Food & alkylate stops |
-| [gear-inventory-2028.md](plan/gear-inventory-2028.md) | Gear notes |
-| [pack-checklist-2028.md](plan/pack-checklist-2028.md) | Printable pack list |
+| [vita-bandet-2027.md](plan/vita-bandet-2027.md) | Master plan |
+| [dag-for-dag-2027.md](plan/dag-for-dag-2027.md) | 70-day itinerary |
+| [resupply-2027.md](plan/resupply-2027.md) | Food & alkylate stops |
+| [gear-inventory-2027.md](plan/gear-inventory-2027.md) | Gear notes |
+| [pack-checklist-2027.md](plan/pack-checklist-2027.md) | Printable pack list |

@@ -1,8 +1,8 @@
-# Vita Bandet 2028 — packing the pulk
+# Vita Bandet 2027 — packing the pulk
 
 **Solo · S→N · ski + pulk · mostly tent · 67 days**
 
-Practical guide for **what goes where**, **how to load**, and **how much food/fuel** per leg. **Fuel:** liquid **alkylate in bottles only until Abisko** — no gas canisters before day 61. Gear lists: [pack-checklist-2028.md](./pack-checklist-2028.md) · [gear-inventory-2028.md](./gear-inventory-2028.md). Shops: [resupply-2028.md](./resupply-2028.md).
+Practical guide for **what goes where**, **how to load**, and **how much food/fuel** per leg. **Fuel:** liquid **alkylate in bottles only until Abisko** — no gas canisters before day 61. Gear lists: [pack-checklist-2027.md](./pack-checklist-2027.md) · [gear-inventory-2027.md](./gear-inventory-2027.md). Shops: [resupply-2027.md](./resupply-2027.md).
 
 ---
 
@@ -116,7 +116,7 @@ At camp (reverse):
 
 ## Food & fuel by leg
 
-Buy on trail — **8–10 days food** typical; **~4,000–5,000 kcal/day** solo pulk. Meals: [trail-meals-2028.md](./trail-meals-2028.md) · shops: [resupply-2028.md](./resupply-2028.md).
+Buy on trail — **8–10 days food** typical; **~4,000–5,000 kcal/day** solo pulk. Meals: [trail-meals-2027.md](./trail-meals-2027.md) · shops: [resupply-2027.md](./resupply-2027.md).
 
 | Leave | Days to next shop | Food carry | Fuel note |
 |-------|-------------------|------------|-----------|
@@ -131,7 +131,7 @@ Buy on trail — **8–10 days food** typical; **~4,000–5,000 kcal/day** solo 
 
 **Heaviest pulk days:** leaving **Storlien**, **Hemavan**, and **Kvikkjokk** (food + fuel together). Lightest: **2–3 days after** a big shop.
 
-**Optional:** [Kolåsen depot](./resupply-2028.md) after Storlien — drops ~4 days food from the sled early (admin cost).
+**Optional:** [Kolåsen depot](./resupply-2027.md) after Storlien — drops ~4 days food from the sled early (admin cost).
 
 ---
 
@@ -190,7 +190,7 @@ Weigh **loaded pulk + Sleeper** on the shakedown that mimics **day 10 leaving St
 - [ ] **Sleeper bivi drill** — Nallo failed scenario, 20 min (no stove inside)  
 - [ ] **Loaded weight:** ______ kg  
 
-Full kit tests: [pack-checklist-2028.md](./pack-checklist-2028.md#pre-trip-shakedown-tick-when-done).
+Full kit tests: [pack-checklist-2027.md](./pack-checklist-2027.md#pre-trip-shakedown-tick-when-done).
 
 ---
 
@@ -204,11 +204,11 @@ If the tent is unusable: bag + pad already in Sleeper → zip up as wind shell. 
 
 | Doc | Use |
 |-----|-----|
-| [pack-checklist-2028.md](./pack-checklist-2028.md) | Tick-list before departure |
-| [gear-inventory-2028.md](./gear-inventory-2028.md) | Kit detail, pulk & Sleeper specs |
-| [resupply-2028.md](./resupply-2028.md) | Shops, alkylate, carry table |
-| [trail-meals-2028.md](./trail-meals-2028.md) | Breakfast + dinner recipes, protein guide |
-| [dag-for-dag-2028.md](./dag-for-dag-2028.md) | Daily km and resupply days |
+| [pack-checklist-2027.md](./pack-checklist-2027.md) | Tick-list before departure |
+| [gear-inventory-2027.md](./gear-inventory-2027.md) | Kit detail, pulk & Sleeper specs |
+| [resupply-2027.md](./resupply-2027.md) | Shops, alkylate, carry table |
+| [trail-meals-2027.md](./trail-meals-2027.md) | Breakfast + dinner recipes, protein guide |
+| [dag-for-dag-2027.md](./dag-for-dag-2027.md) | Daily km and resupply days |
 
 ---
 
@@ -217,4 +217,4 @@ If the tent is unusable: bag + pad already in Sleeper → zip up as wind shell. 
 - **Light/hybrid (rulk):** [lighterpack.com/r/tzlwle](https://lighterpack.com/r/tzlwle) — **17.7 kg total**, Hilleberg Soulo, single-bag sleep, OmniLite + 350 ml fuel.
 - **Full expedition:** [lighterpack.com/r/169rsn](https://lighterpack.com/r/169rsn) — **49.6 kg total**, Acapulka Featherlight XL, Keron 3, WM Puma + Apex 40 double-bag, 4 L fuel capacity, Lundhags Guide Expedition boots, rated to −40 °C.
 
-See full breakdown and comparison vs your 2028 plan in [pack-checklist-2028.md → Reference packing lists](./pack-checklist-2028.md#reference-packing-lists-other-vita-bandet-hikers).
+See full breakdown and comparison vs your 2027 plan in [pack-checklist-2027.md → Reference packing lists](./pack-checklist-2027.md#reference-packing-lists-other-vita-bandet-hikers).

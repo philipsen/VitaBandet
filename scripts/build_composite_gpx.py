@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Stitch historical Band tracks into a composite GPX for the 2028 plan route.
+Stitch historical Band tracks into a composite GPX for the 2027 plan route.
 
 Output (all under tracks/generated/):
-  - vita-bandet-2028-composite.gpx    Full route as 6 trksegs (one per Section)
+  - vita-bandet-2027-composite.gpx    Full route as 6 trksegs (one per Section)
   - section-1-grovelsjon-storlien.gpx Per-section GPX, with waypoints + camps
   - section-2-storlien-gaddede.gpx   (sections 1–2 are user-managed; not overwritten if present)
   - section-3-gaddede-hemavan.gpx
@@ -13,7 +13,7 @@ Output (all under tracks/generated/):
   - section-N-*-basecamp.gpx          Garmin Basecamp import (route + track + camps)
   - lapland-klimpf-hemavan.gpx        Section 3 lapland-leg only (debug)
 
-Section source mix (best match per dag-for-dag-2028.md):
+Section source mix (best match per dag-for-dag-2027.md):
   1 Grövelsjön → Storlien    Lotta & Björn (single dense track end-to-end:
                              Grövelsjön +0.33, Helags +0.04, Blåhammaren +0.18,
                              Storlien village +0.44 km — best match for plan)
@@ -22,10 +22,10 @@ Section source mix (best match per dag-for-dag-2028.md):
                              17 pts max 13.8 km on this leg),
                              lapland-trail-summer.gpx (Klimpfjäll → Hemavan)
   4 Hemavan → Kvikkjokk      Mårten (Jäckvik W +0.9 km)
-  5 Kvikkjokk → Abisko       2028 plan GPX (Garmin Desktop, 6 902 dense pts,
+  5 Kvikkjokk → Abisko       2027 plan GPX (Garmin Desktop, 6 902 dense pts,
                              avg 38 m): §5 K→Sälka via Padjelanta-west / Ritsem
                              + §5b Sälka→Abisko via Kungsleden
-  6 Abisko → Pältsa          2028-plan-abisko-paltsa.gpx (2028 nord.GPX from Downloads)
+  6 Abisko → Pältsa          2027-plan-abisko-paltsa.gpx (2027 nord.GPX from Downloads)
 """
 
 from __future__ import annotations
@@ -46,6 +46,18 @@ OUT_DIR = ROOT / "tracks" / "generated"
 GPX_NS = "http://www.topografix.com/GPX/1/1"
 GPXX_NS = "http://www.garmin.com/xmlschemas/GpxExtensions/v3"
 ET.register_namespace("gpxx", GPXX_NS)
+
+PLAN_START = datetime(2027, 2, 15)
+
+
+def plan_camp_date(day: int) -> str:
+    return (PLAN_START + timedelta(days=day - 1)).strftime("%Y-%m-%d")
+
+
+def normalize_camps(camps: tuple) -> tuple:
+    """Recompute ISO dates from day numbers (2027 is not a leap year)."""
+    return tuple((t[0], plan_camp_date(t[0]), *t[2:]) for t in camps)
+
 
 # Garmin Basecamp category for section milestone keys (optional resupply / detour pins).
 BASECAMP_MILESTONE_CATEGORY: dict[str, str] = {
@@ -114,97 +126,97 @@ MILESTONES = {
 # Sections 1–2 GPX (track + camp waypoints) are edited by hand — do not overwrite.
 USER_MANAGED_SECTIONS = frozenset({1, 2})
 
-# Camp stops per section — cum km from dag-for-dag-2028.md (placed along the
+# Camp stops per section — cum km from dag-for-dag-2027.md (placed along the
 # section track by interpolated planned km). pin_milestone overrides position
 # with literal milestone coords (resupply pins).
 SECTION1_CAMPS = [
-    (1, "2028-02-15",  14, "Hävlingestugorna", "T", "Länsstyrelsen stugor · ~13 km N of Grövelsjön", "HAVLINGEN"),
-    (2, "2028-02-16",  29, "STF Rogen area", "T", "Tent sites ~100 m from hut · H optional if open (27 Feb–19 Apr)", "ROGEN"),
-    (3, "2028-02-17",  44, "Dalstenshån N",          "T", "North shore · Rogen nature reserve", "DALSTENHAN"),
-    (4, "2028-02-18",  60, "Tänndalen",            "D", "Hamra Livs resup · ~6 km detour west", "HAMRA"),
-    (5, "2028-02-19",  72, "Band line west",       "T", "On track — STF Vålådalen is E detour only", None),
-    (6, "2028-02-20",  90, "Helags approach",      "T", "Mot Helags / Långfjällen", None),
-    (7, "2028-02-21", 109, "Helags väster om",     "T", "STF Helags · Sylarna/Blåhammaren ahead", "HELAGS"),
-    (8, "2028-02-22", 129, "Sylarna väster om",    "T", "STF Sylarna · Blåhammaren tomorrow", "SYLARNA"),
-    (9, "2028-02-23", 147, "Blåhammaren väster om", "T", "STF Blåhammaren · butik/self-catering", "BLAHAMM"),
-    (10, "2028-02-24", 161, "Storlien",             "D", "Coop · resupply",           "STORLIEN"),
+    (1, "2027-02-15",  14, "Hävlingestugorna", "T", "Länsstyrelsen stugor · ~13 km N of Grövelsjön", "HAVLINGEN"),
+    (2, "2027-02-16",  29, "STF Rogen area", "T", "Tent sites ~100 m from hut · H optional if open (27 Feb–19 Apr)", "ROGEN"),
+    (3, "2027-02-17",  44, "Dalstenshån N",          "T", "North shore · Rogen nature reserve", "DALSTENHAN"),
+    (4, "2027-02-18",  60, "Tänndalen",            "D", "Hamra Livs resup · ~6 km detour west", "HAMRA"),
+    (5, "2027-02-19",  72, "Band line west",       "T", "On track — STF Vålådalen is E detour only", None),
+    (6, "2027-02-20",  90, "Helags approach",      "T", "Mot Helags / Långfjällen", None),
+    (7, "2027-02-21", 109, "Helags väster om",     "T", "STF Helags · Sylarna/Blåhammaren ahead", "HELAGS"),
+    (8, "2027-02-22", 129, "Sylarna väster om",    "T", "STF Sylarna · Blåhammaren tomorrow", "SYLARNA"),
+    (9, "2027-02-23", 147, "Blåhammaren väster om", "T", "STF Blåhammaren · butik/self-catering", "BLAHAMM"),
+    (10, "2027-02-24", 161, "Storlien",             "D", "Coop · resupply",           "STORLIEN"),
 ]
 
 SECTION2_CAMPS = [
-    (11, "2028-02-25", 183, "Norder Rensjön",        "T", "Track leaves north end of lake · carry 10–12 days food", None),
-    (12, "2028-02-26", 201, "Skalstugan", "T", "Depot optional", None),
-    (13, "2028-02-27", 221, "Stor-Rensjön N", "T", "Track leaves north end of lake · Hotagen fringe", "STOR_RENSJON"),
-    (14, "2028-02-28", 239, "Mot Kolåsen", "T", "Remote · no scooter spår", None),
-    (15, "2028-02-29", 250, "Kallsedet", "T", "On band track · road 336 corridor", "KALLSEDEt"),
-    (16, "2028-03-01", 271, "Mot Olden", "T", "On track · toward Olden", "MOT_OLDEN"),
-    (17, "2028-03-02", 286, "Olden", "T", "On track — not Valsjöbua (that is D20)", "OLDEN"),
-    (18, "2028-03-03", 305, "Jänsmässholen", "T", "Undersåker väster om corridor (bridge ~55 km E)", "JANSMHOLEN"),
-    (19, "2028-03-04", 326, "Ansättfjällen approach", "T", "", "ANSATT_APP"),
-    (20, "2028-03-05", 346, "Valsjöbua", "D", "Valsjöbua ★ · Bandare vandrarhem", "VALSJO"),
-    (21, "2028-03-06", 366, "North of Vals", "T", "North of Valsjöbyn · after resupply", "NORTH_OF_VALS"),
-    (22, "2028-03-07", 390, "Björkvattnet", "T", "After Valsjöbua resupply", "BJORKVATTNET"),
-    (23, "2028-03-08", 414, "Gäddede väster om", "T", "Optional Blåsjö detour (~35 km off track)", "GADDEDE_W"),
-    (24, "2028-03-09", 416, "Gäddede", "D", "ICA · Frostvikens", "GADDEDE"),
+    (11, "2027-02-25", 183, "Norder Rensjön",        "T", "Track leaves north end of lake · carry 10–12 days food", None),
+    (12, "2027-02-26", 201, "Skalstugan", "T", "Depot optional", None),
+    (13, "2027-02-27", 221, "Stor-Rensjön N", "T", "Track leaves north end of lake · Hotagen fringe", "STOR_RENSJON"),
+    (14, "2027-02-28", 239, "Mot Kolåsen", "T", "Remote · no scooter spår", None),
+    (15, "2027-02-29", 250, "Kallsedet", "T", "On band track · road 336 corridor", "KALLSEDEt"),
+    (16, "2027-03-01", 271, "Mot Olden", "T", "On track · toward Olden", "MOT_OLDEN"),
+    (17, "2027-03-02", 286, "Olden", "T", "On track — not Valsjöbua (that is D20)", "OLDEN"),
+    (18, "2027-03-03", 305, "Jänsmässholen", "T", "Undersåker väster om corridor (bridge ~55 km E)", "JANSMHOLEN"),
+    (19, "2027-03-04", 326, "Ansättfjällen approach", "T", "", "ANSATT_APP"),
+    (20, "2027-03-05", 346, "Valsjöbua", "D", "Valsjöbua ★ · Bandare vandrarhem", "VALSJO"),
+    (21, "2027-03-06", 366, "North of Vals", "T", "North of Valsjöbyn · after resupply", "NORTH_OF_VALS"),
+    (22, "2027-03-07", 390, "Björkvattnet", "T", "After Valsjöbua resupply", "BJORKVATTNET"),
+    (23, "2027-03-08", 414, "Gäddede väster om", "T", "Optional Blåsjö detour (~35 km off track)", "GADDEDE_W"),
+    (24, "2027-03-09", 416, "Gäddede", "D", "ICA · Frostvikens", "GADDEDE"),
 ]
 
 SECTION3_CAMPS = [
-    (25, "2028-03-10", 435, "Vilhelmina fjäll", "T", "Wild camp · carry food for Lapplandsleden leg", None),
-    (26, "2028-03-11", 466, "Borgafjäll väster om", "T", "On track · optional H detour Borgafjäll Hotell (~24 km E)", None),
-    (27, "2028-03-12", 489, "Slipsikstugan", "T", "Länsstyrelsen stuga · 4–6 bunks · unlocked · tent in Mar", "SLIPSIKSTUGAN"),
-    (28, "2028-03-13", 503, "Klimpfjäll", "T", "Optional D Handlar'n (~633 m E) · Lapplandsleden northbound", None),
-    (29, "2028-03-14", 521, "Tjåkkelestugan", "T", "Länsstyrelsen stuga · 6+2 bunks · unlocked", "TJAKKELESTUGAN"),
-    (30, "2028-03-15", 538, "Åtnikstugan", "T", "Länsstyrelsen stuga · unlocked · 200 kr/n if used", "ATNIKSTUGAN"),
-    (31, "2028-03-16", 563, "Mot Arevattnet", "T", "On track between huts · long leg split · tent", None),
-    (32, "2028-03-17", 587, "Arevattnet", "T", "Länsstyrelsen stuga · unlocked", "AREVATTNET"),
-    (33, "2028-03-18", 608, "Atostugan", "T", "Atoklimpen stuga · Risbäcken", "ATOSTUGAN"),
-    (34, "2028-03-19", 629, "Goeblejaevrie", "T", "Lapplandsleden camp site · on track by lake", None),
-    (35, "2028-03-20", 647, "Hemavan", "D", "ICA Fjällboden · STF · halfway · Fjällcenter camping", None),
+    (25, "2027-03-10", 435, "Vilhelmina fjäll", "T", "Wild camp · carry food for Lapplandsleden leg", None),
+    (26, "2027-03-11", 466, "Borgafjäll väster om", "T", "On track · optional H detour Borgafjäll Hotell (~24 km E)", None),
+    (27, "2027-03-12", 489, "Slipsikstugan", "T", "Länsstyrelsen stuga · 4–6 bunks · unlocked · tent in Mar", "SLIPSIKSTUGAN"),
+    (28, "2027-03-13", 503, "Klimpfjäll", "T", "Optional D Handlar'n (~633 m E) · Lapplandsleden northbound", None),
+    (29, "2027-03-14", 521, "Tjåkkelestugan", "T", "Länsstyrelsen stuga · 6+2 bunks · unlocked", "TJAKKELESTUGAN"),
+    (30, "2027-03-15", 538, "Åtnikstugan", "T", "Länsstyrelsen stuga · unlocked · 200 kr/n if used", "ATNIKSTUGAN"),
+    (31, "2027-03-16", 563, "Mot Arevattnet", "T", "On track between huts · long leg split · tent", None),
+    (32, "2027-03-17", 587, "Arevattnet", "T", "Länsstyrelsen stuga · unlocked", "AREVATTNET"),
+    (33, "2027-03-18", 608, "Atostugan", "T", "Atoklimpen stuga · Risbäcken", "ATOSTUGAN"),
+    (34, "2027-03-19", 629, "Goeblejaevrie", "T", "Lapplandsleden camp site · on track by lake", None),
+    (35, "2027-03-20", 647, "Hemavan", "D", "ICA Fjällboden · STF · halfway · Fjällcenter camping", None),
 ]
 
 SECTION4_CAMPS = [
-    (36, "2028-03-21", 667, "Syterstuga west", "T",
+    (36, "2027-03-21", 667, "Syterstuga west", "T",
      "Steep · KL west · STF Syterstuga ~1 km · optional Jäckvik ICA detour E", None),
-    (37, "2028-03-22", 689, "Tärnasjön", "T", "Ice travel · wind funnel", None),
-    (38, "2028-03-23", 710, "Situjaure approach", "T",
+    (37, "2027-03-22", 689, "Tärnasjön", "T", "Ice travel · wind funnel", None),
+    (38, "2027-03-23", 710, "Situjaure approach", "T",
      "Optional D: Ammarnäs Handlar'n + Fritidscenter camping + STF Wärdshus H (~7 km E)", None),
-    (39, "2028-03-24", 732, "Pieljekaise approach", "T",
+    (39, "2027-03-24", 732, "Pieljekaise approach", "T",
      "Optional D: Adolfström Handelsbod (~7 km, phone ahead) · Camping H (~31 km E)", None),
-    (40, "2028-03-25", 753, "Hornavan ice", "T", "Ice check AM only", None),
-    (41, "2028-03-26", 775, "West of Vuoggatjålme", "T",
+    (40, "2027-03-25", 753, "Hornavan ice", "T", "Ice check AM only", None),
+    (41, "2027-03-26", 775, "West of Vuoggatjålme", "T",
      "Optional H/detour: Vuoggatjålme Fjällhotell restaurant + stugor (~21 km E, Silvervägen)", None),
-    (42, "2028-03-27", 797, "Aktse", "T", "Skierffe area · on track", None),
-    (43, "2028-03-28", 819, "Rapadalen west", "T", "Sarek views", None),
-    (44, "2028-03-29", 841, "Sitojaure", "T", "STF Sitojaure ~4 km · tält + serviceavgift if open", None),
-    (45, "2028-03-30", 863, "Kaitumjaure", "T", "Kaitum lakes · on track", None),
-    (46, "2028-03-31", 885, "Toward Kvikkjokk", "T", "Penultimate · Kvikkjokk STF ~2 km ahead", None),
-    (47, "2028-04-01", 905, "Kvikkjokk", "D", "STF max stock · wild T + paid shower", "KVIKK"),
+    (42, "2027-03-27", 797, "Aktse", "T", "Skierffe area · on track", None),
+    (43, "2027-03-28", 819, "Rapadalen west", "T", "Sarek views", None),
+    (44, "2027-03-29", 841, "Sitojaure", "T", "STF Sitojaure ~4 km · tält + serviceavgift if open", None),
+    (45, "2027-03-30", 863, "Kaitumjaure", "T", "Kaitum lakes · on track", None),
+    (46, "2027-03-31", 885, "Toward Kvikkjokk", "T", "Penultimate · Kvikkjokk STF ~2 km ahead", None),
+    (47, "2027-04-01", 905, "Kvikkjokk", "D", "STF max stock · wild T + paid shower", "KVIKK"),
 ]
 
 SECTION5_CAMPS = [
-    (48, "2028-04-02", 922, "Kvikkjokk north", "T", "6–7 days food + all alkylate to Ritsem", None),
-    (49, "2028-04-03", 940, "Padjelanta west", "T", "GPS essential", None),
-    (50, "2028-04-04", 958, "Stora Sjøfallet", "T", "Laponia · no shops", None),
-    (51, "2028-04-05", 976, "Saltoluokta side", "T", "W corridor · STF tent if east detour", None),
-    (52, "2028-04-06", 993, "W of Saltoluokta", "T", "W Saltoluokta", None),
-    (53, "2028-04-07", 1011, "Áhkká / Ritsem fjäll", "T", "", None),
-    (54, "2028-04-08", 1029, "Ritsem approach", "T", "", None),
-    (55, "2028-04-09", 1045, "Ritsem", "D", "Power Fuel alkylate · STF H", "RITSEM"),
-    (56, "2028-04-10", 1063, "Sitojaure", "H", "KL · optional hut top-up", None),
-    (57, "2028-04-11", 1081, "Hukejaure", "T", "W Nikkaluokta · Sarri camping optional", None),
-    (58, "2028-04-12", 1098, "Sälka", "H", "STF Sälka · tent if full", "SALKA"),
-    (59, "2028-04-13", 1116, "Tjäktja", "T", "Steep pass", None),
-    (60, "2028-04-14", 1134, "Alesjaure", "T", "STF tält at hut", None),
-    (61, "2028-04-15", 1152, "Abiskojaure", "T", "Last hut before Abisko village", None),
-    (62, "2028-04-16", 1170, "Abisko", "D", "Fjällboden · STF tent site · Björkliden RV ~10 km", "ABISKO"),
+    (48, "2027-04-02", 922, "Kvikkjokk north", "T", "6–7 days food + all alkylate to Ritsem", None),
+    (49, "2027-04-03", 940, "Padjelanta west", "T", "GPS essential", None),
+    (50, "2027-04-04", 958, "Stora Sjøfallet", "T", "Laponia · no shops", None),
+    (51, "2027-04-05", 976, "Saltoluokta side", "T", "W corridor · STF tent if east detour", None),
+    (52, "2027-04-06", 993, "W of Saltoluokta", "T", "W Saltoluokta", None),
+    (53, "2027-04-07", 1011, "Áhkká / Ritsem fjäll", "T", "", None),
+    (54, "2027-04-08", 1029, "Ritsem approach", "T", "", None),
+    (55, "2027-04-09", 1045, "Ritsem", "D", "Power Fuel alkylate · STF H", "RITSEM"),
+    (56, "2027-04-10", 1063, "Sitojaure", "H", "KL · optional hut top-up", None),
+    (57, "2027-04-11", 1081, "Hukejaure", "T", "W Nikkaluokta · Sarri camping optional", None),
+    (58, "2027-04-12", 1098, "Sälka", "H", "STF Sälka · tent if full", "SALKA"),
+    (59, "2027-04-13", 1116, "Tjäktja", "T", "Steep pass", None),
+    (60, "2027-04-14", 1134, "Alesjaure", "T", "STF tält at hut", None),
+    (61, "2027-04-15", 1152, "Abiskojaure", "T", "Last hut before Abisko village", None),
+    (62, "2027-04-16", 1170, "Abisko", "D", "Fjällboden · STF tent site · Björkliden RV ~10 km", "ABISKO"),
 ]
 
 SECTION6_CAMPS = [
-    (63, "2028-04-17", 1192, "Abisko north", "T", "7–8 days food + ~2 L alkylate", None),
-    (64, "2028-04-18", 1214, "Nikkaluokta W", "T", "W corridor · Sarri camping optional", "NIKKALUOKTA"),
-    (65, "2028-04-19", 1234, "Lappjordhytta", "H", "DNT · no pantry", "LAPPJORD"),
-    (66, "2028-04-20", 1256, "Altevasshytta", "H", "DNT · no pantry", "ALTEVASS"),
-    (67, "2028-04-21", 1273, "Treriksröset", "GOAL", "W goal · wide corridor OK", "TRERIK"),
-    (68, "2028-04-22", 1283, "Pältsa", "D", "STF shop · trip end", "PALTSA"),
+    (63, "2027-04-17", 1192, "Abisko north", "T", "7–8 days food + ~2 L alkylate", None),
+    (64, "2027-04-18", 1214, "Nikkaluokta W", "T", "W corridor · Sarri camping optional", "NIKKALUOKTA"),
+    (65, "2027-04-19", 1234, "Lappjordhytta", "H", "DNT · no pantry", "LAPPJORD"),
+    (66, "2027-04-20", 1256, "Altevasshytta", "H", "DNT · no pantry", "ALTEVASS"),
+    (67, "2027-04-21", 1273, "Treriksröset", "GOAL", "W goal · wide corridor OK", "TRERIK"),
+    (68, "2027-04-22", 1283, "Pältsa", "D", "STF shop · trip end", "PALTSA"),
 ]
 
 
@@ -238,7 +250,7 @@ SECTIONS: list[Section] = [
         ],
         waypoints=["GROVEL", "HAVLINGEN", "ROGEN", "DALSTENHAN", "HAMRA", "SKARVRUET",
                    "HELAGS", "SYLARNA", "BLAHAMM", "STORLIEN"],
-        camps=SECTION1_CAMPS,
+        camps=list(normalize_camps(SECTION1_CAMPS)),
         start_cum_km=0,
     ),
     Section(
@@ -250,7 +262,7 @@ SECTIONS: list[Section] = [
                        "lottas-och-bjorns-band-track.json", "STORLIEN", "GADDEDE"),
         ],
         waypoints=["STORLIEN", "NORDER_RENSJON", "STOR_RENSJON", "OLDEN", "VALSJO", "BLASJOFJALL", "GADDEDE"],
-        camps=SECTION2_CAMPS,
+        camps=list(normalize_camps(SECTION2_CAMPS)),
         start_cum_km=161,
     ),
     Section(
@@ -265,7 +277,7 @@ SECTIONS: list[Section] = [
         ],
         waypoints=["GADDEDE", "BORGAFJALL", "SAXNAS", "KLIMPF", "SLIPSIKSTUGAN", "TJAKKELESTUGAN",
                    "ATNIKSTUGAN", "AREVATTNET", "ATOSTUGAN", "BOXFJALL", "GOEBLEJAEVRIE", "HEMAVAN"],
-        camps=SECTION3_CAMPS,
+        camps=list(normalize_camps(SECTION3_CAMPS)),
         start_cum_km=416,
     ),
     Section(
@@ -277,7 +289,7 @@ SECTIONS: list[Section] = [
                        "martens-band-track.json", "HEMAVAN", "KVIKK"),
         ],
         waypoints=["HEMAVAN", "JACKVIK", "AMMARNAS", "ADOLFSTROM", "VUOGGATJALME", "KVIKK"],
-        camps=SECTION4_CAMPS,
+        camps=list(normalize_camps(SECTION4_CAMPS)),
         start_cum_km=647,
     ),
     Section(
@@ -286,12 +298,12 @@ SECTIONS: list[Section] = [
         filename="section-5-kvikkjokk-abisko.gpx",
         subsegments=[
             SubSegment("§5  Kvikkjokk → Sälka (Padjelanta-west / Ritsem)",
-                       "2028-plan-kvikkjokk-abisko.gpx", "KVIKK", "SALKA"),
+                       "2027-plan-kvikkjokk-abisko.gpx", "KVIKK", "SALKA"),
             SubSegment("§5b Sälka → Abisko (Kungsleden)",
-                       "2028-plan-kvikkjokk-abisko.gpx", "SALKA", "ABISKO"),
+                       "2027-plan-kvikkjokk-abisko.gpx", "SALKA", "ABISKO"),
         ],
         waypoints=["KVIKK", "RITSEM", "SALTOLUOKTA", "SALKA", "NIKKALUOKTA", "ABISKO", "BJORKLIDEN"],
-        camps=SECTION5_CAMPS,
+        camps=list(normalize_camps(SECTION5_CAMPS)),
         start_cum_km=905,
     ),
     Section(
@@ -299,11 +311,11 @@ SECTIONS: list[Section] = [
         title="Abisko → Pältsa",
         filename="section-6-abisko-paltsa.gpx",
         subsegments=[
-            SubSegment("Abisko → Pältsa (2028 plan)",
-                       "2028-plan-abisko-paltsa.gpx", "ABISKO", "PALTSA"),
+            SubSegment("Abisko → Pältsa (2027 plan)",
+                       "2027-plan-abisko-paltsa.gpx", "ABISKO", "PALTSA"),
         ],
         waypoints=["ABISKO", "NIKKALUOKTA", "LAPPJORD", "ALTEVASS", "TRERIK", "PALTSA"],
-        camps=SECTION6_CAMPS,
+        camps=list(normalize_camps(SECTION6_CAMPS)),
         start_cum_km=1170,
     ),
 ]
@@ -712,7 +724,7 @@ def write_section_gpx(
     SubElement(meta, "name").text = f"Section {section.id} — {section.title}"
     sources = ", ".join(sub.source for sub in section.subsegments)
     SubElement(meta, "desc").text = (
-        f"Section {section.id} of Vita Bandet 2028 — {section.title}. "
+        f"Section {section.id} of Vita Bandet 2027 — {section.title}. "
         f"Sources: {sources}."
     )
     trk = SubElement(gpx, "trk")
@@ -759,7 +771,7 @@ def write_basecamp_section_gpx(
     SubElement(meta, "name").text = title
     sources = ", ".join(sub.source for sub in section.subsegments)
     SubElement(meta, "desc").text = (
-        f"Vita Bandet 2028 · {title}. "
+        f"Vita Bandet 2027 · {title}. "
         f"Import into Basecamp: route = direct off-road line; track = recorded line. "
         f"Sources: {sources}."
     )
@@ -813,7 +825,7 @@ def write_basecamp_section_gpx(
 
 def write_composite_gpx(
     section_tracks: list[tuple[Section, list[dict]]],
-    name: str = "Vita Bandet 2028 (composite)",
+    name: str = "Vita Bandet 2027 (composite)",
 ) -> Path:
     gpx = Element("gpx", attrib={
         "version": "1.1", "creator": "VitaBandet composite", "xmlns": GPX_NS,
@@ -821,12 +833,12 @@ def write_composite_gpx(
     meta = SubElement(gpx, "metadata")
     SubElement(meta, "name").text = name
     SubElement(meta, "desc").text = (
-        "Composite route for Vita Bandet 2028 — six trksegs, one per Section. "
+        "Composite route for Vita Bandet 2027 — six trksegs, one per Section. "
         "Sources: Lotta & Björn (S1 Grövelsjön→Storlien + S2 Storlien→Gäddede), "
         "Kalle (S3 Gäddede→Klimpfjäll) + lapland-trail-summer.gpx (S3 Klimpfjäll→Hemavan), "
         "Mårten (S4 Hemavan→Kvikkjokk), "
-        "2028-plan-kvikkjokk-abisko.gpx (S5 + S5b — Padjelanta-west via Ritsem and KL via Sälka), "
-        "2028-plan-abisko-paltsa.gpx (S6 — Nordkalottleden Abisko→Pältsa)."
+        "2027-plan-kvikkjokk-abisko.gpx (S5 + S5b — Padjelanta-west via Ritsem and KL via Sälka), "
+        "2027-plan-abisko-paltsa.gpx (S6 — Nordkalottleden Abisko→Pältsa)."
     )
     trk = SubElement(gpx, "trk")
     SubElement(trk, "name").text = name
@@ -856,7 +868,7 @@ def write_composite_gpx(
             lat, lon = MILESTONES[key]
             add_waypoint(gpx, WPT_LABELS[key], lat, lon)
 
-    out = OUT_DIR / "vita-bandet-2028-composite.gpx"
+    out = OUT_DIR / "vita-bandet-2027-composite.gpx"
     rough = ET.tostring(gpx, encoding="unicode")
     parsed = minidom.parseString('<?xml version="1.0" encoding="UTF-8"?>\n' + rough)
     out.write_text(parsed.toprettyxml(indent="  ", encoding="UTF-8").decode("UTF-8"), encoding="utf-8")
@@ -913,7 +925,7 @@ def main() -> None:
 
     # Assign plan-time stamps across the full route (linear interp by distance).
     all_points = [p for _, flat in section_flat for p in flat]
-    assign_plan_times(all_points, datetime(2028, 2, 15, 10, 0), datetime(2028, 4, 19, 12, 0))
+    assign_plan_times(all_points, datetime(2027, 2, 15, 10, 0), datetime(2027, 4, 25, 12, 0))
 
     # Per-section GPX files.
     section_paths: list[Path] = []

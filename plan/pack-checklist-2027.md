@@ -1,7 +1,7 @@
-# Vita Bandet 2028 — pack checklist
+# Vita Bandet 2027 — pack checklist
 
 **Solo · S→N · 15 Feb–19 Apr · ski + pulk · mostly tent**  
-Print this page. Details: [packing-pulk-2028.md](./packing-pulk-2028.md) · [gear-inventory-2028.md](./gear-inventory-2028.md) · [resupply-2028.md](./resupply-2028.md) · [dag-for-dag-2028.md](./dag-for-dag-2028.md)
+Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gear-inventory-2027.md](./gear-inventory-2027.md) · [resupply-2027.md](./resupply-2027.md) · [dag-for-dag-2027.md](./dag-for-dag-2027.md)
 
 ---
 
@@ -115,7 +115,7 @@ Print this page. Details: [packing-pulk-2028.md](./packing-pulk-2028.md) · [gea
 
 ## Food carry (first leg — adjust per resupply)
 
-- [ ] **8–10 days** food (~4,000–5,000 kcal/day) in **2–3 flat clear boxes** — see [packing-pulk-2028.md](./packing-pulk-2028.md#food-boxes-23-flat-clear-containers)
+- [ ] **8–10 days** food (~4,000–5,000 kcal/day) in **2–3 flat clear boxes** — see [packing-pulk-2027.md](./packing-pulk-2027.md#food-boxes-23-flat-clear-containers)
 - [ ] Snacks / bars / drink mix
 - [ ] Tea/coffee small supply
 - [ ] **Alkylate** full bottles from home
@@ -204,9 +204,9 @@ Sanity-check your kit against these published Lighterpack lists from prior Vita 
 
 **Style:** Full expedition rig. Double sleep system, double cooking redundancy (2 pots, 4 L fuel capacity), serious cold-weather face protection (Bekö Cheeko + Fantom), spare BC binding carried.
 
-### Comparison vs your 2028 plan
+### Comparison vs your 2027 plan
 
-| Topic | A · 2024 (light) | B · Expedition | **Your 2028 plan** |
+| Topic | A · 2024 (light) | B · Expedition | **Your 2027 plan** |
 |-------|------------------|----------------|--------------------|
 | Pulk | "Rulk" hybrid | Acapulka Featherlight XL 150 (5.2 kg) | **Jemtlander 14** + **Fjellpulken Sleeper 200** |
 | Tent | Hilleberg Soulo (2.27 kg, 1p) | Hilleberg Keron 3 (3.8 kg) + 2p Windsack | **Hilleberg Nallo 3GT** |
@@ -218,7 +218,7 @@ Sanity-check your kit against these published Lighterpack lists from prior Vita 
 | Comms | inReach Mini | inReach Mini 2 + dual power banks | **inReach + GPSMAP 68i** |
 | Total | 17.7 kg | 49.6 kg | **target ~25–30 kg total loaded** |
 
-**Take-aways for your 2028 list:**
+**Take-aways for your 2027 list:**
 
 - [ ] **Fuel capacity** — list B carries **4 L** between shops; you plan **1.3 L** (add 2nd 1 L bottle). Re-confirm your **g/day at −15 °C** measurement justifies the lighter carry, especially **Kvikkjokk → Ritsem** (6–7 days, no fuel source). If shakedown shows > ~150 ml/day, you need closer to **1.5–1.8 L**.
 - [ ] **Double-pad** — list B uses inflatable + foam. Your plan has Xlite + foam backup; confirm both pack onto pulk (Sleeper 200 has room).
@@ -229,4 +229,4 @@ Sanity-check your kit against these published Lighterpack lists from prior Vita 
 
 ---
 
-*Vita Bandet 2028 · pack checklist v1*
+*Vita Bandet 2027 · pack checklist v1*

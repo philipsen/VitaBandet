@@ -1,12 +1,12 @@
-# Vita Bandet 2028 — trail meals (breakfast + 29 dinners)
+# Vita Bandet 2027 — trail meals (breakfast + 29 dinners)
 
 **Solo · pot + pan · fuel-conscious · shop along the route**
 
-Breakfast and dinners for camp cooking on **Optimus OmniLite** + **TOAKS 1600 ml** (pot) with **pan/lid** (~142 mm fry pan). **Lunch:** mostly **bars + nötter** on ski days; **Polarbröd/knäcke + salami** when you want a change. Dinners aim at **one boil + short simmer** (or soak-only where noted). Portions are **one hungry skier** (~600–900 kcal per dinner before snacks); add **olive oil, cheese, or nuts** if you need more. Target **~4,000–5,000 kcal/day** total with lunch snacks ([packing-pulk](./packing-pulk-2028.md)).
+Breakfast and dinners for camp cooking on **Optimus OmniLite** + **TOAKS 1600 ml** (pot) with **pan/lid** (~142 mm fry pan). **Lunch:** mostly **bars + nötter** on ski days; **Polarbröd/knäcke + salami** when you want a change. Dinners aim at **one boil + short simmer** (or soak-only where noted). Portions are **one hungry skier** (~600–900 kcal per dinner before snacks); add **olive oil, cheese, or nuts** if you need more. Target **~4,000–5,000 kcal/day** total with lunch snacks ([packing-pulk](./packing-pulk-2027.md)).
 
 **Shops:** ICA Nära / Coop / Eurocash / Handlar'n / STF butik — staples below are normal Swedish/Norwegian grocery stock (Feb–Apr). Village livs may lack fresh herbs or fancy cheese; substitutes noted.
 
-Related: [resupply-2028.md](./resupply-2028.md) · [packing-pulk-2028.md](./packing-pulk-2028.md) · [gear-inventory-2028.md](./gear-inventory-2028.md)
+Related: [resupply-2027.md](./resupply-2027.md) · [packing-pulk-2027.md](./packing-pulk-2027.md) · [gear-inventory-2027.md](./gear-inventory-2027.md)
 
 ---
 
@@ -170,7 +170,7 @@ Plain **canned chicken breast** is **not** standard in Swedish shops. Use these 
 | **STF small / kiosk** | Blåhammaren, Kvikkjokk, Gränssjö | Granola **bars** more likely than bulk müsli | Basics + frystorkat; top up at last big shop |
 | **No shop** | Padjelanta D48–54 | Carry from Kvikkjokk | Carry from Kvikkjokk |
 
-See [resupply-2028.md](./resupply-2028.md) for shop details.
+See [resupply-2027.md](./resupply-2027.md) for shop details.
 
 ---
 
@@ -588,4 +588,4 @@ At each **D** shop: buy **frozen/fresh meat** for the first half of the leg (pul
 
 ---
 
-*Last updated: 2028 planning · verify village stock by phone where noted in [resupply-2028.md](./resupply-2028.md).*
+*Last updated: 2027 planning · verify village stock by phone where noted in [resupply-2027.md](./resupply-2027.md).*

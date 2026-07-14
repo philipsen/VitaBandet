@@ -1,10 +1,10 @@
-# Resupply 2028 — local first
+# Resupply 2027 — local first
 
 **Strategy:** Buy food and fuel **on trail** at shops and fjällstations. Use **depot boxes only** for items you cannot get locally (rare spare parts, specific diet, extra fuel cache if you run short).
 
 Source: [vitagronabandet.se — service & depåer](https://www.vitagronabandet.se/infor-turen/service-depaer/) (verify opening hours before you leave).
 
-Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days. Meals: [trail-meals-2028.md](./trail-meals-2028.md).
+Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [trail-meals-2027.md](./trail-meals-2027.md).
 
 ---
 
@@ -24,7 +24,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days. Meals: [tr
 | **Nötter** | **Yes** — everywhere | Cashew, mandel, jordnötter, mix |
 | **Salami / chark** | **Yes** — ICA+; village livs | Lunch variation with Polarbröd/knäcke |
 | **Plain canned chicken** | **No** | Not standard Swedish stock |
-| **Corned beef, skinka, pilsnerkorv** (burk) | **Yes** — ICA+; often village livs | Backup / tail of leg — see [trail-meals](./trail-meals-2028.md) |
+| **Corned beef, skinka, pilsnerkorv** (burk) | **Yes** — ICA+; often village livs | Backup / tail of leg — see [trail-meals](./trail-meals-2027.md) |
 | **Frozen & fresh meat** (korv, kyckling, bacon, köttfärs) | **Yes** — full ICA/Coop; Ritsem STF chilled | **Primary protein in cold** — pulk keeps frozen **~5–7 days** Feb–Mar |
 | **Felix köttbullar / ravioli** (burk) | **Yes** — everywhere | Ready-meal tins |
 | **Tonfisk** | Yes but optional | Skip if you prefer — use corned beef instead |
@@ -107,9 +107,9 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days. Meals: [tr
 
 ---
 
-## Restaurants & sit-down meals along the route (winter 2028)
+## Restaurants & sit-down meals along the route (winter 2027)
 
-*Confirmed open during likely 2028 pass-through dates (2026 schedule as proxy). Phone or pre-book where noted — many run on small kitchens with limited covers.*
+*Confirmed open during likely 2027 pass-through dates (2026 schedule as proxy). Phone or pre-book where noted — many run on small kitchens with limited covers.*
 
 | Day | Place | What | Hours / book | Why stop |
 |-----|-------|------|--------------|----------|
@@ -214,7 +214,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days. Meals: [tr
 
 **Contact:** 0647 81017 / 070 685 1442 · info@kolasen.se / bokningen@kolasen.se · Kolåsens Fjällhotell 1, 837 93 Järpen.
 
-**Opening (2026):** Hotell & restaurang 20 Feb – 25 Apr; Sportstugan **året om**. 2028 likely similar — verify.
+**Opening (2026):** Hotell & restaurang 20 Feb – 25 Apr; Sportstugan **året om**. 2027 likely similar — verify.
 
 **Use it as:** comfortable **H** with hot middag after Storlien push; or just Sportstugan self-catering year-round if you arrive between hotel seasons. Pre-book middag the day before — they take limited covers and Sunday closures occur in winter.
 
@@ -263,14 +263,14 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days. Meals: [tr
 
 ### Day 7–8 — Helags / Sylarna (väster om) · STF east detour
 
-*Band track passes **west** of **STF Helags** (D7) and **STF Sylarna** (D8). Full cluster (Storulvån / Sylarna / Blåhammaren / Helags) opens **19–21 Feb 2026** (verify 2028).*
+*Band track passes **west** of **STF Helags** (D7) and **STF Sylarna** (D8). Full cluster (Storulvån / Sylarna / Blåhammaren / Helags) opens **19–21 Feb 2026** (verify 2027).*
 
 | Station | Opens (2026) | Restaurant | Butik | Notes |
 |---------|--------------|------------|-------|-------|
 | **STF Storulvån Fjällstation** | 19 Feb – 19 Apr | **Yes** — frukost + middag | Yes (STF Small/Large) | Roadhead from Enafors; biggest hub |
-| **STF Sylarna Fjällstation** | 20 Feb – 19 Apr | **Yes** — frukost + 2-rätters middag from 18:00 | Yes | Restaurant **closes by 2028** per arrendeavtal — verify nearer the trip |
+| **STF Sylarna Fjällstation** | 20 Feb – 19 Apr | **Yes** — frukost + 2-rätters middag from 18:00 | Yes | Restaurant **closes by 2027** per arrendeavtal — verify nearer the trip |
 | **STF Blåhammaren Fjällstation** | 20 Feb – 19 Apr | **CLOSED** since Jan 2024 | Yes (basics) | 30 beds · self-catering only · no restaurant |
-| **STF Helags Fjällstation** | 21 Feb – 19 Apr | **Yes** (closes by 2028) | Yes | Verify restaurant status closer to date |
+| **STF Helags Fjällstation** | 21 Feb – 19 Apr | **Yes** (closes by 2027) | Yes | Verify restaurant status closer to date |
 
 **Use it as:** warm meal + **H** only if weather forces an **east detour** to a station. Routine plan: camp **väster om** on the Band track.
 
@@ -315,7 +315,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days. Meals: [tr
 
 **Contact handlar'n:** 0940 70016 · marsfjallshandlarn@gmail.com · Mon–Fri 09:30–17:30 · Sat 10–15 · Sun closed.
 
-**Use it as:** optional mid-leg **D** on Vildmarksvägen — splits 9–10 days into ~3 + ~6 if you detour from D26/D27 track camps. Marsfjällshandlarn is well-stocked for outdoor needs (frystorkad, isdubbar). Note: lodge closed for renovation **16 Apr – 4 Jun 2026**; our 2028 pass is ~9 Mar so unaffected, but check 2028 status.
+**Use it as:** optional mid-leg **D** on Vildmarksvägen — splits 9–10 days into ~3 + ~6 if you detour from D26/D27 track camps. Marsfjällshandlarn is well-stocked for outdoor needs (frystorkad, isdubbar). Note: lodge closed for renovation **16 Apr – 4 Jun 2026**; our 2027 pass is ~10 Mar so unaffected, but check 2027 status.
 
 ---
 
@@ -413,7 +413,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days. Meals: [tr
 
 **Contact:** 070-617 30 41 · info@adolfstrom.com · Adolfström 16, 938 93 Laisvall.
 
-**Opening:** **Posted hours only v.14–15** (Mon–Lör 11–18, Sön 14–18 around Påsk). All other times *"ring eller maila så öppnar vi"*. Our pass-through is ~**20–22 Mar 2028 ≈ week 12** — **by-arrangement only**, so phone 1–2 weeks before from Hemavan if you want to count on it.
+**Opening:** **Posted hours only v.14–15** (Mon–Lör 11–18, Sön 14–18 around Påsk). All other times *"ring eller maila så öppnar vi"*. Our pass-through is ~**21–23 Mar 2027 ≈ week 12** — **by-arrangement only**, so phone 1–2 weeks before from Hemavan if you want to count on it.
 
 **Use it as:** secondary mid-leg top-up if Ammarnäs Handlar'n was thin, or as an **H** stop for cabin + sauna in Pieljekaise approach. Don't depend on it without a confirmed call.
 
@@ -511,7 +511,7 @@ Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days. Meals: [tr
 
 Useful as **storm refuge, emergency resupply, or transport options** if you need to drop off the line. Not part of the routine VGB plan.
 
-| Place | Status (2026 → assume similar 2028) | Why off-route | When to use |
+| Place | Status (2026 → assume similar 2027) | Why off-route | When to use |
 |-------|-------------------------------------|----------------|-------------|
 | **Funäsdalen** (ICA Supermarket Coop) | Year-round full village — Rörosvägen 13A · 0684 21007 | ~15 km east of Tänndalen / Day 4–5 line | Storm hold; resupply for both food + bus rescue |
 | **Skalstugan** (border guesthouse, Day 12) | **Private SEB pension** — outsiders only "i mån av plats" (full pension) | On Storlien–Kolåsen scooter line | Skip — not a public stop |
@@ -552,13 +552,13 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 | → Abisko | 7 | Day 55 Ritsem ★ | **Refill alkylate** (Power Fuel) + 6–7 days food |
 | → Treriksröset | 6 | Day 62 Abisko ★ | **7–8 days food**; **~2 L alkylate** |
 
-Adjust for your kcal (~4,000–5,000/day pulk). **Where it goes on the sled:** [packing-pulk-2028.md](./packing-pulk-2028.md).
+Adjust for your kcal (~4,000–5,000/day pulk). **Where it goes on the sled:** [packing-pulk-2027.md](./packing-pulk-2027.md).
 
 ---
 
 ## Checklist before departure
 
-Linked to [dag-for-dag-2028.md](./dag-for-dag-2028.md) resupply days.
+Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days.
 
 - [ ] **DNT key** + membership (hut access Lappjord, Altevass, Gaskash, Rostah) — **no food for sale**  
 - [ ] **DNT app** for hut payment / registration if required (not pantry)  
