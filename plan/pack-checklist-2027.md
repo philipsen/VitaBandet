@@ -12,6 +12,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] **Down booties** — insulated sole (Rab / WM class) — [booties](./gear-considerations-2027.md#down-booties-camp)
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
+- [ ] **USB headlamp** — USB-C rechargeable (Petzl Actik Core / Nitecore class) — [headlamp](./gear-considerations-2027.md#headlamp-usb)
 - [ ] **2× power bank** 20k mAh USB-C + wall charger 30–45 W + cables
 - [ ] **Fairphone** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
 - [x] **DNT key** + membership
@@ -72,11 +73,11 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 
 ## Nav & comms
 
-- [ ] **GPSMAP 68i** + AA **lithium** ×12–16 + inReach active
+- [ ] **GPSMAP 68i** + USB-C cable + inReach active
 - [ ] **Fairphone** + **OsmAnd+** maps downloaded
 - [ ] Compass + paper maps
 - [ ] **2× power bank** (one warm in jacket while skiing)
-- [ ] Headlamp + spare batteries/charge cable
+- [ ] **USB headlamp** + USB-C charge cable
 
 ---
 

@@ -162,16 +162,16 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 | **Fairphone** | **OsmAnd+** offline + GPX at camp |
 | **inReach Mini 3+** | Optional if 68i not on body daily |
 | **2× 20k power banks** | Primary recharge strategy |
-| **Solar 15–28 W** | Optional Mar–Apr supplement only |
+| **USB headlamp** | **Buy** — camp / tent; see [headlamp](#headlamp-usb) |
 
 ### inReach Mini 3+ vs 68i
 
 | | **68i** | **Mini 3+** |
 |---|---------|-------------|
-| Navigation | **Excellent** — buttons, AA power | Basic; mainly messaging |
+| Navigation | **Excellent** — buttons, maps | Basic; mainly messaging |
 | Satellite | inReach (with plan) | inReach (with plan) |
 | Carry | Often pulk — **SOS useless if buried** | **Inside jacket** |
-| Battery | **AA lithium** — better in cold | Li-ion — needs USB |
+| Battery | **USB Li-ion** — expedition mode | Li-ion — USB |
 
 1. Confirm **68i inReach plan** before buying Mini.  
 2. If 68i **on body** daily: Mini is **optional** redundancy.  
@@ -201,11 +201,67 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 | Item | Qty | Notes |
 |------|-----|-------|
 | Power bank 20k USB-C PD | **2** | Warm in jacket before use |
-| AA lithium | **12–16** | 68i — not alkaline in Feb |
-| Wall charger 30–45 W | 1 | Resupply nights |
-| Solar 15–28 W | 0–1 | **Feb poor**; marginal Mar–Apr |
+| Wall charger 30–45 W | 1 | Resupply nights — 68i · phone · headlamp |
+| **USB headlamp** | **1** | **Buy** — see [headlamp](#headlamp-usb) |
+| USB-C cables | 2–3 short | 68i · Fairphone · headlamp |
 
 Charge at every **★** resupply; sleep with phone + one bank in bag foot on cold tent nights.
+
+---
+
+## Headlamp (USB)
+
+**Status:** **Need** — buy new **USB-C rechargeable** headlamp before Feb 2027.
+
+**Job:** Tent setup, cooking, melting, vestibule tasks, late hut arrival — **Feb–Apr dark hours**. Not primary nav (that's **68i** + **OsmAnd**).
+
+### Why USB (not AA)
+
+| AA headlamp | USB headlamp ★ |
+|-------------|----------------|
+| Second battery system in cold | Same workflow as **68i** + **Fairphone** |
+| Alkaline dies fast in Feb | Top up from **power banks** at camp |
+| Lithium AAs add weight + cost | One **wall charger** at resupply covers all |
+
+**No AA cells needed** anywhere in the kit if headlamp is USB.
+
+### What to look for
+
+| Feature | Why |
+|---------|-----|
+| **USB-C recharge** | Matches power banks + wall charger |
+| **≥300 lm** on medium | Enough for Nallo pitch in −20 °C |
+| **Red / low mode** | Preserve night vision in tent |
+| **IPX4+** | Snow, melt drip |
+| **Headband fits over hat** | Test with balaclava |
+| **~60–100 g** | Worth carrying daily |
+| **Runtime** | Check **manufacturer spec at 0 °C** — marketing numbers are optimistic |
+
+### Options
+
+| Lamp | Weight | Comment |
+|------|--------|---------|
+| **Petzl Actik Core** ★ | ~75 g | USB rechargeable core; proven winter standard |
+| **Nitecore NU43 / NU53** | ~70–95 g | USB-C; good value |
+| **Black Diamond Spot 400-R** | ~85 g | USB recharge; flood + spot |
+| **Fenix HM65R** | ~100 g | Bright; USB-C — heavier |
+
+**Skip:** AAA/AA-only lamps; built-in non-replaceable battery with **proprietary** dock only (hard to charge in hut).
+
+### On trip
+
+| Task | Light |
+|------|-------|
+| Skiing / track | **68i** screen or no light |
+| Tent pitch, stove, melt | **Headlamp** medium |
+| Inside tent / hut | **Red** or lowest white |
+| Recharge | USB-C from warm power bank; full top-up at **★** resupply |
+
+**Cold tip:** keep headlamp (or spare bank) **inside jacket** 30 min before a long camp session if battery feels flat.
+
+**Shakedown:** pitch **Nallo** at dusk with gloves; confirm band over hat and USB charge from power bank.
+
+**Verdict:** **Buy one USB-C lamp** (**Petzl Actik Core** or **Nitecore NU43** class). Short USB-C cable in repair/nav pouch.
 
 ---
 

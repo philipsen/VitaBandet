@@ -15,7 +15,7 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | Normal list | Bandet 2027 |
 |-------------|-------------|
 | Paspoort, rijbewijs, pinpas, portefuille | ✓ — waterproof pouch |
-| NKBV kaart | Optional |
+| NKBV kaart | ✓ |
 | **DNT nummer + DNT sleutel** | ✓ — Norway huts after Abisko |
 
 ### Tocht
@@ -34,8 +34,6 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | Brander + benzine | **OmniLite** ✓ · **2× 1 L alkylate** |
 | Pan | **TOAKS Ti 1600 ml Pot with Pan** ✓ |
 
-**New on Bandet:** **Jemtlander 14** · **Sleeper 200** · **inReach** on 68i · no **lawine** set
-
 ### Eten
 
 Buy on trail every **~8–10 days** — [resupply-2027.md](./resupply-2027.md). Carry **~4,000–5,000 kcal/day** per leg.
@@ -46,22 +44,9 @@ Buy on trail every **~8–10 days** — [resupply-2027.md](./resupply-2027.md). 
 |-------|------|
 | Base | **2+2** merino ✓ |
 | Ski socks | **Buy 4–5** new heavy merino |
-| Shell | Confirm owned — [gaps](#gaps) |
+| Shell | Confirm owned |
 | Camp | Dry base set · **Hesta** ×2 ✓ · insulation jacket |
 | Dons sloffen | **Buy** — [booties](./gear-considerations-2027.md#down-booties-camp) |
-
-### Gaps
-
-| Item | Action |
-|------|--------|
-| Stokken | **Buy** |
-| Skins | **Long reglue** or replace |
-| Ski socks | **Buy 4–5** |
-| Down booties | **Buy** — [booties](./gear-considerations-2027.md#down-booties-camp) |
-| Shell jacket + pants | Confirm owned |
-| Fairphone | Before trip |
-| inReach / 68i plan | Activate |
-| **2× 1 L** fuel bottles | ✓ Own |
 
 ---
 
@@ -100,7 +85,6 @@ Buy on trail every **~8–10 days** — [resupply-2027.md](./resupply-2027.md). 
 | Bottle | Status |
 |--------|--------|
 | **1 L × 2** | ✓ Own — **~2 L** max carry |
-| 0.3 L | **Not taking** |
 
 | Leg | Days | Carry |
 |-----|------|-------|
@@ -195,11 +179,9 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 | inReach Mini 3+ | | 0–1 | | **?** | If 68i in pulk |
 | Phone | **Fairphone** | 1 | | **Buy** | OsmAnd+ |
 | Power bank 20k | USB-C PD | 2 | | **Need** | |
-| AA lithium | | 12–16 | | **Need** | 68i |
-| USB-C + wall charger | PD 30–45 W | 1 set | | **Need** | |
-| Solar 15–28 W | | 0–1 | | Optional | |
+| USB-C + wall charger | PD 30–45 W | 1 set | | **Need** | 68i · phone · headlamp |
 | Compass + paper maps | Fjällkarta 1:100k | 1 set | | **Need** | |
-| Headlamp | USB or battery | 1 | | ? | |
+| Headlamp | **USB-C rechargeable** | 1 | | **Buy** | [headlamp](./gear-considerations-2027.md#headlamp-usb) |
 
 ### Safety & repair
 
@@ -261,7 +243,7 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 
 1. **Long skins** — reglue or replace + wax + glue tube  
 2. **Ski poles** — Ingstad Alloy + baskets + flex tip + sleeve  
-3. **Power** — 2× 20k banks, AA lithium, charger; **Fairphone**; OsmAnd maps; inReach plan  
+3. **Power** — 2× 20k banks, wall charger, **USB headlamp**; **Fairphone**; OsmAnd maps; inReach plan  
 4. **New ski socks** (4–5) + **down booties**; **shell** if missing  
 5. **OmniLite** service kit; fill **2× 1 L** bottles  
 6. Tent upgrade **only after** shakedown — [considerations](./gear-considerations-2027.md#tent--nallo-3gt--upgrades)
@@ -270,7 +252,7 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 
 ## Links
 
-- [gear-considerations-2027.md](./gear-considerations-2027.md) — poles, skins, tent/pad upgrades, nav, VBL, booties  
+- [gear-considerations-2027.md](./gear-considerations-2027.md) — poles, skins, tent/pad upgrades, nav, headlamp, VBL, booties  
 - [pack-checklist-2027.md](./pack-checklist-2027.md)  
 - [packing-pulk-2027.md](./packing-pulk-2027.md)  
 - [resupply-2027.md](./resupply-2027.md)  
