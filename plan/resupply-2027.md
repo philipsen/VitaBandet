@@ -560,9 +560,9 @@ Adjust for your kcal (~4,000–5,000/day pulk). **Where it goes on the sled:** [
 
 Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days.
 
-- [ ] **DNT key** + membership (hut access Lappjord, Altevass, Gaskash, Rostah) — **no food for sale**  
+- [x] **DNT key** + membership (hut access Lappjord, Altevass, Gaskash, Rostah) — **no food for sale**  
 - [ ] **DNT app** for hut payment / registration if required (not pantry)  
 - [ ] Confirm **ICA / STF winter opening** by phone for Feb–Mar stops — refresh [stf-openings-2027.md](./stf-openings-2027.md) (`python3 scripts/scrape_stf_openings.py`)  
 - [ ] Bottles filled with **alkylaatbenzine**; white-gas jet tested with silencer  
 - [ ] **Kvikkjokk + Hemavan** — alkylate stock confirmed by phone  
-- [ ] Swedish cash for Pältsa; card usually OK at STF/ICA  
+- [x] Swedish cash for Pältsa; card usually OK at STF/ICA  

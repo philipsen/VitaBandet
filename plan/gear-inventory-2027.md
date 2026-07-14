@@ -2,7 +2,7 @@
 
 **Trip:** solo · S→N · Feb–Apr · ski + **pulk** · ~65 days · mostly **tent**
 
-**Core kit:** Hilleberg **Nallo 3GT** · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Lowland K2** ✓ · **Exped Ultra 7R** ★ · **NeoAir XLite** ✓ · **OmniLite Ti** + silencer · **2× 1 L** fuel · **Jemtlander 14** + **Sleeper 200** · **TOAKS 1600 ml** ✓ · **GPSMAP 68i** · **OsmAnd+**
+**Core kit:** Hilleberg **Nallo 3GT** · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Lowland K2** ✓ · **Exped Ultra 7R** ✓ · **NeoAir XLite** ✓ · **OmniLite Ti** + silencer · **2× 1 L** fuel · **Jemtlander 14** + **Sleeper 200** · **TOAKS 1600 ml** ✓ · **GPSMAP 68i** · **OsmAnd+**
 
 Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** [gear-considerations-2027.md](./gear-considerations-2027.md). **Packing:** [packing-pulk-2027.md](./packing-pulk-2027.md). **Print list:** [pack-checklist-2027.md](./pack-checklist-2027.md).
 
@@ -16,7 +16,7 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 |-------------|-------------|
 | Paspoort, rijbewijs, pinpas, portefuille | ✓ — waterproof pouch |
 | NKBV kaart | Optional |
-| **DNT nummer + DNT sleutel** | **Need** — Norway huts after Abisko |
+| **DNT nummer + DNT sleutel** | ✓ — Norway huts after Abisko |
 
 ### Tocht
 
@@ -24,12 +24,12 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 |-------------|-------------|
 | Ski’s | **Åsnes Ingstad BC** ✓ |
 | Schoenen | **Alfa Outback + Xplore** ✓ |
-| Vellen | Short **Åsnes** + long — **reglue** |
+| Vellen | Short **Åsnes** ✓ + long — **reglue long** |
 | Stokken | **Buy** — [poles](./gear-considerations-2027.md#ski-poles) |
 | GPS + kaarten | **GPSMAP 68i** ✓ · **OsmAnd+** · paper backup |
 | Telefoon | **Fairphone** + offline maps |
 | Tent | **Nallo 3GT** ✓ |
-| Slaapmat | **Ultra 7R** ★ · **XLite** ✓ |
+| Slaapmat | **Ultra 7R** ✓ · **XLite** ✓ |
 | Winterslaapzak | **Lowland K2** ✓ |
 | Brander + benzine | **OmniLite** ✓ · **2× 1 L alkylate** |
 | Pan | **TOAKS Ti 1600 ml Pot with Pan** ✓ |
@@ -48,20 +48,19 @@ Buy on trail every **~8–10 days** — [resupply-2027.md](./resupply-2027.md). 
 | Ski socks | **Buy 4–5** new heavy merino |
 | Shell | Confirm owned — [gaps](#gaps) |
 | Camp | Dry base set · **Hesta** ×2 ✓ · insulation jacket |
-| Dons sloffen | **Skip** |
+| Dons sloffen | **Buy** — [booties](./gear-considerations-2027.md#down-booties-camp) |
 
 ### Gaps
 
 | Item | Action |
 |------|--------|
 | Stokken | **Buy** |
-| Skins | **Reglue** or replace |
-| DNT sleutel | **Buy** |
+| Skins | **Long reglue** or replace |
 | Ski socks | **Buy 4–5** |
+| Down booties | **Buy** — [booties](./gear-considerations-2027.md#down-booties-camp) |
 | Shell jacket + pants | Confirm owned |
 | Fairphone | Before trip |
 | inReach / 68i plan | Activate |
-| **Exped Ultra 7R** | **Buy** ★ |
 | **2× 1 L** fuel bottles | ✓ Own |
 
 ---
@@ -71,7 +70,7 @@ Buy on trail every **~8–10 days** — [resupply-2027.md](./resupply-2027.md). 
 | System | Choice | Notes |
 |--------|--------|-------|
 | Skis / boots / binding | Ingstad · Outback · Xplore | [details](./gear-considerations-2027.md#ski-system) |
-| Skins | Short + long after reglue | [skins](./gear-considerations-2027.md#climbing-skins) |
+| Skins | Short ✓ + long after reglue | [skins](./gear-considerations-2027.md#climbing-skins) |
 | Poles | **Åsnes Ingstad Alloy** (buy) | Size on shakedown |
 | Pulk | **Jemtlander 14** | Sleep in **Sleeper 200** |
 | Tent | **Nallo 3GT** | [upgrades](./gear-considerations-2027.md#tent--nallo-3gt--upgrades) |
@@ -126,7 +125,7 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 | Item | Model / spec | Qty | Weight (g) | Own | Need | Notes |
 |------|--------------|-----|------------|-----|------|-------|
 | Skis | Åsnes **Ingstad BC** | 1 pair | ~2400 | ✓ | | Wax, edge tune |
-| Skins — short | **Åsnes** Skinlock | 1 pair | ~200? | ✓ | **Reglue** | No glue |
+| Skins — short | **Åsnes** Skinlock | 1 pair | ~200? | ✓ | | Trip-ready |
 | Skins — long | Full-length old | 1 pair | ~400? | ✓ | **Reglue** | Padjelanta / Lappjord |
 | Skin wax | Pomoca bicolor | 1 | | | **Need** | |
 | Skin glue tube | | 1 small | | | **Need** | Field patches only |
@@ -136,7 +135,7 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 | Pulk | **Jemtlander 14** (200 L) | 1 | ~5300 | ✓ | **Test** | |
 | Pulk harness | (with J14) | 1 | incl. | ✓ | | |
 | Sleep carry | **Sleeper 200** | 1 | ~1400 | ✓ | | Bag + Ultra 7R inside |
-| Booties | | **0** | — | — | **Skip** | Liners / unlaced Outback in hut |
+| Booties | Down camp — sole | 1 pair | ~120–200 | | **Buy** | [booties](./gear-considerations-2027.md#down-booties-camp) |
 
 ### Shelter
 
@@ -152,7 +151,7 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 |------|--------------|-----|------------|-----|------|-------|
 | Sleeping bag | **Lowland K2** Expedition | 1 | ~1995 | ✓ | | −35 °C comfort · 1250 g 95% down |
 | Compress / dry bag | | 1+ | | | ? | |
-| Sleeping pad | **Exped Ultra 7R** LW | 1 | ~855 | | **Buy** ★ | D1–62 in Sleeper |
+| Sleeping pad | **Exped Ultra 7R** LW | 1 | ~855 | ✓ | | D1–62 in Sleeper |
 | Sleeping pad | **NeoAir XLite** | 1 | ~400 | ✓ | | Optional switch D62+ |
 | Pad repair + pump | | 1 | | | ? | |
 | Liner bag | silk / synth | 1 | | | ? | Huts |
@@ -164,6 +163,7 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 | Merino base top / bottom | 2+2 | ✓ | | |
 | Ski socks (heavy merino) | 4–5 | | **Buy** | [socks](./gear-considerations-2027.md#socks--vbl) |
 | Camp socks | 1–2 | | **Buy** | |
+| Down booties | 1 pair | | **Buy** | [booties](./gear-considerations-2027.md#down-booties-camp) |
 | VBL liners | 0–1 | | **Test** | Optional |
 | Underwear merino | 3 | ✓ | | |
 | Mid fleece | 1 | | ? | |
@@ -205,12 +205,10 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 
 | Item | Qty | Own | Need | Notes |
 |------|-----|-----|------|-------|
-| First aid | 1 | | ? | |
-| Emergency bivvy | **0** | — | **Skip** | Sleeper 200 backup |
-| Avy set | **0** | — | **Skip** | Track route |
-| Ski / binding / fabric repair | 1 kit each | | ? | |
+| First aid | 1 | ✓ | | Compeed + sport tape |
+| Ski / binding / fabric repair | 1 kit each | ✓ | | multitool · duct tape |
 | Duct tape on pole | 1 | | ? | |
-| **DNT key** | 1 | | **Need** | |
+| **DNT key** | 1 | ✓ | | |
 | Sunscreen, goggles, glasses | 1+1+1 | | ? | |
 | Hand warmers | **0** | — | **Skip** | |
 
@@ -218,13 +216,11 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 
 | Item | Own | Need | Notes |
 |------|-----|------|-------|
-| Dry bags | | ? | 6+ |
-| Toilet kit | | ? | |
+| Dry bags | ✓ | | 6+ |
+| Toilet kit | ✓ | | soap · TP |
 | Toothpicks (raggertjes) | ✓ | | |
 | Documents waterproof | | | |
-| Cash SEK/NOK | | ? | Pältsa |
-| Hut shoes | **Skip** | | |
-| Town clothes | **Skip** | | |
+| Cash SEK/NOK | ✓ | | |
 
 ---
 
@@ -251,7 +247,7 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 |---|------|-------|
 | 1 | 3 nights **Nallo 3GT** sub −20 °C, pulk in vestibule | |
 | 2 | **J14 + Sleeper** — 8 h, 18–22 km, 10-day load | |
-| 3 | **Skins** after reglue — short/long/fishscale, pulk on hill | |
+| 3 | **Skins** — short ✓ + long after reglue; fishscale; pulk on hill | |
 | 4 | **68i** skiing + **OsmAnd** GPX; inReach test | |
 | 5 | **OmniLite** + silencer on alkylate at −20 °C — **g/day** | |
 | 6 | Sleep: **Lowland K2 + Ultra 7R** at −15 °C | |
@@ -263,20 +259,18 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 
 ## Purchase priority
 
-1. **Skins** — reglue or new Åsnes short + wax + glue tube  
-2. **Exped Ultra 7R** LW + pump + repair kit  
-3. **Ski poles** — Ingstad Alloy + baskets + flex tip + sleeve  
-4. **Power** — 2× 20k banks, AA lithium, charger; **Fairphone**; OsmAnd maps; inReach plan  
-5. **DNT key**  
-6. **New ski socks** (4–5); **shell** if missing  
-7. **OmniLite** service kit; fill **2× 1 L** bottles  
-8. Tent upgrade **only after** shakedown — [considerations](./gear-considerations-2027.md#tent--nallo-3gt--upgrades)
+1. **Long skins** — reglue or replace + wax + glue tube  
+2. **Ski poles** — Ingstad Alloy + baskets + flex tip + sleeve  
+3. **Power** — 2× 20k banks, AA lithium, charger; **Fairphone**; OsmAnd maps; inReach plan  
+4. **New ski socks** (4–5) + **down booties**; **shell** if missing  
+5. **OmniLite** service kit; fill **2× 1 L** bottles  
+6. Tent upgrade **only after** shakedown — [considerations](./gear-considerations-2027.md#tent--nallo-3gt--upgrades)
 
 ---
 
 ## Links
 
-- [gear-considerations-2027.md](./gear-considerations-2027.md) — poles, skins, tent/pad upgrades, nav, VBL  
+- [gear-considerations-2027.md](./gear-considerations-2027.md) — poles, skins, tent/pad upgrades, nav, VBL, booties  
 - [pack-checklist-2027.md](./pack-checklist-2027.md)  
 - [packing-pulk-2027.md](./packing-pulk-2027.md)  
 - [resupply-2027.md](./resupply-2027.md)  

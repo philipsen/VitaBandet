@@ -7,28 +7,30 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 
 ## Buy / fix before departure
 
-- [ ] **Skins** — reglue short + long, or new Åsnes short (+ skin wax + glue tube)
+- [ ] **Long skins** — reglue or replace (+ skin wax + glue tube); short Åsnes ✓
 - [ ] **Ski poles** — Åsnes Ingstad Alloy (or Start) + 2 spare baskets + flex tip + repair sleeve
+- [ ] **Down booties** — insulated sole (Rab / WM class) — [booties](./gear-considerations-2027.md#down-booties-camp)
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
 - [ ] **2× power bank** 20k mAh USB-C + wall charger 30–45 W + cables
 - [ ] **Fairphone** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
-- [ ] **DNT key** + membership
+- [x] **DNT key** + membership
 - [ ] **Garmin inReach plan** on GPSMAP 68i (Mini 3+ optional)
 - [ ] **OmniLite** service kit
 - [ ] **Shell** jacket + pants (if missing)
 - [ ] **Paper Fjällkarta** strips (backup)
-- [ ] **Exped Ultra 7R** LW + pump + pad repair kit — primary pad in Sleeper
+- [x] **Exped Ultra 7R** LW + pump + pad repair kit — primary pad in Sleeper
 - [ ] **Alkylate** — fill bottles at home; phone **Hemavan + Kvikkjokk** for stock
 
 ---
 
 ## Admin & papers
 
-- [ ] Passport · driving licence · bank card · cash SEK/NOK
+- [ ] Passport · driving licence · bank card
+- [x] Cash SEK/NOK
 - [ ] VGB registration / insurance docs (waterproof pouch)
 - [ ] Emergency contacts loaded (inReach + phone)
-- [ ] DNT number + **DNT key**
+- [x] DNT number + **DNT key**
 
 ---
 
@@ -37,7 +39,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] Skis **Åsnes Ingstad BC** + wax + edge check
 - [ ] Boots **Alfa Outback** + **Xplore** + spare laces / insoles
 - [ ] Binding **Xplore** + spare pins/straps
-- [ ] Skins **short Åsnes** + **long** (after reglue)
+- [ ] Skins **short Åsnes** ✓ + **long** (after reglue)
 - [ ] Poles **new** + pole repair sleeve
 - [ ] Pulk **Jemtlander 14** + harness
 - [ ] **Sleeper 200** on pulk — **bag + pad** in dry bags inside
@@ -86,6 +88,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 | 3 | Underwear merino |
 | 4–5 | **New** ski socks heavy |
 | 1–2 | Camp socks |
+| 1 pair | **Down booties** (camp/hut) |
 | 2 | Buff |
 | 1 | Mid fleece |
 | 1 | Insulation / down jacket |
@@ -96,19 +99,19 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 | 2 | Hat / balaclava |
 | 1 | Sun cap (April) |
 
-**Not bringing:** funnel · cloth · bottle insulator · down booties · Crocs · town clothes · hand warmers · avy kit
+**Not bringing:** funnel · cloth · bottle insulator · Crocs · town clothes · hand warmers · avy kit
 
 ---
 
 ## Personal & repair
 
-- [ ] First aid + Compeed + sport tape
-- [ ] Repair: ski/base · binding · fabric/zip · multitool · duct tape
+- [x] First aid + Compeed + sport tape
+- [x] Repair: ski/base · binding · fabric/zip · multitool · duct tape
 - [ ] Sunscreen + lip SPF · glasses + goggles
-- [ ] Toilet kit · soap · TP
+- [x] Toilet kit · soap · TP
 - [ ] Toothbrush/paste · small towel · toothpicks
 - [ ] Earplugs
-- [ ] Dry bags ×6+
+- [x] Dry bags ×6+
 - [ ] Whistle · emergency bivvy **skip** (Sleeper bivi if tent fails)
 
 ---
@@ -158,7 +161,7 @@ S→N: each point **east** of track. Wide corridor OK.
 
 - [ ] Nallo + pulk 3 nights ≤ −20 °C
 - [ ] 8 h / 20 km day, 10-day pulk load
-- [ ] Skins reglued — on/off in gloves
+- [ ] Long skins reglued — on/off in gloves
 - [ ] Alkylate g/day measured · silencer boil test
 - [ ] Sleep test: bag + pad on snow
 - [ ] **Sleeper 200** on pulk — repack bag + pad after each camp
@@ -211,7 +214,7 @@ Sanity-check your kit against these published Lighterpack lists from prior Vita 
 | Pulk | "Rulk" hybrid | Acapulka Featherlight XL 150 (5.2 kg) | **Jemtlander 14** + **Fjellpulken Sleeper 200** |
 | Tent | Hilleberg Soulo (2.27 kg, 1p) | Hilleberg Keron 3 (3.8 kg) + 2p Windsack | **Hilleberg Nallo 3GT** |
 | Sleep | Marmot Never Summer −10/−18 only | WM Puma −25 °C + EE Apex 40 quilt + Piteraq | **Lowland K2** + Sleeper 200 bivi backup |
-| Pad | Nemo Tensor + Naturehike CCF (torso) | Xtherm MAX + Z-Lite full | **Ultra 7R** ★ + **XLite** ✓ (Abisko switch) |
+| Pad | Nemo Tensor + Naturehike CCF (torso) | Xtherm MAX + Z-Lite full | **Ultra 7R** ✓ + **XLite** ✓ (Abisko switch) |
 | Stove | OmniLite + 1× 350 ml | OmniLite Ti + **1 L + 1 L + 2 L** = 4 L capacity | OmniLite + **2× 1 L** (~2 L carry) |
 | Boots | Alpina Alaska (light XC BC) | Lundhags Guide Expedition (heavy expedition) | **Alfa Outback / Xplore** |
 | Skis | Fischer E89 Easy Skin (light tour) | Åsnes Amundsen Fram 187 (expedition BC) | **Åsnes Ingstad BC** |

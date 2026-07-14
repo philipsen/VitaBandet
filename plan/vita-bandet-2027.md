@@ -43,7 +43,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 | When | Milestone |
 |------|-----------|
 | 2025–2026 | Confirm route variant (direction: **S → N** ✓) · gear trials · training |
-| **Autumn 2026** | Skins reglue / ski fixes · shakedowns |
+| **Autumn 2026** | Long skins reglue / ski fixes · shakedowns |
 | **Jan–Feb 2027** | Register route; notify contacts; last equipment check |
 | **Expedition** | **15 Feb – ~25 Apr 2027** |
 
@@ -111,14 +111,14 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 | **Jemtlander 14** (200 L) + **Sleeper 200** | Pulk; **Sleeper = sleep system** (bag + pad on sled) |
 | **TOAKS Ti 1600 ml Pot with Pan** | Owned — OmniLite melt + cook |
 | **Lowland K2** (−35 °C) | **Excellent** for Feb–Apr |
-| **Exped Ultra 7R** | **Buy** — primary pad in Sleeper (Feb → Abisko) |
+| **Exped Ultra 7R** | Primary pad in Sleeper (Feb → Abisko) ✓ |
 | **Therm-a-Rest NeoAir XLite** | Owned — backup; **optional switch** at Abisko for final ~8 days |
 | **Optimus OmniLite Ti + silencer** | Owned — **alkylaatbenzine** on trail |
 | **OsmAnd+** | Owned — download offline maps + VGB GPX on Fairphone before Feb |
 
 ### Buy / test next
 
-**Skins: reglue/replace**, **Exped Ultra 7R** + pump, ski poles, **new merino ski socks** (4–5), **2× power banks**, **Fairphone**, **OsmAnd+** maps + GPX, paper maps, **inReach plan** (68i), DNT key, **2× 1 L fuel bottles**, OmniLite service kit, skin wax, **shell** if missing *(merino base + 2× **Hesta** owned; VBL optional)*.
+**Long skins: reglue/replace**, ski poles, **new merino ski socks** (4–5), **2× power banks**, **Fairphone**, **OsmAnd+** maps + GPX, paper maps, **inReach plan** (68i), **2× 1 L fuel bottles**, OmniLite service kit, skin wax, **shell** if missing *(short Åsnes ✓; **Ultra 7R** ✓; **DNT key** ✓; merino base + 2× **Hesta** owned; VBL optional)*.
 
 ### Shakedown trips
 | Date | Location | Duration | Lessons learned |
@@ -202,3 +202,4 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 | 2026-05-19 | **Section 6:** Abisko → Treriksröset via Nordkalottleden (Lappjord / Altevass) |
 | 2026-06-03 | **Target year moved to 2027** — all plan dates shifted; practice trip dropped |
 | 2026-07-14 | **Sleep pad:** **Exped Ultra 7R** primary in Sleeper (Feb → Abisko); optional **XLite** switch at D62 |
+| 2026-07-14 | **Exped Ultra 7R** ✓ bought |

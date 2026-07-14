@@ -11,7 +11,7 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 | **Skis** | Åsnes **Ingstad BC** | **Good** — classic long-distance BC; fishscale + skin insert; stable with load. Less fun on steep downhill with heavy pulk. |
 | **Boots** | Alfa **Outback** (Xplore) | **Good** — expedition warmth; break in fully before Feb. |
 | **Binding** | **Rottefella Xplore** | **Good** — carry spare pins/straps. |
-| **Skins** | Short Åsnes + long old — **no glue** | **Must reglue or replace** — see [skins](#climbing-skins) |
+| **Skins** | Short **Åsnes** ✓ + long old (**no glue**) | **Long: reglue or replace** — see [skins](#climbing-skins) |
 | **Poles** | **Need new** | See [poles](#ski-poles) |
 
 **Shakedown:** Xplore flex with pulk harness; kick-turn with day-1 load; **8 h day with pulk**.
@@ -67,10 +67,10 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 
 ## Climbing skins
 
-**Status:** Both pairs **no working glue** — not trip-ready until **full reglue** or **replace**.
+**Status:** **Short Åsnes** ✓ trip-ready. **Long old** — **no working glue**; not trip-ready until **full reglue** or **replace**.
 
-| Set | Role (after fix) |
-|-----|----------------|
+| Set | Role |
+|-----|------|
 | **Short Åsnes** | **Primary** — Skinlock on Ingstad; fishscale + short skin = most days |
 | **Long old** | **Padjelanta / Lappjord** sustained climbs — not all-day on flats |
 
@@ -88,24 +88,23 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 
 | Option | What | Comment |
 |--------|------|---------|
-| **A — Reglue both** ★ | Strip + full reglue | Cheapest if fabric OK — autumn 2026 |
-| **B — New short only** | Åsnes X-Skin 45/58 mm | Reglue long if width fits |
-| **C — Replace both** | New short + full-length | If long fabric worn |
-| **D — No skins** | Wax only | **Not recommended** for Padjelanta + pulk |
+| **A — Reglue long** ★ | Strip + full reglue | Cheapest if fabric OK — autumn 2026 |
+| **B — Replace long** | New full-length | If long fabric worn |
+| **C — No skins** | Wax only | **Not recommended** for Padjelanta + pulk |
 
-**Timeline:** reglue → cure 24–72 h → freeze test → shakedown with **loaded pulk** on a climb.
+**Timeline:** reglue long → cure 24–72 h → freeze test → shakedown with **loaded pulk** on a climb (short Åsnes already OK).
 
-### Carry (once glued)
+### Carry
 
 | Item | Qty |
 |------|-----|
-| Short Åsnes | 1 pair |
-| Long old | 1 pair (pulk) |
+| Short Åsnes | 1 pair ✓ |
+| Long old | 1 pair (pulk; after reglue) |
 | Skin wax | 1 stick |
 | Glue tube | 1 small (field patch only) |
 | Spare ski strap | 1 |
 
-**Verdict:** **Priority fix** before Feb 2027 — do not start with dead glue.
+**Verdict:** **Long skins** — priority fix before Feb 2027; do not start Padjelanta/Lappjord with dead glue on the long pair.
 
 ---
 
@@ -283,7 +282,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 |--------|---------|--------|---------|
 | XLite + foam torso | ~4.5+2 | +200–300 g | Budget Feb fix |
 | **NeoAir XTherm NXT** | 7.3 | ~450 g | Lightest true winter air pad |
-| **Exped Ultra 7R** ★ | 7.1 | ~855 g | **Chosen** — down-insulated |
+| **Exped Ultra 7R** ✓ | 7.1 | ~855 g | **Owned** — down-insulated |
 | **Exped Dura 8R** | 7.8 | ~1215 g | Warmest; bulky |
 
 ### Chosen pad plan
@@ -322,6 +321,65 @@ See [resupply-2027.md](./resupply-2027.md) for shop list.
 | **Cons** | Clammy; blisters if wrinkled | Wet socks freeze; must dry daily |
 
 **Recommendation:** Start **without VBL** on shakedown. Try VBL only if feet stay wet **3+ days**. **One pair** max if adopted.
+
+---
+
+## Down booties (camp)
+
+**Status:** **Need** — buy before Feb 2027.
+
+**Job:** Camp and hut footwear after long days in **Outback**; extra foot warmth in **Lowland K2** on cold tent nights. **Not** trail footwear — ski boots only while moving.
+
+### Why buy (not skip)
+
+Earlier plan: unlaced **Outback** in hut, no camp shoe. For **65 days** that leaves:
+
+| Without booties | With booties |
+|-----------------|--------------|
+| Heavy shell boots for every camp task | Boots off early — **dry and air** in vestibule |
+| Cold feet cooking / melting in tent | Warm down around camp socks |
+| Crocs skipped (no insulation) | ~**150 g** for real comfort gain |
+| Feet rely on bag alone at night | Wear **in bag foot** on −20…−30 °C nights |
+
+**Verdict vs Crocs:** **Booties win** — lighter, warmer, pack smaller. Crocs stay **off** the list.
+
+### What to look for
+
+| Feature | Why |
+|---------|-----|
+| **Insulated sole** (EVA / synthetic / light rubber) | STF/DNT hut floors, vestibule mat — not bare down on wet snow |
+| **Down 650+ or ~150 g+ synthetic** | Feb camp; fine in sleeping bag |
+| **~120–200 g / pair** | Worth carrying for daily use |
+| **Ankle height** | Warmer; still stuffs small |
+| **DWR upper + water-resistant base** | Melting snow at tent door |
+| **Size up one** | Over **camp socks**; optional in-bag wear |
+
+### Options
+
+| Bootie | Weight (pair) | Insulation | Comment |
+|--------|---------------|------------|---------|
+| **Rab Down Sleep Bootie** ★ | ~180 g | 650 down | Nylon sole — good hut/tent default |
+| **Western Mountaineering Booty** | ~170–220 g | goose down | Expedition standard; durable sole |
+| **Exped Down Booty** | ~130–180 g | down | Light — confirm sole version (not sock-only) |
+| **Rab Latok Extreme Bootie** | ~250 g | Primaloft | Damp-tolerant; heavier — if feet run cold/wet |
+| **Cumulus Magic Booties** | ~100 g | down | Minimal sole — **tent/bag only** |
+
+**Skip:** down “socks” with no sole; heavy après boots; duplicate Crocs.
+
+### On trip
+
+| Situation | Footwear |
+|-----------|----------|
+| Tent — cook, melt, sleep | **Booties** (+ camp socks if needed) |
+| STF / DNT hut | **Booties** on dry floor; **Outback** unlaced nearby to dry |
+| Vestibule / quick outside | **Booties** on dry mat — **not** slush; step into Outback if wet |
+| Ski day | **Outback + Xplore** only |
+
+**Packing:** dry bag with camp clothes or inside bag stuff sack — keep **dry**, away from wet ski socks.
+
+**Shakedown:** one sub −15 °C tent night — boots off at camp, booties for cook + in bag; confirm sole grips Nallo floor.
+
+**Verdict:** **Buy one pair** with a real sole (**Rab Down Sleep Bootie** or **WM Booty** class). Pair with **1–2 camp socks** from [socks](#socks--vbl).
 
 ---
 
