@@ -93,7 +93,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 | 1 pair | **Down booties** (camp/hut) |
 | 2 | Buff |
 | 1 | Mid fleece |
-| 1 | Insulation / down jacket |
+| 1 | **Rab down jacket** ✓ (insulation) |
 | 1 | Shell jacket + shell pants |
 | 1 | Softshell / touring pants |
 | 2 sets | **Hesta** mittens (rotate) |
