@@ -477,8 +477,8 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **STF Abisko Fjällboden** | Limited food + outdoor | **Power Fuel / alkylbensin** ★ liquid tins · **canisters OK from here** | Decant **~2 L** for Norway leg |
-| **Godisfabriken Supermarket** Abisko Östra (~2 km) | **Large grocery** — buy **7–8 days** here | Check store | Depot to STF with “utkörning till företag” |
+| **STF Abisko Fjällboden** | Limited food + outdoor | **Power Fuel / alkylbensin** ★ liquid tins · **canisters OK from here** | Decant **~2 L** for Norway leg · **XLite pad depot** |
+| **Godisfabriken Supermarket** Abisko Östra (~2 km) | **Large grocery** — buy **7–8 days** here | Check store | Depot to STF with “utkörning till företag” · **XLite pad** |
 
 **Load for Norway leg:** all food Abisko → Pältsa; **~2 L alkylate**; DNT huts = shelter only.
 
@@ -533,7 +533,7 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 | Gäddede / Pilgrims | Extra cache before long Vilhelmina leg (usually **no**) |
 | STF Kvikkjokk | Extra Padjelanta food (shop is decent — try local first) |
 | STF Ritsem | Rare — shop is Large+ |
-| STF Abisko | Catch-up before Norway leg if running low |
+| STF Abisko | Catch-up before Norway leg if running low · **NeoAir XLite** pad (optional late-leg switch) |
 
 **vitagronabandet advice:** prefer buying locally; depots stress small businesses’ storage.
 

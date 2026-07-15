@@ -112,7 +112,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 | **TOAKS Ti 1600 ml Pot with Pan** | Owned — OmniLite melt + cook |
 | **Lowland K2** (−35 °C) | **Excellent** for Feb–Apr |
 | **Exped Ultra 7R** | Primary pad in Sleeper (Feb → Abisko) ✓ |
-| **Therm-a-Rest NeoAir XLite** | Owned — backup; **optional switch** at Abisko for final ~8 days |
+| **Therm-a-Rest NeoAir XLite** | Owned — **ship to Abisko**; optional switch for final ~8 days |
 | **Optimus OmniLite Ti + silencer** | Owned — **alkylaatbenzine** on trail |
 | **OsmAnd+** | Owned — download offline maps + VGB GPX on Fairphone before Feb |
 
@@ -201,5 +201,5 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 | 2026-05-19 | **Section 5:** Kvikkjokk → Sälka via Padjelanta-west / Ritsem |
 | 2026-05-19 | **Section 6:** Abisko → Treriksröset via Nordkalottleden (Lappjord / Altevass) |
 | 2026-06-03 | **Target year moved to 2027** — all plan dates shifted; practice trip dropped |
-| 2026-07-14 | **Sleep pad:** **Exped Ultra 7R** primary in Sleeper (Feb → Abisko); optional **XLite** switch at D62 |
+| 2026-07-15 | **XLite:** not in pulk — ship to Abisko; **Ultra 7R** only until optional D62 switch |
 | 2026-07-14 | **Exped Ultra 7R** ✓ bought |

@@ -27,7 +27,7 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 - Tent (Nallo 3GT), stakes, repair
 - Food for the leg, stove, fuel, pot
 - Spare clothes, repair kit, most electronics
-- **Sleeper 200** with bag + **Ultra 7R** inside (**XLite** in main bag until optional Abisko switch)
+- **Sleeper 200** with bag + **Ultra 7R** inside (**XLite** shipped to Abisko — not in pulk)
 
 ### On you while skiing
 
@@ -46,7 +46,7 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 |------|---------|-------|
 | **Lowland K2** | Dry bag → **Sleeper** | Vent/fluff at camp; liner in huts |
 | **Exped Ultra 7R** | Dry bag → **Sleeper** (primary) | Pump in main bag |
-| **NeoAir XLite** | Stuff sack → **main pulk** | Switch into Sleeper at Abisko if desired |
+| **NeoAir XLite** | **Ship to Abisko** (STF depot) | Pick up D62 · switch into Sleeper if desired |
 | Nallo 3GT | Main bag, **middle/top** | Last out at camp, first in next morning if wet |
 | Food (leg) | Main bag **bottom** — **flat clear boxes** | Dense, heavy; repack after every shop |
 | Alkylate bottles | Main bag **bottom centre**, upright | **Liquid only** until Abisko; separate from food |

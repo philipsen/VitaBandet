@@ -53,7 +53,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] Tent **Nallo 3GT** + stakes **12+** alu snow/sand + guy line + repair kit
 - [ ] Sleeping bag **Lowland K2** + dry bag + **liner** ✓ → **Sleeper 200**
 - [ ] Pad **Exped Ultra 7R** + pump + repair kit + dry bag → **Sleeper 200** (active)
-- [x] Pad **NeoAir XLite** ✓ + stuff sack → **main pulk** (backup · optional switch at Abisko D62)
+- [x] Pad **NeoAir XLite** ✓ — **ship to Abisko** (not in pulk · optional switch at D62)
 
 ---
 
@@ -216,7 +216,7 @@ Sanity-check your kit against these published Lighterpack lists from prior Vita 
 | Pulk | "Rulk" hybrid | Acapulka Featherlight XL 150 (5.2 kg) | **Jemtlander 14** + **Fjellpulken Sleeper 200** |
 | Tent | Hilleberg Soulo (2.27 kg, 1p) | Hilleberg Keron 3 (3.8 kg) + 2p Windsack | **Hilleberg Nallo 3GT** |
 | Sleep | Marmot Never Summer −10/−18 only | WM Puma −25 °C + EE Apex 40 quilt + Piteraq | **Lowland K2** + Sleeper 200 bivi backup |
-| Pad | Nemo Tensor + Naturehike CCF (torso) | Xtherm MAX + Z-Lite full | **Ultra 7R** ✓ + **XLite** ✓ (Abisko switch) |
+| Pad | Nemo Tensor + Naturehike CCF (torso) | Xtherm MAX + Z-Lite full | **Ultra 7R** ✓ in pulk · **XLite** ✓ ship to Abisko |
 | Stove | OmniLite + 1× 350 ml | OmniLite Ti + **1 L + 1 L + 2 L** = 4 L capacity | OmniLite + **2× 1 L** (~2 L carry) |
 | Boots | Alpina Alaska (light XC BC) | Lundhags Guide Expedition (heavy expedition) | **Alfa Outback / Xplore** |
 | Skis | Fischer E89 Easy Skin (light tour) | Åsnes Amundsen Fram 187 (expedition BC) | **Åsnes Ingstad BC** |
@@ -226,7 +226,7 @@ Sanity-check your kit against these published Lighterpack lists from prior Vita 
 **Take-aways for your 2027 list:**
 
 - [ ] **Fuel capacity** — list B carries **4 L** between shops; you carry **2× 1 L** (**~2 L** max). Re-confirm **g/day** on shakedown at **−15 °C**; if > ~250 ml/day, Padjelanta leg may need a partial top-up at Kvikkjokk.
-- [ ] **Double-pad** — **Ultra 7R** in Sleeper + **XLite** ✓ in main bag until optional Abisko switch; confirm both fit (Sleeper 200 has room).
+- [ ] **Pad switch (optional)** — ship **XLite** ✓ to Abisko ahead of D62; **Ultra 7R** only in Sleeper until then (~400 g saved in pulk)
 - [ ] **Face protection** — list B carries Bekö Cheeko + Fantom for storms. Add **balaclava or face mask** to your list if you don't already (currently just buff + beanie).
 - [ ] **Spare BC binding** — list B carries one. Worth considering for solo 65-day route; weighs ~250 g.
 - [ ] **Pulk bag IKEA Frakta** — list B carries a cheap big blue Ikea bag inside the pulk for organising / emergency raft. Practical free trick.

@@ -674,7 +674,7 @@ Almost through the mountains.
 #### Day 62 · Sat 17 Apr · 13 km (cum 1133) · ↑24 m ↓144 m · Abisko · **D**
 
 Ski into **Abisko** turiststation. **Fjällboden** + **Godisfabriken** (2 km). **Major resupply:** pack **7–8 days food** + fuel for Abisko → Pältsa — DNT huts have **no pantry**.  
-**Pad (optional):** swap **Exped Ultra 7R → NeoAir XLite** in Sleeper for final ~8 days (~450 g lighter) if April ground is warm enough — ship Ultra home via post/Bussgods or keep as backup. See [gear-inventory](./gear-inventory-2027.md).  
+**Pad (optional):** **XLite** shipped ahead to Abisko — not in pulk. At D62 swap **Exped Ultra 7R → NeoAir XLite** in Sleeper for final ~8 days (~450 g lighter) if April ground is warm enough — ship Ultra home via post/Bussgods or keep as backup. See [gear-inventory](./gear-inventory-2027.md).  
 **Camping:** STF **tent site** in nationalpark (service fee; winter showers **Keron** hostel ~400 m) · **no RV** — **[Björkliden Camping](https://bjorkliden.com/)** ~10 km (pre-book winter).  
 Prepare for **Section 6** Abisko → Pältsa — **Nordkalottleden** via **Lappjord** and **Altevass**.
 

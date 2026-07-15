@@ -29,7 +29,7 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | GPS + kaarten | **GPSMAP 68i** ✓ · **OsmAnd+** · paper backup |
 | Telefoon | **Fairphone** + offline maps |
 | Tent | **Nallo 3GT** ✓ |
-| Slaapmat | **Ultra 7R** ✓ · **XLite** ✓ |
+| Slaapmat | **Ultra 7R** ✓ only in pulk · **XLite** ✓ ship to Abisko |
 | Winterslaapzak | **Lowland K2** ✓ |
 | Brander + benzine | **OmniLite** ✓ · **2× 1 L alkylate** |
 | Pan | **TOAKS Ti 1600 ml Pot with Pan** ✓ |
@@ -60,7 +60,7 @@ Buy on trail every **~8–10 days** — [resupply-2027.md](./resupply-2027.md). 
 | Pulk | **Jemtlander 14** | Sleep in **Sleeper 200** |
 | Tent | **Nallo 3GT** | [upgrades](./gear-considerations-2027.md#tent--nallo-3gt--upgrades) |
 | Bag | **Lowland K2** ✓ | −35 °C comfort · ~2 kg |
-| Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
+| Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ (ship to Abisko) · foam torso backup **consider** | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
 | Stove | **OmniLite** + silencer | **2 L** max alkylate |
 | Pot | **TOAKS Ti 1600 ml + pan** ✓ | ~231 g · [cooking](./gear-considerations-2027.md#cooking--toaks-ti-1600-ml) |
 | Nav | **68i** + **OsmAnd+** | [comms](./gear-considerations-2027.md#navigation-comms--power) |
@@ -71,14 +71,14 @@ Buy on trail every **~8–10 days** — [resupply-2027.md](./resupply-2027.md). 
 |------|-------|
 | **Lowland K2** | Dry bag → Sleeper |
 | **Ultra 7R** | Dry bag → Sleeper |
-| **XLite** | Main pulk until Abisko switch |
+| **XLite** | **Not in pulk** — ship to Abisko (D62); optional switch into Sleeper |
 
 ### Pad schedule
 
 | Days | Pad in Sleeper |
 |------|----------------|
 | **1–62** | **Exped Ultra 7R** |
-| **63–70** (optional) | **NeoAir XLite** at Abisko |
+| **63–70** (optional) | **NeoAir XLite** — pick up at Abisko; swap into Sleeper |
 
 ### Fuel (liquid alkylate until Abisko)
 
@@ -136,7 +136,7 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 | Sleeping bag | **Lowland K2** Expedition | 1 | ~1995 | ✓ | | −35 °C comfort · 1250 g 95% down |
 | Compress / dry bag | | 6+ | | ✓ | | Enough for bag + pad + clothes |
 | Sleeping pad | **Exped Ultra 7R** LW | 1 | ~855 | ✓ | | D1–62 in Sleeper · incl. pump + repair kit |
-| Sleeping pad | **NeoAir XLite** | 1 | ~400 | ✓ | | Optional switch D62+ |
+| Sleeping pad | **NeoAir XLite** | 1 | ~400 | ✓ | | Ship to Abisko · optional switch D62+ |
 | Liner bag | silk / synth | 1 | | ✓ | | Huts |
 
 ### Clothing
@@ -211,7 +211,7 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 | Food (10-day leg max) | 12–16 kg | |
 | Fuel | 2–4 kg | |
 | Tent (Nallo 3GT) | ~3.1 kg | |
-| Sleep (bag + Ultra 7R in Sleeper) | 4.5–6.5 kg | +XLite ~400 g main bag |
+| Sleep (bag + Ultra 7R in Sleeper) | 4.5–6.5 kg | XLite **not in pulk** — ship to Abisko |
 | Clothing spare | 3–5 kg | |
 | Kitchen + misc | ~2 kg | |
 | **Cargo + rig** | **~27–38 kg** | |
@@ -249,7 +249,7 @@ Measure **g/day** on shakedown at **−15 °C**. Shops: [resupply-2027.md](./res
 
 ## Links
 
-- [gear-considerations-2027.md](./gear-considerations-2027.md) — poles, skins, tent/pad upgrades, nav, headlamp, VBL, booties  
+- [gear-considerations-2027.md](./gear-considerations-2027.md) — poles, skins, tent/pad upgrades, nav, headlamp, VBL, booties, foam pad backup  
 - [pack-checklist-2027.md](./pack-checklist-2027.md)  
 - [packing-pulk-2027.md](./packing-pulk-2027.md)  
 - [resupply-2027.md](./resupply-2027.md)  

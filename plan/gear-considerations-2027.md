@@ -134,7 +134,7 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 | **Role** | Sleep transport on pulk · emergency **bivi shell** if Nallo fails |
 | **Material** | ~1000 mm WC — **dry bags inside** still required |
 
-**Packing:** bag + **Ultra 7R** in dry bags in Sleeper; **XLite** in main pulk until optional Abisko switch.
+**Packing:** bag + **Ultra 7R** in dry bags in Sleeper only. **XLite** stays **off the pulk** — ship ahead to Abisko for optional late-leg switch.
 
 **If Nallo fails:** pad + bag in Sleeper, zip up — **no stove inside** (CO); practice once on shakedown.
 
@@ -339,7 +339,7 @@ Indicative — check retailer before buying; sales move fast.
 
 | Option | R-value | Weight | Comment |
 |--------|---------|--------|---------|
-| XLite + foam torso | ~4.5+2 | +200–300 g | Budget Feb fix |
+| XLite + foam torso | ~4.5+2 | +200–300 g | Budget Feb fix — see [foam backup](#foam-mat-backup-optional) |
 | **NeoAir XTherm NXT** | 7.3 | ~450 g | Lightest true winter air pad |
 | **Exped Ultra 7R** ✓ | 7.1 | ~855 g | **Owned** — down-insulated |
 | **Exped Dura 8R** | 7.8 | ~1215 g | Warmest; bulky |
@@ -349,12 +349,64 @@ Indicative — check retailer before buying; sales move fast.
 | Phase | Days | Pad in Sleeper |
 |-------|------|----------------|
 | **Start → Abisko** | 1–62 | **Exped Ultra 7R** |
-| **Late (optional)** | 63–70 | **NeoAir XLite** — saves ~450 g if April mild |
+| **Late (optional)** | 63–70 | **NeoAir XLite** — pick up at Abisko; saves ~450 g if April mild |
 | **No switch** | 1–70 | **Ultra 7R** — safest |
 
-**At Abisko switch:** repack Sleeper with XLite; ship Ultra home or carry as backup.
+**Logistics:** **XLite not in pulk** — ship to **STF Abisko** ahead of day 62 (same depot route as resupply boxes — “utkörning till företag” via Fjällboden). At Abisko: repack Sleeper with XLite if switching; ship **Ultra 7R** home via post/Bussgods or keep as backup.
 
 **Shakedown:** Ultra 7R + bag at **−15 °C** on snow; test XLite once for April decision.
+
+### Foam mat backup (optional)
+
+**Status:** **Consider** — not on the buy list yet.
+
+**Job:** Insurance if the **Ultra 7R** punctures or delaminates mid-leg — field patches and the Exped repair kit help, but a **closed-cell foam** layer still works when an air pad is dead. Can also add **R-value under hips/feet** on the coldest tent nights without replacing the air pad.
+
+#### Why consider (not mandatory)
+
+| Without foam backup | With foam backup |
+|---------------------|------------------|
+| One air pad for **62 days** — single point of failure | **Torso foam** (~100 g) in main pulk — sleepable floor even if air pad fails |
+| Repair kit + duct tape = hope in −25 °C | Foam **cannot puncture** — fold under hips or use alone in hut |
+| Ship **XLite** to Abisko only helps **after D62** | Foam with you from **day 1** covers Feb–Mar when cold is worst |
+
+**Verdict vs skipping:** **Optional** — many Bandet trips run fine on one winter air pad + repair kit. Worth it if you want **redundancy** without a second full air pad (~400 g) in the pulk.
+
+#### What to look for
+
+| Feature | Why |
+|---------|-----|
+| **Torso length** (~90–130 cm) | Hips + legs = where cold ground hurts most; **~80–150 g** vs ~400 g full-length |
+| **R-value ~2** (ASTM) | Enough for **emergency** night with bag; doubles as booster under air pad |
+| **Closed-cell foam** (EVA / XPE / accordion CCF) | No inflation, no valves, works wet |
+| **Fits in Sleeper** with bag + pad | Strap flat on pulk bottom or roll in main bag — confirm on shakedown |
+
+**Skip:** bulky full-length Z-Lite as *primary* (you already carry **Ultra 7R**); inflatable backup (same failure mode); heavy self-inflating foam (~500 g+).
+
+#### Options (prices · July 2026 · EUR incl. VAT)
+
+| Mat | Size | Weight | R-value | Price (typical) | Comment |
+|-----|------|--------|---------|-----------------|---------|
+| **DIY XPE roll** (8 mm) ★ | Cut **torso** ~60×130 cm | **~80–120 g** | ~2 | **~€10–20** | Cheapest · cut from hardware-store roll · strap to pulk bottom |
+| **Naturehike / generic fold mat** | Torso / short | **~100–150 g** | ~2 | **~€15–25** | Ali / outdoor discounters — check packed size |
+| **Exped FlexMat** | XS 130 cm | **~290 g** | 2.2 | **~€28–40** | [Exped EU](https://www.exped.com) · foldable · heavier but proper mat |
+| **Exped FlexMat Plus** | M 183 cm | **~395 g** | 2.2 | **~€40–55** | Full length — only if you want standalone hut mat |
+| **Therm-a-Rest Z-Lite SOL** | Full | **~410 g** | 2.0 | **€47–65** | [Therm-a-Rest EU](https://www.thermarest.com) · folds on pulk · list B uses full Z-Lite |
+| **Gossamer Gear Thin Light Insulation Pad** | Torso | **~51 g** | ~0.7 | **~€45** | Ultralight **boost** only — not a true emergency pad |
+
+**Note:** **Double-layer** (foam under **Ultra 7R**) adds warmth but also ~100 g and bulk — use on **−25 °C tent nights** only if shakedown shows cold spots, not every night.
+
+#### Packing
+
+| Item | Where | When |
+|------|-------|------|
+| **Ultra 7R** | Dry bag → **Sleeper** | D1–62 (or full trip) |
+| **Foam torso** (if carried) | Flat **main pulk bottom** or roll in main bag | **Day 1 → end** — not Abisko depot |
+| **XLite** | Ship to **Abisko** | Optional D62+ switch only |
+
+**If you add foam:** shakedown with **bag + Ultra 7R + torso foam under hips** at **−15 °C**; then repeat with **air pad deflated** — confirm you can sleep and pack size still fits Sleeper stack.
+
+**Verdict:** **DIY XPE torso** (~**€15**, ~**100 g**) is the sweet spot if you want backup without a second air pad. **Skip** unless the shakedown cold-spot test or solo-redundancy worry pushes you over the line — **Ultra 7R + repair kit** remains the default plan.
 
 ---
 
@@ -419,16 +471,31 @@ Indicative — check retailer before buying; sales move fast. Size **up one** fo
 
 | Bootie | Weight (pair) | Price (typical) | Insulation | Comment |
 |--------|---------------|-----------------|------------|---------|
-| **Rab Down Hut Slipper** ★ | ~198 g | **€40–65** · ~**€45–50** sale | 700 down | Replaces old “Sleep Bootie” — EVA sole · [Rab EU](https://rab.equipment/eu/down-hut-slipper) €65 · [Alpinstore NL](https://www.alpinstore.com/nl/580410-rab-dons-hut-pantoffel-donker-butternut.html) ~€39 |
-| **Rab Cirrus Hut Boot** | ~250 g+ | **€55–70** | Primaloft | Synthetic — damp feet · [Rab EU](https://rab.equipment/eu/cirrus-hut-boot) €65 |
+| **Rab Down Hut Slipper** ★ | ~198 g | **€46–65** · ~**€46–52** sale | 700 down | Replaces old “Sleep Bootie” — EVA sole · see [where to buy](#where-to-buy-rab-down-hut-slipper) |
+| **Rab Cirrus Hut Slipper** | ~250 g+ | **€55** | Primaloft | Synthetic slipper — damp feet · [Rab EU](https://rab.equipment/eu/cirrus-hut-slipper) €55 |
+| **Rab Cirrus Hut Boot** | ~250 g+ | **€65** | Primaloft | Synthetic boot — damp feet · [Rab EU](https://rab.equipment/eu/cirrus-hut-boot) €65 |
 | **Exped Syn Booty** | ~130 g | **~€50–55** | synthetic | Budget; light sole — [Korak AT](https://www.bergsport-korak.at/Exped-Syn-Booty) €52,50 |
-| **Fjällräven Expedition Down Booties** | ~200 g | **~€150** | down | Foam footbed · good sole — [Fjällräven EU](https://www.fjallraven.com/eu/en-gb/men/accessories/other-accessories/expedition-down-booties/) €149,95 |
+| **Fjällräven Expedition Down Booties** | ~200 g | **€149.95** | 700 down | Foam footbed · good sole — [Fjällräven EU](https://www.fjallraven.com/eu/en-gb/men/accessories/other-accessories/expedition-down-booties/) |
 | **Western Mountaineering Expedition Booties** | ~230 g | **€169–180** | 800 down | Gore Windstopper · expedition — [Outdoorfeeling CH](https://outdoorfeeling.ch/products/western-mountaineering-expedition-booties) €168,95 |
 | **Cumulus Cover Boots** | ~43 g (M) | **~€78** | 850 down | **Tent/bag only** — minimal sole |
 | **Cumulus Protection Boots** | ~90 g | **~€115** | 850 down | Light hut sole — [Cumulus EU](https://cumulus.equipment/en/eu/p/down-accessories-protection-boots) |
 | **Rab Expedition Down Slipper** | ~240 g | **€99–150** | 800 down | Overkill for Bandet — specialist/expedition |
 
 **Note:** **Exped Down Booty** (down) largely **discontinued** (~€70 when in stock). **Cumulus “Magic”** renamed — see **Cover** / **Protection** boots above.
+
+### Where to buy (Rab Down Hut Slipper)
+
+Checked **14 Jul 2026** — prices incl. VAT; stock changes quickly.
+
+| Retailer | Price | Was | Stock / notes |
+|----------|-------|-----|---------------|
+| [Rab EU](https://rab.equipment/eu/down-hut-slipper) | **€65** | — | RRP · all sizes · 4 colours |
+| [Outdoorweb EU](https://www.outdoorweb.eu/Rab-Down-Hut-Slipper-black) | **€45.84** | €57.30 | Best sale found · black |
+| [Alpinstore NL](https://www.alpinstore.com/nl/580410-rab-dons-hut-pantoffel-donker-butternut.html) | **€51.92** | €64.90 | −20% · out of stock when checked |
+| [Babaik](https://www.babaik.com/shop/down-hut-slipper/) | **€47.90** | €65.00 | EU warehouse · limited sizes |
+| Other EU shops | **€46–55** | ~€65 | Typical sale range |
+
+**Budget:** **~€46** on sale (Outdoorweb / Babaik) vs **€65** RRP — save **~€15–20**. Worth waiting for a sale unless you need a specific colour/size now.
 
 **Skip:** down “socks” with no sole; heavy après boots; duplicate Crocs.
 
@@ -445,7 +512,7 @@ Indicative — check retailer before buying; sales move fast. Size **up one** fo
 
 **Shakedown:** one sub −15 °C tent night — boots off at camp, booties for cook + in bag; confirm sole grips Nallo floor.
 
-**Verdict:** **Buy Rab Down Hut Slipper** (~**€45–50** on sale, ~**€65** RRP) — best value, real sole, hut/tent default. **WM Expedition Booties** (~**€170**) if you want maximum warmth. Pair with **1–2 camp socks** from [socks](#socks--vbl).
+**Verdict:** **Buy Rab Down Hut Slipper** (~**€46–52** on sale · **€65** RRP · checked Jul 2026) — best value, real sole, hut/tent default. **WM Expedition Booties** (~**€170**) if you want maximum warmth — **3× the price** for marginal gain on Bandet. Pair with **1–2 camp socks** from [socks](#socks--vbl).
 
 ---
 
