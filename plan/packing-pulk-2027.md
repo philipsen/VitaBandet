@@ -53,6 +53,7 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 | Stove + **TOAKS 1600 ml** pot/pan + fuel tools | Main bag **middle** | OmniLite + silencer |
 | Spare clothes | Dry bags, main bag | One dry set packed deep |
 | Phone, spare battery, maps | Main bag top **or** body | 68i on **body** preferred |
+| Snow shovel | Main bag / accessible | Vestibule pit · camp · emergency snow shelter |
 | Sleeper 200 (empty shell weight) | **On pulk** | Fjellpulken straps — not inside main cargo |
 
 ---

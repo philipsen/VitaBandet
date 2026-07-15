@@ -128,6 +128,7 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | Item | Qty | Own | Need | Notes |
 |------|-----|-----|------|-------|
 | First aid | 1 | ✓ | | Compeed + sport tape |
+| Snow shovel | 1 | ✓ | | Vestibule pit · camp · emergency snow shelter |
 | Ski / binding / fabric repair | 1 kit each | ✓ | | multitool · duct tape |
 | Duct tape on pole | 1 | | ? | |
 | Sunscreen, goggles, glasses | 1+1+1 | | ? | |

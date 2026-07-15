@@ -108,6 +108,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 ## Personal & repair
 
 - [x] First aid + Compeed + sport tape
+- [x] **Snow shovel** ✓ — vestibule pit · camp · emergency shelter
 - [x] Repair: ski/base · binding · fabric/zip · multitool · duct tape
 - [ ] Sunscreen + lip SPF · glasses + goggles
 - [x] Toilet kit · soap · TP
