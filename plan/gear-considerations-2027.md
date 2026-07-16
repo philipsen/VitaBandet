@@ -242,6 +242,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 | Bank | Capacity | Weight | Price (typical) | Cold | Comment |
 |------|----------|--------|-----------------|------|---------|
 | **Anker Zolo 20k · 30 W** ★ | 20 000 mAh · **~72 Wh** · **30 W** PD | **~320–365 g** | **€25–37** | Warm in jacket | **Preferred** · **in stock** · see [where to buy](#where-to-buy-anker-zolo-20k) |
+| **JUOVI 65 W · 20k** (J2931) | 20 000 · **~74 Wh** · **65 W** PD | **~400 g** | **~€36** | Warm in jacket | **Skip vs Zolo** · 2× C + 2× A · display · heavier · marketplace brand · [Amazon.nl](https://www.amazon.nl/dp/B0FWR7Y3G6) |
 | **Anker PowerCore 20k PD** | 20 000 · ~20 W PD | ~345 g | **€68** | Warm in jacket | Coolblue **online OOS** · pickup in stores · [Coolblue](https://www.coolblue.nl/product/915602/anker-powercore-powerbank-20-000-mah-quick-charge-en-power-delivery-zwart.html) |
 | **Anker 20k · 87 W** (A1383) | 20 000 · 87 W shared | ~350 g+ | **€40–70** | Warm in jacket | **In stock** · overkill watts · [Amazon.nl](https://www.amazon.nl/dp/B0CXDXP8VR) ~€40–50 · [gsmpunt](https://www.gsmpunt.nl/powerbanks/anker-powercore-20000-mah-87w-powerbank-met-ingebouwde-usbc-kabel-zwart) €70 |
 | **Nitecore Summit 20000** | 20 000 · ~77 Wh · 20 W | **~303 g** | **€140–170** | **−40 °C** heated | Spotty · [Outdoorline](https://www.outdoorline.eu/products/nitecore-summit-20000) **OOS** €148 · [Foto Koch](https://www.fotokoch.de/Nitecore-Powerbank-SUMMIT20000-20000mAh-kaeltebestaendig_65922.html) **in stock** €170 |
@@ -252,6 +253,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 | Bank | Stock | Best buy now | Notes |
 |------|-------|--------------|-------|
 | **Zolo 20k** | **Yes** | [Amazon AnkerDirect](https://www.amazon.nl/dp/B0CZ9LH53B) **~€28.59** · [Megekko](https://www.megekko.nl/product/4197/1664589/Powerbanks/Anker-Zolo-Powerbank-20-000mAh-Zwart) €34.95 | Easiest pair to order today |
+| **JUOVI 65 W · 20k** | **Yes** | [Amazon.nl](https://www.amazon.nl/dp/B0FWR7Y3G6) **€35.99** | In stock · see [JUOVI note](#juovi-65-w-20k) |
 | **PowerCore 20k PD** | **Thin** | Coolblue store pickup €68 | Online sold out · not worth chasing vs Zolo |
 | **Anker 87 W (A1383)** | **Yes** | Amazon **~€40–50** | Fine if Zolo gone · heavier / more watts than needed |
 | **Anker Prime 20k** | Yes | Coolblue €75 | **Skip** — ~540 g · laptop brick |
@@ -261,6 +263,19 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 **Budget:** **2× Zolo** ≈ **€50–70** total · or **1× Zolo + 1× Summit** (~€170–200) if you want one cold-proof bank.
 
 **Zolo vs Bandet:** Built-in **~15 cm** USB-C is great for **Fairphone** in the jacket; still carry **braided C–C** for **68i** / headlamp / wall↔bank. Input **20 W** — overnight refill of both banks at ★ is fine with the **100 W** wall. Same warm-in-jacket cold plan as PowerCore.
+
+##### JUOVI 65 W · 20k
+
+Model **J2931** · [Amazon.nl black](https://www.amazon.nl/dp/B0FWR7Y3G6) **€35.99** (deal · RRP €50) · **~400 g** · **~74 Wh** (cabin OK) · **2× USB-C (65 W)** + **2× USB-A** · digital % · includes short C–C · no built-in cable.
+
+| Pros | Cons vs Zolo |
+|------|----------------|
+| 4 ports · 65 W · % display | **~40–80 g heavier** each (~80–160 g for a pair) |
+| Cheap for the wattage | **65 W unused** — phone / 68i / NU43 don’t need it |
+| In stock NL | No Anker support / warranty track record · marketplace OEM |
+| | No built-in cable for jacket phone top-ups |
+
+**Verdict:** Specs work for Bandet, but **skip** — Zolo is lighter, cheaper (~€28), has a built-in C cable, and a clearer brand/support story. Prefer **Anker 87 W** over JUOVI if you want high watts as a Zolo fallback.
 
 **Recall note (A1689):** Anker recalled some **Zolo 20k** (model **A1689**, mfg **Jun 2024–Feb 2025**) for fire risk — [anker.com/rc2506](https://www.anker.com/rc2506). Buy **new** stock (Megekko lists from **Oct 2025**); if used/old box, check SN on the recall form. Do **not** buy recalled units.
 
