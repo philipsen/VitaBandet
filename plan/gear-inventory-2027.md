@@ -118,8 +118,8 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 |------|--------------|-----|-----|------|-------|
 | GPS + inReach | **GPSMAP 68i** | 1 | ✓ | **Plan** | On body for SOS |
 | Phone | **Fairphone** | 1 | | **Buy** | OsmAnd+ |
-| Power bank 20k | USB-C PD | 2 | | **Buy** | [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
-| USB-C + wall charger | PD 30–45 W | 1 set | | **Buy** | 68i · phone · headlamp · **3× braided C–C** · [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
+| Power bank 20k | **Anker Zolo · 30 W** | 2 | | **Buy** | Built-in C · [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
+| USB-C + wall charger | **Anker 100 W · 3 ports · Smart Display** | 1 set | | **Buy** | 2× C + A · **3× braided C–C** · [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
 | Headlamp | **Nitecore NU43** (USB-C) | 1 | | **Buy** | ~€73 — [headlamp](./gear-considerations-2027.md#headlamp-usb) |
 | Compass | | 1 | ✓ | | |
 | Paper maps | Fjällkarta 1:100k | 1 set | | **Need** | Backup |
@@ -217,7 +217,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 
 1. **Long skins** — reglue or replace + wax + glue tube  
 2. **Ski poles** — Ingstad Alloy + baskets + flex tip + sleeve  
-3. **Power** — **2× 20k power banks** + **wall charger** (30–45 W USB-C) + cables; **USB headlamp**; **Fairphone**; OsmAnd maps; inReach plan  
+3. **Power** — **2× 20k power banks** + **Anker 100 W · 3 Ports · Smart Display** + cables; **USB headlamp**; **Fairphone**; OsmAnd maps; inReach plan  
 4. **New ski socks** (4–5) + **down booties**; **Sirex Everest 10** foam (~€15); **shell** if missing  
 5. **OmniLite** service kit; fill **2× 1 L** bottles  
 6. Tent upgrade **only after** shakedown — [considerations](./gear-considerations-2027.md#tent--nallo-3gt--upgrades)

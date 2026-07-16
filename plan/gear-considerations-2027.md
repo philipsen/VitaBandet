@@ -196,12 +196,12 @@ Confirm **68i inReach plan** before departure. Shakedown: ski one day with 68i o
 
 ### Power
 
-**Need:** **2× 20k USB-C PD** + **wall charger 30–45 W** + **braided USB-C cables** — see [power banks & cables](#power-banks-wall-charger--cables).
+**Need:** **2× 20k USB-C PD** + **Anker 100 W wall** + **braided USB-C cables** — see [power banks & cables](#power-banks-wall-charger--cables).
 
 | Item | Qty | Notes |
 |------|-----|-------|
-| Power bank 20k USB-C PD | **2** | Warm in jacket before use · one on body while skiing |
-| Wall charger 30–45 W | 1 | Resupply nights — 68i · phone · headlamp · banks |
+| Power bank 20k USB-C PD | **2** | Prefer **Anker Zolo 20k · 30 W** · warm in jacket · one on body while skiing |
+| **Anker 100 W · 3 ports · Smart Display** | 1 | **Buy** · resupply — both banks + phone overnight |
 | USB-C cables (braided) | **3** short | 68i · Fairphone · headlamp · spare |
 | **USB headlamp** | **1** | **Buy** — see [headlamp](#headlamp-usb) |
 
@@ -241,21 +241,65 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 | Bank | Capacity | Weight | Price (typical) | Cold | Comment |
 |------|----------|--------|-----------------|------|---------|
-| **Anker PowerCore 20k PD** ★ | 20 000 mAh · ~20 W PD | ~300–350 g | **€50–70** | Warm in jacket | Default · [Coolblue](https://www.coolblue.be/nl/product/915602/anker-powercore-powerbank-20-000-mah-quick-charge-en-power-delivery-zwart.html) ~€68 · USB-C + USB-A |
-| **Anker PowerCore 20k 87 W** | 20 000 · high PD | ~350 g+ | **€50–70** | Warm in jacket | Overkill watts for phone/68i · [gsmpunt](https://www.gsmpunt.nl/powerbanks/anker-powercore-20000-mah-87w-powerbank-met-ingebouwde-usbc-kabel-zwart) ~€70 · built-in cable = one less to lose |
-| **Nitecore Summit 20000** | 20 000 · 20 W | **~303–315 g** | **€120–160** | **−40 °C** heated | Anders list C · [Outdoorline](https://www.outdoorline.eu/products/nitecore-summit-20000) €120 · insulated bag · not required if body-heat discipline is solid |
-| **Nitecore NB10000 Gen** | 10 000 | ~150 g | **€50–70** | Light | Only as **3rd** backup — not instead of 2× 20k |
+| **Anker Zolo 20k · 30 W** ★ | 20 000 mAh · **~72 Wh** · **30 W** PD | **~320–365 g** | **€25–37** | Warm in jacket | **Preferred** · **in stock** · see [where to buy](#where-to-buy-anker-zolo-20k) |
+| **Anker PowerCore 20k PD** | 20 000 · ~20 W PD | ~345 g | **€68** | Warm in jacket | Coolblue **online OOS** · pickup in stores · [Coolblue](https://www.coolblue.nl/product/915602/anker-powercore-powerbank-20-000-mah-quick-charge-en-power-delivery-zwart.html) |
+| **Anker 20k · 87 W** (A1383) | 20 000 · 87 W shared | ~350 g+ | **€40–70** | Warm in jacket | **In stock** · overkill watts · [Amazon.nl](https://www.amazon.nl/dp/B0CXDXP8VR) ~€40–50 · [gsmpunt](https://www.gsmpunt.nl/powerbanks/anker-powercore-20000-mah-87w-powerbank-met-ingebouwde-usbc-kabel-zwart) €70 |
+| **Nitecore Summit 20000** | 20 000 · ~77 Wh · 20 W | **~303 g** | **€140–170** | **−40 °C** heated | Spotty · [Outdoorline](https://www.outdoorline.eu/products/nitecore-summit-20000) **OOS** €148 · [Foto Koch](https://www.fotokoch.de/Nitecore-Powerbank-SUMMIT20000-20000mAh-kaeltebestaendig_65922.html) **in stock** €170 |
+| **Nitecore NB10000 Gen3** | 10 000 | **~150 g** | **€75–80** | Light | **In stock** NL · [Trail.nl](https://trail.nl/products/nitecore-nb10000-gen3-powerbank-10-000) / Knivesandtools ~€78 · **3rd** backup only |
 
-**Budget:** **2× Anker 20k PD** ≈ **€100–140** total · or **1× Anker + 1× Summit** if you want one cold-proof bank (~€180–230).
+#### Availability snapshot (16 Jul 2026)
+
+| Bank | Stock | Best buy now | Notes |
+|------|-------|--------------|-------|
+| **Zolo 20k** | **Yes** | [Amazon AnkerDirect](https://www.amazon.nl/dp/B0CZ9LH53B) **~€28.59** · [Megekko](https://www.megekko.nl/product/4197/1664589/Powerbanks/Anker-Zolo-Powerbank-20-000mAh-Zwart) €34.95 | Easiest pair to order today |
+| **PowerCore 20k PD** | **Thin** | Coolblue store pickup €68 | Online sold out · not worth chasing vs Zolo |
+| **Anker 87 W (A1383)** | **Yes** | Amazon **~€40–50** | Fine if Zolo gone · heavier / more watts than needed |
+| **Anker Prime 20k** | Yes | Coolblue €75 | **Skip** — ~540 g · laptop brick |
+| **Summit 20000** | **Spotty** | Foto Koch €170 · DK Batterilageret ~€140 | Outdoorline empty · order only if you want heated |
+| **NB10000 Gen3** | **Yes** | Trail / Knivesandtools ~€78 | Half capacity — not a 20k substitute |
+
+**Budget:** **2× Zolo** ≈ **€50–70** total · or **1× Zolo + 1× Summit** (~€170–200) if you want one cold-proof bank.
+
+**Zolo vs Bandet:** Built-in **~15 cm** USB-C is great for **Fairphone** in the jacket; still carry **braided C–C** for **68i** / headlamp / wall↔bank. Input **20 W** — overnight refill of both banks at ★ is fine with the **100 W** wall. Same warm-in-jacket cold plan as PowerCore.
+
+**Recall note (A1689):** Anker recalled some **Zolo 20k** (model **A1689**, mfg **Jun 2024–Feb 2025**) for fire risk — [anker.com/rc2506](https://www.anker.com/rc2506). Buy **new** stock (Megekko lists from **Oct 2025**); if used/old box, check SN on the recall form. Do **not** buy recalled units.
+
+#### Where to buy (Anker Zolo 20k)
+
+Checked **16 Jul 2026** — black · Zwart · model **A1689** / vendor **A1689011**.
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| [Amazon.nl](https://www.amazon.nl/dp/B0CZ9LH53B) | **~€28.59** | AnkerDirect · in stock · often cheapest |
+| [Megekko](https://www.megekko.nl/product/4197/1664589/Powerbanks/Anker-Zolo-Powerbank-20-000mAh-Zwart) | **€34.95** | ~353 g · in stock · 2 days |
+| [bol.com (BE)](https://www.bol.com/be/nl/p/anker-zolo-power-bank-20-000mah-30w-snelle-draagbare-oplader-met-ingebouwde-usb-c-kabel-1-usb-c-1-usb-a-batterijpakket-voor-iphone-16-15-15-pro-15-pro-max-15-plus-macbook-galaxy-en-meer/9300000193847941/) | **~€34.95** | Ships NL |
+| [Anker EU](https://www.anker.com/eu-en/products/a1689) | **€36.99** | Direct · current production |
+
+**Buy 2×** for the trip (~**€50–70** pair).
 
 ### Wall charger
 
 | Charger | Spec | Price | Comment |
 |---------|------|-------|---------|
-| **Anker Nano / 521 dual USB-C** ★ | **30–45 W** · 2× USB-C | **€25–40** | Anders uses 45 W dual · charge **2 banks** or bank + phone overnight at STF |
+| **Anker Charger (100 W, 3 Ports, Smart Display)** ★ **Buy** | **100 W** · **2× USB-C + USB-A** · fold plug · display · SKU **B121BGZ1** | **~€50–70** | Chosen · charge **both banks + phone** overnight · includes 1.5 m C–C |
 | Hotel / STF USB only | Varies | — | Bring your own brick — hut USB ports often weak |
 
-**EU plug** — Sweden/Norway Type F; NL charger works.
+**EU plug** — Sweden/Norway Type F; NL charger works. Overkill watts vs phone/banks, but **3 ports + display** = one overnight plug at ★ without juggling.
+
+#### Where to buy (Anker 100 W Smart Display)
+
+Checked **16 Jul 2026** — prices incl. VAT; black · Zwart.
+
+| Retailer | Price | Notes |
+|----------|-------|-------|
+| [Amazon.nl](https://www.amazon.nl/dp/B0FG745LNB) | **~€49.99** | Best price found · includes C–C cable |
+| [bol.com (BE)](https://www.bol.com/be/nl/p/anker-oplader-100w-max-usb-c-oplader-3-poorts-gan-wandadapter-met-slim-display-en-touchbediening-voor-macbook-ipad-iphone-16-15-serie-meer/9300000243677021/) | **~€49.99** | Same deal · ships NL |
+| [CAPS.nl](https://www.caps.nl/anker-wired-charger-100w-2c1a-with-display-id-1005498.html) | **€51.80** | SKU B121BGZ1 · 2–3 days |
+| [Coolblue](https://www.coolblue.nl/product/973581/anker-oplader-3-usb-poorten-100w-power-delivery-3-1-zwart.html) | **€60** | Same SKU · store pickup |
+| [MyTrendyPhone](https://www.mytrendyphone.nl/shop/anker-100w-gan-wandlader-372677p.html) | **€60.90** | — |
+| [Anker EU](https://www.anker.com/eu-en/products/b121b-anker-100w-3ports-gan-charger) | **€69.99** | RRP · direct |
+
+**Budget:** **~€50** Amazon / bol vs **€70** Anker RRP.
 
 ### Cables
 
@@ -286,7 +330,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 3. One night: banks in jacket / bag foot at **−15 °C** — morning capacity check.  
 4. Time a full wall recharge of both banks overnight.
 
-**Verdict:** **Buy 2× Anker PowerCore 20k USB-C PD** (~**€50–70** each) + **Anker 30–45 W dual USB-C wall** (~**€30**) + **3× short braided USB-C–C cables**. Warm-in-jacket works for Bandet — **Nitecore Summit** (~**€120**) only if you want one bank that charges in deep cold without body heat. Pair with [headlamp USB](#headlamp-usb).
+**Verdict:** **Buy 2× Anker Zolo 20k · 30 W** (~**€25–37** each · **~€50–75** pair) + **Anker 100 W · 3 Ports · Smart Display** (~**€50**) + **3× short braided USB-C–C cables** (wall box usually includes one long C–C). Warm-in-jacket works for Bandet — **Nitecore Summit** (~**€120**) only if you want one bank that charges in deep cold without body heat. Pair with [headlamp USB](#headlamp-usb).
 
 ---
 

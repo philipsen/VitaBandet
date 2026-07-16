@@ -13,8 +13,8 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
 - [ ] **USB headlamp** — **Nitecore NU43** USB-C (~€73) or Petzl Actik Core — [headlamp](./gear-considerations-2027.md#headlamp-usb)
-- [ ] **2× power bank** 20k mAh USB-C PD — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
-- [ ] **Wall charger** 30–45 W USB-C + **3× braided USB-C–C** short cables — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
+- [ ] **2× Anker Zolo** 20k · 30 W USB-C (or equiv.) — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
+- [ ] **Anker Charger (100 W, 3 Ports, Smart Display)** + **3× braided USB-C–C** short cables — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
 - [ ] **Fairphone** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
 - [x] **DNT key** + membership
 - [ ] **Garmin inReach plan** on GPSMAP 68i
