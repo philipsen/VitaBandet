@@ -18,7 +18,7 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | Pulk | **Jemtlander 14** + **Sleeper 200** | Sleep kit on sled — [packing](./packing-pulk-2027.md) |
 | Tent | **Nallo 3GT** | [upgrades](./gear-considerations-2027.md#tent--nallo-3gt--upgrades) |
 | Bag | **Lowland K2** ✓ | −35 °C comfort · ~2 kg |
-| Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ (ship to Abisko) · foam torso **consider** | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
+| Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ (ship to Abisko) · **Sirex Everest 10** foam backup (**Buy**) | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
 | Stove / pot | **OmniLite** + silencer · **TOAKS 1600 ml** ✓ | **2 L** max alkylate · [cooking](./gear-considerations-2027.md#cooking--toaks-ti-1600-ml) |
 | Nav / comms | **68i** + **OsmAnd+** | [comms](./gear-considerations-2027.md#navigation-comms--power) |
 | Food | Buy on trail ~**8–10 days** | ~4,000–5,000 kcal/day · [resupply](./resupply-2027.md) |
@@ -79,7 +79,7 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | Liner bag | silk / synth | 1 | | ✓ | | Huts |
 | Sleeping pad | **Exped Ultra 7R** LW | 1 | ~855 | ✓ | | D1–62 in Sleeper · pump + repair kit |
 | Sleeping pad | **NeoAir XLite** | 1 | ~400 | ✓ | | Ship to Abisko · optional switch D62+ |
-| Foam torso backup | PE / XPE sheet 8 mm | 0–1 | ~100 | | **Consider** | [foam backup](./gear-considerations-2027.md#foam-mat-backup-optional) |
+| Foam backup | **Sirex PE Trekkingmat Everest 10** | 1 | ~275 | | **Buy** | €14.95 Bever · [foam](./gear-considerations-2027.md#foam-mat-backup--sirex-everest-10) |
 
 ### Clothing
 
@@ -109,8 +109,8 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | Pot | **TOAKS Ti 1600 ml Pot with Pan** | 1 | ~231 | ✓ | | Pan/lid ~142 mm |
 | **CO sensor** | | 1 | | ✓ | | Vestibule cook — hang near face height |
 | Lighter + matches | | 2+2 | | | ? | |
-| Spoon / cup | | 1+1 | | | ? | |
-| Thermos | 1 L | 0–1 | | | ? | |
+| Spoon / cup / utensils | | 1 set | | ✓ | | |
+| Thermos | **1 L** blue | 1 | | ✓ | | Day drink / warm water |
 
 ### Navigation & comms
 
@@ -118,8 +118,8 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 |------|--------------|-----|-----|------|-------|
 | GPS + inReach | **GPSMAP 68i** | 1 | ✓ | **Plan** | On body for SOS |
 | Phone | **Fairphone** | 1 | | **Buy** | OsmAnd+ |
-| Power bank 20k | USB-C PD | 2 | | **Buy** | |
-| USB-C + wall charger | PD 30–45 W | 1 set | | **Buy** | 68i · phone · headlamp · cables |
+| Power bank 20k | USB-C PD | 2 | | **Buy** | [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
+| USB-C + wall charger | PD 30–45 W | 1 set | | **Buy** | 68i · phone · headlamp · **3× braided C–C** · [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
 | Headlamp | **Nitecore NU43** (USB-C) | 1 | | **Buy** | ~€73 — [headlamp](./gear-considerations-2027.md#headlamp-usb) |
 | Compass | | 1 | ✓ | | |
 | Paper maps | Fjällkarta 1:100k | 1 set | | **Need** | Backup |
@@ -130,7 +130,8 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 |------|-----|-----|------|-------|
 | First aid | 1 | ✓ | | Compeed + sport tape |
 | Snow shovel | 1 | ✓ | | Vestibule pit · camp · emergency snow shelter |
-| Ski / binding / fabric repair | 1 kit each | ✓ | | multitool · duct tape |
+| **Leatherman** | 1 | ✓ | | Multitool · repair kit |
+| Ski / binding / fabric repair | 1 kit each | ✓ | | duct tape · sewing · etc. |
 | Duct tape on pole | 1 | | ? | |
 | Sunscreen, goggles, glasses | 1+1+1 | | ? | |
 
@@ -152,7 +153,7 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | **Lowland K2** | Dry bag → Sleeper |
 | **Ultra 7R** | Dry bag → Sleeper |
 | **XLite** | **Not in pulk** — ship to Abisko (D62); optional switch into Sleeper |
-| **Foam torso** (if carried) | Flat main pulk bottom or roll in main bag |
+| **Sirex Everest 10** | Flat main pulk bottom or roll in main bag |
 
 ### Pad schedule
 
@@ -217,7 +218,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 1. **Long skins** — reglue or replace + wax + glue tube  
 2. **Ski poles** — Ingstad Alloy + baskets + flex tip + sleeve  
 3. **Power** — **2× 20k power banks** + **wall charger** (30–45 W USB-C) + cables; **USB headlamp**; **Fairphone**; OsmAnd maps; inReach plan  
-4. **New ski socks** (4–5) + **down booties**; **shell** if missing  
+4. **New ski socks** (4–5) + **down booties**; **Sirex Everest 10** foam (~€15); **shell** if missing  
 5. **OmniLite** service kit; fill **2× 1 L** bottles  
 6. Tent upgrade **only after** shakedown — [considerations](./gear-considerations-2027.md#tent--nallo-3gt--upgrades)
 
@@ -253,7 +254,7 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 
 ## Links
 
-- [gear-considerations-2027.md](./gear-considerations-2027.md) — poles, skins, tent/pad upgrades, nav, headlamp, VBL, booties, foam pad backup  
+- [gear-considerations-2027.md](./gear-considerations-2027.md) — poles, skins, tent/pad, nav, **power banks/cables**, headlamp, VBL, booties, foam  
 - [pack-checklist-2027.md](./pack-checklist-2027.md)  
 - [packing-pulk-2027.md](./packing-pulk-2027.md)  
 - [resupply-2027.md](./resupply-2027.md)  

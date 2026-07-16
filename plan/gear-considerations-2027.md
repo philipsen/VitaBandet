@@ -196,14 +196,97 @@ Confirm **68i inReach plan** before departure. Shakedown: ski one day with 68i o
 
 ### Power
 
+**Need:** **2× 20k USB-C PD** + **wall charger 30–45 W** + **braided USB-C cables** — see [power banks & cables](#power-banks-wall-charger--cables).
+
 | Item | Qty | Notes |
 |------|-----|-------|
-| Power bank 20k USB-C PD | **2** | Warm in jacket before use |
-| Wall charger 30–45 W | 1 | Resupply nights — 68i · phone · headlamp |
+| Power bank 20k USB-C PD | **2** | Warm in jacket before use · one on body while skiing |
+| Wall charger 30–45 W | 1 | Resupply nights — 68i · phone · headlamp · banks |
+| USB-C cables (braided) | **3** short | 68i · Fairphone · headlamp · spare |
 | **USB headlamp** | **1** | **Buy** — see [headlamp](#headlamp-usb) |
-| USB-C cables | 2–3 short | 68i · Fairphone · headlamp |
 
 Charge at every **★** resupply; sleep with phone + one bank in bag foot on cold tent nights.
+
+---
+
+## Power banks, wall charger & cables
+
+**Status:** **Need** — buy before Feb 2027 (purchase priority #3).
+
+**Job:** Keep **GPSMAP 68i**, **Fairphone**, and **USB headlamp** alive between shops (**~8–10 days** typical; Padjelanta longer).
+
+### Devices to charge
+
+| Device | Port | Notes |
+|--------|------|-------|
+| **GPSMAP 68i** | USB-C | Dry port before plug · charges from any USB ≥500 mA; PD fine · some banks cut off near full (low draw) |
+| **Fairphone** | USB-C PD | OsmAnd + offline maps · biggest daily drain at camp |
+| **NU43 headlamp** | USB-C | Top up at camp from warm bank |
+| Power banks themselves | USB-C in | Wall at **★** shops / STF |
+
+### What to look for — power banks
+
+| Feature | Why |
+|---------|-----|
+| **~20 000 mAh** (~74 Wh) | Fits plane cabin limit (<100 Wh); **2×** covers 8–10 day legs |
+| **USB-C PD ≥18–20 W** | Phone + headlamp; 68i doesn’t need high PD |
+| **USB-C in + out** | One-cable kit with wall charger |
+| **2 ports** (C + A or 2× C) | Charge phone + headlamp same evening |
+| **Cold strategy** | Warm in jacket / bag foot — *or* heated winter bank (Summit) |
+| **~250–350 g each** | 2× is ~0.5–0.7 kg — worth it for solo SOS/nav |
+
+**Skip:** single 10k only (tight on Padjelanta); >100 Wh bricks (airline hassle); solar panels (Feb sun / bulk not worth it); wireless MagSafe bricks.
+
+### Power banks (prices · July 2026 · EUR incl. VAT)
+
+| Bank | Capacity | Weight | Price (typical) | Cold | Comment |
+|------|----------|--------|-----------------|------|---------|
+| **Anker PowerCore 20k PD** ★ | 20 000 mAh · ~20 W PD | ~300–350 g | **€50–70** | Warm in jacket | Default · [Coolblue](https://www.coolblue.be/nl/product/915602/anker-powercore-powerbank-20-000-mah-quick-charge-en-power-delivery-zwart.html) ~€68 · USB-C + USB-A |
+| **Anker PowerCore 20k 87 W** | 20 000 · high PD | ~350 g+ | **€50–70** | Warm in jacket | Overkill watts for phone/68i · [gsmpunt](https://www.gsmpunt.nl/powerbanks/anker-powercore-20000-mah-87w-powerbank-met-ingebouwde-usbc-kabel-zwart) ~€70 · built-in cable = one less to lose |
+| **Nitecore Summit 20000** | 20 000 · 20 W | **~303–315 g** | **€120–160** | **−40 °C** heated | Anders list C · [Outdoorline](https://www.outdoorline.eu/products/nitecore-summit-20000) €120 · insulated bag · not required if body-heat discipline is solid |
+| **Nitecore NB10000 Gen** | 10 000 | ~150 g | **€50–70** | Light | Only as **3rd** backup — not instead of 2× 20k |
+
+**Budget:** **2× Anker 20k PD** ≈ **€100–140** total · or **1× Anker + 1× Summit** if you want one cold-proof bank (~€180–230).
+
+### Wall charger
+
+| Charger | Spec | Price | Comment |
+|---------|------|-------|---------|
+| **Anker Nano / 521 dual USB-C** ★ | **30–45 W** · 2× USB-C | **€25–40** | Anders uses 45 W dual · charge **2 banks** or bank + phone overnight at STF |
+| Hotel / STF USB only | Varies | — | Bring your own brick — hut USB ports often weak |
+
+**EU plug** — Sweden/Norway Type F; NL charger works.
+
+### Cables
+
+| Cable | Qty | Spec | Why |
+|-------|-----|------|-----|
+| **USB-C → USB-C** braided ★ | **3** | Short **30–60 cm** · PD-rated | 68i · Fairphone · headlamp · bank↔wall · short = less snag in tent |
+| **USB-C → USB-C** spare | 1 | Same | In repair pouch — cables fail |
+| USB-A → USB-C | 0–1 | Optional | Only if bank has USB-A out and you lose a C–C |
+
+**Buy braided** (Anker / Cable Matters / Apple-style) — thin OEM cords crack in cold. **Skip** 2 m desk cables; tangle and freeze stiff.
+
+**Garmin note:** dry **68i** weather cap and port before every plug — melt + cold = corrosion. Test **68i charge from each bank** on shakedown (some banks sleep when draw drops).
+
+### On trip
+
+| Situation | Power move |
+|-----------|------------|
+| Ski day | **One bank** warm in jacket (with 68i on body) |
+| Tent night | Phone + bank in **bag foot**; charge headlamp after dinner |
+| ★ Resupply | Wall charger → fill **both** banks + devices overnight |
+| Below −20 °C | Warm bank **10–20 min** against body before use |
+| Padjelanta / long leg | Start with **both banks full**; expedition mode on 68i |
+
+### Shakedown
+
+1. Charge **68i + Fairphone + NU43** from each bank once.  
+2. Confirm banks don’t cut off mid-charge on 68i.  
+3. One night: banks in jacket / bag foot at **−15 °C** — morning capacity check.  
+4. Time a full wall recharge of both banks overnight.
+
+**Verdict:** **Buy 2× Anker PowerCore 20k USB-C PD** (~**€50–70** each) + **Anker 30–45 W dual USB-C wall** (~**€30**) + **3× short braided USB-C–C cables**. Warm-in-jacket works for Bandet — **Nitecore Summit** (~**€120**) only if you want one bank that charges in deep cold without body heat. Pair with [headlamp USB](#headlamp-usb).
 
 ---
 
@@ -211,17 +294,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 **Status:** **Need** — buy new **USB-C rechargeable** headlamp before Feb 2027.
 
-**Job:** Tent setup, cooking, melting, vestibule tasks, late hut arrival — **Feb–Apr dark hours**. Not primary nav (that's **68i** + **OsmAnd**).
-
-### Why USB (not AA)
-
-| AA headlamp | USB headlamp ★ |
-|-------------|----------------|
-| Second battery system in cold | Same workflow as **68i** + **Fairphone** |
-| Alkaline dies fast in Feb | Top up from **power banks** at camp |
-| Lithium AAs add weight + cost | One **wall charger** at resupply covers all |
-
-**No AA cells needed** anywhere in the kit if headlamp is USB.
+**Job:** Tent setup, cooking, melting, vestibule tasks, late hut arrival — **Feb–Apr dark hours**. Not primary nav (that's **68i** + **OsmAnd**). Same charge workflow as **68i** + **Fairphone** + power banks — one **wall charger** at resupply covers all.
 
 ### What to look for
 
@@ -249,7 +322,7 @@ Indicative — check retailer before buying; sales move fast.
 
 **USB-C note:** Only **NU43 / NU53 / HM65R** match your **USB-C** power banks + wall charger one-cable kit. **Actik Core** and **Spot 400-R** need **micro-USB** for the battery/lamp — fine if you carry a second cable, but not ideal.
 
-**Skip:** AAA/AA-only lamps; built-in non-replaceable battery with **proprietary** dock only (hard to charge in hut).
+**Skip:** proprietary dock-only lamps (hard to charge in hut).
 
 ### On trip
 
@@ -339,7 +412,7 @@ Indicative — check retailer before buying; sales move fast.
 
 | Option | R-value | Weight | Comment |
 |--------|---------|--------|---------|
-| XLite + foam torso | ~4.5+2 | +200–300 g | Budget Feb fix — see [foam backup](#foam-mat-backup-optional) |
+| XLite + foam torso | ~4.5+2 | +200–300 g | Budget Feb fix — see [Sirex backup](#foam-mat-backup--sirex-everest-10) |
 | **NeoAir XTherm NXT** | 7.3 | ~450 g | Lightest true winter air pad |
 | **Exped Ultra 7R** ✓ | 7.1 | ~855 g | **Owned** — down-insulated |
 | **Exped Dura 8R** | 7.8 | ~1215 g | Warmest; bulky |
@@ -356,75 +429,55 @@ Indicative — check retailer before buying; sales move fast.
 
 **Shakedown:** Ultra 7R + bag at **−15 °C** on snow; test XLite once for April decision.
 
-### Foam mat backup (optional)
+### Foam mat backup — Sirex Everest 10
 
-**Status:** **Consider** — not on the buy list yet.
+**Status:** **Buy** — [Bever €14.95](https://www.bever.nl/merken/sirex.html).
+
+**Chosen ★** — **Sirex PE Trekkingmat Everest 10**.
 
 **Job:** Insurance if the **Ultra 7R** punctures or delaminates mid-leg — field patches and the Exped repair kit help, but a **closed-cell foam** layer still works when an air pad is dead. Can also add **R-value under hips/feet** on the coldest tent nights without replacing the air pad.
 
-#### Why consider (not mandatory)
+#### Why bring
 
-| Without foam backup | With foam backup |
-|---------------------|------------------|
-| One air pad for **62 days** — single point of failure | **Torso foam** (~100 g) in main pulk — sleepable floor even if air pad fails |
+| Without foam backup | With **Sirex** |
+|---------------------|----------------|
+| One air pad for **62 days** — single point of failure | Foam in main pulk — sleepable floor even if air pad fails |
 | Repair kit + duct tape = hope in −25 °C | Foam **cannot puncture** — fold under hips or use alone in hut |
 | Ship **XLite** to Abisko only helps **after D62** | Foam with you from **day 1** covers Feb–Mar when cold is worst |
 
-**Verdict vs skipping:** **Optional** — many Bandet trips run fine on one winter air pad + repair kit. Worth it if you want **redundancy** without a second full air pad (~400 g) in the pulk.
+#### Chosen
 
-#### What to look for
+| | **Sirex PE Trekkingmat Everest 10** |
+|---|-------------------------------------|
+| Size | **185×50×10 mm** |
+| Weight | **~275 g** (optional cut torso ~140–160 g) |
+| R-value | **1.8** |
+| Price | **€14.95** · [Bever](https://www.bever.nl/merken/sirex.html) |
+| Material | Closed-cell PE · NL |
 
-| Feature | Why |
-|---------|-----|
-| **Torso length** (~90–130 cm) | Hips + legs = where cold ground hurts most; **~80–150 g** vs ~400 g full-length |
-| **R-value ~2** (ASTM) | Enough for **emergency** night with bag; doubles as booster under air pad |
-| **Closed-cell foam** (EVA / XPE / accordion CCF) | No inflation, no valves, works wet |
-| **Fits in Sleeper** with bag + pad | Strap flat on pulk bottom or roll in main bag — confirm on shakedown |
+**Use:** full length under **Ultra 7R** on coldest nights, or alone if air pad fails. Not warm enough as *primary* Feb pad with bag alone — emergency + booster only.
 
-**Skip:** bulky full-length Z-Lite as *primary* (you already carry **Ultra 7R**); inflatable backup (same failure mode); heavy self-inflating foam (~500 g+).
+#### Alternatives (not chosen)
 
-#### Options (prices · July 2026 · EUR incl. VAT)
+| Mat | Size | Weight | R-value | Price | Comment |
+|-----|------|--------|---------|-------|---------|
+| DIY PE / XPE sheet (8 mm) | Cut torso ~60×130 | ~80–120 g | ~2 | ~€10–20 | Lighter if you cut — more hassle |
+| Exped FlexMat XS | 130 cm | ~290 g | 2.2 | ~€28–40 | Similar weight, more € |
+| Therm-a-Rest Z-Lite SOL | Full | ~410 g | 2.0 | €47–65 | Heavier · list B |
 
-| Mat | Size | Weight | R-value | Price (typical) | Comment |
-|-----|------|--------|---------|-----------------|---------|
-| **DIY PE / XPE sheet** (8 mm) ★ | Cut **torso** ~60×130 cm | **~80–120 g** | ~2 | **~€10–20** | Cheapest · see [where to buy foam](#where-to-buy-foam-diy) |
-| **Sirex PE Trekkingmat Everest 10** | **185×50×1.0 cm** | **~275 g** | **1.8** | **€14.95** | NL brand · closed-cell PE · [Bever](https://www.bever.nl/merken/sirex.html) · cut torso (~150 g) or full under Ultra 7R |
-| **Naturehike / generic fold mat** | Torso / short | **~100–150 g** | ~2 | **~€15–25** | Ali / outdoor discounters — check packed size |
-| **Exped FlexMat** | XS 130 cm | **~290 g** | 2.2 | **~€28–40** | [Exped EU](https://www.exped.com) · foldable · heavier but proper mat |
-| **Exped FlexMat Plus** | M 183 cm | **~395 g** | 2.2 | **~€40–55** | Full length — only if you want standalone hut mat |
-| **Therm-a-Rest Z-Lite SOL** | Full | **~410 g** | 2.0 | **€47–65** | [Therm-a-Rest EU](https://www.thermarest.com) · folds on pulk · list B uses full Z-Lite |
-| **Gossamer Gear Thin Light Insulation Pad** | Torso | **~51 g** | ~0.7 | **~€45** | Ultralight **boost** only — not a true emergency pad |
-
-**Note:** **Double-layer** (foam under **Ultra 7R**) adds warmth but also ~100–275 g and bulk — use on **−25 °C tent nights** only if shakedown shows cold spots, not every night.
-
-**XPE vs PE:** camping mats labelled **XPE** are cross-linked polyethylene. For a DIY torso, **closed-cell PE sheet** (8 mm) behaves the same — puncture-proof backup, works wet. Bulk **XPE rolls** are industrial (large minimum orders); buy a **100×100 cm sheet** and cut with a sharp knife. **Sirex Everest 10** is finished PE mat (NL) — ready-made alternative to DIY.
-
-#### Where to buy foam (DIY / ready mat)
-
-Checked **15–16 Jul 2026** — NL/EU sources for **8–10 mm closed-cell PE**.
-
-| Source | Product | Price | Notes |
-|--------|---------|-------|-------|
-| [Bever — Sirex Everest 10](https://www.bever.nl/merken/sirex.html) ★ | **Sirex PE Trekkingmat Everest 10** · 185×50×10 mm | **€14.95** | Ready mat · ~275 g · R 1.8 · cut to torso if you want lighter |
-| [OmegaMix](https://www.omegamix.nl/polyethyleen-pe-schuim-8mm-100x100cm-isolatiemat) | PE schuim **8 mm · 100×100 cm** | **~€10–15** | Consumer NL · gesloten cel · one sheet = one torso + offcuts |
-| [CutWise](https://www.cutwise.nl/materialen/pe-schuim) | PE plaat **8 mm · 2000×1000 mm** | quote online | Laser/cut to size · antraciet · NL |
-| [EKI](https://www.eki.nl/l/polyethyleenschuim) | PE **roll** 1–15 mm · cut to width | on request | Nijmegen · rolls to 1 m wide · small qty OK |
-| [Robens Slumber Roll Pro](https://www.robens.de/en-gb/shop-1/outdoor-sleeping-gear/mats/slumber-roll-pro) | Finished **XPE** mat 180×60 cm | **€22.95** | Labelled XPE · 475 g full mat — cut down or carry as-is (heavy vs DIY) |
-| [Gamma](https://www.gamma.nl/assortiment/randstrook-met-folie-0-8-x-10-cm-25-meter/p/B282524) | PE randstrook **8 mm × 10 cm × 25 m** | **~€15** | Closed-cell PE strip — budget hack: layer strips to torso width |
-
-**DIY:** mark **60×130 cm** on the sheet · cut with box cutter + straight edge · round corners · strap flat to pulk bottom or roll loosely in main bag. **Sirex:** same cut optional — full mat ~275 g; torso cut ~**140–160 g**.
+**Skip:** DIY unless you want ~100 g; full Z-Lite as primary; inflatable backup.
 
 #### Packing
 
 | Item | Where | When |
 |------|-------|------|
 | **Ultra 7R** | Dry bag → **Sleeper** | D1–62 (or full trip) |
-| **Foam torso** (if carried) | Flat **main pulk bottom** or roll in main bag | **Day 1 → end** — not Abisko depot |
+| **Sirex Everest 10** | Flat **main pulk bottom** or roll in main bag | **Day 1 → end** — not Abisko depot |
 | **XLite** | Ship to **Abisko** | Optional D62+ switch only |
 
-**If you add foam:** shakedown with **bag + Ultra 7R + torso foam under hips** at **−15 °C**; then repeat with **air pad deflated** — confirm you can sleep and pack size still fits Sleeper stack.
+**Shakedown:** bag + Ultra 7R + Sirex under hips at **−15 °C**; then air pad deflated — confirm sleep + pack size.
 
-**Verdict:** For a ready mat off the shelf, **Sirex Everest 10** ([Bever €14.95](https://www.bever.nl/merken/sirex.html)) beats DIY hassle — **~275 g** full or cut to torso. DIY OmegaMix sheet stays lightest (~**100 g**). **Skip** unless redundancy or cold-spot shakedown pushes you — **Ultra 7R + repair kit** remains the default plan.
+**Verdict:** **Buy Sirex Everest 10** (~**€15**, ~**275 g**) — ready PE backup under Ultra 7R / emergency pad. Optional cut to torso to save ~100 g.
 
 ---
 

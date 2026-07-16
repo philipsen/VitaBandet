@@ -47,6 +47,7 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 | **Lowland K2** | Dry bag → **Sleeper** | Vent/fluff at camp; liner in huts |
 | **Exped Ultra 7R** | Dry bag → **Sleeper** (primary) | Pump in main bag |
 | **NeoAir XLite** | **Ship to Abisko** (STF depot) | Pick up D62 · switch into Sleeper if desired |
+| **Sirex Everest 10** | Flat **main pulk** bottom / roll | Foam backup · under Ultra 7R or emergency alone |
 | Nallo 3GT | Main bag, **middle/top** | Last out at camp, first in next morning if wet |
 | Food (leg) | Main bag **bottom** — **flat clear boxes** | Dense, heavy; repack after every shop |
 | Alkylate bottles | Main bag **bottom centre**, upright | **Liquid only** until Abisko; separate from food |

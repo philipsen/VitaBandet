@@ -13,8 +13,8 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
 - [ ] **USB headlamp** — **Nitecore NU43** USB-C (~€73) or Petzl Actik Core — [headlamp](./gear-considerations-2027.md#headlamp-usb)
-- [ ] **2× power bank** 20k mAh USB-C PD
-- [ ] **Wall charger** 30–45 W USB-C + cables (68i · phone · headlamp)
+- [ ] **2× power bank** 20k mAh USB-C PD — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
+- [ ] **Wall charger** 30–45 W USB-C + **3× braided USB-C–C** short cables — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
 - [ ] **Fairphone** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
 - [x] **DNT key** + membership
 - [ ] **Garmin inReach plan** on GPSMAP 68i
@@ -22,6 +22,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] **Shell** jacket + pants (if missing)
 - [ ] **Paper Fjällkarta** strips (backup)
 - [x] **Exped Ultra 7R** LW + pump + pad repair kit — primary pad in Sleeper
+- [ ] **Sirex PE Trekkingmat Everest 10** — foam backup (~€15 · [Bever](https://www.bever.nl/merken/sirex.html)) · main pulk
 - [ ] **Alkylate** — fill bottles at home; phone **Hemavan + Kvikkjokk** for stock
 
 ---
@@ -54,6 +55,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] Sleeping bag **Lowland K2** + dry bag + **liner** ✓ → **Sleeper 200**
 - [ ] Pad **Exped Ultra 7R** + pump + repair kit + dry bag → **Sleeper 200** (active)
 - [x] Pad **NeoAir XLite** ✓ — **ship to Abisko** (not in pulk · optional switch at D62)
+- [ ] Foam **Sirex Everest 10** → main pulk (backup under Ultra 7R / emergency)
 
 ---
 
@@ -63,10 +65,11 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] **White-gas jet fitted** (only jet until Abisko)
 - [ ] **Alkylate** in **2× 1 L** bottles — **no gas canisters before Abisko**
 - [ ] **Gas jet** (optional — pack/use from **Abisko** onward if you switch to canisters)
-- [x] Pot **TOAKS Ti 1600 ml Pot with Pan** ✓ + spork + mug
+- [x] Pot **TOAKS Ti 1600 ml Pot with Pan** ✓
+- [x] **Spoon / cup / utensils** ✓
 - [x] **CO sensor** ✓ — vestibule cook (hang near face height)
 - [ ] Lighters ×2 + waterproof matches
-- [ ] Thermos (optional)
+- [x] **Thermos 1 L** ✓ (blue)
 
 **Fuel resupply:** liquid alkylate only until Abisko — Gäddede Frostvikens · **Hemavan max** · Kvikkjokk call · **Ritsem ★** · **Abisko ★** (canisters OK from here)
 
@@ -110,7 +113,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 
 - [x] First aid + Compeed + sport tape
 - [x] **Snow shovel** ✓ — vestibule pit · camp · emergency shelter
-- [x] Repair: ski/base · binding · fabric/zip · multitool · duct tape
+- [x] Repair: ski/base · binding · fabric/zip · **Leatherman** ✓ · duct tape
 - [ ] Sunscreen + lip SPF · glasses + goggles
 - [x] Toilet kit · soap · TP
 - [ ] Toothbrush/paste · small towel · toothpicks
@@ -231,7 +234,7 @@ Blog: [andersnoren.se/white-ribbon-planning](https://andersnoren.se/white-ribbon
 | Tent | Soulo 1p | Keron 3 | **Nammatj 3 GT** | **Nallo 3GT** |
 | Sleep transport | Stuff sacks | Piteraq | **Exped Dura Bedding** | **Sleeper 200** |
 | Bag | Marmot −10/−18 | WM Puma −25 | Marmot Col −29 | **Lowland K2** |
-| Pad | Tensor + CCF | Xtherm + Z-Lite | XTherm + Z-Lite | **Ultra 7R** · XLite→Abisko |
+| Pad | Tensor + CCF | Xtherm + Z-Lite | XTherm + Z-Lite | **Ultra 7R** · **Sirex** foam · XLite→Abisko |
 | Stove | OmniLite 0.35 L | OmniLite **4 L** | **Trangia alcohol** | OmniLite **2× 1 L** |
 | Skis / boots | Fischer / Alaska | Amundsen / Lundhags | **Nansen / Outback** | **Ingstad / Outback** |
 | Base / total | ~14 / 18 kg | ~28 / 50 kg | ~30 / 35–45 kg | **target ~25–30 kg loaded** |
