@@ -176,62 +176,77 @@ S→N: each point **east** of track. Wide corridor OK.
 
 ## Reference packing lists (other Vita Bandet hikers)
 
-Sanity-check your kit against these published Lighterpack lists from prior Vita Bandet expeditions. **Use as comparison only** — these are *their* setups, not requirements.
+Sanity-check your kit against published lists from prior / planned White Ribbons. **Comparison only** — not requirements. Scraped Jul 2026.
 
-### A · Vita Bandet 2024 (rulk hybrid — light, mild conditions)
+### A · Vita Bandet 2024 (rulk hybrid — light)
 
-[lighterpack.com/r/tzlwle](https://lighterpack.com/r/tzlwle)
+[lighterpack.com/r/tzlwle](https://lighterpack.com/r/tzlwle) · **total 17.7 kg** · base ~14.4 kg
 
-| Stat | Weight |
-|------|-------:|
-| **Total** | **17.7 kg** |
-| Base weight | 14.4 kg |
-| Worn | 2.3 kg |
-| Consumable | 1.0 kg |
+**Key gear:** Hilleberg **Soulo** · Marmot Never Summer −10/−18 · OmniLite + **350 ml** · HMG Windrider · Fischer E89 + Alpina Alaska · Nemo Tensor + Naturehike CCF · inReach Mini · Arva shovel.
 
-**Key gear:** Hilleberg **Soulo** 2.27 kg · Marmot **Never Summer** −10/−18 °C bag · Primus **OmniLite** + 350 ml fuel · HMG Windrider 3400 pack · Fischer E89 Easy Skin X-Lite skis + Alpina Alaska boots · Nemo Tensor Insulated pad + Naturehike CCF · Garmin **inReach Mini** · Nitecore NU-35 headlamp · Arva Ultra shovel.
+**Style:** Daypack worn; big pack on rulk. Mild-conditions / lighter kit.
 
-**Style:** "Daypack worn while regular backpack goes onto the rulk" — backpack-on-pulk hybrid. Light pack-base, no second sleeping system, single fuel bottle (350 ml).
+### B · Paolo Peralta — Start (expedition) → Finish (stripped)
 
-### B · Vita Bandet Start (full expedition — heavy, −40 °C capable)
+| Phase | Link | Total | Base |
+|-------|------|------:|-----:|
+| **Start** | [lighterpack.com/r/169rsn](https://lighterpack.com/r/169rsn) | **~49.6 kg** | ~28 kg |
+| **Finish** | [lighterpack.com/r/lqy88x](https://lighterpack.com/r/lqy88x) | **~42 kg** | ~20 kg |
 
-[lighterpack.com/r/169rsn](https://lighterpack.com/r/169rsn)
+Write-up: [ultralightandcomfortable.com — meet Paolo](https://ultralightandcomfortable.com/2022/04/09/meet-paolo-peralta-a-new-yorker-skiing-the-1300-km-white-ribbon/) · 89 days · 3 h gear video mentioned by Anders.
 
-| Stat | Weight |
-|------|-------:|
-| **Total** | **49.6 kg** |
-| Base weight | 27.9 kg |
-| Worn | 8.6 kg |
-| Consumable (food + fuel) | 13.1 kg |
+**Start gear:** Acapulka Featherlight XL · **Keron 3** + windsack · WM Puma −25 + EE Apex + **Piteraq** bedding · Xtherm + **Z-Lite** · Amundsen Fram · OmniLite · **4 L** fuel capacity · Gutulia + SubZero · Hestra Army Extreme · **spare BC binding** · shovel · Bekö face kit.
 
-**Plan:** 1400 km · 2-week resupply intervals · temperature range −40 °C to +5 °C.
+**Finish changes:** dropped Keron for **Duomid DCF** (~490 g); switched stove toward **canister/Pocket Rocket** late season; long skins gone; base **−8 kg**. Lesson: Apr load can slim — don’t over-pack end-of-trip kit from day 1.
 
-**Key gear:** Acapulka **Featherlight XL 150** pulk (5.2 kg) + Acapulka custom harness · Hilleberg **Keron 3** + condom bag + 2p Windsack · WM **Puma MF −25 °C** bag + EE Apex Revelation 40 (double-bag system) + Piteraq Arctic Bedding · Xtherm MAX + Z-Lite (double pad) · Åsnes **Amundsen Fram 187** + Rotefella BC + Lundhags **Guide Expedition BC** boots · Primus **OmniLite Ti** + 1 L Primus + 1 L Trangia + 2 L MSR Big Titan + .9 L thermos · FR **Gutulia Anorak** with fox-fur ruff + Mountain Hardware SubZero Parka · Klättermusen Freke salopettes · Hestra Army Extreme mittens · BD Evac 7 shovel + Mora 2000 · Garmin inReach Mini 2 + 30k mAh power.
+### C · Anders Norén — planned 2026 (postponed)
 
-**Style:** Full expedition rig. Double sleep system, double cooking redundancy (2 pots, 4 L fuel capacity), serious cold-weather face protection (Bekö Cheeko + Fantom), spare BC binding carried.
+[lighterpack.com/r/bxdm2q](https://lighterpack.com/r/bxdm2q) · **base ~29.5 kg** · loaded expect **35–45 kg**  
+Blog: [andersnoren.se/white-ribbon-planning](https://andersnoren.se/white-ribbon-planning/)
+
+**Key gear:** **Jemtlander 17** (2×150 L bags) · **Nammatj 3 GT** + **Hilleberg sled pack** · Marmot Col −29 · **XTherm MAX** + **Z-Lite** · **Exped Dura Bedding** · Åsnes **Nansen** + Alfa **Outback** · **Trangia alcohol** (B25 + preheater) · Hestra Army Extreme · Mammut Alugator · inReach Mini · Nitecore Summit 20k · **WM Expedition Booties** · IKEA Frakta food bag · day pack **Durston Wapta** (packed while skiing — sweat).
+
+**Style:** Closest peer to your ski/boot/pulk stack. Alcohol stove is the big diverge from your OmniLite plan.
+
+### D · Pair trip — Vita bandet 30 dagar (equipment table)
+
+[vitabandet30dagar.wordpress.com/utrustning](https://vitabandet30dagar.wordpress.com/utrustning/) — **2-person** Bergans-heavy wardrobe + Holmenkollen / Crispi · **2 shovels** · windsack · spare telescopic pole · short Skinlock skins · lots of kick wax / klister.
+
+**Use for:** clothing redundancy & wax kit ideas — not a solo weight model.
+
+### E · Narrative (no full Lighterpack)
+
+| Who | Link | Notes |
+|-----|------|-------|
+| **Anniina Perätalo** 2024 | [anniinaperatalo.fi/vitabandet](https://www.anniinaperatalo.fi/vitabandet) · [YouTube film](https://www.youtube.com/watch?v=PekMOea_NJo) | Solo · tent · pulk · 73 d · rain/thaw worse than cold |
+| **Jacomina** | [jacomina-ultra-athlete.nl](https://jacomina-ultra-athlete.nl/tag/winterkamperen-2) | Fischer Outback 68 · Alfa Quest · Fjellpulken · thermos in day pouch |
+| **VGB tips** | [vitagronabandet.se tips](https://www.vitagronabandet.se/en/before-the-trip/tips-tricks/) | Grip wax · tent “condom” · strong headlamp early season · dishcloth · chocolate |
 
 ### Comparison vs your 2027 plan
 
-| Topic | A · 2024 (light) | B · Expedition | **Your 2027 plan** |
-|-------|------------------|----------------|--------------------|
-| Pulk | "Rulk" hybrid | Acapulka Featherlight XL 150 (5.2 kg) | **Jemtlander 14** + **Fjellpulken Sleeper 200** |
-| Tent | Hilleberg Soulo (2.27 kg, 1p) | Hilleberg Keron 3 (3.8 kg) + 2p Windsack | **Hilleberg Nallo 3GT** |
-| Sleep | Marmot Never Summer −10/−18 only | WM Puma −25 °C + EE Apex 40 quilt + Piteraq | **Lowland K2** + Sleeper 200 bivi backup |
-| Pad | Nemo Tensor + Naturehike CCF (torso) | Xtherm MAX + Z-Lite full | **Ultra 7R** ✓ in pulk · **XLite** ✓ ship to Abisko |
-| Stove | OmniLite + 1× 350 ml | OmniLite Ti + **1 L + 1 L + 2 L** = 4 L capacity | OmniLite + **2× 1 L** (~2 L carry) |
-| Boots | Alpina Alaska (light XC BC) | Lundhags Guide Expedition (heavy expedition) | **Alfa Outback / Xplore** |
-| Skis | Fischer E89 Easy Skin (light tour) | Åsnes Amundsen Fram 187 (expedition BC) | **Åsnes Ingstad BC** |
-| Comms | inReach Mini | inReach Mini 2 + dual power banks | **inReach + GPSMAP 68i** |
-| Total | 17.7 kg | 49.6 kg | **target ~25–30 kg total loaded** |
+| Topic | A light | B Paolo start | C Anders | **Your 2027** |
+|-------|---------|---------------|----------|---------------|
+| Pulk | Rulk hybrid | Acapulka XL 150 | **Jemtlander 17** | **Jemtlander 14** + **Sleeper 200** |
+| Tent | Soulo 1p | Keron 3 | **Nammatj 3 GT** | **Nallo 3GT** |
+| Sleep transport | Stuff sacks | Piteraq | **Exped Dura Bedding** | **Sleeper 200** |
+| Bag | Marmot −10/−18 | WM Puma −25 | Marmot Col −29 | **Lowland K2** |
+| Pad | Tensor + CCF | Xtherm + Z-Lite | XTherm + Z-Lite | **Ultra 7R** · XLite→Abisko |
+| Stove | OmniLite 0.35 L | OmniLite **4 L** | **Trangia alcohol** | OmniLite **2× 1 L** |
+| Skis / boots | Fischer / Alaska | Amundsen / Lundhags | **Nansen / Outback** | **Ingstad / Outback** |
+| Base / total | ~14 / 18 kg | ~28 / 50 kg | ~30 / 35–45 kg | **target ~25–30 kg loaded** |
 
 **Take-aways for your 2027 list:**
 
-- [ ] **Fuel capacity** — list B carries **4 L** between shops; you carry **2× 1 L** (**~2 L** max). Re-confirm **g/day** on shakedown at **−15 °C**; if > ~250 ml/day, Padjelanta leg may need a partial top-up at Kvikkjokk.
-- [ ] **Pad switch (optional)** — ship **XLite** ✓ to Abisko ahead of D62; **Ultra 7R** only in Sleeper until then (~400 g saved in pulk)
-- [ ] **Face protection** — list B carries Bekö Cheeko + Fantom for storms. Add **balaclava or face mask** to your list if you don't already (currently just buff + beanie).
-- [ ] **Spare BC binding** — list B carries one. Worth considering for solo 65-day route; weighs ~250 g.
-- [ ] **Pulk bag IKEA Frakta** — list B carries a cheap big blue Ikea bag inside the pulk for organising / emergency raft. Practical free trick.
-- [ ] **Cooking plywood** (~220 g) — list B uses it under the stove on snow. Worth packing.
+- [x] **Snow shovel** ✓
+- [ ] **Fuel capacity** — B carries **4 L**; you **~2 L**. Re-check **g/day** at −15 °C; Padjelanta may need Kvikkjokk top-up.
+- [ ] **Pad switch (optional)** — XLite ship to Abisko; Ultra 7R only in Sleeper until then.
+- [ ] **Face protection** — B/C use dedicated storm face kit (Bekö / Gore face warmer). Confirm balaclava beyond buff.
+- [ ] **Spare BC binding** — B carries ~250 g; still open for you.
+- [ ] **IKEA Frakta** — B + C use as pulk organising bag.
+- [ ] **Cooking board** — B plywood (~220 g) or late-trip cardboard under stove.
+- [ ] **Hilleberg sled pack** — C uses it for faster solo pitch with poles in channels.
+- [ ] **Daypack** — C packs Durston while skiing (sweat); keep town/detour pack named on list.
+- [ ] **Late-season slim** — B finish dropped tunnel tent for Duomid; don’t force Feb kit for all of April.
 
 ---
 

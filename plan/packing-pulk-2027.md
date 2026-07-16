@@ -217,7 +217,12 @@ If the tent is unusable: bag + pad already in Sleeper → zip up as wind shell. 
 
 ## Reference lists from other VGB hikers
 
-- **Light/hybrid (rulk):** [lighterpack.com/r/tzlwle](https://lighterpack.com/r/tzlwle) — **17.7 kg total**, Hilleberg Soulo, single-bag sleep, OmniLite + 350 ml fuel.
-- **Full expedition:** [lighterpack.com/r/169rsn](https://lighterpack.com/r/169rsn) — **49.6 kg total**, Acapulka Featherlight XL, Keron 3, WM Puma + Apex 40 double-bag, 4 L fuel capacity, Lundhags Guide Expedition boots, rated to −40 °C.
+| # | List | Link | Base / total |
+|---|------|------|--------------|
+| A | Light rulk 2024 | [lighterpack.com/r/tzlwle](https://lighterpack.com/r/tzlwle) | ~14 / **17.7 kg** |
+| B | Paolo start → finish | [r/169rsn](https://lighterpack.com/r/169rsn) · [r/lqy88x](https://lighterpack.com/r/lqy88x) | ~28→20 / **~50→42 kg** |
+| C | Anders Norén 2026 (planned) | [lighterpack.com/r/bxdm2q](https://lighterpack.com/r/bxdm2q) | **~29.5 kg** base · 35–45 loaded |
+| D | Pair · 30 dagar | [vitabandet30dagar.wordpress.com/utrustning](https://vitabandet30dagar.wordpress.com/utrustning/) | 2-person table |
+| E | Narrative | Anniina / Jacomina / [VGB tips](https://www.vitagronabandet.se/en/before-the-trip/tips-tricks/) | no full LP |
 
-See full breakdown and comparison vs your 2027 plan in [pack-checklist-2027.md → Reference packing lists](./pack-checklist-2027.md#reference-packing-lists-other-vita-bandet-hikers).
+Full comparison vs your 2027 plan: [pack-checklist-2027.md → Reference packing lists](./pack-checklist-2027.md#reference-packing-lists-other-vita-bandet-hikers).
