@@ -107,6 +107,7 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | Fuel bottles | **1 L** | 2 | ~400? | ✓ | | **2 L** max carry |
 | Service kit | OmniLite Ti | 1 | | | ? | |
 | Pot | **TOAKS Ti 1600 ml Pot with Pan** | 1 | ~231 | ✓ | | Pan/lid ~142 mm |
+| **CO sensor** | | 1 | | ✓ | | Vestibule cook — hang near face height |
 | Lighter + matches | | 2+2 | | | ? | |
 | Spoon / cup | | 1+1 | | | ? | |
 | Thermos | 1 L | 0–1 | | | ? | |
