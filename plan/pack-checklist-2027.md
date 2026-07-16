@@ -64,6 +64,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] **Alkylate** in **2× 1 L** bottles — **no gas canisters before Abisko**
 - [ ] **Gas jet** (optional — pack/use from **Abisko** onward if you switch to canisters)
 - [x] Pot **TOAKS Ti 1600 ml Pot with Pan** ✓ + spork + mug
+- [x] **CO sensor** ✓ — vestibule cook (hang near face height)
 - [ ] Lighters ×2 + waterproof matches
 - [ ] Thermos (optional)
 

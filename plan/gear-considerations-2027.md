@@ -388,29 +388,31 @@ Indicative — check retailer before buying; sales move fast.
 | Mat | Size | Weight | R-value | Price (typical) | Comment |
 |-----|------|--------|---------|-----------------|---------|
 | **DIY PE / XPE sheet** (8 mm) ★ | Cut **torso** ~60×130 cm | **~80–120 g** | ~2 | **~€10–20** | Cheapest · see [where to buy foam](#where-to-buy-foam-diy) |
+| **Sirex PE Trekkingmat Everest 10** | **185×50×1.0 cm** | **~275 g** | **1.8** | **€14.95** | NL brand · closed-cell PE · [Bever](https://www.bever.nl/merken/sirex.html) · cut torso (~150 g) or full under Ultra 7R |
 | **Naturehike / generic fold mat** | Torso / short | **~100–150 g** | ~2 | **~€15–25** | Ali / outdoor discounters — check packed size |
 | **Exped FlexMat** | XS 130 cm | **~290 g** | 2.2 | **~€28–40** | [Exped EU](https://www.exped.com) · foldable · heavier but proper mat |
 | **Exped FlexMat Plus** | M 183 cm | **~395 g** | 2.2 | **~€40–55** | Full length — only if you want standalone hut mat |
 | **Therm-a-Rest Z-Lite SOL** | Full | **~410 g** | 2.0 | **€47–65** | [Therm-a-Rest EU](https://www.thermarest.com) · folds on pulk · list B uses full Z-Lite |
 | **Gossamer Gear Thin Light Insulation Pad** | Torso | **~51 g** | ~0.7 | **~€45** | Ultralight **boost** only — not a true emergency pad |
 
-**Note:** **Double-layer** (foam under **Ultra 7R**) adds warmth but also ~100 g and bulk — use on **−25 °C tent nights** only if shakedown shows cold spots, not every night.
+**Note:** **Double-layer** (foam under **Ultra 7R**) adds warmth but also ~100–275 g and bulk — use on **−25 °C tent nights** only if shakedown shows cold spots, not every night.
 
-**XPE vs PE:** camping mats labelled **XPE** are cross-linked polyethylene. For a DIY torso, **closed-cell PE sheet** (8 mm) behaves the same — puncture-proof backup, works wet. Bulk **XPE rolls** are industrial (large minimum orders); buy a **100×100 cm sheet** and cut with a sharp knife.
+**XPE vs PE:** camping mats labelled **XPE** are cross-linked polyethylene. For a DIY torso, **closed-cell PE sheet** (8 mm) behaves the same — puncture-proof backup, works wet. Bulk **XPE rolls** are industrial (large minimum orders); buy a **100×100 cm sheet** and cut with a sharp knife. **Sirex Everest 10** is finished PE mat (NL) — ready-made alternative to DIY.
 
-#### Where to buy foam (DIY)
+#### Where to buy foam (DIY / ready mat)
 
-Checked **15 Jul 2026** — NL/EU sources for **8 mm closed-cell PE** to cut a ~60×130 cm torso.
+Checked **15–16 Jul 2026** — NL/EU sources for **8–10 mm closed-cell PE**.
 
 | Source | Product | Price | Notes |
 |--------|---------|-------|-------|
-| [OmegaMix](https://www.omegamix.nl/polyethyleen-pe-schuim-8mm-100x100cm-isolatiemat) ★ | PE schuim **8 mm · 100×100 cm** | **~€10–15** | Consumer NL · gesloten cel · one sheet = one torso + offcuts |
+| [Bever — Sirex Everest 10](https://www.bever.nl/merken/sirex.html) ★ | **Sirex PE Trekkingmat Everest 10** · 185×50×10 mm | **€14.95** | Ready mat · ~275 g · R 1.8 · cut to torso if you want lighter |
+| [OmegaMix](https://www.omegamix.nl/polyethyleen-pe-schuim-8mm-100x100cm-isolatiemat) | PE schuim **8 mm · 100×100 cm** | **~€10–15** | Consumer NL · gesloten cel · one sheet = one torso + offcuts |
 | [CutWise](https://www.cutwise.nl/materialen/pe-schuim) | PE plaat **8 mm · 2000×1000 mm** | quote online | Laser/cut to size · antraciet · NL |
 | [EKI](https://www.eki.nl/l/polyethyleenschuim) | PE **roll** 1–15 mm · cut to width | on request | Nijmegen · rolls to 1 m wide · small qty OK |
 | [Robens Slumber Roll Pro](https://www.robens.de/en-gb/shop-1/outdoor-sleeping-gear/mats/slumber-roll-pro) | Finished **XPE** mat 180×60 cm | **€22.95** | Labelled XPE · 475 g full mat — cut down or carry as-is (heavy vs DIY) |
 | [Gamma](https://www.gamma.nl/assortiment/randstrook-met-folie-0-8-x-10-cm-25-meter/p/B282524) | PE randstrook **8 mm × 10 cm × 25 m** | **~€15** | Closed-cell PE strip — budget hack: layer strips to torso width |
 
-**DIY:** mark **60×130 cm** on the sheet · cut with box cutter + straight edge · round corners · strap flat to pulk bottom or roll loosely in main bag.
+**DIY:** mark **60×130 cm** on the sheet · cut with box cutter + straight edge · round corners · strap flat to pulk bottom or roll loosely in main bag. **Sirex:** same cut optional — full mat ~275 g; torso cut ~**140–160 g**.
 
 #### Packing
 
@@ -422,7 +424,7 @@ Checked **15 Jul 2026** — NL/EU sources for **8 mm closed-cell PE** to cut a ~
 
 **If you add foam:** shakedown with **bag + Ultra 7R + torso foam under hips** at **−15 °C**; then repeat with **air pad deflated** — confirm you can sleep and pack size still fits Sleeper stack.
 
-**Verdict:** **DIY PE torso** from [OmegaMix 8 mm sheet](https://www.omegamix.nl/polyethyleen-pe-schuim-8mm-100x100cm-isolatiemat) (~**€10–15**, ~**100 g** cut) is the sweet spot if you want backup without a second air pad. **Skip** unless the shakedown cold-spot test or solo-redundancy worry pushes you over the line — **Ultra 7R + repair kit** remains the default plan.
+**Verdict:** For a ready mat off the shelf, **Sirex Everest 10** ([Bever €14.95](https://www.bever.nl/merken/sirex.html)) beats DIY hassle — **~275 g** full or cut to torso. DIY OmegaMix sheet stays lightest (~**100 g**). **Skip** unless redundancy or cold-spot shakedown pushes you — **Ultra 7R + repair kit** remains the default plan.
 
 ---
 
