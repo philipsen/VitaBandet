@@ -29,18 +29,19 @@
 
 ## Daily use by device
 
-| Device | Ski day (~8 h) | Camp / hut night | Sleep | Active time / day | Est. drain / day | Charge rhythm |
-|--------|----------------|------------------|-------|-------------------|------------------|---------------|
-| **GPSMAP 68i** | On · **expedition** · track + inReach **10 min** · screen **off** · msgs at camp | On · inReach · **no** routine map use | On body · stays on | **~8 h** log + **~2 min** screen | **~4–6%** (~0.6–0.8 Wh) | Every **3–4 nights** |
-| **Fairphone 6** | **Airplane mode** · in jacket · **no nav** | **Occasional** OsmAnd · photos · messages · **~15–45 min** screen (not every night) | Airplane · **bag foot** | **~0 h** ski · **~0.25–0.75 h** camp | **~8–12%** (~1.0–1.5 Wh) | Every **3–4 nights** → ~70% |
-| **Nitecore NU43** | Off (in pack/pulk) | Tent pitch · cook · melt · chores · **~1 h** low/mid + red in tent | Off | **~1 h** | **~3–7%** (~0.4 Wh) | Every **7–10 nights** |
-| **Suunto Vertical 2** | **GPS route on** · map on wrist · **~8 h** ski · wrist-raise · HR | End/pause activity · camp time · optional LED | On wrist | **~8 h** GPS + **~15–20 min** screen | **~12–18%** (~2.0–3.0 Wh) | Every **2 nights** → ~60–70% |
-| **Fairbuds XL** | Off | Camp audio · **30–60 min** · ANC off | Off | **~0.5–1 h** | **~2–4%** (~0.15 Wh) | Every **7 nights** |
-| **Kindle** | Off · in pulk | Reading · **~30–60 min** (optional) | Off | **~0.5–1 h** | **~1–2%** (~0.05 Wh) | **★ resupply only** |
-| **CO detector** | Off · in kitchen kit | **On vestibule melt/cook only** · magnetic mount · face height · **off** after stove out | Off · kitchen bag | **~45–90 min** (cook nights) | **~5–10%** (~0.1–0.2 Wh) | **★ resupply** or every **10–14 nights** |
-| **Zolo** (only bank) | **Warm in jacket** all ski hours | Charge window · **one device** at a time | **Bag foot** when idle | — | **~8–18%**/charge night | **Full at every ★ / hut** |
+| Device | Ski day (~8 h) | Camp / hut night | Sleep | Active time / day | Est. drain / day | **% of total** | Charge rhythm |
+|--------|----------------|------------------|-------|-------------------|------------------|----------------|---------------|
+| **GPSMAP 68i** | On · **expedition** · track + inReach **10 min** · screen **off** · msgs at camp | On · inReach · **no** routine map use | On body · stays on | **~8 h** log + **~2 min** screen | **~4–6%** (~0.6–0.8 Wh) | **~22%** | Every **3–4 nights** |
+| **Fairphone 6** | **Airplane mode** · in jacket · **no nav** | **Occasional** OsmAnd · photos · messages · **~15–45 min** screen (not every night) | Airplane · **bag foot** | **~0 h** ski · **~0.25–0.75 h** camp | **~8–12%** (~1.0–1.5 Wh) | **~40%** | Every **3–4 nights** → ~70% |
+| **Nitecore NU43** | Off (in pack/pulk) | Tent pitch · cook · melt · chores · **~1 h** low/mid + red in tent | Off | **~1 h** | **~3–7%** (~0.4 Wh) | **~13%** | Every **7–10 nights** |
+| **Suunto Vertical 2** | **GPS route on** · map on wrist · **~8 h** ski · wrist-raise · HR | End/pause activity · camp time · optional LED | On wrist | **~8 h** GPS + **~15–20 min** screen | **~12–18%** (~0.3–0.4 Wh) | **~11%** | Every **2 nights** → ~60–70% |
+| **Fairbuds XL** | Off | Camp audio · **30–60 min** · ANC off | Off | **~0.5–1 h** | **~2–4%** (~0.15 Wh) | **~5%** | Every **7 nights** |
+| **Kindle** | Off · in pulk | Reading · **~30–60 min** (optional) | Off | **~0.5–1 h** | **~1–2%** (~0.05 Wh) | **~2%** | **★ resupply only** |
+| **CO detector** | Off · in kitchen kit | **On vestibule melt/cook only** · magnetic mount · face height · **off** after stove out | Off · kitchen bag | **~45–90 min** (cook nights) | **~5–10%** (~0.1–0.2 Wh) | **~5%** | **★ resupply** or every **10–14 nights** |
+| **Zolo** (only bank) | **Warm in jacket** all ski hours | Charge window · **one device** at a time | **Bag foot** when idle | — | **~8–18%**/charge night | — | **Full at every ★ / hut** |
 
-**Typical day total:** ~**4.5–6 Wh** across all devices · **Suunto is the main drain** · **one device** charged per camp night from the warm bank.
+**Typical day total:** ~**3–3.5 Wh** across all devices · **Fairphone is the largest Wh share** · **Suunto is the priority charge** (small cell · every 2 nights) · **one device** charged per camp night from the warm bank.  
+*% of total* = share of mid-day demand (~**3.1 Wh**); device **%** in drain column = share of that device’s own battery.
 
 ---
 
@@ -165,20 +166,20 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 
 *Wh = watt-hours stored in device battery. Cold reduces **effective bank output** ~20–40% — plan below uses **~30% margin**.*
 
-| Device | Battery (≈) | Daily drain (your use) | Wh/day |
-|--------|-------------|------------------------|--------|
-| **68i** | ~12 Wh | Expedition + 10 min track + msgs | **~0.6–0.8** |
-| **Fairphone 6** | ~17 Wh | Occasional OsmAnd · photos · msgs | **~1.0–1.5** |
-| **NU43** | ~13 Wh | ~1 h low/mid | **~0.4** |
-| **Suunto V2** | ~18 Wh | **~8 h GPS ski** · Endurance/Tour mode | **~2.0–3.0** |
-| **Fairbuds XL** | ~3 Wh | 30–60 min camp | **~0.15** |
-| **Kindle** | ~2 Wh | Reading only | **~0.05** |
-| **CO detector** | ~3 Wh | ~1 h/night cook · off otherwise | **~0.1–0.2** |
-| **Total** | | | **~4.5–6 Wh/day** |
+| Device | Battery (≈) | Daily drain (your use) | Wh/day | **% of total** |
+|--------|-------------|------------------------|--------|----------------|
+| **68i** | ~12 Wh | Expedition + 10 min track + msgs | **~0.6–0.8** | **~22%** |
+| **Fairphone 6** | ~17 Wh | Occasional OsmAnd · photos · msgs | **~1.0–1.5** | **~40%** |
+| **NU43** | ~13 Wh | ~1 h low/mid | **~0.4** | **~13%** |
+| **Suunto V2** | **~2.3 Wh** (620 mAh) | **~8 h GPS ski** · Endurance/Tour mode | **~0.3–0.4** | **~11%** |
+| **Fairbuds XL** | ~3 Wh | 30–60 min camp | **~0.15** | **~5%** |
+| **Kindle** | ~2 Wh | Reading only | **~0.05** | **~2%** |
+| **CO detector** | ~3 Wh | ~1 h/night cook · off otherwise | **~0.1–0.2** | **~5%** |
+| **Total** | | | **~3–3.5 Wh/day** | **100%** |
 
-**14-day leg (no wall):** **Not planned** with 1× bank — longest autonomous carry **~7–8 tent nights** (~**35–48 Wh** device demand).
+**14-day leg (no wall):** **Not planned** with 1× bank — longest autonomous carry **~7–8 tent nights** (~**21–28 Wh** device demand).
 
-**1× Zolo full** = **~72 Wh** nominal → **~50 Wh** effective after cold → **~8–10 days** at your usage — **comfortable on ≤7-day legs** (Ritsem→Abisko, Abisko→Treriksröset). **Hemavan→Kvikkjokk (~11–12 days)** requires **Ammarnäs (D38)** or hut charge mid-leg — see [long legs](#long-legs--7-days).
+**1× Zolo full** = **~72 Wh** nominal → **~50 Wh** effective after cold → **comfortable on ≤7–8 day legs** (Ritsem→Abisko, Abisko→Treriksröset). **Hemavan→Kvikkjokk (~11–12 days)** still needs **Ammarnäs (D38)** or hut charge mid-leg for margin — see [long legs](#long-legs--7-days).
 
 ---
 
