@@ -14,7 +14,7 @@
 | Device | Role | Daily use (your answers) | Charge port |
 |--------|------|--------------------------|-------------|
 | **GPSMAP 68i** | inReach · SOS · backup track log | Expedition mode · screen **off** skiing · **10 min** tracking · **2–5 msgs/day** · not primary map | USB-C |
-| **Fairphone 5** | **Occasional** nav backup · photos · messages | **Off/airplane** skiing · camp **OsmAnd** when needed · photos · messages · **not** daily driver | USB-C PD |
+| **Fairphone 6** | **Occasional** nav backup · photos · messages | **Off/airplane** skiing · camp **OsmAnd** when needed · photos · messages · **not** daily driver | USB-C PD |
 | **Nitecore NU43** | Tent · cook · melt | **~1 h/night** — mostly low/mid, some red | USB-C |
 | **Suunto Vertical 2** | **Primary on-trail nav** · HR · time | **GPS + route on** while skiing (~8 h) · offline map · wrist-raise | Proprietary USB (pack cable) |
 | **Fairbuds XL** | Camp audio | **30–60 min/night** camp only | USB-C (on ear cup) |
@@ -32,7 +32,7 @@
 | Device | Ski day (~8 h) | Camp / hut night | Sleep | Active time / day | Est. drain / day | Charge rhythm |
 |--------|----------------|------------------|-------|-------------------|------------------|---------------|
 | **GPSMAP 68i** | On · **expedition** · track + inReach **10 min** · screen **off** · msgs at camp | On · inReach · **no** routine map use | On body · stays on | **~8 h** log + **~2 min** screen | **~4–6%** (~0.6–0.8 Wh) | Every **3–4 nights** |
-| **Fairphone 5** | **Airplane mode** · in jacket · **no nav** | **Occasional** OsmAnd · photos · messages · **~15–45 min** screen (not every night) | Airplane · **bag foot** | **~0 h** ski · **~0.25–0.75 h** camp | **~8–12%** (~1.0–1.5 Wh) | Every **3–4 nights** → ~70% |
+| **Fairphone 6** | **Airplane mode** · in jacket · **no nav** | **Occasional** OsmAnd · photos · messages · **~15–45 min** screen (not every night) | Airplane · **bag foot** | **~0 h** ski · **~0.25–0.75 h** camp | **~8–12%** (~1.0–1.5 Wh) | Every **3–4 nights** → ~70% |
 | **Nitecore NU43** | Off (in pack/pulk) | Tent pitch · cook · melt · chores · **~1 h** low/mid + red in tent | Off | **~1 h** | **~3–7%** (~0.4 Wh) | Every **7–10 nights** |
 | **Suunto Vertical 2** | **GPS route on** · map on wrist · **~8 h** ski · wrist-raise · HR | End/pause activity · camp time · optional LED | On wrist | **~8 h** GPS + **~15–20 min** screen | **~12–18%** (~2.0–3.0 Wh) | Every **2 nights** → ~60–70% |
 | **Fairbuds XL** | Off | Camp audio · **30–60 min** · ANC off | Off | **~0.5–1 h** | **~2–4%** (~0.15 Wh) | Every **7 nights** |
@@ -98,7 +98,7 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 | Messages | **2–5/day batched** at camp | Typing on device in −20 °C costs power + patience |
 | Charge target | **Top up every 3–4 days** | Expedition mode stretches far — every 2–3 days is fine if you prefer margin |
 
-### Fairphone 5
+### Fairphone 6
 
 | Setting | Value | Why |
 |---------|-------|-----|
@@ -107,6 +107,8 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 | Brightness | **Low** + short timeout | Cold + OLED = fast drain |
 | Photos | **Moderate** — review/delete duds same night | Main phone use at camp |
 | Charge target | **Every 3–4 nights** to ~70% | Lower drain vs primary-nav role |
+
+**Specs (Gen 6):** **193 g** · **4415 mAh** removable (~**17 Wh**) · **30 W** USB-C · **IP55** · Android 15 · support to **2033** — [Fairphone 6](https://www.fairphone.com/the-new-fairphone).
 
 ### Suunto Vertical 2
 
@@ -168,7 +170,7 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 | Device | Battery (≈) | Daily drain (your use) | Wh/day |
 |--------|-------------|------------------------|--------|
 | **68i** | ~12 Wh | Expedition + 10 min track + msgs | **~0.6–0.8** |
-| **Fairphone 5** | ~16 Wh | Occasional OsmAnd · photos · msgs | **~1.0–1.5** |
+| **Fairphone 6** | ~17 Wh | Occasional OsmAnd · photos · msgs | **~1.0–1.5** |
 | **NU43** | ~13 Wh | ~1 h low/mid | **~0.4** |
 | **Suunto V2** | ~18 Wh | **~8 h GPS ski** · Endurance/Tour mode | **~2.0–3.0** |
 | **Fairbuds XL** | ~3 Wh | 30–60 min camp | **~0.15** |

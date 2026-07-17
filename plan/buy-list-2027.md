@@ -11,12 +11,12 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | | Items | Est. budget (EUR) |
 |---|-------|-------------------|
 | **Priority 1–2** — ski (poles, skins prep) | 6 lines | ~€120–200 |
-| **Priority 3** — power & comms | 8 lines | ~€650–900 |
+| **Priority 3** — power & comms | 4 lines | ~€75–140 + phone |
 | **Priority 4** — clothing & sleep | 4 lines | ~€120–200 |
 | **Maps & admin** | 2 lines | ~€140–220 |
 | **Confirm / optional** | 5 lines | ~€0–120 |
-| **Total (excl. Fairphone)** | | **~€1 030–1 520** |
-| **Fairphone 5** (if new) | 1 | ~€500–700 |
+| **Total (excl. Fairphone)** | | **~€880–1 370** |
+| **Fairphone 6** (if new) | 1 | ~€550–600 |
 
 *Prices indicative · Jul 2026 · incl. VAT where noted.*
 
@@ -49,16 +49,16 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | Status | Item | Qty | Spec / model | Est. | Where | Notes |
 |--------|------|-----|--------------|------|-------|-------|
-| 🛒 | **Power bank** | 2 | **Anker Zolo 20k · 30 W** (A1689) | ~€50–75 | [Amazon.nl](https://www.amazon.nl/dp/B0CZ9LH53B) · [Megekko](https://www.megekko.nl/product/4197/1664589/Powerbanks/Anker-Zolo-Powerbank-20-000mAh-Zwart) | Check recall SN · new stock only |
-| 🛒 | **Wall charger** | 1 | **Anker 100 W · 3 Ports · Smart Display** (B121B) | ~€50 | [Amazon.nl](https://www.amazon.nl/dp/B0FG745LNB) | Resupply / hut · includes 1.5 m C–C |
-| 🛒 | USB-C cables | 3 | Braided **30–60 cm** C–C | ~€15–25 | Anker · Cable Matters | +1 spare in repair pouch |
+| ✅ | **Power bank** | 2 | **Anker Zolo 20k · 30 W** (A1689) | — | ✓ owned | Recall SN checked · [anker.com/rc2506](https://www.anker.com/rc2506) |
+| ✅ | **Wall charger** | 1 | **Anker 100 W · 3 Ports · Smart Display** (B121B) | — | ✓ owned | Resupply / hut · 1.5 m C–C in box |
+| ✅ | **USB-C cables** | 3 | Braided **30–60 cm** C–C | — | ✓ owned | 68i · phone · headlamp / bank |
 | 🛒 | **Headlamp** | 1 | **Nitecore NU43** USB-C | ~€60–90 | [Nitecore BE/NL](https://nitecore-belux.com/nl/koplamp/76-nu43-lichtgewicht-1400lm-koplamp-met-afstandssensor.html) | [headlamp](./gear-considerations-2027.md#headlamp-usb) |
-| 🛒 | **Fairphone 5** | 1 | OsmAnd backup nav | ~€500–700 | [Fairphone](https://www.fairphone.com/fairphone-5-e-operating-system) | Download SE/NO maps + GPX before Feb |
+| 🛒 | **Fairphone 6** | 1 | OsmAnd backup nav | ~€550–600 | [Fairphone 6](https://www.fairphone.com/the-new-fairphone) | **193 g** · 4415 mAh · IP55 · SE/NO maps + GPX before Feb |
 | 🛒 | **Garmin inReach plan** | 1 | On **GPSMAP 68i** | ~€15–50/mo | Garmin | Activate before departure · not hardware |
 | ❓ | Suunto Vertical 2 **charge cable** | 1 | Proprietary | incl. | Suunto / spare | Confirm in box |
 | ❓ | Kindle **cable** | 0–1 | Match your Kindle | ~€5–10 | — | Only if bringing e-reader |
 
-**Owned (no buy):** GPSMAP 68i ✓ · Suunto Vertical 2 ✓ · OsmAnd+ ✓ · CO detector ✓
+**Owned (no buy):** GPSMAP 68i ✓ · Suunto Vertical 2 ✓ · OsmAnd+ ✓ · CO detector ✓ · **2× Anker Zolo 20k** ✓ · **Anker 100 W wall** ✓ · **3× USB-C cables** ✓
 
 **Power plan:** [power-plan-2027.md](./power-plan-2027.md)
 
@@ -116,6 +116,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | Lowland K2 · Ultra 7R · XLite | ✅ Own |
 | OmniLite + silencer · TOAKS pot · 2× 1 L bottles | ✅ Own |
 | CO detector · Leatherman · shovel · first aid | ✅ Own |
+| **2× Anker Zolo 20k** · **Anker 100 W wall** · **3× USB-C cables** | ✅ Own |
 | Hesta mittens · Rab down jacket · merino base | ✅ Own |
 | DNT key · NKBV card | ✅ Own |
 | Fairbuds XL · Kindle | ✅ Own (user) |
@@ -129,7 +130,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | When | Do |
 |------|-----|
-| **Now–autumn 2026** | Poles · skin reglue + wax/glue · power kit · headlamp · Fairphone · Calazo (watch for VGB discount) |
+| **Now–autumn 2026** | Poles · skin reglue + wax/glue · headlamp · Fairphone 6 · Calazo (watch for VGB discount) |
 | **Autumn 2026** | Socks · booties · Sirex foam · shakedowns |
 | **Jan 2027** | inReach plan live · OsmAnd + Suunto routes loaded · confirm shell |
 | **Feb 2027** | Alkylate fill · last gaps · optional VBL |

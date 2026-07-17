@@ -13,9 +13,9 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
 - [ ] **USB headlamp** — **Nitecore NU43** USB-C (~€73) or Petzl Actik Core — [headlamp](./gear-considerations-2027.md#headlamp-usb)
-- [ ] **2× Anker Zolo** 20k · 30 W USB-C (or equiv.) — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
-- [ ] **Anker Charger (100 W, 3 Ports, Smart Display)** + **3× braided USB-C–C** short cables — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
-- [ ] **Fairphone** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
+- [x] **2× Anker Zolo** 20k · 30 W (A1689) ✓ — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
+- [x] **Anker Charger (100 W, 3 Ports, Smart Display)** (B121B) ✓ + **3× braided USB-C–C** short cables ✓
+- [ ] **Fairphone 6** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
 - [x] **DNT key** + membership
 - [ ] **Garmin inReach plan** on GPSMAP 68i
 - [ ] **Suunto Vertical 2** charge cable
@@ -81,10 +81,10 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 
 - [ ] **Suunto Vertical 2** — route synced · charge cable · **primary on-trail nav**
 - [ ] **GPSMAP 68i** + USB-C cable + inReach active — SOS / backup log
-- [ ] **Fairphone** + **OsmAnd+** maps downloaded — **occasional backup**
+- [ ] **Fairphone 6** + **OsmAnd+** maps downloaded — **occasional backup**
 - [x] Compass
 - [ ] **Calazo 1:100k** maps — carry **current + next** sheet; rest in map pouch / pulk top
-- [ ] **2× power bank** (one warm in jacket while skiing)
+- [x] **2× power bank** (Anker Zolo 20k) ✓ — one warm in jacket while skiing
 - [ ] **USB headlamp** + USB-C charge cable
 
 ---
