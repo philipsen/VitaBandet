@@ -219,7 +219,7 @@ Confirm **68i inReach plan** before departure. Shakedown: ski one day with 68i o
 
 **Where to buy:** [Calazo](https://calazomaps.com/collections/fjallkartor-1-100-000) direct · Naturkompaniet · Kartbutiken · outdoor shops.
 
-**Weight:** **~700 g** full set folded (~70 g/sheet · weigh on delivery).
+**Weight:** **~430 g** full set folded (**30–52 g**/sheet · [Varuste](https://varuste.net/en/p87612/calazo-vindelfj%C3%A4llen-1-100-000) 30 g · [Viranomainen](https://viranomainen.fi/en/p71560/calazo-sarek-padjelanta-1-100-000) 50 g · Kebnekaise 52 g).
 
 ### Power
 
@@ -232,7 +232,7 @@ Confirm **68i inReach plan** before departure. Shakedown: ski one day with 68i o
 | USB-C cables (braided) | **3** short | 68i · Fairphone · headlamp · spare |
 | **USB headlamp** | **1** | **Buy** — see [headlamp](#headlamp-usb) |
 
-Charge at every **★** resupply; sleep with phone + one bank in bag foot on cold tent nights.
+Charge at every **★** resupply; sleep with phone + one bank in bag foot on cold tent nights. **Daily plan:** [power-plan-2027.md](./power-plan-2027.md).
 
 ---
 
@@ -268,7 +268,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 | Bank | Capacity | Weight | Price (typical) | Cold | Comment |
 |------|----------|--------|-----------------|------|---------|
-| **Anker Zolo 20k · 30 W** ★ | 20 000 mAh · **~72 Wh** · **30 W** PD | **~320–365 g** | **€25–37** | Warm in jacket | **Preferred** · **in stock** · see [where to buy](#where-to-buy-anker-zolo-20k) |
+| **Anker Zolo 20k · 30 W** ★ | 20 000 mAh · **~72 Wh** · **30 W** PD | **353 g** | **€25–37** | Warm in jacket | **Preferred** · **in stock** · see [where to buy](#where-to-buy-anker-zolo-20k) |
 | **JUOVI 65 W · 20k** (J2931) | 20 000 · **~74 Wh** · **65 W** PD | **~400 g** | **~€36** | Warm in jacket | **Skip vs Zolo** · 2× C + 2× A · display · heavier · marketplace brand · [Amazon.nl](https://www.amazon.nl/dp/B0FWR7Y3G6) |
 | **Anker PowerCore 20k PD** | 20 000 · ~20 W PD | ~345 g | **€68** | Warm in jacket | Coolblue **online OOS** · pickup in stores · [Coolblue](https://www.coolblue.nl/product/915602/anker-powercore-powerbank-20-000-mah-quick-charge-en-power-delivery-zwart.html) |
 | **Anker 20k · 87 W** (A1383) | 20 000 · 87 W shared | ~350 g+ | **€40–70** | Warm in jacket | **In stock** · overkill watts · [Amazon.nl](https://www.amazon.nl/dp/B0CXDXP8VR) ~€40–50 · [gsmpunt](https://www.gsmpunt.nl/powerbanks/anker-powercore-20000-mah-87w-powerbank-met-ingebouwde-usbc-kabel-zwart) €70 |
@@ -579,16 +579,116 @@ See [resupply-2027.md](./resupply-2027.md) for shop list.
 
 ## Socks & VBL
 
-**Buy 4–5 new heavy merino ski socks** (over-calf, medium–heavy) + **1–2 camp** pairs. Try in **Outback** with any VBL in shop.
+**Buy 4–5 new heavy merino ski socks** (over-calf, medium–heavy) + **1–2 camp** pairs. Fit-test in **Outback** before Feb — with and without VBL if you trial one.
 
-### VBL optional
+### Ski socks
 
-| | VBL + merino | Merino rotation only |
-|---|--------------|----------------------|
-| **Pros** | Drier boots over weeks; steady −15…−30 °C | Simple; easier blister care |
-| **Cons** | Clammy; blisters if wrinkled | Wet socks freeze; must dry daily |
+| Feature | Why |
+|---------|-----|
+| **Over-calf / knee height** | Outback cuff overlap; no gap at shin |
+| **Medium–heavy cushion** | Pulk load; long days |
+| **Merino blend** | Odour; still dries (slowly) at camp |
+| **4–5 pairs** | Rotate on **8–10 day** legs; one drying while others in use |
+| **1–2 thin camp socks** | Booties + bag — not ski socks |
 
-**Recommendation:** Start **without VBL** on shakedown. Try VBL only if feet stay wet **3+ days**. **One pair** max if adopted.
+**Skip:** cotton; thin liner-only as sole ski sock under load.
+
+---
+
+## VBL liners (optional)
+
+**Status:** **Test** — not a day-1 buy. **0–1 pair** on trip if adopted.
+
+**Job:** Keep **boot insulation and liners dry** over multi-day legs by trapping foot sweat *inside* an impermeable layer, instead of wicking it into merino and the boot.
+
+### How it works
+
+A **vapor barrier liner (VBL)** is a non-breathable sock worn **next to skin** (or over a very thin liner). Sweat stays on the skin side of the barrier; the **outer merino sock and boot stay dry**. Your feet are damp inside the VBL — that is normal — but boots do not accumulate water over a week.
+
+Works best in **steady cold** (−10…−30 °C) when exertion sweat is modest and outer layers need protecting. Less comfortable in **warm spells** or **steep haul days** when feet run hot.
+
+### Why it matters on Bandet
+
+| Factor | Implication |
+|--------|-------------|
+| **65 days · mostly tent** | Boots rarely sit on a hut drying rack — vestibule + body heat only |
+| **8–10 day resupply legs** | Socks/boots can stay wet inside for a week without VBL |
+| **Alfa Outback** | Warm expedition boot — sweat is the enemy, not cold toes |
+| **Down booties at camp** ✓ | Boots off early to air — **essential** with or without VBL |
+| **Feb deep cold → Apr mild** | VBL most useful **Feb–Mar**; may peel off on warm April KL days |
+| **Solo pulk · ~20 km/day** | Steady aerobic load = sweaty feet even at −20 °C |
+
+**The real problem VBL solves:** not frozen socks in the morning (you can put those on), but **saturated boot liners** that never fully dry between resupplies and slowly steal warmth.
+
+### VBL + merino vs merino rotation only
+
+| | **VBL + merino over** | **Merino rotation only** |
+|---|----------------------|--------------------------|
+| **Boot dryness** | Liners stay dry **weeks** | Liners wet by day 3–5 on tent legs |
+| **Sock drying** | Outer merino rarely needs drying | **Must** dry 1–2 pairs nightly |
+| **Foot feel** | Clammy inside VBL; warm if sized right | Wet merino; cold toes if socks frozen stiff |
+| **Blister risk** | **High** if wrinkled, too tight, or hot day | Lower — familiar sock fit |
+| **Complexity** | Daily foot wipe-down at camp | Simple rotation |
+| **Weight** | **~30–80 g** (1 pair) | +0 g (already carrying 4–5 socks) |
+
+### When VBL wins on Bandet
+
+- Shakedown or early trip: **boot liners still damp after 2+ nights** of vestibule drying  
+- **Padjelanta / long tent legs** with no hut dry room  
+- Steady **−15…−25 °C** travel days — not April slush  
+
+### When to skip
+
+- Feet run **hot** on typical ski days (Outback too warm for the pace)  
+- History of **maceration / trench-foot** issues in clammy conditions  
+- **Blister-prone** — fix sock/boot fit first; VBL adds friction if wrong  
+- **April KL finish** — warm days; merino-only may feel better  
+
+### Layering stack (if adopted)
+
+| Layer | Item |
+|-------|------|
+| 1 (skin) | Optional **thin merino toe sock** or bare skin |
+| 2 | **VBL** — smooth, wrinkle-free, trimmed nails |
+| 3 | **Heavy merino ski sock** (same pair can repeat — stays dry) |
+| 4 | **Alfa Outback** — unlace slightly if pressure points |
+
+**Do not** put VBL over thick merino — blisters guaranteed.
+
+### Options (prices · July 2026 · EUR incl. VAT)
+
+| VBL | Weight (pair) | Price | Comment |
+|-----|---------------|-------|---------|
+| **DIY bread bag / freezer bag** | ~10 g | ~€0 | Cut to sock shape · duct-tape cuff · **fine for shakedown trial** |
+| **RBH Designs Vapor Sock** | ~57 g | **~€35–45** | Classic expedition VBL · [RBH](https://www.rbhdesigns.com/) · ship US |
+| **Western Mountaineering VBL Sock** | ~43 g | **~€40–50** | Light · durable · EU stock spotty |
+| **Exped Vapor Barrier Socks** | ~60 g | **~€25–35** | Sometimes listed · check Korak / Bergfreunde |
+| **Sealskinz waterproof sock** (as VBL) | ~100 g+ | **~€40–60** | **Not ideal** — heavier; meant as outer waterproof layer |
+
+**Skip:** buying two pairs (one is enough — wash/dry feet, not the VBL); Gore-Tex “waterproof” hiking socks as primary VBL (too stiff in boot).
+
+**Trial path:** **DIY bag on one foot** for a long shakedown day → if boots stay drier, order **RBH or WM** before Feb. **Do not** commit to VBL for the full trip without a **loaded pulk** test.
+
+### Camp routine (pairs with booties)
+
+| Step | Action |
+|------|--------|
+| Arrive | Boots off → vestibule **upright, liners out** if possible |
+| Inside | **Wipe feet dry** · check hot spots |
+| VBL off | Turn inside-out briefly; air 5 min while melting |
+| Camp | **Down booties** + camp socks — boots stay drying |
+| Morning | VBL on first (smooth!) → dry merino → boot |
+
+Without VBL: rotate **wet ski sock** to outside jacket or bag foot to thaw; **never** sleep in wet ski socks.
+
+### Shakedown
+
+1. **Two days** merino-only with pulk — note boot liner wetness each evening.  
+2. **One day** DIY VBL one foot vs control foot — compare liner dampness.  
+3. If testing purchased VBL: **8 h day, −10…−20 °C**, full sock stack — any heel/toe hot spots?  
+4. Confirm **Outback volume** — VBL adds ~1 mm; too tight = cold toes.
+
+**Verdict:** **Do not buy VBL before shakedown.** Default plan: **4–5 merino + booties + aggressive boot drying**. Add **one VBL pair** only if shakedown or week 1 shows **boots not drying on tent legs**. **One pair max** — same VBL every ski day, washed feet nightly. Optional **DIY trial** costs nothing; **RBH / WM** (~**€35–50**) if you adopt.
 
 ---
 

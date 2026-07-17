@@ -18,6 +18,8 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] **Fairphone** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
 - [x] **DNT key** + membership
 - [ ] **Garmin inReach plan** on GPSMAP 68i
+- [ ] **Suunto Vertical 2** charge cable
+- [ ] **Kindle** cable (if bringing)
 - [x] **OmniLite** service kit — included with stove kit
 - [ ] **Shell** jacket + pants (if missing)
 - [ ] **Calazo 1:100k** — **full set** (10 Tyvek sheets) — [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k)
@@ -94,6 +96,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 | 3 | Underwear merino |
 | 4–5 | **New** ski socks heavy |
 | 1–2 | Camp socks |
+| 0–1 | **VBL liners** (optional — [socks/VBL](./gear-considerations-2027.md#vbl-liners-optional)) |
 | 1 pair | **Down booties** (camp/hut) |
 | 2 | Buff |
 | 1 | Mid fleece |

@@ -20,7 +20,7 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | Bag | **Lowland K2** ✓ | −35 °C comfort · ~2 kg |
 | Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ (ship to Abisko) · **Sirex Everest 10** foam backup (**Buy**) | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
 | Stove / pot | **OmniLite** + silencer · **TOAKS 1600 ml** ✓ | **2 L** max alkylate · [cooking](./gear-considerations-2027.md#cooking--toaks-ti-1600-ml) |
-| Nav / comms | **68i** + **OsmAnd+** + **Calazo 1:100k** (full set) | [comms](./gear-considerations-2027.md#navigation-comms--power) |
+| Nav / comms | **68i** + **OsmAnd+** + **Calazo 1:100k** (full set) | [comms](./gear-considerations-2027.md#navigation-comms--power) · [power plan](./power-plan-2027.md) |
 | Food | Buy on trail ~**8–10 days** | ~4,000–5,000 kcal/day · [resupply](./resupply-2027.md) |
 
 **Columns in master list below:** **Own** · **Need** · **Test**
@@ -96,7 +96,7 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | Ski socks (heavy merino) | 4–5 | | **Buy** | [socks](./gear-considerations-2027.md#socks--vbl) |
 | Camp socks | 1–2 | | **Buy** | |
 | Down booties | 1 pair | | **Buy** | **Rab Down Hut Slipper** ~€45–65 · [booties](./gear-considerations-2027.md#down-booties-camp) |
-| VBL liners | 0–1 | | **Test** | Optional |
+| VBL liners | 0–1 | | **Test** | ~30–80 g · optional · [VBL](./gear-considerations-2027.md#vbl-liners-optional) |
 
 ### Cooking & fuel
 
@@ -116,15 +116,22 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 
 | Item | Model / spec | Qty | Weight (g) | Own | Need | Notes |
 |------|--------------|-----|------------|-----|------|-------|
-| GPS + inReach | **GPSMAP 68i** | 1 | ~280 | ✓ | **Plan** | On body for SOS |
-| Phone | **Fairphone** | 1 | ~215 | | **Buy** | OsmAnd+ · ~212 g (FP5) |
-| Power bank 20k | **Anker Zolo · 30 W** | 2 | ~350 ea | | **Buy** | **~700** pair · built-in C · [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
-| USB-C + wall charger | **Anker 100 W · 3 ports · Smart Display** | 1 set | ~280 | | **Buy** | ~210 g brick + **3× braided C–C** · resupply only · [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
-| Headlamp | **Nitecore NU43** (USB-C) | 1 | ~116 | | **Buy** | ~€73 — [headlamp](./gear-considerations-2027.md#headlamp-usb) |
-| Compass | | 1 | ~35 | ✓ | | Baseplate |
-| Paper maps | **Calazo 1:100k** — **full set** (10 sheets) | 1 set | ~700 | | **Buy** | Tyvek · Sälen→Treriksröset · [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k) |
+| GPS + inReach | **GPSMAP 68i** | 1 | **241** | ✓ | **Plan** | Garmin **67i** spec 8.5 oz · [Garmin PDF](https://images.thdstatic.com/catalog/pdfImages/b0/b092858c-3750-4683-8dea-7c6b3fadb9a1.pdf) · weigh 68i on shakedown |
+| Phone | **Fairphone 5** | 1 | **212** | | **Buy** | [Fairphone](https://www.fairphone.com/fairphone-5-e-operating-system) · OsmAnd+ |
+| Power bank 20k | **Anker Zolo · 30 W** (A1689) | 2 | **353** ea | | **Buy** | **706** pair · [Megekko](https://www.megekko.nl/product/4197/1664589/Powerbanks/Anker-Zolo-Powerbank-20-000mAh-Zwart) · [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
+| Wall charger | **Anker 100 W · Smart Display** (B121B) | 1 | **212** | | **Buy** | Resupply only · [Amazon.nl](https://www.amazon.nl/dp/B0FG745LNB) · + **~35 g** 1.5 m C–C in box |
+| USB-C cables | braided **30–60 cm** | 3 | **~15** ea | | **Buy** | **~45** total · extrap. from Anker 0.9 m = **20 g** · 68i · phone · headlamp |
+| Headlamp | **Nitecore NU43** (USB-C) | 1 | **116** | | **Buy** | w/ bracket + headband · [Nitecore](https://www.nitecore.com/product/nu43) |
+| Compass | baseplate (e.g. Silva Ranger) | 1 | **33** | ✓ | | [Silva Ranger](https://www.adventuregear.ca/ranger-compass-by-silva) spec · weigh yours |
+| Paper maps | **Calazo 1:100k** — **10 sheets** | 1 set | **430** | | **Buy** | **30–52 g**/sheet · [Varuste](https://varuste.net/en/p87612/calazo-vindelfj%C3%A4llen-1-100-000) · [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k) |
 
-**On body (typical ski day):** 68i + phone + **1× bank** + headlamp ≈ **~960 g** · second bank in pulk or warm in jacket rotation.
+**Weights checked 17 Jul 2026** — manufacturer / retailer specs; confirm on shakedown (especially **68i** + compass).
+
+| Carry | Items | ≈ g |
+|-------|--------|-----|
+| **On body (ski day)** | 68i + Fairphone + 1× Zolo + NU43 | **922** |
+| **Pulk / resupply** | 2nd Zolo + wall + cables + maps | **~1 040** |
+| **Full nav/comms kit** | all above | **~1 995** |
 
 ### Safety & repair
 
@@ -257,6 +264,7 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 ## Links
 
 - [gear-considerations-2027.md](./gear-considerations-2027.md) — poles, skins, tent/pad, nav, **power banks/cables**, headlamp, VBL, booties, foam  
+- [power-plan-2027.md](./power-plan-2027.md) — daily charge calendar · device settings  
 - [pack-checklist-2027.md](./pack-checklist-2027.md)  
 - [packing-pulk-2027.md](./packing-pulk-2027.md)  
 - [resupply-2027.md](./resupply-2027.md)  
