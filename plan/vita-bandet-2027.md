@@ -140,7 +140,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 - **Emergency contacts:** *(name, phone, relationship × 2)*  
 - **Check‑in schedule:** fixed times (e.g. daily 20:00) + missed-check-in protocol for contacts  
-- **Satellite / phone:** **GPSMAP 68i** on body (inReach with plan); **Fairphone** + **OsmAnd** (offline SE/NO, VGB GPX); **Calazo 1:100k** full set; **2× 20k power banks** + **USB headlamp**  
+- **Satellite / nav:** **Suunto Vertical 2** primary on-trail · **GPSMAP 68i** on body (inReach + SOS) · **Fairphone** + **OsmAnd** occasional backup · **Calazo 1:100k** full set · **2× 20k power banks** + **USB headlamp**  
 - **Turnaround rules:** weather, injury, pace — decide alone before departure  
 - **Insurance:** incl. search & rescue / evacuation  
 - **Share live track** with trusted contact for full expedition  

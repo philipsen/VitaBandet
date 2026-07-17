@@ -51,7 +51,7 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 | Nallo 3GT | Main bag, **middle/top** | Last out at camp, first in next morning if wet |
 | Food (leg) | Main bag **bottom** — **flat clear boxes** | Dense, heavy; repack after every shop |
 | Alkylate bottles | Main bag **bottom centre**, upright | **Liquid only** until Abisko; separate from food |
-| Stove + **TOAKS 1600 ml** pot/pan + fuel tools | Main bag **middle** | OmniLite + silencer · **CO sensor** in vestibule when cooking |
+| Stove + **TOAKS 1600 ml** pot/pan + fuel tools + **CO detector** | Main bag **middle** | OmniLite + silencer · **CO detector ON** in vestibule when cooking · magnetic · face height |
 | Spare clothes | Dry bags, main bag | One dry set packed deep |
 | Phone, spare battery, maps | Main bag top **or** body | 68i on **body** preferred |
 | Snow shovel | Main bag / accessible | Vestibule pit · camp · emergency snow shelter |

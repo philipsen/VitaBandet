@@ -159,7 +159,8 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 | Device | Role |
 |--------|------|
 | **GPSMAP 68i** | Primary GPS + inReach (with plan) — **on body** |
-| **Fairphone** | **OsmAnd+** offline + GPX at camp |
+| **Fairphone** | **OsmAnd+** offline backup · GPX · occasional camp nav |
+| **Suunto Vertical 2** | **Primary on-trail nav** · offline route · GPS while skiing |
 | **2× 20k power banks** | Primary recharge strategy |
 | **USB headlamp** | **Buy** — **NU43** ~€73 · see [headlamp](#headlamp-usb) |
 
@@ -192,7 +193,7 @@ Confirm **68i inReach plan** before departure. Shakedown: ski one day with 68i o
 | **Calazo 1:100k** ★ | **Buy** — full set · whiteout / battery death |
 | **Gaia / Avenza** | Skip as primary for full route |
 
-**Hierarchy:** **68i** (skiing) → **OsmAnd** (stopped) → **Calazo + compass**.
+**Hierarchy:** **Suunto** (skiing · primary map) → **OsmAnd** (occasional backup · camp) → **68i** (inReach · SOS · expedition log) → **Calazo + compass**.
 
 ### Paper maps — Calazo 1:100k
 
@@ -247,7 +248,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 | Device | Port | Notes |
 |--------|------|-------|
 | **GPSMAP 68i** | USB-C | Dry port before plug · charges from any USB ≥500 mA; PD fine · some banks cut off near full (low draw) |
-| **Fairphone** | USB-C PD | OsmAnd + offline maps · biggest daily drain at camp |
+| **Fairphone** | USB-C PD | OsmAnd backup · photos · messages · occasional camp nav |
 | **NU43 headlamp** | USB-C | Top up at camp from warm bank |
 | Power banks themselves | USB-C in | Wall at **★** shops / STF |
 
@@ -380,7 +381,7 @@ Checked **16 Jul 2026** — prices incl. VAT; black · Zwart.
 
 **Status:** **Need** — buy new **USB-C rechargeable** headlamp before Feb 2027.
 
-**Job:** Tent setup, cooking, melting, vestibule tasks, late hut arrival — **Feb–Apr dark hours**. Not primary nav (that's **68i** + **OsmAnd**). Same charge workflow as **68i** + **Fairphone** + power banks — one **wall charger** at resupply covers all.
+**Job:** Tent setup, cooking, melting, vestibule tasks, late hut arrival — **Feb–Apr dark hours**. Not primary nav (**Suunto** on trail · **OsmAnd** occasional). Same charge workflow as **68i** + **Fairphone** + power banks — one **wall charger** at resupply covers all.
 
 ### What to look for
 

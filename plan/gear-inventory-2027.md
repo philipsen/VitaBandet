@@ -4,7 +4,7 @@
 
 **Core kit:** Hilleberg **Nallo 3GT** · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Lowland K2** ✓ · **Exped Ultra 7R** ✓ · **NeoAir XLite** ✓ · **OmniLite Ti** + silencer · **2× 1 L** fuel · **Jemtlander 14** + **Sleeper 200** · **TOAKS 1600 ml** ✓ · **GPSMAP 68i** · **OsmAnd+**
 
-Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** [gear-considerations-2027.md](./gear-considerations-2027.md). **Packing:** [packing-pulk-2027.md](./packing-pulk-2027.md). **Print list:** [pack-checklist-2027.md](./pack-checklist-2027.md).
+Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). **Comparisons & upgrade paths:** [gear-considerations-2027.md](./gear-considerations-2027.md). **Packing:** [packing-pulk-2027.md](./packing-pulk-2027.md). **Print list:** [pack-checklist-2027.md](./pack-checklist-2027.md).
 
 ---
 
@@ -20,7 +20,7 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | Bag | **Lowland K2** ✓ | −35 °C comfort · ~2 kg |
 | Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ (ship to Abisko) · **Sirex Everest 10** foam backup (**Buy**) | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
 | Stove / pot | **OmniLite** + silencer · **TOAKS 1600 ml** ✓ | **2 L** max alkylate · [cooking](./gear-considerations-2027.md#cooking--toaks-ti-1600-ml) |
-| Nav / comms | **68i** + **OsmAnd+** + **Calazo 1:100k** (full set) | [comms](./gear-considerations-2027.md#navigation-comms--power) · [power plan](./power-plan-2027.md) |
+| Nav / comms | **Suunto V2** · **68i** · **OsmAnd+** · **Calazo 1:100k** | [comms](./gear-considerations-2027.md#navigation-comms--power) · [power plan](./power-plan-2027.md) |
 | Food | Buy on trail ~**8–10 days** | ~4,000–5,000 kcal/day · [resupply](./resupply-2027.md) |
 
 **Columns in master list below:** **Own** · **Need** · **Test**
@@ -107,7 +107,7 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | Fuel bottles | **1 L** | 2 | ~400? | ✓ | | **2 L** max carry |
 | Service kit | OmniLite Ti | 1 | | ✓ | | Included with stove kit |
 | Pot | **TOAKS Ti 1600 ml Pot with Pan** | 1 | ~231 | ✓ | | Pan/lid ~142 mm |
-| **CO sensor** | | 1 | | ✓ | | Vestibule cook — hang near face height |
+| **CO detector** | Portable 3-in-1 · CO + temp + RH · magnetic | 1 | **~58** | ✓ | | USB-C · vestibule cook only · [bol.com](https://www.bol.com/nl/nl/p/gasdetector-koolmonoxidedetector-draagbare-koolmonoxidemelder-temperatuurweergave-vochtigheidsweergave-magnetische-adsorptie/9300000256771676/) · [power](./power-plan-2027.md#portable-co-detector) |
 | Lighter + matches | | 2+2 | | ✓ | | |
 | Spoon / cup / utensils | | 1 set | | ✓ | | |
 | Thermos | **1 L** blue | 1 | | ✓ | | Day drink / warm water |
@@ -116,8 +116,9 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 
 | Item | Model / spec | Qty | Weight (g) | Own | Need | Notes |
 |------|--------------|-----|------------|-----|------|-------|
-| GPS + inReach | **GPSMAP 68i** | 1 | **241** | ✓ | **Plan** | Garmin **67i** spec 8.5 oz · [Garmin PDF](https://images.thdstatic.com/catalog/pdfImages/b0/b092858c-3750-4683-8dea-7c6b3fadb9a1.pdf) · weigh 68i on shakedown |
-| Phone | **Fairphone 5** | 1 | **212** | | **Buy** | [Fairphone](https://www.fairphone.com/fairphone-5-e-operating-system) · OsmAnd+ |
+| GPS + inReach | **GPSMAP 68i** | 1 | **241** | ✓ | **Plan** | inReach · SOS · backup log · [power](./power-plan-2027.md) |
+| Watch / nav | **Suunto Vertical 2** | 1 | **~87** | ✓ | | **Primary on-trail nav** · offline route · [power](./power-plan-2027.md) |
+| Phone | **Fairphone 5** | 1 | **212** | | **Buy** | OsmAnd **backup** · [Fairphone](https://www.fairphone.com/fairphone-5-e-operating-system) · [power](./power-plan-2027.md) |
 | Power bank 20k | **Anker Zolo · 30 W** (A1689) | 2 | **353** ea | | **Buy** | **706** pair · [Megekko](https://www.megekko.nl/product/4197/1664589/Powerbanks/Anker-Zolo-Powerbank-20-000mAh-Zwart) · [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
 | Wall charger | **Anker 100 W · Smart Display** (B121B) | 1 | **212** | | **Buy** | Resupply only · [Amazon.nl](https://www.amazon.nl/dp/B0FG745LNB) · + **~35 g** 1.5 m C–C in box |
 | USB-C cables | braided **30–60 cm** | 3 | **~15** ea | | **Buy** | **~45** total · extrap. from Anker 0.9 m = **20 g** · 68i · phone · headlamp |
@@ -213,7 +214,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 | 1 | 3 nights **Nallo 3GT** sub −20 °C, pulk in vestibule | |
 | 2 | **J14 + Sleeper** — 8 h, 18–22 km, 10-day load | |
 | 3 | **Skins** — short ✓ + long after reglue; fishscale; pulk on hill | |
-| 4 | **68i** skiing + **OsmAnd** GPX; inReach test | |
+| 4 | **Suunto** ski day + **68i** inReach; **OsmAnd** backup test | |
 | 5 | **OmniLite** + silencer on alkylate at −20 °C — **g/day** | |
 | 6 | Sleep: **Lowland K2 + Ultra 7R** at −15 °C | |
 | 7 | **New poles** — loaded pulk, baskets, flex tip drill | |

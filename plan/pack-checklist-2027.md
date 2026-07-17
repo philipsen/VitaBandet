@@ -1,7 +1,7 @@
 # Vita Bandet 2027 — pack checklist
 
 **Solo · S→N · 15 Feb–19 Apr · ski + pulk · mostly tent**  
-Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gear-inventory-2027.md](./gear-inventory-2027.md) · [gear-considerations-2027.md](./gear-considerations-2027.md) · [resupply-2027.md](./resupply-2027.md) · [dag-for-dag-2027.md](./dag-for-dag-2027.md)
+Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gear-inventory-2027.md](./gear-inventory-2027.md) · [gear-considerations-2027.md](./gear-considerations-2027.md) · [resupply-2027.md](./resupply-2027.md) · [dag-for-dag-2027.md](./dag-for-dag-2027.md)
 
 ---
 
@@ -69,7 +69,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] **Gas jet** (optional — pack/use from **Abisko** onward if you switch to canisters)
 - [x] Pot **TOAKS Ti 1600 ml Pot with Pan** ✓
 - [x] **Spoon / cup / utensils** ✓
-- [x] **CO sensor** ✓ — vestibule cook (hang near face height)
+- [x] **CO detector** ✓ — portable 3-in-1 (CO + temp + RH) · USB-C · magnetic · vestibule cook only — [power plan](./power-plan-2027.md#portable-co-detector)
 - [x] Lighters ×2 + waterproof matches ✓
 - [x] **Thermos 1 L** ✓ (blue)
 
@@ -79,8 +79,9 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 
 ## Nav & comms
 
-- [ ] **GPSMAP 68i** + USB-C cable + inReach active
-- [ ] **Fairphone** + **OsmAnd+** maps downloaded
+- [ ] **Suunto Vertical 2** — route synced · charge cable · **primary on-trail nav**
+- [ ] **GPSMAP 68i** + USB-C cable + inReach active — SOS / backup log
+- [ ] **Fairphone** + **OsmAnd+** maps downloaded — **occasional backup**
 - [x] Compass
 - [ ] **Calazo 1:100k** maps — carry **current + next** sheet; rest in map pouch / pulk top
 - [ ] **2× power bank** (one warm in jacket while skiing)
@@ -176,7 +177,7 @@ S→N: each point **east** of track. Wide corridor OK.
 - [ ] Sleep test: bag + pad on snow
 - [ ] **Sleeper 200** on pulk — repack bag + pad after each camp
 - [ ] Sleeper **bivi drill** (Nallo failed scenario) 20 min
-- [ ] 68i + OsmAnd nav test
+- [ ] Suunto + 68i inReach test · OsmAnd backup once
 - [ ] Weigh loaded pulk: ______ kg
 
 ---
