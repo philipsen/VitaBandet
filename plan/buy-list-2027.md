@@ -49,7 +49,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | Status | Item | Qty | Spec / model | Est. | Where | Notes |
 |--------|------|-----|--------------|------|-------|-------|
-| ✅ | **Power bank** | 2 | **Anker Zolo 20k · 30 W** (A1689) | — | ✓ owned | Recall SN checked · [anker.com/rc2506](https://www.anker.com/rc2506) |
+| ✅ | **Power bank** | 1 | **Anker Zolo 20k · 30 W** (A1689) | — | ✓ owned | On trail only · **2nd at home** · recall SN · [anker.com/rc2506](https://www.anker.com/rc2506) |
 | ✅ | **Wall charger** | 1 | **Anker 100 W · 3 Ports · Smart Display** (B121B) | — | ✓ owned | Resupply / hut · 1.5 m C–C in box |
 | ✅ | **USB-C cables** | 3 | Braided **30–60 cm** C–C | — | ✓ owned | 68i · phone · headlamp / bank |
 | 🛒 | **Headlamp** | 1 | **Nitecore NU43** USB-C | ~€60–90 | [Nitecore BE/NL](https://nitecore-belux.com/nl/koplamp/76-nu43-lichtgewicht-1400lm-koplamp-met-afstandssensor.html) | [headlamp](./gear-considerations-2027.md#headlamp-usb) |
@@ -58,7 +58,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | ❓ | Suunto Vertical 2 **charge cable** | 1 | Proprietary | incl. | Suunto / spare | Confirm in box |
 | ❓ | Kindle **cable** | 0–1 | Match your Kindle | ~€5–10 | — | Only if bringing e-reader |
 
-**Owned (no buy):** GPSMAP 68i ✓ · Suunto Vertical 2 ✓ · OsmAnd+ ✓ · CO detector ✓ · **2× Anker Zolo 20k** ✓ · **Anker 100 W wall** ✓ · **3× USB-C cables** ✓
+**Owned (no buy):** GPSMAP 68i ✓ · Suunto Vertical 2 ✓ · OsmAnd+ ✓ · CO detector ✓ · **1× Anker Zolo 20k** (on trail) ✓ · **Anker 100 W wall** ✓ · **3× USB-C cables** ✓
 
 **Power plan:** [power-plan-2027.md](./power-plan-2027.md)
 
@@ -116,7 +116,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | Lowland K2 · Ultra 7R · XLite | ✅ Own |
 | OmniLite + silencer · TOAKS pot · 2× 1 L bottles | ✅ Own |
 | CO detector · Leatherman · shovel · first aid | ✅ Own |
-| **2× Anker Zolo 20k** · **Anker 100 W wall** · **3× USB-C cables** | ✅ Own |
+| **1× Anker Zolo 20k** · **Anker 100 W wall** · **3× USB-C cables** | ✅ Own (2nd bank at home) |
 | Hesta mittens · Rab down jacket · merino base | ✅ Own |
 | DNT key · NKBV card | ✅ Own |
 | Fairbuds XL · Kindle | ✅ Own (user) |

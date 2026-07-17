@@ -120,7 +120,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Watch / nav | **Suunto Vertical 2** | 1 | **87** | **87** | ✓ | | Steel **87** · Ti **74** · [Suunto](https://www.suunto.com) · primary on-trail nav |
 | Suunto charge cable | USB-C magnetic | 1 | **~25** | **~25** | ✓ | | In box · pulk/resupply |
 | Phone | **Fairphone 6** | 1 | **193** | **193** | | **Buy** | [Fairphone 6](https://www.fairphone.com/the-new-fairphone) · 4415 mAh · IP55 · OsmAnd backup |
-| Power bank 20k | **Anker Zolo · 30 W** (A1689) | 2 | **353** | **706** | ✓ | | Recall SN checked · [power](./power-plan-2027.md) |
+| Power bank 20k | **Anker Zolo · 30 W** (A1689) | 1 | **353** | **353** | ✓ | | Recall SN checked · 2nd at home · [power](./power-plan-2027.md) |
 | Wall charger | **Anker 100 W · Smart Display** (B121B) | 1 | **212** | **212** | ✓ | | Resupply only · [Amazon.nl](https://www.amazon.nl/dp/B0FG745LNB) |
 | Wall cable (in box) | USB-C **1.5 m** | 1 | **~35** | **~35** | ✓ | | With wall charger |
 | USB-C cables | braided **30–60 cm** | 3 | **~15** | **~45** | ✓ | | 68i · phone · headlamp / bank |
@@ -128,16 +128,16 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Headlamp | **Nitecore NU43** (USB-C) | 1 | **116** | **116** | | **Buy** | w/ bracket + headband · [Nitecore](https://www.nitecore.com/product/nu43) |
 | Compass | baseplate (e.g. Silva Ranger) | 1 | **33** | **33** | ✓ | | Weigh yours on shakedown |
 | Paper maps | **Calazo 1:100k** — **10 sheets** | 1 set | **430** | **430** | | **Buy** | **30–52 g**/sheet · [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k) |
-| **Nav / comms subtotal** | | | | **~2 138** | | | Confirm **68i** + compass on shakedown |
+| **Nav / comms subtotal** | | | | **~1 785** | | | Confirm **68i** + compass on shakedown |
 
 **Weights checked 17 Jul 2026** — manufacturer / retailer specs unless noted **~**.
 
 | Carry | Items | ≈ g |
 |-------|--------|-----|
-| **On body (ski day)** | Suunto **87** + 68i **241** + Fairphone **193** + 1× Zolo **353** + NU43 **116** + compass **33** | **~1 023** |
-| **On body (minimal)** | Suunto + 68i + 1× Zolo (phone off · no headlamp · no compass) | **~681** |
-| **Pulk / resupply** | 2nd Zolo **353** + wall **212** + box cable **35** + field cables **45** + spare **15** + Suunto cable **25** + maps **430** | **~1 115** |
-| **Full nav/comms kit** | All rows above | **~2 138** |
+| **On body (ski day)** | Suunto **87** + 68i **241** + Fairphone **193** + Zolo **353** + NU43 **116** + compass **33** | **~1 023** |
+| **On body (minimal)** | Suunto + 68i + Zolo (phone off · no headlamp · no compass) | **~681** |
+| **Pulk / resupply** | wall **212** + box cable **35** + field cables **45** + spare **15** + Suunto cable **25** + maps **430** | **~762** |
+| **Full nav/comms kit** | All rows above | **~1 785** |
 
 ### Safety & repair
 
@@ -232,7 +232,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 
 1. **Long skins** — reglue or replace + wax + glue tube  
 2. **Ski poles** — Ingstad Alloy + baskets + flex tip + sleeve  
-3. **Power** — **USB headlamp** · **Fairphone 6** · OsmAnd maps · inReach plan *(2× Zolo ✓ · 100 W wall ✓ · cables ✓)*  
+3. **Power** — **USB headlamp** · **Fairphone 6** · OsmAnd maps · inReach plan *(1× Zolo on trail ✓ · 100 W wall ✓ · cables ✓)*  
 4. **New ski socks** (4–5) + **down booties**; **Sirex Everest 10** foam (~€15); **shell** if missing  
 5. Fill **2× 1 L** bottles (OmniLite service kit ✓ — in stove kit)  
 6. Tent upgrade **only after** shakedown — [considerations](./gear-considerations-2027.md#tent--nallo-3gt--upgrades)

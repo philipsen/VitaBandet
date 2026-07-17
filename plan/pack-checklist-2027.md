@@ -13,7 +13,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
 - [ ] **USB headlamp** — **Nitecore NU43** USB-C (~€73) or Petzl Actik Core — [headlamp](./gear-considerations-2027.md#headlamp-usb)
-- [x] **2× Anker Zolo** 20k · 30 W (A1689) ✓ — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
+- [x] **1× Anker Zolo** 20k · 30 W (A1689) ✓ — warm in jacket · 2nd at home — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
 - [x] **Anker Charger (100 W, 3 Ports, Smart Display)** (B121B) ✓ + **3× braided USB-C–C** short cables ✓
 - [ ] **Fairphone 6** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
 - [x] **DNT key** + membership
@@ -25,7 +25,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Calazo 1:100k** — **full set** (10 Tyvek sheets) — [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k)
 - [x] **Exped Ultra 7R** LW + pump + pad repair kit — primary pad in Sleeper
 - [ ] **Sirex PE Trekkingmat Everest 10** — foam backup (~€15 · [Bever](https://www.bever.nl/merken/sirex.html)) · main pulk
-- [ ] **Alkylate** — fill bottles at home; phone **Hemavan + Kvikkjokk** for stock
+- [ ] **Alkylate** — fill bottles at home; phone **Hemavan + Kvikkjokk** for stock · **Ammarnäs (D38)** for bank charge on Hemavan leg
 
 ---
 
@@ -84,7 +84,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Fairphone 6** + **OsmAnd+** maps downloaded — **occasional backup**
 - [x] Compass
 - [ ] **Calazo 1:100k** maps — carry **current + next** sheet; rest in map pouch / pulk top
-- [x] **2× power bank** (Anker Zolo 20k) ✓ — one warm in jacket while skiing
+- [x] **1× power bank** (Anker Zolo 20k) ✓ — **always warm in jacket** while skiing
 - [ ] **USB headlamp** + USB-C charge cable
 
 ---

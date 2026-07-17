@@ -161,7 +161,7 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 | **GPSMAP 68i** | Primary GPS + inReach (with plan) — **on body** |
 | **Fairphone** | **Fairphone 6** · OsmAnd+ backup · GPX · occasional camp nav |
 | **Suunto Vertical 2** | **Primary on-trail nav** · offline route · GPS while skiing |
-| **2× 20k power banks** | Primary recharge strategy |
+| **1× 20k power bank** | Primary recharge — **always warm on body** · full at every ★ |
 | **USB headlamp** | **Buy** — **NU43** ~€73 · see [headlamp](#headlamp-usb) |
 
 ### GPSMAP 68i — carry rule
@@ -228,8 +228,8 @@ Confirm **68i inReach plan** before departure. Shakedown: ski one day with 68i o
 
 | Item | Qty | Notes |
 |------|-----|-------|
-| Power bank 20k USB-C PD | **2** ✓ | **Anker Zolo 20k · 30 W** — warm in jacket · one on body while skiing |
-| **Anker 100 W · 3 ports · Smart Display** | 1 ✓ | Resupply — both banks + phone overnight |
+| Power bank 20k USB-C PD | **1** ✓ | **Anker Zolo 20k · 30 W** — warm in jacket · **2nd bank stays home** |
+| **Anker 100 W · 3 ports · Smart Display** | 1 ✓ | Resupply — bank + phone overnight |
 | USB-C cables (braided) | **3** ✓ | 68i · Fairphone · headlamp · spare optional |
 | **USB headlamp** | **1** | **Buy** — see [headlamp](#headlamp-usb) |
 
@@ -239,7 +239,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 ## Power banks, wall charger & cables
 
-**Status:** **Owned** — 2× **Anker Zolo 20k · 30 W** (A1689) ✓ · **Anker 100 W · 3 Ports · Smart Display** (B121B) ✓ · **3× USB-C cables** ✓. **Still need:** USB headlamp · Fairphone 6 · inReach plan.
+**Status:** **Owned** — **1× Anker Zolo 20k · 30 W** (A1689) on trail ✓ · **2nd Zolo at home** · **Anker 100 W · 3 Ports · Smart Display** (B121B) ✓ · **3× USB-C cables** ✓. **Still need:** USB headlamp · Fairphone 6 · inReach plan.
 
 **Job:** Keep **GPSMAP 68i**, **Fairphone**, and **USB headlamp** alive between shops (**~8–10 days** typical; Padjelanta longer).
 
@@ -290,7 +290,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 **Budget:** **2× Zolo** ≈ **€50–70** total · or **1× Zolo + 1× Summit** (~€170–200) if you want one cold-proof bank.
 
-**Zolo vs Bandet:** Built-in **~15 cm** USB-C is great for **Fairphone** in the jacket; still carry **braided C–C** for **68i** / headlamp / wall↔bank. Input **20 W** — overnight refill of both banks at ★ is fine with the **100 W** wall. Same warm-in-jacket cold plan as PowerCore.
+**Zolo vs Bandet:** Built-in **~15 cm** USB-C is great for **Fairphone** in the jacket; still carry **braided C–C** for **68i** / headlamp / wall↔bank. Input **20 W** — overnight refill at ★ (~**3–4 h**) is fine with the **100 W** wall. Bank **always warm on body** — no cold reserve in pulk.
 
 ##### JUOVI 65 W · 20k
 
@@ -318,13 +318,13 @@ Checked **16 Jul 2026** — black · Zwart · model **A1689** / vendor **A168901
 | [bol.com (BE)](https://www.bol.com/be/nl/p/anker-zolo-power-bank-20-000mah-30w-snelle-draagbare-oplader-met-ingebouwde-usb-c-kabel-1-usb-c-1-usb-a-batterijpakket-voor-iphone-16-15-15-pro-15-pro-max-15-plus-macbook-galaxy-en-meer/9300000193847941/) | **~€34.95** | Ships NL |
 | [Anker EU](https://www.anker.com/eu-en/products/a1689) | **€36.99** | Direct · current production |
 
-**Buy 2×** for the trip (~**€50–70** pair).
+**Pack 1×** for the trip · **2nd Zolo at home** as spare (~**€28–35** each if buying new).
 
 ### Wall charger
 
 | Charger | Spec | Price | Comment |
 |---------|------|-------|---------|
-| **Anker Charger (100 W, 3 Ports, Smart Display)** ★ **Buy** | **100 W** · **2× USB-C + USB-A** · fold plug · display · SKU **B121BGZ1** | **~€50–70** | Chosen · charge **both banks + phone** overnight · includes 1.5 m C–C |
+| **Anker Charger (100 W, 3 Ports, Smart Display)** ★ ✓ | **100 W** · **2× USB-C + USB-A** · fold plug · display · SKU **B121BGZ1** | **~€50–70** | Owned · charge **bank + phone** overnight · includes 1.5 m C–C |
 | Hotel / STF USB only | Varies | — | Bring your own brick — hut USB ports often weak |
 
 **EU plug** — Sweden/Norway Type F; NL charger works. Overkill watts vs phone/banks, but **3 ports + display** = one overnight plug at ★ without juggling.
@@ -362,18 +362,18 @@ Checked **16 Jul 2026** — prices incl. VAT; black · Zwart.
 |-----------|------------|
 | Ski day | **One bank** warm in jacket (with 68i on body) |
 | Tent night | Phone + bank in **bag foot**; charge headlamp after dinner |
-| ★ Resupply | Wall charger → fill **both** banks + devices overnight |
+| ★ Resupply | Wall charger → **bank full** + devices overnight |
 | Below −20 °C | Warm bank **10–20 min** against body before use |
-| Padjelanta / long leg | Start with **both banks full**; expedition mode on 68i |
+| Leg **>7 days** | **Mid-leg ★ / hut** charge mandatory ([power plan](./power-plan-2027.md)) · expedition mode on 68i |
 
 ### Shakedown
 
-1. Charge **68i + Fairphone + NU43** from each bank once.  
-2. Confirm banks don’t cut off mid-charge on 68i.  
-3. One night: banks in jacket / bag foot at **−15 °C** — morning capacity check.  
-4. Time a full wall recharge of both banks overnight.
+1. Charge **68i + Fairphone + NU43** from the bank once each.  
+2. Confirm bank doesn’t cut off mid-charge on 68i.  
+3. One night: bank in jacket / bag foot at **−15 °C** — morning capacity check.  
+4. Time a full wall recharge of **one bank** overnight (~**3–4 h**).
 
-**Verdict:** **Owned** — 2× Zolo + 100 W wall + cables ✓. **Still buy:** USB headlamp (**NU43** ~€73). Optional spare C–C in repair pouch. Warm-in-jacket works for Bandet — **Nitecore Summit** only if shakedown shows Zolo won’t charge after warming. Pair with [headlamp USB](#headlamp-usb).
+**Verdict:** **Owned** — 1× Zolo on trail + 100 W wall + cables ✓. **≤7-day legs** autonomous · **>7 days** needs mid-leg ★/hut ([power plan](./power-plan-2027.md)). **Still buy:** USB headlamp (**NU43** ~€73). Optional spare C–C in repair pouch. **Nitecore Summit** only if shakedown shows Zolo won’t charge after warming. Pair with [headlamp USB](#headlamp-usb).
 
 ---
 

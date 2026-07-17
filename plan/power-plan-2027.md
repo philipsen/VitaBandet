@@ -3,7 +3,7 @@
 **Your profile (17 Jul 2026)** — built from your device list and usage answers.  
 **Hardware:** [gear-inventory-2027.md](./gear-inventory-2027.md) · **Kit choices:** [gear-considerations-2027.md](./gear-considerations-2027.md#power-banks-wall-charger--cables)
 
-**Planning assumption:** **14 days** max without wall power · **2× Anker Zolo 20k** (~144 Wh nominal) · warm-bank cold strategy with **~30% cold margin**.
+**Planning assumption:** **1× Anker Zolo 20k** (~72 Wh nominal) · **~7–8 days max** between wall power on tent legs · bank **always warm on body** · **~30% cold margin** · long legs need **mid-leg ★ / hut** top-up (see [long legs](#long-legs--7-days)).
 
 **Nav hierarchy:** **Suunto Vertical 2** (on-trail map + track) → **Fairphone / OsmAnd** (occasional backup · camp planning) → **68i** (inReach · SOS · expedition log) → **Calazo + compass**.
 
@@ -20,8 +20,8 @@
 | **Fairbuds XL** | Camp audio | **30–60 min/night** camp only | USB-C (on ear cup) |
 | **Kindle (basic e-ink)** | Reading | Resupply charge only — weeks of runtime | Micro-USB or USB-C (model dependent) |
 | **Portable CO detector** | Vestibule cook safety · temp/RH glance | **On melt/cook only** (~45–90 min) · **off** rest of day | USB-C |
-| **2× Anker Zolo 20k** | Storage + on-trail charging | One **warm on body** skiing · one in pulk | USB-C in/out |
-| **Anker 100 W wall** | Resupply / hut refill | Both banks + all devices overnight | 2× C + 1× A |
+| **Anker Zolo 20k** | Storage + on-trail charging | **Always warm on body** skiing · bag foot at night | USB-C in/out |
+| **Anker 100 W wall** | Resupply / hut refill | Bank + all devices overnight | 2× C + 1× A |
 
 **Not charging on trail:** Calazo maps · compass.
 
@@ -38,10 +38,9 @@
 | **Fairbuds XL** | Off | Camp audio · **30–60 min** · ANC off | Off | **~0.5–1 h** | **~2–4%** (~0.15 Wh) | Every **7 nights** |
 | **Kindle** | Off · in pulk | Reading · **~30–60 min** (optional) | Off | **~0.5–1 h** | **~1–2%** (~0.05 Wh) | **★ resupply only** |
 | **CO detector** | Off · in kitchen kit | **On vestibule melt/cook only** · magnetic mount · face height · **off** after stove out | Off · kitchen bag | **~45–90 min** (cook nights) | **~5–10%** (~0.1–0.2 Wh) | **★ resupply** or every **10–14 nights** |
-| **Bank A** (Zolo) | **Warm in jacket** · emergency top-up only | Charge window · powers 1–2 devices | **Bag foot** when idle | — | **~5–15%**/charge night | Refill at ★ / hut |
-| **Bank B** (Zolo) | In pulk · **reserve** | Idle unless hut refill | In pulk | — | Idle · swap in on **D13** | Refill at ★ / hut |
+| **Zolo** (only bank) | **Warm in jacket** all ski hours | Charge window · **one device** at a time | **Bag foot** when idle | — | **~8–18%**/charge night | **Full at every ★ / hut** |
 
-**Typical day total:** ~**4.5–6 Wh** across all devices · **Suunto is the main drain** · **~1–2 devices** charged per camp night from Bank A.
+**Typical day total:** ~**4.5–6 Wh** across all devices · **Suunto is the main drain** · **one device** charged per camp night from the warm bank.
 
 ---
 
@@ -52,10 +51,9 @@
 | Time | Action |
 |------|--------|
 | **Morning** | **Suunto** — start **Ski/Expedition** activity · load today’s leg · **Endurance** or **Tour** GPS mode · 68i on expedition · inReach **10 min** · phone **airplane** |
-| **Pack** | **Bank A** warm in jacket · 68i on body · **Suunto on wrist** (nav) · Fairphone in jacket (off) |
+| **Pack** | **Zolo** warm in jacket · 68i on body · **Suunto on wrist** (nav) · Fairphone in jacket (off) |
 | **On trail** | **Suunto map + track** · glance wrist · 68i screen off · **phone stays off** · Fairphone only if Suunto fails |
 | **inReach** | Batch messages at **lunch** or **camp** — not spread through ski hours |
-| **Bank B** | In pulk top — **not** used while moving unless emergency |
 
 ### Camp / hut night
 
@@ -65,16 +63,16 @@
 | 2 | **Boots off · booties** | — |
 | 3 | Dinner + camp chores | NU43 as needed · Suunto stays on wrist |
 | 3b | Stove out · vestibule aired | **CO detector OFF** |
-| 4 | **Charge window** (~45–90 min) | See [charge calendar](#charge-calendar-14-day-cycle) — one or two devices from **warm Bank A** |
+| 4 | **Charge window** (~45–90 min) | See [charge calendar](#charge-calendar-7-day-leg) — **one device** from **warm Zolo** |
 | 5 | Phone **if needed** — OsmAnd double-check · photos · messages | Fairphone **~15–45 min** · skip on easy days |
 | 6 | Reading | Kindle (no charge) · Fairbuds if wanted |
-| 7 | Pre-sleep | Phone **airplane mode** · NU43 off · **phone + Bank A** in **bag foot** · 68i stays on body or bag top |
+| 7 | Pre-sleep | Phone **airplane mode** · NU43 off · **phone + Zolo** in **bag foot** · 68i stays on body or bag top |
 
 ### Hut night (power available)
 
 **Charge everything** — your rule. Priority order when outlets are limited:
 
-1. **Both Zolo banks** (empty → full first — restores trail autonomy)
+1. **Zolo bank** (empty → full first — restores trail autonomy)
 2. **Fairphone** (full)
 3. **68i** (full)
 4. **Suunto Vertical 2**
@@ -178,52 +176,57 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 | **CO detector** | ~3 Wh | ~1 h/night cook · off otherwise | **~0.1–0.2** |
 | **Total** | | | **~4.5–6 Wh/day** |
 
-**14-day leg (no wall, no hut):** ~**63–84 Wh** device demand + **~15 Wh** bank self-loss/cold inefficiency ≈ **~78–99 Wh** needed.  
-**2× Zolo full** = **~144 Wh** nominal → **~100–115 Wh** effective after cold → **fits 14 days** with Suunto on **Endurance/Tour** — **tight** if Multi-Band GPS every day; use phone backup sparingly.
+**14-day leg (no wall):** **Not planned** with 1× bank — longest autonomous carry **~7–8 tent nights** (~**35–48 Wh** device demand).
+
+**1× Zolo full** = **~72 Wh** nominal → **~50 Wh** effective after cold → **~8–10 days** at your usage — **comfortable on ≤7-day legs** (Ritsem→Abisko, Abisko→Treriksröset). **Hemavan→Kvikkjokk (~11–12 days)** requires **Ammarnäs (D38)** or hut charge mid-leg — see [long legs](#long-legs--7-days).
 
 ---
 
-## Charge calendar (14-day cycle)
+## Charge calendar (7-day leg)
 
-**Bank roles:** **A** = on body (primary) · **B** = reserve in pulk  
-**Rule:** Only charge from a bank that has been **warm 15+ min** against body before plugging in.
+**Rule:** Only charge from the bank after **15+ min** warm against body. **One device per night** — Suunto wins ties.
 
-| Night | Charge from Bank A | Notes |
+| Night | Charge from Zolo | Notes |
 |-------|-------------------|-------|
 | **D1** | **Suunto** → ~65% | After first **8 h GPS** ski day |
-| **D2** | — or Fairphone → ~70% | Phone only if used heavily |
+| **D2** | — | Rest bank if Suunto OK |
 | **D3** | **Suunto** → ~65% | |
 | **D4** | **68i** → full | First 68i top-up |
-| **D5** | **Suunto** + NU43 partial | Watch is priority drain |
-| **D6** | Fairphone → ~70% | Every **3–4 nights** for phone |
-| **D7** | **Suunto** + Fairbuds | Weekly buds top-up |
-| **D8** | **Suunto** → ~65% | |
-| **D9** | — | Light night if banks mid |
-| **D10** | **68i** → full · **Suunto** → ~65% | |
-| **D11** | Fairphone → ~70% | |
-| **D12** | **Suunto** → ~60% | Bank A getting low |
-| **D13** | **Swap banks** — **Bank B** → body | Critical before empty |
-| **D14** | **Suunto** partial · 68i if needed | Enter ★ next day |
+| **D5** | **Suunto** → ~60% | |
+| **D6** | Fairphone → ~70% | Skip if unused |
+| **D7** | **Suunto** partial · enter **★** next day | Bank should be **~25–35%** — refill tonight |
 
-**When Bank A hits ~25%:** **Suunto first** — then 68i if low. Phone sips only. Save **Bank B** for D13 swap.
+**When bank hits ~30%:** **Suunto first** — then 68i if low. Phone sips only. **No second device** same night unless hut wall power.
 
-**Suunto is now the priority charge** — every **2 nights** on long tent legs. Phone drops to **every 3–4 nights** (occasional use).
-
-**68i recommendation:** Every **3–4 days** still fine in expedition mode — unchanged.
+**Suunto:** every **2 nights** on tent legs. **Fairphone / 68i:** every **3–4 nights** (occasional phone use).
 
 ---
 
-## Bank rotation & carry
+## Long legs (>7 days)
+
+| Leg | Days | Plan |
+|-----|------|------|
+| **Ritsem → Abisko** | 6–7 | **OK** — charge calendar above |
+| **Abisko → Treriksröset** | 6–7 | **OK** |
+| **Storlien → Valsjöbua** | 10–12 | **Kolåsen hut (D15)** or **Valsjöbua vandrarhem (D20)** — wall refill |
+| **Hemavan → Kvikkjokk** | 11–12 | **Mandatory mid-leg:** **Ammarnäs Handlar'n (D38)** — ask to charge bank + phone overnight · or hut night |
+| **Gäddede → Hemavan** | ~10+ | Hut detour or strict **Tour** GPS + HR off |
+
+**Before any leg >7 days:** start **100% bank** · confirm mid-leg **★ / hut** on [resupply](./resupply-2027.md).
+
+---
+
+## Bank carry
 
 | Location | Item |
 |----------|------|
-| **Chest / jacket** | 68i · **Bank A (warm)** · Fairphone (off) |
+| **Chest / jacket** | 68i · **Zolo (warm)** · Fairphone (off) |
 | **Wrist** | Suunto Vertical 2 |
 | **Head** | NU43 (evening only) |
-| **Pulk top** | **Bank B** · wall charger · spare cables · Kindle · **CO detector** (off) |
-| **Bag foot (sleep)** | Phone + Bank A when not charging |
+| **Pulk top** | Wall charger · spare cables · Kindle · **CO detector** (off) |
+| **Bag foot (sleep)** | Phone + Zolo when not charging |
 
-**Overnight tent:** Phone + active bank in sleeping bag foot — **never** charge a cold bank below **−10 °C** without warming first.
+**Overnight tent:** Phone + bank in sleeping bag foot — **never** charge a cold bank below **−10 °C** without warming first. **Second Zolo stays home** — not packed.
 
 ---
 
@@ -238,7 +241,7 @@ You were unsure — default to **conservative**:
 | **Below −20 °C** | Banks live in jacket or bag foot · **no wall charging outside** · assume banks deliver **~65–70%** of rated Wh |
 | **All temps** | Dry **68i** port cap before every plug |
 
-**Skip heated Summit bank** unless shakedown shows Zolo won’t charge devices after warming — saves **~€120** and **~50 g** vs one Summit + one Zolo.
+**Skip heated Summit bank** unless shakedown shows Zolo won’t charge devices after warming — you carry **1× Zolo only**; no cold reserve in pulk.
 
 ---
 
@@ -246,7 +249,7 @@ You were unsure — default to **conservative**:
 
 At every shop stop (**Storlien · Gäddede · Hemavan · Kvikkjokk · Ritsem · Abisko · …**):
 
-- [ ] Wall → **Bank B** full (then **Bank A**)
+- [ ] Wall → **Zolo** full
 - [ ] **Fairphone** full
 - [ ] **68i** full
 - [ ] **Suunto** full
@@ -255,9 +258,9 @@ At every shop stop (**Storlien · Gäddede · Hemavan · Kvikkjokk · Ritsem · 
 - [ ] **Fairbuds** full
 - [ ] **Kindle** if &lt;50% or every 2nd resupply
 - [ ] Note bank **%** in trail log — catch early fade
-- [ ] Repack: **both banks full** · wall + cables in pulk · **Bank A** in jacket next morning
+- [ ] Repack: **bank full** · wall + cables in pulk · **Zolo in jacket** next morning
 
-**Time budget:** ~**6–8 h** unattended overnight (both 20k banks @ 20 W in ≈ **4–5 h** each; run **parallel** on 100 W wall ≈ **3–4 h** total).
+**Time budget:** ~**3–4 h** unattended overnight (one 20k bank @ 20 W in ≈ **3–4 h**; wall has headroom for phone in parallel).
 
 ---
 
@@ -281,7 +284,7 @@ Log **start % / end %** each day for one **3-night −15 °C** tent test:
 2. **Day 2:** Repeat · charge **Suunto** from warm bank · note bank % drop  
 3. **Day 3:** **OsmAnd backup** 15 min at camp · inReach **3 messages** · compare to table  
 
-**Pass criteria:** Bank A drops **≤40%** over 3 days with **two Suunto charges**. If higher → switch Suunto to **Tour** GPS mode or **HR off** while skiing.
+**Pass criteria:** Bank drops **≤35%** over 3 days with **two Suunto charges** (D1 + D3). If higher → **Tour** GPS · **HR off** while skiing · or add mid-leg ★ stop on long legs.
 
 ---
 
@@ -289,13 +292,15 @@ Log **start % / end %** each day for one **3-night −15 °C** tent test:
 
 ```
 NAV         Suunto GPS route on trail · phone OsmAnd occasional · 68i inReach/SOS
-SKI DAY     Suunto activity ON · 68i expedition · phone AIRPLANE · Bank A in jacket
+SKI DAY     Suunto activity ON · 68i expedition · phone AIRPLANE · Zolo in jacket
 CAMP        End Suunto activity · NU43 · CO ON during cook · phone if needed ~15–45 min
 CHARGE      Suunto every 2 nights · phone every 3–4 nights · 68i every 3–4 nights
+            ONE device per night · bank FULL at every ★ · mid-leg charge if leg >7 days
             NU43 + Fairbuds weekly · CO detector at ★ · Kindle at ★ only
 COOK        CO detector ON in vestibule · OFF when stove out
-HUT         Charge ALL — banks first · Suunto + 68i full
+HUT         Charge ALL — bank first · Suunto + 68i full
 COLD        Warm bank 15 min before USB · one device at a time below −20 °C
+BANK        1× Zolo only · always on body · 2nd stays home
 SOS         68i always on BODY
 ```
 

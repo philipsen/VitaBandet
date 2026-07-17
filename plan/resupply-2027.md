@@ -390,16 +390,16 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Day 38 — Ammarnäs · **D** (optional mid-leg top-up)
+### Day 38 — Ammarnäs · **D** (mid-leg top-up — **power + food**)
 
 *Kungsleden village ~65.96°N, 16.21°E — between Tärnasjön (day 37) and Adolfström.*
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
 | **Ammarnäs Handlar'n** (ICA Nära style) | Village livs — bread, dairy, pasta, snacks, frystorkat when stocked | **Unlikely** alkylbensin — village shop only | PostNord village pickup possible |
-| **STF Ammarnäs Wärdshus** | Restaurant, hut beds | — | **H** option |
+| **STF Ammarnäs Wärdshus** | Restaurant, hut beds | — | **H** option · wall outlet for **Zolo + phone** |
 
-**Use it as:** food top-up between **Hemavan (D35)** and **Kvikkjokk (D47)** — splits 12 days into ~5 + ~7. Bandet classic; sits right on the Kungsleden corridor. Phone for winter hours.
+**Use it as:** food top-up between **Hemavan (D35)** and **Kvikkjokk (D47)** — splits 12 days into ~5 + ~7. **With 1× power bank:** plan **wall charge here** (Handlar'n / wärdshus) — [power plan](./power-plan-2027.md). Bandet classic; sits right on the Kungsleden corridor. Phone for winter hours.
 
 ---
 
@@ -546,7 +546,7 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 | Grövelsjön → Storlien | 8 | Day 1 | 8–9 days food; **alkylate** — start full from home (or split: 3 days → **Stigmyhrs Livs Bruksvallarna** d~3 (24/7 Bank-ID), then 5 days → Storlien; or **Hamra Livs Tänndalen d4**) |
 | → Gäddede | 14 | Day 10 Storlien | 10–12 days (or split: **D15 Kolåsen** → **D21 Valsjöbua** ★ → **D24 Gäddede**; optional **Blåsjöfjäll** detour D23–24) |
 | → Hemavan | 10 | Day 24 Gäddede | 9–10 days (or split: **Saxnäs detour** d~26–27 or **Klimpfjäll Handlar'n** d~28, then **D35 Hemavan**) |
-| → Kvikkjokk | 12 | Day 35 Hemavan ★ | 11–12 days · **max alkylate** (or split: **D38 Ammarnäs** / **D39 Adolfström** / **D41 Vuoggatjålme** H, then **D47 Kvikkjokk**) |
+| → Kvikkjokk | 12 | Day 35 Hemavan ★ | 11–12 days · **max alkylate** · **D38 Ammarnäs** for food **+ bank charge** (1× Zolo plan) · or **D39 Adolfström** / **D41 Vuoggatjålme** H |
 | → Ritsem | 6–7 | Day 47 | **Max leg** — food + **all alkylate** for Padjelanta-west to Ritsem |
 | → Sälka | 3 | Day 55 Ritsem | KL hut snacks optional |
 | → Abisko | 7 | Day 55 Ritsem ★ | **Refill alkylate** (Power Fuel) + 6–7 days food |
