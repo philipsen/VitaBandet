@@ -20,7 +20,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] **Garmin inReach plan** on GPSMAP 68i
 - [x] **OmniLite** service kit — included with stove kit
 - [ ] **Shell** jacket + pants (if missing)
-- [ ] **Paper Fjällkarta** strips (backup)
+- [ ] **Calazo 1:100k** — **full set** (10 Tyvek sheets) — [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k)
 - [x] **Exped Ultra 7R** LW + pump + pad repair kit — primary pad in Sleeper
 - [ ] **Sirex PE Trekkingmat Everest 10** — foam backup (~€15 · [Bever](https://www.bever.nl/merken/sirex.html)) · main pulk
 - [ ] **Alkylate** — fill bottles at home; phone **Hemavan + Kvikkjokk** for stock
@@ -80,7 +80,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] **GPSMAP 68i** + USB-C cable + inReach active
 - [ ] **Fairphone** + **OsmAnd+** maps downloaded
 - [x] Compass
-- [ ] Paper maps
+- [ ] **Calazo 1:100k** maps — carry **current + next** sheet; rest in map pouch / pulk top
 - [ ] **2× power bank** (one warm in jacket while skiing)
 - [ ] **USB headlamp** + USB-C charge cable
 

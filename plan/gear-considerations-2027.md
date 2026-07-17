@@ -189,10 +189,37 @@ Confirm **68i inReach plan** before departure. Shakedown: ski one day with 68i o
 |-----|------|
 | **OsmAnd** ★ | Primary phone nav |
 | **Organic Maps** | Tiny lightweight backup |
-| **Paper Fjällkarta** | Whiteout / battery death |
+| **Calazo 1:100k** ★ | **Buy** — full set · whiteout / battery death |
 | **Gaia / Avenza** | Skip as primary for full route |
 
-**Hierarchy:** **68i** (skiing) → **OsmAnd** (stopped) → **paper + compass**.
+**Hierarchy:** **68i** (skiing) → **OsmAnd** (stopped) → **Calazo + compass**.
+
+### Paper maps — Calazo 1:100k
+
+**Status:** **Buy** — **full set** (10 Tyvek sheets · Sälen → Treriksröset · covers entire Vita Bandet).
+
+**Why full set:** One scale end-to-end · waterproof Tyvek · generous double-sided coverage · no Lantmäteriet sheet seams mid-route.
+
+| # | Sheet (S→N) | Route section |
+|---|-------------|---------------|
+| 1 | **Härjedalsfjällen** | Grövelsjön · Sylarna |
+| 2 | **Dalafjällen & Trysil** | Södra fjällen overlap |
+| 3 | **Jämtlandsfjällen** | Storlien · Åre side |
+| 4 | **Gäddede, Hotagsfjällen & Skäckerfjällen** | Hotagen · Gäddede |
+| 5 | **Kittelfjäll & Borgafjäll** | Hemavan · Borgafjäll |
+| 6 | **Vindelfjällen** | Lapplandsleden north |
+| 7 | **Arjeplogsfjällen** | Arjeplog fjäll |
+| 8 | **Sarek & Padjelanta** | Kvikkjokk · Ritsem · Padjelanta |
+| 9 | **Kebnekaisefjällen & Narvik** | KL · Sälka · Abisko approach |
+| 10 | **Treriksröset, Abisko & Kiruna** | Abisko · Treriksröset finish |
+
+**Pack:** **Current + next** sheet on body or map case; rest in waterproof pouch in pulk top. Pre-fold to day's track before leaving camp.
+
+**Budget:** **~€200** RRP (10 × ~€20) · **VGB registrant discount ~30%** after [vitagronabandet.se](https://www.vitagronabandet.se/) registration — best deal if eligible.
+
+**Where to buy:** [Calazo](https://calazomaps.com/collections/fjallkartor-1-100-000) direct · Naturkompaniet · Kartbutiken · outdoor shops.
+
+**Weight:** **~700 g** full set folded (~70 g/sheet · weigh on delivery).
 
 ### Power
 

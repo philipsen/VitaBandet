@@ -20,7 +20,7 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | Bag | **Lowland K2** ✓ | −35 °C comfort · ~2 kg |
 | Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ (ship to Abisko) · **Sirex Everest 10** foam backup (**Buy**) | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
 | Stove / pot | **OmniLite** + silencer · **TOAKS 1600 ml** ✓ | **2 L** max alkylate · [cooking](./gear-considerations-2027.md#cooking--toaks-ti-1600-ml) |
-| Nav / comms | **68i** + **OsmAnd+** | [comms](./gear-considerations-2027.md#navigation-comms--power) |
+| Nav / comms | **68i** + **OsmAnd+** + **Calazo 1:100k** (full set) | [comms](./gear-considerations-2027.md#navigation-comms--power) |
 | Food | Buy on trail ~**8–10 days** | ~4,000–5,000 kcal/day · [resupply](./resupply-2027.md) |
 
 **Columns in master list below:** **Own** · **Need** · **Test**
@@ -122,7 +122,7 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | USB-C + wall charger | **Anker 100 W · 3 ports · Smart Display** | 1 set | ~280 | | **Buy** | ~210 g brick + **3× braided C–C** · resupply only · [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
 | Headlamp | **Nitecore NU43** (USB-C) | 1 | ~116 | | **Buy** | ~€73 — [headlamp](./gear-considerations-2027.md#headlamp-usb) |
 | Compass | | 1 | ~35 | ✓ | | Baseplate |
-| Paper maps | Fjällkarta 1:100k | 1 set | ~100 | | **Need** | Strip backup · route TBC |
+| Paper maps | **Calazo 1:100k** — **full set** (10 sheets) | 1 set | ~700 | | **Buy** | Tyvek · Sälen→Treriksröset · [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k) |
 
 **On body (typical ski day):** 68i + phone + **1× bank** + headlamp ≈ **~960 g** · second bank in pulk or warm in jacket rotation.
 
@@ -239,7 +239,7 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 | Schoenen | **Alfa Outback + Xplore** ✓ |
 | Vellen | Short **Åsnes** ✓ + long — **reglue** |
 | Stokken | **Buy** — [poles](./gear-considerations-2027.md#ski-poles) |
-| GPS + kaarten | **GPSMAP 68i** ✓ · **OsmAnd+** · paper backup |
+| GPS + kaarten | **GPSMAP 68i** ✓ · **OsmAnd+** · **Calazo 1:100k** full set |
 | Telefoon | **Fairphone** + offline maps |
 | Tent | **Nallo 3GT** ✓ |
 | Slaapmat | **Ultra 7R** ✓ in pulk · **XLite** ✓ ship to Abisko |

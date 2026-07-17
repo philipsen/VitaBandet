@@ -118,7 +118,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 ### Buy / test next
 
-**Long skins: reglue/replace**, ski poles, **new merino ski socks** (4–5), **2× power banks**, **USB headlamp**, **Fairphone**, **OsmAnd+** maps + GPX, paper maps, **inReach plan** (68i), **2× 1 L fuel bottles**, skin wax, **shell** if missing *(short Åsnes ✓; **Ultra 7R** ✓; **DNT key** ✓; **OmniLite** + silencer + **service kit** ✓; merino base + 2× **Hesta** owned; VBL optional)*.
+**Long skins: reglue/replace**, ski poles, **new merino ski socks** (4–5), **2× power banks**, **USB headlamp**, **Fairphone**, **OsmAnd+** maps + GPX, **Calazo 1:100k full set**, **inReach plan** (68i), **2× 1 L fuel bottles**, skin wax, **shell** if missing *(short Åsnes ✓; **Ultra 7R** ✓; **DNT key** ✓; **OmniLite** + silencer + **service kit** ✓; merino base + 2× **Hesta** owned; VBL optional)*.
 
 ### Shakedown trips
 | Date | Location | Duration | Lessons learned |
@@ -140,7 +140,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 - **Emergency contacts:** *(name, phone, relationship × 2)*  
 - **Check‑in schedule:** fixed times (e.g. daily 20:00) + missed-check-in protocol for contacts  
-- **Satellite / phone:** **GPSMAP 68i** on body (inReach with plan); **Fairphone** + **OsmAnd** (offline SE/NO, VGB GPX); paper Fjällkarta backup; **2× 20k power banks** + **USB headlamp**  
+- **Satellite / phone:** **GPSMAP 68i** on body (inReach with plan); **Fairphone** + **OsmAnd** (offline SE/NO, VGB GPX); **Calazo 1:100k** full set; **2× 20k power banks** + **USB headlamp**  
 - **Turnaround rules:** weather, injury, pace — decide alone before departure  
 - **Insurance:** incl. search & rescue / evacuation  
 - **Share live track** with trusted contact for full expedition  
