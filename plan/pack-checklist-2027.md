@@ -18,7 +18,7 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 - [ ] **Fairphone** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
 - [x] **DNT key** + membership
 - [ ] **Garmin inReach plan** on GPSMAP 68i
-- [ ] **OmniLite** service kit
+- [x] **OmniLite** service kit — included with stove kit
 - [ ] **Shell** jacket + pants (if missing)
 - [ ] **Paper Fjällkarta** strips (backup)
 - [x] **Exped Ultra 7R** LW + pump + pad repair kit — primary pad in Sleeper
@@ -61,14 +61,14 @@ Print this page. Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gea
 
 ## Cook & fuel
 
-- [ ] Stove **OmniLite Ti** + **silencer** + windscreen
+- [ ] Stove **OmniLite Ti** + **silencer** + windscreen + **service kit** ✓
 - [ ] **White-gas jet fitted** (only jet until Abisko)
 - [ ] **Alkylate** in **2× 1 L** bottles — **no gas canisters before Abisko**
 - [ ] **Gas jet** (optional — pack/use from **Abisko** onward if you switch to canisters)
 - [x] Pot **TOAKS Ti 1600 ml Pot with Pan** ✓
 - [x] **Spoon / cup / utensils** ✓
 - [x] **CO sensor** ✓ — vestibule cook (hang near face height)
-- [ ] Lighters ×2 + waterproof matches
+- [x] Lighters ×2 + waterproof matches ✓
 - [x] **Thermos 1 L** ✓ (blue)
 
 **Fuel resupply:** liquid alkylate only until Abisko — Gäddede Frostvikens · **Hemavan max** · Kvikkjokk call · **Ritsem ★** · **Abisko ★** (canisters OK from here)

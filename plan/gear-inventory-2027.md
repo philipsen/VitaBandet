@@ -105,24 +105,26 @@ Use for shakedowns, weight audit, and packing. **Comparisons & upgrade paths:** 
 | Stove | **Optimus OmniLite Ti** | 1 | ~230 | ✓ | | White-gas jet until Abisko |
 | Silencer | OmniLite | 1 | ~58 | ✓ | | |
 | Fuel bottles | **1 L** | 2 | ~400? | ✓ | | **2 L** max carry |
-| Service kit | OmniLite Ti | 1 | | | ? | |
+| Service kit | OmniLite Ti | 1 | | ✓ | | Included with stove kit |
 | Pot | **TOAKS Ti 1600 ml Pot with Pan** | 1 | ~231 | ✓ | | Pan/lid ~142 mm |
 | **CO sensor** | | 1 | | ✓ | | Vestibule cook — hang near face height |
-| Lighter + matches | | 2+2 | | | ? | |
+| Lighter + matches | | 2+2 | | ✓ | | |
 | Spoon / cup / utensils | | 1 set | | ✓ | | |
 | Thermos | **1 L** blue | 1 | | ✓ | | Day drink / warm water |
 
 ### Navigation & comms
 
-| Item | Model / spec | Qty | Own | Need | Notes |
-|------|--------------|-----|-----|------|-------|
-| GPS + inReach | **GPSMAP 68i** | 1 | ✓ | **Plan** | On body for SOS |
-| Phone | **Fairphone** | 1 | | **Buy** | OsmAnd+ |
-| Power bank 20k | **Anker Zolo · 30 W** | 2 | | **Buy** | Built-in C · [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
-| USB-C + wall charger | **Anker 100 W · 3 ports · Smart Display** | 1 set | | **Buy** | 2× C + A · **3× braided C–C** · [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
-| Headlamp | **Nitecore NU43** (USB-C) | 1 | | **Buy** | ~€73 — [headlamp](./gear-considerations-2027.md#headlamp-usb) |
-| Compass | | 1 | ✓ | | |
-| Paper maps | Fjällkarta 1:100k | 1 set | | **Need** | Backup |
+| Item | Model / spec | Qty | Weight (g) | Own | Need | Notes |
+|------|--------------|-----|------------|-----|------|-------|
+| GPS + inReach | **GPSMAP 68i** | 1 | ~280 | ✓ | **Plan** | On body for SOS |
+| Phone | **Fairphone** | 1 | ~215 | | **Buy** | OsmAnd+ · ~212 g (FP5) |
+| Power bank 20k | **Anker Zolo · 30 W** | 2 | ~350 ea | | **Buy** | **~700** pair · built-in C · [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
+| USB-C + wall charger | **Anker 100 W · 3 ports · Smart Display** | 1 set | ~280 | | **Buy** | ~210 g brick + **3× braided C–C** · resupply only · [power](./gear-considerations-2027.md#power-banks-wall-charger--cables) |
+| Headlamp | **Nitecore NU43** (USB-C) | 1 | ~116 | | **Buy** | ~€73 — [headlamp](./gear-considerations-2027.md#headlamp-usb) |
+| Compass | | 1 | ~35 | ✓ | | Baseplate |
+| Paper maps | Fjällkarta 1:100k | 1 set | ~100 | | **Need** | Strip backup · route TBC |
+
+**On body (typical ski day):** 68i + phone + **1× bank** + headlamp ≈ **~960 g** · second bank in pulk or warm in jacket rotation.
 
 ### Safety & repair
 
@@ -219,7 +221,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 2. **Ski poles** — Ingstad Alloy + baskets + flex tip + sleeve  
 3. **Power** — **2× 20k power banks** + **Anker 100 W · 3 Ports · Smart Display** + cables; **USB headlamp**; **Fairphone**; OsmAnd maps; inReach plan  
 4. **New ski socks** (4–5) + **down booties**; **Sirex Everest 10** foam (~€15); **shell** if missing  
-5. **OmniLite** service kit; fill **2× 1 L** bottles  
+5. Fill **2× 1 L** bottles (OmniLite service kit ✓ — in stove kit)  
 6. Tent upgrade **only after** shakedown — [considerations](./gear-considerations-2027.md#tent--nallo-3gt--upgrades)
 
 ---

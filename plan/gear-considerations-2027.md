@@ -542,7 +542,7 @@ Indicative — check retailer before buying; sales move fast.
 
 ## Stove — OmniLite Ti
 
-Multi-fuel expedition stove + silencer — **excellent** for Bandet. **Alkylate** in **2× 1 L** bottles until Abisko; white-gas jet + silencer; preheat; warm bottle below −20 °C.
+Multi-fuel expedition stove + silencer — **excellent** for Bandet. **Service kit included** with stove (owned). **Alkylate** in **2× 1 L** bottles until Abisko; white-gas jet + silencer; preheat; warm bottle below −20 °C.
 
 **T-sprit** = emergency only (swap jet, no silencer). **Canisters** optional from Abisko.
 

@@ -118,7 +118,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 ### Buy / test next
 
-**Long skins: reglue/replace**, ski poles, **new merino ski socks** (4–5), **2× power banks**, **USB headlamp**, **Fairphone**, **OsmAnd+** maps + GPX, paper maps, **inReach plan** (68i), **2× 1 L fuel bottles**, OmniLite service kit, skin wax, **shell** if missing *(short Åsnes ✓; **Ultra 7R** ✓; **DNT key** ✓; merino base + 2× **Hesta** owned; VBL optional)*.
+**Long skins: reglue/replace**, ski poles, **new merino ski socks** (4–5), **2× power banks**, **USB headlamp**, **Fairphone**, **OsmAnd+** maps + GPX, paper maps, **inReach plan** (68i), **2× 1 L fuel bottles**, skin wax, **shell** if missing *(short Åsnes ✓; **Ultra 7R** ✓; **DNT key** ✓; **OmniLite** + silencer + **service kit** ✓; merino base + 2× **Hesta** owned; VBL optional)*.
 
 ### Shakedown trips
 | Date | Location | Duration | Lessons learned |
