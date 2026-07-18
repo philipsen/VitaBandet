@@ -371,6 +371,7 @@ def main() -> None:
 
     used_slugs: set[str] = set()
     already = existing_tour_ids(args.out_dir)
+    saved: list[ArchiveRow] = []
     saved_by_year: dict[str, list[ArchiveRow]] = {}
     kept = 0
     skipped_sparse = 0
@@ -430,10 +431,12 @@ def main() -> None:
             used_slugs.add(slug_key)
             already[r.tour_id] = json_path
             kept += 1
+            saved.append(r)
             saved_by_year.setdefault(year, []).append(r)
         if i + 1 < len(matched) and args.delay > 0:
             time.sleep(args.delay)
 
+    # Index only successfully saved tracks (not skipped / failed / sparse).
     if args.out_by_year:
         for year, year_rows in saved_by_year.items():
             index_path = args.out_dir / year / "vgb-scrape-index.json"
@@ -445,7 +448,7 @@ def main() -> None:
     else:
         index_path = args.out_dir / "vgb-scrape-index.json"
         index_path.write_text(
-            json.dumps([asdict(r) for r in matched], ensure_ascii=False, indent=2) + "\n",
+            json.dumps([asdict(r) for r in saved], ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
         )
         print(f"Index: {index_path}")
