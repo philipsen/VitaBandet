@@ -204,6 +204,26 @@ def write_track(data: dict, out_dir: Path, slug: str, convert: bool) -> Path:
     return json_path
 
 
+def existing_tour_ids(out_dir: Path) -> dict[int, Path]:
+    """Map tour_id → JSON path for already-scraped tracks under out_dir (recursive)."""
+    found: dict[int, Path] = {}
+    if not out_dir.exists():
+        return found
+    for path in out_dir.rglob("*-track.json"):
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        tid = (data.get("_scrape") or {}).get("tour_id")
+        if tid is None:
+            continue
+        try:
+            found[int(tid)] = path
+        except (TypeError, ValueError):
+            continue
+    return found
+
+
 def filter_rows(
     rows: list[ArchiveRow],
     *,
@@ -350,16 +370,22 @@ def main() -> None:
         return
 
     used_slugs: set[str] = set()
+    already = existing_tour_ids(args.out_dir)
     saved_by_year: dict[str, list[ArchiveRow]] = {}
     kept = 0
     skipped_sparse = 0
     skipped_empty = 0
+    skipped_existing = 0
 
     for i, r in enumerate(matched):
         year = (r.start_date or "unknown")[:4]
         out_dir = args.out_dir / year if args.out_by_year else args.out_dir
         out_dir.mkdir(parents=True, exist_ok=True)
         print(f"[{i + 1}/{len(matched)}] tour {r.tour_id} — {r.name} ({year})")
+        if r.tour_id in already and not args.force:
+            print(f"  exists {already[r.tour_id].name} — skip (use --force)")
+            skipped_existing += 1
+            continue
         try:
             data = get_route_data(r.tour_id)
         except (urllib.error.URLError, RuntimeError, json.JSONDecodeError) as e:
@@ -382,12 +408,14 @@ def main() -> None:
         slug = track_slug(data.get("name") or "", r.name)
         slug_key = f"{year}/{slug}" if args.out_by_year else slug
         json_path = out_dir / f"{slug}-track.json"
+        # Rename only on true slug collision with a *different* tour.
         if slug_key in used_slugs or (json_path.exists() and not args.force):
             slug = f"{slug}-{r.tour_id}"
             slug_key = f"{year}/{slug}" if args.out_by_year else slug
             json_path = out_dir / f"{slug}-track.json"
         if json_path.exists() and not args.force:
             print(f"  exists {json_path.name} — skip (use --force)")
+            skipped_existing += 1
         else:
             out = dict(data)
             out["_scrape"] = {
@@ -400,6 +428,7 @@ def main() -> None:
             }
             write_track(out, out_dir, slug, convert=not args.no_gpx)
             used_slugs.add(slug_key)
+            already[r.tour_id] = json_path
             kept += 1
             saved_by_year.setdefault(year, []).append(r)
         if i + 1 < len(matched) and args.delay > 0:
@@ -422,8 +451,8 @@ def main() -> None:
         print(f"Index: {index_path}")
 
     print(
-        f"Done: kept {kept} · empty {skipped_empty} · sparse {skipped_sparse} · "
-        f"listed {len(matched)}"
+        f"Done: kept {kept} · existing {skipped_existing} · empty {skipped_empty} · "
+        f"sparse {skipped_sparse} · listed {len(matched)}"
     )
 
 

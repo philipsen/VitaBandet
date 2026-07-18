@@ -239,7 +239,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 ## Power banks, wall charger & cables
 
-**Status:** **Owned** — **1× Anker Zolo 20k · 30 W** (A1689) on trail ✓ · **2nd Zolo at home** · **Anker 100 W · 3 Ports · Smart Display** (B121B) ✓ · **3× USB-C cables** ✓. **Still need:** USB headlamp · Fairphone 6 · inReach plan.
+**Status:** **Owned** — **1× Anker Zolo 20k · 30 W** (A1689) on trail ✓ · **2nd Zolo at home** · **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) ✓ · **3× USB-C cables** ✓. **Still need:** USB headlamp · Fairphone 6 · inReach plan.
 
 **Job:** Keep **GPSMAP 68i**, **Fairphone**, and **USB headlamp** alive between shops (**~8–10 days** typical; Padjelanta longer).
 

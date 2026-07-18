@@ -1,0 +1,66 @@
+{
+  "updated": "2026-07-18",
+  "note": "Curated alternative route slices for plan comparison / BaseCamp.",
+  "picks": [
+    {
+      "id": "helags-olden-undersaker-kammer-2023",
+      "span": "Helags \u2192 Olden",
+      "corridor": "Unders\u00e5ker-west",
+      "source": "Christian K\u00e4mmer tour 2115 (2023)",
+      "file": "helags-olden__undersaker__christian-kammer-2023.gpx",
+      "why": "Densest Unders\u00e5ker geometry (~363 pts, ~382 m avg gap) with fast calendar pace (~34 km/d, ~4 days)",
+      "seg_km": 138.1,
+      "seg_pts": 363
+    },
+    {
+      "id": "klimpf-hemavan-village-kammer-2023",
+      "span": "Klimpfj\u00e4ll \u2192 Hemavan",
+      "corridor": "Normal winter Band (east of Lapplandsleden) \u00b7 Hemavan ICA",
+      "source": "Christian K\u00e4mmer tour 2115 (2023)",
+      "file": "klimpf-hemavan__village__christian-kammer-2023.gpx",
+      "why": "Best dense+fast winter Band line on the usual east corridor (~353 pts, ~339 m avg gap, ~31 km/d, ~4 days, Hemavan +1.0 km). Not Lapplandsleden \u2014 alternative to plan summer GPX.",
+      "seg_km": 119.5,
+      "seg_pts": 353
+    },
+    {
+      "id": "kvikkjokk-salka-kungsleden-kammer-2023",
+      "span": "Kvikkjokk \u2192 S\u00e4lka",
+      "corridor": "Kungsleden / Saltoluokta (normal Band)",
+      "source": "Christian K\u00e4mmer tour 2115 (2023)",
+      "why": "Densest+fastest normal Band alternative (~403 pts, ~369 m gaps, ~37 km/d, ~4 days). Plan uses Padjelanta-west \u2014 this is the Saltoluokta/KL corridor most finishers walk.",
+      "seg_km": 148.4,
+      "seg_pts": 403,
+      "file": "kvikkjokk-salka__kungsleden__christian-kammer-2023.gpx"
+    },
+    {
+      "id": "kvikkjokk-salka-padjelanta-evelina-2020",
+      "span": "Kvikkjokk \u2192 S\u00e4lka",
+      "corridor": "Padjelanta-west / Ritsem (plan corridor)",
+      "source": "Evelina Silokangas tour 2084 (2020)",
+      "file": "kvikkjokk-salka__padjelanta__evelina-silokangas-2020.gpx",
+      "why": "Only dense winter-walked Padjelanta-west Band track (~439 pts, ~450 m gaps, Ritsem +0.21 km on 2020-04-06). Slower (~15 km/d, ~197 km).",
+      "seg_km": 197.1,
+      "seg_pts": 439
+    },
+    {
+      "id": "abisko-finish-norway-roy-evans-2023",
+      "span": "Abisko \u2192 Treriksr\u00f6set",
+      "corridor": "Norway / Altevass (near plan Nordkalottleden)",
+      "source": "Roy Evans tour 2117 (2023)",
+      "why": "Winter-walked Norway-side line: Altevass +0.3 km, Trerik +0.0 km, ~159 km, 198 pts. Closest dense Band track to the plan Norway corridor (Lappjord ~13 km off \u2014 same as plan GPX).",
+      "seg_km": 159.2,
+      "seg_pts": 198,
+      "file": "abisko-finish__norway__roy-evans-2023.gpx"
+    },
+    {
+      "id": "abisko-finish-traditional-kammer-2023",
+      "span": "Abisko \u2192 Treriksr\u00f6set",
+      "corridor": "Traditional SE (skip Norway DNT) \u2192 Treriksr\u00f6set",
+      "source": "Christian K\u00e4mmer tour 2115 (2023)",
+      "why": "Classic Band finish corridor used by most dense tracks: ~23 km off Lappjord/Altevass, Trerik +0.0. Densest+fast (~397 pts, ~51 km/d, ~3 days, ~169 km).",
+      "seg_km": 168.7,
+      "seg_pts": 397,
+      "file": "abisko-finish__traditional__christian-kammer-2023.gpx"
+    }
+  ]
+}

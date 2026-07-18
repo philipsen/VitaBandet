@@ -50,7 +50,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | Status | Item | Qty | Spec / model | Est. | Where | Notes |
 |--------|------|-----|--------------|------|-------|-------|
 | ✅ | **Power bank** | 1 | **Anker Zolo 20k · 30 W** (A1689) | — | ✓ owned | On trail only · **2nd at home** · recall SN · [anker.com/rc2506](https://www.anker.com/rc2506) |
-| ✅ | **Wall charger** | 1 | **Anker 100 W · 3 Ports · Smart Display** (B121B) | — | ✓ owned | Resupply / hut · 1.5 m C–C in box |
+| ✅ | **Wall charger** | 1 | **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) | — | ✓ owned | Resupply / hut · 1.5 m C–C in box |
 | ✅ | **USB-C cables** | 3 | Braided **30–60 cm** C–C | — | ✓ owned | 68i · phone · headlamp / bank |
 | 🛒 | **Headlamp** | 1 | **Nitecore NU43** USB-C | ~€60–90 | [Nitecore BE/NL](https://nitecore-belux.com/nl/koplamp/76-nu43-lichtgewicht-1400lm-koplamp-met-afstandssensor.html) | [headlamp](./gear-considerations-2027.md#headlamp-usb) |
 | 🛒 | **Fairphone 6** | 1 | OsmAnd backup nav | ~€550–600 | [Fairphone 6](https://www.fairphone.com/the-new-fairphone) | **193 g** · 4415 mAh · IP55 · SE/NO maps + GPX before Feb |

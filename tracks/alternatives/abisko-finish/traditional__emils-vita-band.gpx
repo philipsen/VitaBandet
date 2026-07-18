@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="VitaBandet">
+  <metadata>
+    <name>Abisko→finish · Emil Johansson (traditional)</name>
+  </metadata>
+  <wpt lat="68.35861" lon="18.78557">
+    <name>Abisko</name>
+  </wpt>
+  <wpt lat="69.05988" lon="20.54872">
+    <name>Treriksröset</name>
+  </wpt>
+  <wpt lat="69.05988" lon="20.54872">
+    <name>Pältsa</name>
+  </wpt>
+  <trk>
+    <name>Abisko→finish · Emil Johansson (traditional)</name>
+    <trkseg>
+      <trkpt lat="68.35861" lon="18.78557">
+        <time>2025-04-10T15:31:00Z</time>
+      </trkpt>
+      <trkpt lat="68.35864" lon="18.78559">
+        <time>2025-04-10T15:39:00Z</time>
+      </trkpt>
+      <trkpt lat="68.30368" lon="19.54753">
+        <time>2025-04-13T18:35:00Z</time>
+      </trkpt>
+      <trkpt lat="68.30369" lon="19.54755">
+        <time>2025-04-13T18:35:00Z</time>
+      </trkpt>
+      <trkpt lat="68.30369" lon="19.54753">
+        <time>2025-04-13T18:40:00Z</time>
+      </trkpt>
+      <trkpt lat="68.31776" lon="19.93857">
+        <time>2025-04-14T15:09:00Z</time>
+      </trkpt>
+      <trkpt lat="68.31777" lon="19.93853">
+        <time>2025-04-14T15:09:00Z</time>
+      </trkpt>
+      <trkpt lat="68.31777" lon="19.93851">
+        <time>2025-04-14T15:11:00Z</time>
+      </trkpt>
+      <trkpt lat="68.47547" lon="20.2298">
+        <time>2025-04-15T15:50:00Z</time>
+      </trkpt>
+      <trkpt lat="68.47546" lon="20.2298">
+        <time>2025-04-15T15:50:00Z</time>
+      </trkpt>
+      <trkpt lat="68.47547" lon="20.2298">
+        <time>2025-04-15T15:57:00Z</time>
+      </trkpt>
+      <trkpt lat="68.69628" lon="20.50166">
+        <time>2025-04-16T16:35:00Z</time>
+      </trkpt>
+      <trkpt lat="68.69629" lon="20.50164">
+        <time>2025-04-16T16:40:00Z</time>
+      </trkpt>
+      <trkpt lat="68.69628" lon="20.50164">
+        <time>2025-04-16T16:41:00Z</time>
+      </trkpt>
+      <trkpt lat="68.85483" lon="20.71691">
+        <time>2025-04-17T15:21:00Z</time>
+      </trkpt>
+      <trkpt lat="68.97406" lon="20.36837">
+        <time>2025-04-18T15:19:00Z</time>
+      </trkpt>
+      <trkpt lat="68.97405" lon="20.36837">
+        <time>2025-04-18T15:19:00Z</time>
+      </trkpt>
+      <trkpt lat="68.97405" lon="20.36837">
+        <time>2025-04-18T15:20:00Z</time>
+      </trkpt>
+      <trkpt lat="69.05987" lon="20.5487">
+        <time>2025-04-19T12:02:00Z</time>
+      </trkpt>
+      <trkpt lat="69.05988" lon="20.54872">
+        <time>2025-04-19T12:08:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

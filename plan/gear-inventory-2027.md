@@ -121,7 +121,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Suunto charge cable | USB-C magnetic | 1 | **~25** | **~25** | ✓ | | In box · pulk/resupply |
 | Phone | **Fairphone 6** | 1 | **193** | **193** | | **Buy** | [Fairphone 6](https://www.fairphone.com/the-new-fairphone) · 4415 mAh · IP55 · OsmAnd backup |
 | Power bank 20k | **Anker Zolo · 30 W** (A1689) | 1 | **353** | **353** | ✓ | | Recall SN checked · 2nd at home · [power](./power-plan-2027.md) |
-| Wall charger | **Anker 100 W · Smart Display** (B121B) | 1 | **212** | **212** | ✓ | | Resupply only · [Amazon.nl](https://www.amazon.nl/dp/B0FG745LNB) |
+| Wall charger | **Anker 100 W · Smart Display** (B121BGZ1) | 1 | **212** | **212** | ✓ | | Resupply only · [Amazon.nl](https://www.amazon.nl/dp/B0FG745LNB) |
 | Wall cable (in box) | USB-C **1.5 m** | 1 | **~35** | **~35** | ✓ | | With wall charger |
 | USB-C cables | braided **30–60 cm** | 3 | **~15** | **~45** | ✓ | | 68i · phone · headlamp / bank |
 | USB-C cable spare | braided **30–60 cm** | 1 | **~15** | **~15** | | ? | Repair / nav pouch — optional |

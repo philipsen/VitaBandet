@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="VitaBandet">
+  <metadata>
+    <name>Abisko→finish · Olas Vita Band 2 (norway)</name>
+  </metadata>
+  <wpt lat="68.3583" lon="18.78456">
+    <name>Abisko</name>
+  </wpt>
+  <wpt lat="69.05999" lon="20.55138">
+    <name>Treriksröset</name>
+  </wpt>
+  <wpt lat="69.05999" lon="20.55138">
+    <name>Pältsa</name>
+  </wpt>
+  <trk>
+    <name>Abisko→finish · Olas Vita Band 2 (norway)</name>
+    <trkseg>
+      <trkpt lat="68.3583" lon="18.78456">
+        <time>2025-04-19T07:46:00Z</time>
+      </trkpt>
+      <trkpt lat="68.42964" lon="18.84844">
+        <time>2025-04-19T10:09:00Z</time>
+      </trkpt>
+      <trkpt lat="68.46348" lon="18.82436">
+        <time>2025-04-19T12:09:00Z</time>
+      </trkpt>
+      <trkpt lat="68.47789" lon="18.82421">
+        <time>2025-04-19T14:09:00Z</time>
+      </trkpt>
+      <trkpt lat="68.47939" lon="18.82655">
+        <time>2025-04-19T16:09:00Z</time>
+      </trkpt>
+      <trkpt lat="68.4815" lon="18.83423">
+        <time>2025-04-19T18:09:00Z</time>
+      </trkpt>
+      <trkpt lat="68.52013" lon="18.77806">
+        <time>2025-04-19T20:09:00Z</time>
+      </trkpt>
+      <trkpt lat="68.56318" lon="18.80475">
+        <time>2025-04-19T22:09:00Z</time>
+      </trkpt>
+      <trkpt lat="68.62001" lon="18.88457">
+        <time>2025-04-20T00:09:00Z</time>
+      </trkpt>
+      <trkpt lat="68.66292" lon="18.88856">
+        <time>2025-04-20T02:09:00Z</time>
+      </trkpt>
+      <trkpt lat="68.66332" lon="18.89067">
+        <time>2025-04-20T02:14:00Z</time>
+      </trkpt>
+      <trkpt lat="68.66334" lon="18.89056">
+        <time>2025-04-20T02:14:00Z</time>
+      </trkpt>
+      <trkpt lat="68.66336" lon="18.89043">
+        <time>2025-04-20T10:33:00Z</time>
+      </trkpt>
+      <trkpt lat="68.66478" lon="19.13612">
+        <time>2025-04-20T14:33:00Z</time>
+      </trkpt>
+      <trkpt lat="68.67449" lon="19.34623">
+        <time>2025-04-20T18:33:00Z</time>
+      </trkpt>
+      <trkpt lat="68.67145" lon="19.48612">
+        <time>2025-04-20T20:19:00Z</time>
+      </trkpt>
+      <trkpt lat="68.67235" lon="19.48579">
+        <time>2025-04-21T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="68.6476" lon="19.62256">
+        <time>2025-04-21T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="68.62344" lon="19.74185">
+        <time>2025-04-21T12:00:00Z</time>
+      </trkpt>
+      <trkpt lat="68.62498" lon="19.86845">
+        <time>2025-04-21T14:00:00Z</time>
+      </trkpt>
+      <trkpt lat="68.65434" lon="19.8569">
+        <time>2025-04-21T16:00:00Z</time>
+      </trkpt>
+      <trkpt lat="68.67435" lon="19.82515">
+        <time>2025-04-21T16:58:00Z</time>
+      </trkpt>
+      <trkpt lat="68.67443" lon="19.82455">
+        <time>2025-04-21T16:58:00Z</time>
+      </trkpt>
+      <trkpt lat="68.67576" lon="19.82122">
+        <time>2025-04-22T07:15:00Z</time>
+      </trkpt>
+      <trkpt lat="68.67565" lon="19.82141">
+        <time>2025-04-22T07:16:00Z</time>
+      </trkpt>
+      <trkpt lat="68.70861" lon="19.79219">
+        <time>2025-04-22T09:16:00Z</time>
+      </trkpt>
+      <trkpt lat="68.72499" lon="19.86072">
+        <time>2025-04-22T11:16:00Z</time>
+      </trkpt>
+      <trkpt lat="68.74934" lon="19.90847">
+        <time>2025-04-22T13:16:00Z</time>
+      </trkpt>
+      <trkpt lat="68.77615" lon="19.98477">
+        <time>2025-04-22T15:16:00Z</time>
+      </trkpt>
+      <trkpt lat="68.81873" lon="20.10854">
+        <time>2025-04-22T17:16:00Z</time>
+      </trkpt>
+      <trkpt lat="68.81887" lon="20.1094">
+        <time>2025-04-22T17:18:00Z</time>
+      </trkpt>
+      <trkpt lat="68.81908" lon="20.10968">
+        <time>2025-04-23T06:45:00Z</time>
+      </trkpt>
+      <trkpt lat="68.80588" lon="20.28724">
+        <time>2025-04-23T08:45:00Z</time>
+      </trkpt>
+      <trkpt lat="68.86061" lon="20.26851">
+        <time>2025-04-23T10:45:00Z</time>
+      </trkpt>
+      <trkpt lat="68.91627" lon="20.25228">
+        <time>2025-04-23T12:45:00Z</time>
+      </trkpt>
+      <trkpt lat="68.94486" lon="20.33633">
+        <time>2025-04-23T14:45:00Z</time>
+      </trkpt>
+      <trkpt lat="68.98395" lon="20.33479">
+        <time>2025-04-23T16:45:00Z</time>
+      </trkpt>
+      <trkpt lat="69.0353" lon="20.27048">
+        <time>2025-04-23T18:45:00Z</time>
+      </trkpt>
+      <trkpt lat="69.05283" lon="20.25374">
+        <time>2025-04-23T19:29:00Z</time>
+      </trkpt>
+      <trkpt lat="69.05296" lon="20.25387">
+        <time>2025-04-24T06:04:00Z</time>
+      </trkpt>
+      <trkpt lat="69.05294" lon="20.25389">
+        <time>2025-04-24T06:04:00Z</time>
+      </trkpt>
+      <trkpt lat="69.05549" lon="20.27293">
+        <time>2025-04-24T06:34:00Z</time>
+      </trkpt>
+      <trkpt lat="69.06018" lon="20.31142">
+        <time>2025-04-24T07:04:00Z</time>
+      </trkpt>
+      <trkpt lat="69.0612" lon="20.34916">
+        <time>2025-04-24T07:34:00Z</time>
+      </trkpt>
+      <trkpt lat="69.05834" lon="20.37586">
+        <time>2025-04-24T08:04:00Z</time>
+      </trkpt>
+      <trkpt lat="69.06231" lon="20.41832">
+        <time>2025-04-24T08:34:00Z</time>
+      </trkpt>
+      <trkpt lat="69.06316" lon="20.45491">
+        <time>2025-04-24T09:04:00Z</time>
+      </trkpt>
+      <trkpt lat="69.06465" lon="20.48469">
+        <time>2025-04-24T09:30:00Z</time>
+      </trkpt>
+      <trkpt lat="69.06327" lon="20.51619">
+        <time>2025-04-24T09:50:00Z</time>
+      </trkpt>
+      <trkpt lat="69.06199" lon="20.53346">
+        <time>2025-04-24T10:00:00Z</time>
+      </trkpt>
+      <trkpt lat="69.06" lon="20.54846">
+        <time>2025-04-24T10:10:00Z</time>
+      </trkpt>
+      <trkpt lat="69.05998" lon="20.54851">
+        <time>2025-04-24T10:16:00Z</time>
+      </trkpt>
+      <trkpt lat="69.05999" lon="20.54836">
+        <time>2025-04-24T10:20:00Z</time>
+      </trkpt>
+      <trkpt lat="69.05999" lon="20.55138">
+        <time>2025-04-24T10:40:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
