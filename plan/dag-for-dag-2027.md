@@ -117,8 +117,6 @@ North from **Hävlingen** across **Långfjället** toward **Rogen** — open hea
 
 Continue north through **Rogen** nature reserve toward **Skedbrosjön**.
 
-**Optional detour east** for **D** / restaurants at **Tännäs / Bruksvallarna**: **STF Tännäskröket + Restaurang Árran** (White Guide); **Stigmyhrs Livs** **24/7 with Bank-ID** (~62.62°N, 12.41°E); **Bruksvallarnas Sportcenter** (outdoor/friluftsbensin). See [resupply](./resupply-2027.md).
-
 | Acc | Notes |
 |-----|-------|
 | **T** | Camp at Skedbrosjön waypoint |

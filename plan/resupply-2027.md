@@ -56,7 +56,6 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | Day | Stop | Alkylate? | Where / what to buy | Notes |
 |-----|------|-----------|---------------------|--------|
 | **1** | **Grövelsjön** | **Ask** | STF shop / Fjällbua — outdoor section | Often **canisters only** — **ignore**; start bottles **full from home** |
-| **~3** | **Tännäs / Bruksvallarna** (off-line) | **Ask** | **Stigmyhrs Livs** Bruksvallarna (24/7 Bank-ID) + Bruksvallarnas Sportcenter | Side trip 5–10 km; Sportcenter may have **friluftsbensin** |
 | **4** | **Tänndalen** (Hamra Livs) | **Unlikely** | Village livs — small selection | Planned **D** · ~6 km detour **west** · food top-up only |
 | **7–8** | **Helags / Sylarna** (väster om · east detour) | **Rare** | STF butik if you detour to stations — winter **5 Mar – 18 Apr 2027** ([scraped](./stf-openings-2027.md)) | On Band track D7–D8 (21–22 Feb): **closed** — tent only |
 | **9** | **Blåhammaren** (väster om · east detour) | **Rare** | STF butik if you detour — winter **5 Mar – 18 Apr 2027** | D9 (23 Feb): **closed** — tent; optional **H** from D19 (5 Mar) |
@@ -114,8 +113,6 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | Day | Place | What | Hours / book | Why stop |
 |-----|-------|------|--------------|----------|
 | 1 | **STF Grövelsjön** | Restaurant (frukost + middag) | Book ahead | Last big sit-down before fjäll |
-| ~3 | **Tännäskröket — Restaurang Árran** (Tännäs) | White Guide kitchen; STF host | Ring for winter hours | Best meal in Härjedalen |
-| ~3 | **Brasserie Kerstin** (Bruksvallarna) | Lunch Mon–Sat + à la carte Tue–Sat 17:30–22 | 070-199 54 01 | Brasserie classics |
 | ~5 | **STF Vålådalen — Olgas Matsal** | Frukost 07:30–09:30 + middag 17–19; café 10–17 (året om butik) | Book dinner | Trad Jämtland cuisine |
 | 7–8 | **STF Helags / Sylarna** (east detour) | Frukost + 2–3 rätters middag | Book ahead | Storm refuge + meal if you leave Band track |
 | 10 | **Storlien Högfjällshotell / Fjällgård** | Hotel restaurants | Walk-in | First major shop town meal |
@@ -145,22 +142,6 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | **STF Grövelsjön** shop | Frystorkat, basic groceries, outdoor gear | **Liquid alkylate** if stocked; else **full from home** — **no canisters** | Start bottles **full from home** |
 
 **Eat:** STF restaurant (book dinner ahead). **Fjällbua** Storsätern (~4 km off main trail) — only if STF stock is thin; plan leaves **north on main trail** same day.
-
----
-
-### Day ~3 — Tännäs / Bruksvallarna · **D** / restaurant cluster (off-line, ~5–10 km east)
-
-*Tännäs ~62.45°N, 12.65°E; Bruksvallarna ~62.62°N, 12.41°E — both east of the Härjedalen line; short detour from Day 3–4 corridor.*
-
-| Where | Food | Fuel | Notes |
-|-------|------|------|-------|
-| **STF Tännäskröket** + **Restaurang Árran** (White Guide) | Proviant butik (variable) + restaurant | — | **H** + sit-down lunch / middag; ring for winter hours |
-| **Stigmyhrs Livs** Bruksvallarna · 0684-20056 | **24/7 Bank-ID** village livs, 07–22 staffed | Ask | Most reliable food top-up; early-leg insurance |
-| **Brasserie Kerstin** Bruksvallarna | Lunch & fika Mon–Sat 11–16; à la carte Tue–Sat 17:30–22 | — | Hot food + warm-up |
-| **Bruksvallarnas Sportcenter** | Outdoor / längd / topptur shop, 09–18 daily | Ask **friluftsbensin** | Closest outdoor specialist this far south |
-| **Hotell Bruksvallsliden** | Restaurant + reception | — | **H** option · 0684-201 80 |
-
-**Use it as:** mid-leg insurance Days 3–4 — splits Grövelsjön → Storlien into Grövelsjön → Bruksvallarna (~4 days) → Storlien (~4 days). Stigmyhrs is **always open** (Bank-ID self-checkout) which is uniquely valuable if you arrive after hours.
 
 ---
 
@@ -543,7 +524,7 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 
 | Leg | Days | Shop at start | Target carry |
 |-----|------|---------------|--------------|
-| Grövelsjön → Storlien | 8 | Day 1 | 8–9 days food; **alkylate** — start full from home (or split: 3 days → **Stigmyhrs Livs Bruksvallarna** d~3 (24/7 Bank-ID), then 5 days → Storlien; or **Hamra Livs Tänndalen d4**) |
+| Grövelsjön → Storlien | 8 | Day 1 | 8–9 days food; **alkylate** — start full from home (or split via **Hamra Livs Tänndalen d4**) |
 | → Gäddede | 14 | Day 10 Storlien | 10–12 days (or split: **D15 Kolåsen** → **D21 Valsjöbua** ★ → **D24 Gäddede**; optional **Blåsjöfjäll** detour D23–24) |
 | → Hemavan | 10 | Day 24 Gäddede | 9–10 days (or split: **Saxnäs detour** d~26–27 or **Klimpfjäll Handlar'n** d~28, then **D34 Hemavan**) |
 | → Kvikkjokk | 12 | Day 34 Hemavan ★ | 11–12 days · **max alkylate** · **D39 Ammarnäs** for food **+ bank charge** (1× Zolo plan) · or **D42 Adolfström** / **D41 Vuoggatjålme** H |

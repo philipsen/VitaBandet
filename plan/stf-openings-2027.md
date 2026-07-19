@@ -1,7 +1,7 @@
 # STF opening hours — Vita Bandet 2027
 
 **Source:** [svenskaturistforeningen.se](https://www.svenskaturistforeningen.se) accommodation pages (Öppettider under *Kontakt och öppettider*).  
-**Scraped:** 2026-07-14 · re-run: `python3 scripts/scrape_stf_openings.py`
+**Scraped:** 2026-07-19 · re-run: `python3 scripts/scrape_stf_openings.py`
 
 Trip start **15 Feb 2027** ([dag-for-dag-2027.md](./dag-for-dag-2027.md)). Winter season = staffed reception, shop, kitchen/service fee. Fjällstugor: stugvärd on duty (not 24/7 — typically ~08–10 and ~16–20).
 
