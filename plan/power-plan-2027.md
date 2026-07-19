@@ -184,7 +184,7 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 
 **14-day leg (no wall):** **Not planned** with 1× bank — longest autonomous carry **~7–8 tent nights** (~**15–21 Wh** device demand).
 
-**1× Zolo full** = **~72 Wh** nominal → **~50 Wh** effective after cold → **comfortable on ≤7–8 day legs** (Ritsem→Abisko, Abisko→Treriksröset). **Hemavan→Kvikkjokk (~11–12 days)** still needs **Ammarnäs (D38)** or hut charge mid-leg for margin — see [long legs](#long-legs--7-days).
+**1× Zolo full** = **~72 Wh** nominal → **~50 Wh** effective after cold → **comfortable on ≤7–8 day legs** (Ritsem→Abisko, Abisko→Treriksröset). **Hemavan→Kvikkjokk (~11–12 days)** still needs **Ammarnäs (D39)** or hut charge mid-leg for margin — see [long legs](#long-legs--7-days).
 
 ---
 
@@ -215,7 +215,7 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 | **Ritsem → Abisko** | 6–7 | **OK** — charge calendar above |
 | **Abisko → Treriksröset** | 6–7 | **OK** |
 | **Storlien → Valsjöbua** | 10–12 | **Kolåsen hut (D15)** or **Valsjöbua vandrarhem (D20)** — wall refill |
-| **Hemavan → Kvikkjokk** | 11–12 | **Mandatory mid-leg:** **Ammarnäs Handlar'n (D38)** — ask to charge bank + phone overnight · or hut night |
+| **Hemavan → Kvikkjokk** | 11–12 | **Mandatory mid-leg:** **Ammarnäs Handlar'n (D39)** — ask to charge bank + phone overnight · or hut night |
 | **Gäddede → Hemavan** | ~10+ | Hut detour or strict **Tour** GPS + HR off |
 
 **Before any leg >7 days:** start **100% bank** · confirm mid-leg **★ / hut** on [resupply](./resupply-2027.md).

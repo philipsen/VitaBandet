@@ -133,7 +133,7 @@ Swap bar days for **bröd + pålägg** when you want something savoury — espec
 
 1. At each **D** shop: buy **2–4 dinners** of **frozen meat** + fresh **ägg** / **grädde** / **lök** — eat these **first** on the leg (best flavour, less tin weight).
 2. Carry **2–3 meat tins** per leg for days **6+** or if weather turns mild.
-3. **Mid-leg top-ups** (Hamra D4, Valsjöbua D20, Klimpfjäll D28, Ammarnäs D38): re-buy frozen meat on long Storlien→Gäddede or Gäddede→Hemavan carries.
+3. **Mid-leg top-ups** (Hamra D4, Valsjöbua D20, Klimpfjäll D28, Ammarnäs D39): re-buy frozen meat on long Storlien→Gäddede or Gäddede→Hemavan carries.
 4. **Pack:** frozen flat in **Box 1** (dinners), bottom of pulk — coldest spot. **Never** next to fuel bottles.
 
 **Recipes that shine with fresh/frozen:** **#2** bacon/skinka · **#4** ägg + korv · **#7** grillkorv · **#11–12** ägg/bacon · **#14** tortellini · **#21–25** köttfärs/korv/kyckling · **#26** renskav · **#27–28** köttfärs/korv.
@@ -166,7 +166,7 @@ Plain **canned chicken breast** is **not** standard in Swedish shops. Use these 
 | Tier | Examples on route | Breakfast | Meat tins |
 |------|-------------------|-----------|-----------|
 | **Full ICA / Coop / lanthandel** | Storlien, Valsjöbua, Gäddede, Hemavan, Abisko Godisfabriken | Müsli + mjölkpulver + pannkaksmix | **Frozen + chilled** meat full range; meat tins |
-| **Village livs** | Hamra D4, Klimpfjäll D28, Ammarnäs D38 | Müsli + mjölkpulver likely; fewer flavours | Corned beef often; skinka variable |
+| **Village livs** | Hamra D4, Klimpfjäll D28, Ammarnäs D39 | Müsli + mjölkpulver likely; fewer flavours | Corned beef often; skinka variable |
 | **STF small / kiosk** | Blåhammaren, Kvikkjokk, Gränssjö | Granola **bars** more likely than bulk müsli | Basics + frystorkat; top up at last big shop |
 | **No shop** | Padjelanta D48–54 | Carry from Kvikkjokk | Carry from Kvikkjokk |
 

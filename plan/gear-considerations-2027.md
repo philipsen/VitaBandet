@@ -243,137 +243,15 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 **Job:** Keep **GPSMAP 68i**, **Fairphone**, and **USB headlamp** alive between shops (**~8–10 days** typical; Padjelanta longer).
 
-### Devices to charge
+**Ops (Wh/day, charge calendar, long legs):** [power-plan-2027.md](./power-plan-2027.md) · weights: [gear-inventory-2027.md](./gear-inventory-2027.md).
 
-| Device | Port | Notes |
-|--------|------|-------|
-| **GPSMAP 68i** | USB-C | Dry port before plug · charges from any USB ≥500 mA; PD fine · some banks cut off near full (low draw) |
-| **Fairphone 6** | USB-C PD | **193 g** · 4415 mAh · OsmAnd backup · photos · occasional camp nav |
-| **NU43 headlamp** | USB-C | Top up at camp from warm bank |
-| Power banks themselves | USB-C in | Wall at **★** shops / STF |
+| Item | Spec | Notes |
+|------|------|-------|
+| **Zolo 20k** | A1689 · **353 g** · **~72 Wh** · 30 W PD | Warm in jacket · recall SN checked · [anker.com/rc2506](https://www.anker.com/rc2506) |
+| **Wall charger** | B121BGZ1 · **100 W** · 3 ports + display | Resupply / hut only · 1.5 m C–C in box |
+| **USB-C cables** | Braided **30–60 cm** ×3 | 68i · phone · headlamp / bank · optional spare in repair pouch |
 
-### What to look for — power banks
-
-| Feature | Why |
-|---------|-----|
-| **~20 000 mAh** (~74 Wh) | Fits plane cabin limit (<100 Wh); **2×** covers 8–10 day legs |
-| **USB-C PD ≥18–20 W** | Phone + headlamp; 68i doesn’t need high PD |
-| **USB-C in + out** | One-cable kit with wall charger |
-| **2 ports** (C + A or 2× C) | Charge phone + headlamp same evening |
-| **Cold strategy** | Warm in jacket / bag foot — *or* heated winter bank (Summit) |
-| **~250–350 g each** | 2× is ~0.5–0.7 kg — worth it for solo SOS/nav |
-
-**Skip:** single 10k only (tight on Padjelanta); >100 Wh bricks (airline hassle); solar panels (Feb sun / bulk not worth it); wireless MagSafe bricks.
-
-### Power banks (prices · July 2026 · EUR incl. VAT)
-
-| Bank | Capacity | Weight | Price (typical) | Cold | Comment |
-|------|----------|--------|-----------------|------|---------|
-| **Anker Zolo 20k · 30 W** ★ | 20 000 mAh · **~72 Wh** · **30 W** PD | **353 g** | **€25–37** | Warm in jacket | **Preferred** · **in stock** · see [where to buy](#where-to-buy-anker-zolo-20k) |
-| **JUOVI 65 W · 20k** (J2931) | 20 000 · **~74 Wh** · **65 W** PD | **~400 g** | **~€36** | Warm in jacket | **Skip vs Zolo** · 2× C + 2× A · display · heavier · marketplace brand · [Amazon.nl](https://www.amazon.nl/dp/B0FWR7Y3G6) |
-| **Anker PowerCore 20k PD** | 20 000 · ~20 W PD | ~345 g | **€68** | Warm in jacket | Coolblue **online OOS** · pickup in stores · [Coolblue](https://www.coolblue.nl/product/915602/anker-powercore-powerbank-20-000-mah-quick-charge-en-power-delivery-zwart.html) |
-| **Anker 20k · 87 W** (A1383) | 20 000 · 87 W shared | ~350 g+ | **€40–70** | Warm in jacket | **In stock** · overkill watts · [Amazon.nl](https://www.amazon.nl/dp/B0CXDXP8VR) ~€40–50 · [gsmpunt](https://www.gsmpunt.nl/powerbanks/anker-powercore-20000-mah-87w-powerbank-met-ingebouwde-usbc-kabel-zwart) €70 |
-| **Nitecore Summit 20000** | 20 000 · ~77 Wh · 20 W | **~303 g** | **€140–170** | **−40 °C** heated | Spotty · [Outdoorline](https://www.outdoorline.eu/products/nitecore-summit-20000) **OOS** €148 · [Foto Koch](https://www.fotokoch.de/Nitecore-Powerbank-SUMMIT20000-20000mAh-kaeltebestaendig_65922.html) **in stock** €170 |
-| **Nitecore NB10000 Gen3** | 10 000 | **~150 g** | **€75–80** | Light | **In stock** NL · [Trail.nl](https://trail.nl/products/nitecore-nb10000-gen3-powerbank-10-000) / Knivesandtools ~€78 · **3rd** backup only |
-
-#### Availability snapshot (16 Jul 2026)
-
-| Bank | Stock | Best buy now | Notes |
-|------|-------|--------------|-------|
-| **Zolo 20k** | **Yes** | [Amazon AnkerDirect](https://www.amazon.nl/dp/B0CZ9LH53B) **~€28.59** · [Megekko](https://www.megekko.nl/product/4197/1664589/Powerbanks/Anker-Zolo-Powerbank-20-000mAh-Zwart) €34.95 | Easiest pair to order today |
-| **JUOVI 65 W · 20k** | **Yes** | [Amazon.nl](https://www.amazon.nl/dp/B0FWR7Y3G6) **€35.99** | In stock · see [JUOVI note](#juovi-65-w-20k) |
-| **PowerCore 20k PD** | **Thin** | Coolblue store pickup €68 | Online sold out · not worth chasing vs Zolo |
-| **Anker 87 W (A1383)** | **Yes** | Amazon **~€40–50** | Fine if Zolo gone · heavier / more watts than needed |
-| **Anker Prime 20k** | Yes | Coolblue €75 | **Skip** — ~540 g · laptop brick |
-| **Summit 20000** | **Spotty** | Foto Koch €170 · DK Batterilageret ~€140 | Outdoorline empty · order only if you want heated |
-| **NB10000 Gen3** | **Yes** | Trail / Knivesandtools ~€78 | Half capacity — not a 20k substitute |
-
-**Budget:** **2× Zolo** ≈ **€50–70** total · or **1× Zolo + 1× Summit** (~€170–200) if you want one cold-proof bank.
-
-**Zolo vs Bandet:** Built-in **~15 cm** USB-C is great for **Fairphone** in the jacket; still carry **braided C–C** for **68i** / headlamp / wall↔bank. Input **20 W** — overnight refill at ★ (~**3–4 h**) is fine with the **100 W** wall. Bank **always warm on body** — no cold reserve in pulk.
-
-##### JUOVI 65 W · 20k
-
-Model **J2931** · [Amazon.nl black](https://www.amazon.nl/dp/B0FWR7Y3G6) **€35.99** (deal · RRP €50) · **~400 g** · **~74 Wh** (cabin OK) · **2× USB-C (65 W)** + **2× USB-A** · digital % · includes short C–C · no built-in cable.
-
-| Pros | Cons vs Zolo |
-|------|----------------|
-| 4 ports · 65 W · % display | **~40–80 g heavier** each (~80–160 g for a pair) |
-| Cheap for the wattage | **65 W unused** — phone / 68i / NU43 don’t need it |
-| In stock NL | No Anker support / warranty track record · marketplace OEM |
-| | No built-in cable for jacket phone top-ups |
-
-**Verdict:** Specs work for Bandet, but **skip** — Zolo is lighter, cheaper (~€28), has a built-in C cable, and a clearer brand/support story. Prefer **Anker 87 W** over JUOVI if you want high watts as a Zolo fallback.
-
-**Recall note (A1689):** Anker recalled some **Zolo 20k** (model **A1689**, mfg **Jun 2024–Feb 2025**) for fire risk — [anker.com/rc2506](https://www.anker.com/rc2506). Buy **new** stock (Megekko lists from **Oct 2025**); if used/old box, check SN on the recall form. Do **not** buy recalled units.
-
-#### Where to buy (Anker Zolo 20k)
-
-Checked **16 Jul 2026** — black · Zwart · model **A1689** / vendor **A1689011**.
-
-| Retailer | Price | Notes |
-|----------|-------|-------|
-| [Amazon.nl](https://www.amazon.nl/dp/B0CZ9LH53B) | **~€28.59** | AnkerDirect · in stock · often cheapest |
-| [Megekko](https://www.megekko.nl/product/4197/1664589/Powerbanks/Anker-Zolo-Powerbank-20-000mAh-Zwart) | **€34.95** | ~353 g · in stock · 2 days |
-| [bol.com (BE)](https://www.bol.com/be/nl/p/anker-zolo-power-bank-20-000mah-30w-snelle-draagbare-oplader-met-ingebouwde-usb-c-kabel-1-usb-c-1-usb-a-batterijpakket-voor-iphone-16-15-15-pro-15-pro-max-15-plus-macbook-galaxy-en-meer/9300000193847941/) | **~€34.95** | Ships NL |
-| [Anker EU](https://www.anker.com/eu-en/products/a1689) | **€36.99** | Direct · current production |
-
-**Pack 1×** for the trip · **2nd Zolo at home** as spare (~**€28–35** each if buying new).
-
-### Wall charger
-
-| Charger | Spec | Price | Comment |
-|---------|------|-------|---------|
-| **Anker Charger (100 W, 3 Ports, Smart Display)** ★ ✓ | **100 W** · **2× USB-C + USB-A** · fold plug · display · SKU **B121BGZ1** | **~€50–70** | Owned · charge **bank + phone** overnight · includes 1.5 m C–C |
-| Hotel / STF USB only | Varies | — | Bring your own brick — hut USB ports often weak |
-
-**EU plug** — Sweden/Norway Type F; NL charger works. Overkill watts vs phone/banks, but **3 ports + display** = one overnight plug at ★ without juggling.
-
-#### Where to buy (Anker 100 W Smart Display)
-
-Checked **16 Jul 2026** — prices incl. VAT; black · Zwart.
-
-| Retailer | Price | Notes |
-|----------|-------|-------|
-| [Amazon.nl](https://www.amazon.nl/dp/B0FG745LNB) | **~€49.99** | Best price found · includes C–C cable |
-| [bol.com (BE)](https://www.bol.com/be/nl/p/anker-oplader-100w-max-usb-c-oplader-3-poorts-gan-wandadapter-met-slim-display-en-touchbediening-voor-macbook-ipad-iphone-16-15-serie-meer/9300000243677021/) | **~€49.99** | Same deal · ships NL |
-| [CAPS.nl](https://www.caps.nl/anker-wired-charger-100w-2c1a-with-display-id-1005498.html) | **€51.80** | SKU B121BGZ1 · 2–3 days |
-| [Coolblue](https://www.coolblue.nl/product/973581/anker-oplader-3-usb-poorten-100w-power-delivery-3-1-zwart.html) | **€60** | Same SKU · store pickup |
-| [MyTrendyPhone](https://www.mytrendyphone.nl/shop/anker-100w-gan-wandlader-372677p.html) | **€60.90** | — |
-| [Anker EU](https://www.anker.com/eu-en/products/b121b-anker-100w-3ports-gan-charger) | **€69.99** | RRP · direct |
-
-**Budget:** **~€50** Amazon / bol vs **€70** Anker RRP.
-
-### Cables
-
-| Cable | Qty | Spec | Why |
-|-------|-----|------|-----|
-| **USB-C → USB-C** braided ★ | **3** | Short **30–60 cm** · PD-rated | 68i · Fairphone · headlamp · bank↔wall · short = less snag in tent |
-| **USB-C → USB-C** spare | 1 | Same | In repair pouch — cables fail |
-| USB-A → USB-C | 0–1 | Optional | Only if bank has USB-A out and you lose a C–C |
-
-**Buy braided** (Anker / Cable Matters / Apple-style) — thin OEM cords crack in cold. **Skip** 2 m desk cables; tangle and freeze stiff.
-
-**Garmin note:** dry **68i** weather cap and port before every plug — melt + cold = corrosion. Test **68i charge from each bank** on shakedown (some banks sleep when draw drops).
-
-### On trip
-
-| Situation | Power move |
-|-----------|------------|
-| Ski day | **One bank** warm in jacket (with 68i on body) |
-| Tent night | Phone + bank in **bag foot**; charge headlamp after dinner |
-| ★ Resupply | Wall charger → **bank full** + devices overnight |
-| Below −20 °C | Warm bank **10–20 min** against body before use |
-| Leg **>7 days** | **Mid-leg ★ / hut** charge mandatory ([power plan](./power-plan-2027.md)) · expedition mode on 68i |
-
-### Shakedown
-
-1. Charge **68i + Fairphone + NU43** from the bank once each.  
-2. Confirm bank doesn’t cut off mid-charge on 68i.  
-3. One night: bank in jacket / bag foot at **−15 °C** — morning capacity check.  
-4. Time a full wall recharge of **one bank** overnight (~**3–4 h**).
-
-**Verdict:** **Owned** — 1× Zolo on trail + 100 W wall + cables ✓. **≤7-day legs** autonomous · **>7 days** needs mid-leg ★/hut ([power plan](./power-plan-2027.md)). **Still buy:** USB headlamp (**NU43** ~€73). Optional spare C–C in repair pouch. **Nitecore Summit** only if shakedown shows Zolo won’t charge after warming. Pair with [headlamp USB](#headlamp-usb).
+**On trip:** bank warm on body · ★ shops refill bank overnight · legs **>7 days** need mid-leg hut/★ ([power plan](./power-plan-2027.md) — **Ammarnäs D39** on Hemavan→Kvikkjokk). **Still buy:** USB headlamp ([headlamp](#headlamp-usb)).
 
 ---
 

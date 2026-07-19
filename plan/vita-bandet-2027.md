@@ -69,7 +69,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 |---------|-----------|------|--------|
 | 1 | Grövelsjön → Storlien | 10 | Härjedalen → Sylarna side; Håkafot **W** |
 | 2 | Storlien → Gäddede | 13 | Kolåsen / Hotagen; Undersåker **W** only |
-| 3 | Gäddede → Hemavan | 10 | **Lapplandsleden** via Klimpfjäll; Jäckvik **W** after Hemavan |
+| 3 | Gäddede → Hemavan | 10 | **Lapplandsleden** via Klimpfjäll; Jäckvik **W** on **D44** |
 | 4 | Hemavan → Kvikkjokk | 12 | ~22 km/day |
 | 5 | Kvikkjokk → Sälka | 11 | Padjelanta-west via Ritsem · own `tracks/source/2027-plan-kvikkjokk-abisko.gpx` |
 | 5b | Sälka → Abisko | 4 | KL ~18 km/day · own `tracks/source/2027-plan-kvikkjokk-abisko.gpx` |

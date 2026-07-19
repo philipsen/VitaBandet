@@ -25,7 +25,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Calazo 1:100k** — **full set** (10 Tyvek sheets) — [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k)
 - [x] **Exped Ultra 7R** LW + pump + pad repair kit — primary pad in Sleeper
 - [ ] **Sirex PE Trekkingmat Everest 10** — foam backup (~€15 · [Bever](https://www.bever.nl/merken/sirex.html)) · main pulk
-- [ ] **Alkylate** — fill bottles at home; phone **Hemavan + Kvikkjokk** for stock · **Ammarnäs (D38)** for bank charge on Hemavan leg
+- [ ] **Alkylate** — fill bottles at home; phone **Hemavan + Kvikkjokk** for stock · **Ammarnäs (D39)** for bank charge on Hemavan leg
 
 ---
 
@@ -138,19 +138,21 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 
 ## Resupply days (food + alkylate)
 
+Full shop/fuel table: [resupply-2027.md](./resupply-2027.md). Day numbers from [dag-for-dag-2027.md](./dag-for-dag-2027.md) / [`2027.GPX`](../tracks/2027.GPX).
+
 | Day | Place |
 |-----|-------|
 | 1 | Grövelsjön (start full) |
-| 10 | Storlien (Coop / Fjellhandeln) |
-| 24 | Gäddede (+ Frostvikens fuel?) |
-| 33 | Hemavan ICA ★ halfway · max fuel |
-| 34 | Jäckvik (optional — VGB **W** only) |
-| 46 | Kvikkjokk ★ **max before Ritsem / Paolo leg** |
-| 54 | Ritsem ★ shop |
-| 61 | Abisko ★ **7–8 days food + ~2 L fuel** |
-| ~65 | Pältsa (near goal) |
+| 10 | Storlien |
+| 24 | Gäddede |
+| **34** | **Hemavan ★** halfway · max fuel |
+| **39** | Ammarnäs (optional · bank charge) |
+| **47** | **Kvikkjokk ★** max before Ritsem |
+| **55** | **Ritsem ★** |
+| **62** | **Abisko ★** 7–8 days food + ~2 L fuel |
+| ~69 | Pältsa (near goal) |
 
-**DNT huts (60–64):** no food · no fuel · shelter only
+**DNT huts (63–68):** no food · no fuel · shelter only
 
 ---
 
@@ -160,7 +162,7 @@ S→N: each point **east** of track. Wide corridor OK.
 
 - [ ] Undersåker (väster om — day ~12)
 - [ ] Håkafot (väster om)
-- [ ] Jäckvik (väster om — day ~32; ICA optional **D**)
+- [ ] Jäckvik (väster om — **D44**; ICA optional **D**)
 - [ ] Saltoluokta (väster om)
 - [ ] Nikkaluokta (väster om)
 - [ ] Torneträsk östra spetsen (väster om — tip east of track)
