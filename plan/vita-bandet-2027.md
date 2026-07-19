@@ -9,6 +9,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 **Status:** day-by-day draft ready
 
 **Day-by-day itinerary:** [dag-for-dag-2027.md](./dag-for-dag-2027.md)  
+**Alt pacing (11 → 17 → ~25 km · 56 days):** [dag-for-dag-alt-25km-2027.md](./dag-for-dag-alt-25km-2027.md) · camps [`2027-alt-25km-camps.gpx`](../tracks/2027-alt-25km-camps.gpx)  
 **Master GPX:** [`2027.GPX`](../tracks/2027.GPX) — maintained manually in BaseCamp and used as the route source of truth. Detail/context: [band-tracks-comparison.md](./band-tracks-comparison.md).  
 **Resupply (local):** [resupply-2027.md](./resupply-2027.md)  
 **STF hut openings:** [stf-openings-2027.md](./stf-openings-2027.md) (scraped from [svenskaturistforeningen.se](https://www.svenskaturistforeningen.se))
