@@ -377,15 +377,24 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 *Kungsleden village ~66.10°N, 16.34°E — ~30 km north of Ammarnäs via Aigertstugan / Rävfallet, just before Pieljekaise NP.*
 
-| Where | Food | Fuel | Depot? |
-|-------|------|------|--------|
-| **Adolfströms Handelsbod & Stugby** (Marianne & Caroline) | Dried foods, beans, freshly baked bread, reindeer, snacks, fishing kit | **No** alkylbensin | Cabin stay (**H**) possible via Adolfström Camping (v.8–20) |
+| Where | Food | Fuel | Depot / shipping |
+|-------|------|------|------------------|
+| **Adolfströms Handelsbod & Fjällgård** (Marianne & Caroline) | Dried foods, beans, freshly baked bread, reindeer, snacks, fishing kit | **No** alkylbensin | **No depot** for now (VGB: *“Tyvärr, inte för tillfället”*) — **do not ship here** |
+| **Adolfström Camping** (Sundqvist) | Reception only — fish cards etc. | — | **Ask first** — not on VGB depot list · [adolfstromcamping.se](https://adolfstromcamping.se/) |
+| **Bussgods → “Adolfström Stugby”** | — | — | Packages land at **Bröderna Sundström, Laisvall** (~village road hub) — **not** door-to-door to Handelsbod · [Bussgods fjäll](https://bussgods.se/privat/vara-tjanster/skicka-till-fjallstationer/) |
 
-**Contact:** 070-617 30 41 · info@adolfstrom.com · Adolfström 16, 938 93 Laisvall.
+**Contacts**
 
-**Opening:** **Posted hours only v.14–15** (Mon–Lör 11–18, Sön 14–18 around Påsk). All other times *"ring eller maila så öppnar vi"*. Our pass-through is ~**week 12–13** — **by-arrangement only**, so phone 1–2 weeks before from Hemavan if you want to count on it.
+| Place | Phone / mail | Address |
+|-------|--------------|---------|
+| Handelsbod / Fjällgård | **070-617 30 41** · 0961-230 41 · [info@adolfstrom.com](mailto:info@adolfstrom.com) | Adolfström **16** (VGB also lists **168**), 938 93 Laisvall |
+| Camping | **070-236 75 10** · [adolfstromcampingab@gmail.com](mailto:adolfstromcampingab@gmail.com) | Adolfström **110**, 938 93 Laisvall |
 
-**Use it as:** secondary mid-leg top-up if Ammarnäs Handlar'n was thin, or as an **H** stop for cabin + sauna in Pieljekaise approach. Don't depend on it without a confirmed call.
+**Opening (Handelsbod):** **Posted hours only v.14–15** (Mon–Lör 11–18, Sön 14–18 around Påsk). All other times *"ring eller maila så öppnar vi"*. Your pass-through is ~**week 12–13** — **by-arrangement only**; phone **1–2 weeks** ahead from Hemavan if you want food/cabin.
+
+**Shipping verdict for Adolfström:** **Prefer buy-on-arrival** (call Handelsbod open). **Do not count on a depot box** — Fjällgård currently refuses depots. If you must send gear for a **camping stay**, phone Adolfström Camping first; otherwise use **Hemavan / Ammarnäs / Vuoggatjålme / Kvikkjokk**. Bus out: Länstrafiken **linje 900** Adolfström → Arjeplog (Mon/Wed/Fri — **book by 17:00 day before**).
+
+**Use it as:** secondary mid-leg **food / H** stop if Ammarnäs was thin — not a shipping hub.
 
 ---
 
@@ -395,24 +404,42 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **Vuoggatjålme Fjällhotell** | Restaurant **Feb–Apr**: Wed–Sat 12–20 · Sun 12–16 (other times by request) | **Ask** — small Silvervägen stop, may stock alkylate | Stugor (cabins) + camping · helikopter base |
+| **Vuoggatjålme Fjällhotell** | Restaurant **Feb–Apr**: Wed–Sat 12–20 · Sun 12–16 (other times by request) | **Ask** — small Silvervägen stop, may stock alkylate | Stugor (cabins) + camping · helikopter base · **Bussgods** depot **100 kr**/box — address hotel **not** your name (else stuck in Arjeplog) |
 
-**Contact:** [vuoggatjalme.se](https://vuoggatjalme.se) — reception Mon–Sun 08–17.
+**Contact:** [vuoggatjalme.se](https://vuoggatjalme.se) — reception Mon–Sun 08–17 · 0961-107 15 · info@vuoggatjalme.se
 
-**Use it as:** scheduled **H** + hot meal on the otherwise empty Kungsleden west days (~D40–46). Restaurant is the **only sit-down meal between Hemavan (D34) and Kvikkjokk (D47)** — well worth a night. **Pre-book** middag — small kitchen.
+**Use it as:** scheduled **H** + hot meal on the otherwise empty Kungsleden west days (~D40–46). Restaurant is the **only sit-down meal between Hemavan (D34) and Kvikkjokk (D47)** — well worth a night. **Pre-book** middag — small kitchen. Can order ICA Jäckvik / Camp Polcirkeln goods for **+100 kr**.
 
 ---
 
 ### Day 44 — Jäckvik · **W** (optional **D**)
 
-| Where | Food | Fuel | Depot? |
-|-------|------|------|--------|
-| **ICA Jäckvik** | Well stocked | **Skip fuel** (canisters only) — liquid from Hemavan | Optional food top-up |
-| Kyrkans Fjällgård | Kitchen only | Via ICA | **H**? |
+*Village ~66.38°N, 16.97°E — Band track passes **väster om**; ICA is an east detour.*
+
+| Where | Food | Fuel | Depot / shipping |
+|-------|------|------|------------------|
+| **ICA Nära Jäckvik** | Well stocked village ICA | **Gasol canisters** only — **skip for OmniLite**; liquid from Hemavan | **Bussgods + Bring + DHL + DSV ombud** · **not** listed as PostNord ombud |
+| **Kyrkans Fjällgård Jäckvik** | Kitchen only (cook your own) · korv/pizza at ICA | Via ICA | **Free depot** — send to **ICA Jäckvik**, marked name + ETA |
+| **Jäckvik Fjällcenter** (Bussgods dest.) | — | — | Bussgods delivers to **ICA Nära Jäckvik** ([list](https://bussgods.se/privat/vara-tjanster/skicka-till-fjallstationer/)) |
+
+**Contacts**
+
+| Place | Phone / mail | Address |
+|-------|--------------|---------|
+| ICA Nära Jäckvik | **0961-210 50** · [ica.se — Jäckvik](https://www.ica.se/butiker/nara/arjeplog/ica-nara-jackvik-1007011/) | Byavägen **10**, Jäckvik |
+| Kyrkans Fjällgård | **073-521 03 69** · kyrkans.fjallgard@telia.com | Byavägen **4**, 938 95 Jäckvik · [kyrkansfjallgardjakkvik.com](https://kyrkansfjallgardjakkvik.com) |
+
+**How to ship to Jäckvik (if you need a box)**
+
+1. **Preferred carrier:** **Bussgods** (or DHL / Schenker / Bring) → **ICA Nära Jäckvik**.
+2. Label: **your name** + **approx. arrival date** (Kyrkans Fjällgård asks for this).
+3. **Do not** send PostNord “to Jäckvik” expecting village pickup — PostNord ombud for the kommun is typically **ICA Nära Arjeplog** (~**105 km** east on Silvervägen). Same trap as Vuoggatjålme.
+4. **Fee:** Kyrkans Fjällgård — **free** storage; ICA — confirm hold policy when you call (**0961-210 50**). ICA **does not auto-return** unclaimed boxes — you must arrange return if you bail.
+5. Bussgods tip (VGB general): needs a **070** SMS number for avisering — use your own mobile.
+
+**Shipping verdict for Jäckvik:** **Best mid-leg depot option** on Hemavan→Kvikkjokk if you need one — ship to **ICA**, optionally sleep/cook at **Kyrkans Fjällgård**. Still prefer **buy at ICA** for food; depot only for non-shop items.
 
 **VGB:** väster om only — village entry not required. Skip shop if Hemavan / Ammarnäs stock is enough.
-
----
 
 ---
 
