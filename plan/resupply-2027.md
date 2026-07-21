@@ -70,7 +70,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | **32** | **Gränssjö** (kiosk, ~1 km off track) | **No** | **[Gränssjöarna](https://granssjoarna.se/)** kiosk — snacks, drinks, hygiene only | Optional mini top-up · **phone 073-068 03 41** in March; not a **D** day |
 | **34** | **Tärna Vilt** (shop only, ~170 m off track) | **No** | **[Tärna Vilt](https://boka.hemavan.nu/tarna-vilt)** — vilt/chark, snacks · **no camp** | Optional early on D34 · **0954-320 00** |
 | **34** | **Hemavan / Tärnaby** ★ | **Maybe** | ICA + **Sportringen / Cykel & Fiske** (call ahead) | **Halfway ★** — **max fill** before Kvikkjokk |
-| **39** | **Ammarnäs** (Handlar'n) | **Unlikely** | ICA Nära / Handlar'n village livs | Kungsleden top-up; food + **bank charge** |
+| **39** | **Ammarnäs** (Handlar'n) | **Unlikely** | ICA Nära / Handlar'n village livs | Kungsleden top-up; **wall / el** (one of several mid-leg charge stops) |
 | **42** | **Adolfström** (Handelsbod) | **No** | Handelsbod — dried foods, bread, reindeer; **by arrangement** outside v.14–15 | Phone-ahead Kungsleden classic |
 | **41** | **Vuoggatjålme** (Fjällhotell) | **Ask** | Hotel + restaurant on Silvervägen — small shop possible | **H** option; restaurant Feb–Apr Wed–Sat 12–20 |
 | **44** | **Jäckvik** (väster om · optional **D**) | **Unlikely** | ICA — canisters only | **Skip fuel** unless emergency; liquid from Hemavan |
@@ -368,8 +368,9 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 |-------|------|------|--------|
 | **Ammarnäs Handlar'n** (ICA Nära style) | Village livs — bread, dairy, pasta, snacks, frystorkat when stocked | **Unlikely** alkylbensin — village shop only | PostNord village pickup possible |
 | **STF Ammarnäs Wärdshus** | Restaurant, hut beds | — | **H** option · wall outlet for **Zolo + phone** |
+| **Ammarnäs Fritidscenter** | — | — | Tent **150 kr** / pitch **300 kr** **incl. el** — [power plan](./power-plan-2027.md) mid-leg options |
 
-**Use it as:** food top-up between **Hemavan (D34)** and **Kvikkjokk (D47)** — splits 12 days into ~5 + ~7. **With 1× power bank:** plan **wall charge here** (Handlar'n / wärdshus) — [power plan](./power-plan-2027.md). Bandet classic; sits right on the Kungsleden corridor. Phone for winter hours.
+**Use it as:** food top-up between **Hemavan (D34)** and **Kvikkjokk (D47)** — splits 12 days into ~5 + ~7. **One of several wall stops** on this leg (also Vuoggatjålme · Adolfström · Jäckvik) — [power plan](./power-plan-2027.md). Bandet classic; sits right on the Kungsleden corridor. Phone for winter hours.
 
 ---
 

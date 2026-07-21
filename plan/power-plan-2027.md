@@ -184,7 +184,7 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 
 **14-day leg (no wall):** **Not planned** with 1× bank — longest autonomous carry **~7–8 tent nights** (~**15–21 Wh** device demand).
 
-**1× Zolo full** = **~72 Wh** nominal → **~50 Wh** effective after cold → **comfortable on ≤7–8 day legs** (Ritsem→Abisko, Abisko→Treriksröset). **Hemavan→Kvikkjokk (~11–12 days)** still needs **Ammarnäs (D39)** or hut charge mid-leg for margin — see [long legs](#long-legs--7-days).
+**1× Zolo full** = **~72 Wh** nominal → **~50 Wh** effective after cold → **comfortable on ≤7–8 day legs** (Ritsem→Abisko, Abisko→Treriksröset). **Hemavan→Kvikkjokk** has **several mid-leg wall options** — hit **≥1** overnight with el (not a 11–12 day dead stretch) — see [long legs](#long-legs--7-days).
 
 ---
 
@@ -215,7 +215,7 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 | **Ritsem → Abisko** | 6–7 | **OK** — charge calendar above |
 | **Abisko → Treriksröset** | 6–7 | **OK** |
 | **Storlien → Valsjöbua** | 10–12 | **Kolåsen hut (D15)** or **Valsjöbua vandrarhem (D20)** — wall refill |
-| **Hemavan → Kvikkjokk** | 11–12 | **Mandatory mid-leg:** **Ammarnäs Handlar'n (D39)** — ask to charge bank + phone overnight · or hut night |
+| **Hemavan → Kvikkjokk** | 11–12 calendar | **≥1 mid-leg wall overnight** (gaps then ≤5–7 days). Options — see [resupply](./resupply-2027.md): **Ammarnäs (D39)** STF Wärdshus / Fritidscenter **el** (~7 km E) · **Vuoggatjålme (D41)** hotel/stugor (~21 km E) · **Adolfström (D42)** camping/cabin (phone ahead) · **Jäckvik (D44)** Kyrkans Fjällgård · bookends **Hemavan ★** + **Kvikkjokk ★** |
 | **Gäddede → Hemavan** | ~10+ | Hut detour or strict **Tour** GPS + HR off |
 
 **Before any leg >7 days:** start **100% bank** · confirm mid-leg **★ / hut** on [resupply](./resupply-2027.md).
@@ -301,7 +301,8 @@ NAV         Suunto GPS route on trail · phone OsmAnd occasional · 68i inReach/
 SKI DAY     Suunto activity ON · 68i expedition · inReach 30 min · phone AIRPLANE · Zolo in jacket
 CAMP        End Suunto activity · NU43 · CO ON during cook · phone tent ~8–20 min
 CHARGE      Suunto every 2 nights · phone every 4–5 nights · 68i every 5–7 nights
-            ONE device per night · bank FULL at every ★ · mid-leg charge if leg >7 days
+            ONE device per night · bank FULL at every ★ · ≥1 mid-leg wall on Hemavan→Kvikkjokk
+            (Ammarnäs / Vuoggatjålme / Adolfström / Jäckvik) · other legs >7 days same idea
             NU43 + Fairbuds weekly · CO detector at ★ · Kindle at ★ only
 COOK        CO detector ON in vestibule · OFF when stove out
 HUT         Charge ALL — bank first · Suunto + 68i full

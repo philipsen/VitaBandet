@@ -9,6 +9,7 @@ Winter planning for [Fjällfararnas Vita Bandet](https://www.vitagronabandet.se/
 | Overview | [vita-bandet-2027.md](plan/vita-bandet-2027.md) |
 | **Day # / km / camps** | [dag-for-dag-2027.md](plan/dag-for-dag-2027.md) |
 | Alt pacing (~25 km) | [dag-for-dag-alt-25km-2027.md](plan/dag-for-dag-alt-25km-2027.md) · [`2027-alt-25km-camps.gpx`](tracks/2027-alt-25km-camps.gpx) |
+| Fast dense (~27 km) | [dag-for-dag-fast-27km-2027.md](plan/dag-for-dag-fast-27km-2027.md) · [`vita-bandet-fast-27km.gpx`](tracks/generated/vita-bandet-fast-27km.gpx) |
 | **Shops / fuel / restaurants** | [resupply-2027.md](plan/resupply-2027.md) |
 | **Route GPX** | [`tracks/2027.GPX`](tracks/2027.GPX) (BaseCamp master) |
 | Charging ops | [power-plan-2027.md](plan/power-plan-2027.md) |

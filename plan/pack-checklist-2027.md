@@ -25,7 +25,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Calazo 1:100k** — **full set** (10 Tyvek sheets) — [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k)
 - [x] **Exped Ultra 7R** LW + pump + pad repair kit — primary pad in Sleeper
 - [ ] **Sirex PE Trekkingmat Everest 10** — foam backup (~€15 · [Bever](https://www.bever.nl/merken/sirex.html)) · main pulk
-- [ ] **Alkylate** — fill bottles at home; phone **Hemavan + Kvikkjokk** for stock · **Ammarnäs (D39)** for bank charge on Hemavan leg
+- [ ] **Alkylate** — fill bottles at home; phone **Hemavan + Kvikkjokk** for stock · Hemavan→Kvikkjokk: **≥1** mid-leg wall (Ammarnäs / Vuoggatjålme / Adolfström / Jäckvik)
 
 ---
 
@@ -146,7 +146,10 @@ Full shop/fuel table: [resupply-2027.md](./resupply-2027.md). Day numbers from [
 | 10 | Storlien |
 | 24 | Gäddede |
 | **34** | **Hemavan ★** halfway · max fuel |
-| **39** | Ammarnäs (optional · bank charge) |
+| **39** | Ammarnäs (optional · wall / el) |
+| **41** | Vuoggatjålme (optional · H wall) |
+| **42** | Adolfström (optional · cabin/camping) |
+| **44** | Jäckvik (optional · Kyrkans Fjällgård) |
 | **47** | **Kvikkjokk ★** max before Ritsem |
 | **55** | **Ritsem ★** |
 | **62** | **Abisko ★** 7–8 days food + ~2 L fuel |
