@@ -447,54 +447,91 @@ def build_camps(
     return camps
 
 
+GPX_NS = "http://www.topografix.com/GPX/1/1"
+GPXX_NS = "http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+WPTX_NS = "http://www.garmin.com/xmlschemas/WaypointExtension/v1"
+
+
 def write_gpx(camps: list[Camp], pts, cum) -> None:
+    """Write BaseCamp-compatible GPX (Garmin namespaces · GPX wpt child order)."""
+    ET.register_namespace("", GPX_NS)
+    ET.register_namespace("gpxx", GPXX_NS)
+    ET.register_namespace("wptx1", WPTX_NS)
+
     gpx = ET.Element(
-        "gpx",
+        f"{{{GPX_NS}}}gpx",
         {
             "version": "1.1",
             "creator": "VitaBandet alt day plan",
-            "xmlns": "http://www.topografix.com/GPX/1/1",
+            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "xsi:schemaLocation": (
+                f"{GPX_NS} http://www.topografix.com/GPX/1/1/gpx.xsd "
+                f"{GPXX_NS} http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd "
+                f"{WPTX_NS} http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd"
+            ),
         },
     )
-    meta = ET.SubElement(gpx, "metadata")
-    ET.SubElement(meta, "name").text = "Vita Bandet 2027 — alt 25 km camps"
-    ET.SubElement(meta, "desc").text = (
-        "Alternative pacing: 11 / 17 / then ~25 km/day; ★ resupply = 4 h + overnight. "
-        "Track from 2027.GPX."
+    meta = ET.SubElement(gpx, f"{{{GPX_NS}}}metadata")
+    ET.SubElement(meta, f"{{{GPX_NS}}}name").text = "Vita Bandet 2027 - alt 25 km camps"
+    ET.SubElement(meta, f"{{{GPX_NS}}}desc").text = (
+        "Alternative pacing: 11 / 17 / then ~25 km/day; resupply = 4 h + overnight. "
+        "Track from 2027.GPX. Import into Garmin BaseCamp."
     )
+    ET.SubElement(meta, f"{{{GPX_NS}}}time").text = f"{date.today().isoformat()}T12:00:00Z"
 
     for c in camps:
-        w = ET.SubElement(gpx, "wpt", {"lat": f"{c.lat:.8f}", "lon": f"{c.lon:.8f}"})
+        w = ET.SubElement(
+            gpx, f"{{{GPX_NS}}}wpt", {"lat": f"{c.lat:.8f}", "lon": f"{c.lon:.8f}"}
+        )
+        # GPX 1.1 / BaseCamp require: ele before name/desc/sym
+        if c.elev_m is not None:
+            ET.SubElement(w, f"{{{GPX_NS}}}ele").text = f"{c.elev_m:.1f}"
         tag = " D" if c.is_resupply else ""
         elev = f" · camp {c.elev_m:.0f} m" if c.elev_m is not None else ""
         ud = ""
         if c.up_m is not None and c.down_m is not None:
-            ud = f" · ↑{c.up_m} m ↓{c.down_m} m"
-        ET.SubElement(w, "name").text = f"A{c.day:02d}{tag} · {c.label}"
-        ET.SubElement(w, "desc").text = (
+            ud = f" · +{c.up_m} m -{c.down_m} m"
+        note = c.note.replace("★ ", "").replace("★", "")
+        ET.SubElement(w, f"{{{GPX_NS}}}name").text = f"A{c.day:02d}{tag} · {c.label}"
+        ET.SubElement(w, f"{{{GPX_NS}}}cmt").text = (
             f"Day {c.day} · {c.km_from_prev:.0f} km (cum {c.cum_km:.0f})"
-            f"{ud}{elev} · {c.note}"
+            f"{ud}{elev} · {note}"
         )
-        ET.SubElement(w, "sym").text = "Flag, Blue" if c.is_resupply else "Campground"
-        if c.elev_m is not None:
-            ET.SubElement(w, "ele").text = f"{c.elev_m:.1f}"
+        ET.SubElement(w, f"{{{GPX_NS}}}desc").text = (
+            f"Day {c.day} · {c.km_from_prev:.0f} km (cum {c.cum_km:.0f})"
+            f"{ud}{elev} · {note}"
+        )
+        ET.SubElement(w, f"{{{GPX_NS}}}sym").text = (
+            "Flag, Blue" if c.is_resupply else "Campground"
+        )
+        ET.SubElement(w, f"{{{GPX_NS}}}type").text = "user"
+        ext = ET.SubElement(w, f"{{{GPX_NS}}}extensions")
+        gpxx = ET.SubElement(ext, f"{{{GPXX_NS}}}WaypointExtension")
+        ET.SubElement(gpxx, f"{{{GPXX_NS}}}DisplayMode").text = "SymbolAndName"
+        cats = ET.SubElement(gpxx, f"{{{GPXX_NS}}}Categories")
+        ET.SubElement(cats, f"{{{GPXX_NS}}}Category").text = (
+            "Food" if c.is_resupply else ("Lodging" if c.label == FINISH_LABEL else "Camping")
+        )
+        wptx = ET.SubElement(ext, f"{{{WPTX_NS}}}WaypointExtension")
+        ET.SubElement(wptx, f"{{{WPTX_NS}}}DisplayMode").text = "SymbolAndName"
 
     # Full route track (simplified every ~200 m for file size)
-    trk = ET.SubElement(gpx, "trk")
-    ET.SubElement(trk, "name").text = "2027 plan track"
-    seg = ET.SubElement(trk, "trkseg")
+    trk = ET.SubElement(gpx, f"{{{GPX_NS}}}trk")
+    ET.SubElement(trk, f"{{{GPX_NS}}}name").text = "2027 plan track (alt 25 km)"
+    seg = ET.SubElement(trk, f"{{{GPX_NS}}}trkseg")
     last_m = -1e9
     for i, (lat, lon) in enumerate(pts):
         if cum[i] - last_m < 200 and i not in (0, len(pts) - 1):
             continue
-        ET.SubElement(seg, "trkpt", {"lat": f"{lat:.8f}", "lon": f"{lon:.8f}"})
+        ET.SubElement(seg, f"{{{GPX_NS}}}trkpt", {"lat": f"{lat:.8f}", "lon": f"{lon:.8f}"})
         last_m = cum[i]
 
-    rough = ET.tostring(gpx, encoding="utf-8")
+    rough = ET.tostring(gpx, encoding="utf-8", xml_declaration=True)
     pretty = minidom.parseString(rough).toprettyxml(indent="  ", encoding="utf-8")
-    # drop xml decl duplicate issues — write bytes
-    GPX_OUT.write_bytes(pretty)
-    print(f"Wrote {GPX_OUT}")
+    # Drop blank text-only lines minidom sometimes inserts
+    lines = [ln for ln in pretty.splitlines() if ln.strip()]
+    GPX_OUT.write_bytes(b"\n".join(lines) + b"\n")
+    print(f"Wrote {GPX_OUT} (BaseCamp)")
 
 
 def write_markdown(camps: list[Camp]) -> None:
