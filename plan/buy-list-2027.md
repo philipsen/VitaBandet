@@ -11,12 +11,11 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | | Items | Est. budget (EUR) |
 |---|-------|-------------------|
 | **Priority 1–2** — ski (poles, skins prep) | 6 lines | ~€120–200 |
-| **Priority 3** — power & comms | 4 lines | ~€75–140 + phone |
+| **Priority 3** — power & comms | 4 lines | ~€675–840 |
 | **Priority 4** — clothing & sleep | 4 lines | ~€120–200 |
 | **Maps & admin** | 2 lines | ~€140–220 |
 | **Confirm / optional** | 5 lines | ~€0–120 |
-| **Total (excl. Fairphone)** | | **~€880–1 370** |
-| **Fairphone 6** (if new) | 1 | ~€550–600 |
+| **Total** | | **~€1 480–2 070** |
 
 *Prices indicative · Jul 2026 · incl. VAT where noted.*
 
@@ -52,13 +51,14 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | ✅ | **Power bank** | 1 | **Anker Zolo 20k · 30 W** (A1689) | — | ✓ owned | On trail only · **2nd at home** · recall SN · [anker.com/rc2506](https://www.anker.com/rc2506) |
 | ✅ | **Wall charger** | 1 | **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) | — | ✓ owned | Resupply / hut · 1.5 m C–C in box |
 | ✅ | **USB-C cables** | 3 | Braided **30–60 cm** C–C | — | ✓ owned | 68i · phone · headlamp / bank |
-| 🛒 | **Headlamp** | 1 | **Nitecore NU43** USB-C | ~€60–90 | [Nitecore BE/NL](https://nitecore-belux.com/nl/koplamp/76-nu43-lichtgewicht-1400lm-koplamp-met-afstandssensor.html) | [headlamp](./gear-considerations-2027.md#headlamp-usb) |
-| 🛒 | **Fairphone 6** | 1 | OsmAnd backup nav | ~€550–600 | [Fairphone 6](https://www.fairphone.com/the-new-fairphone) | **193 g** · 4415 mAh · IP55 · SE/NO maps + GPX before Feb |
+| ✅ | **Phone** | 1 | **Ulefone Power Armor 14 Pro** | — | ✓ owned | OsmAnd backup · **~358 g** · 10k mAh · **18 W** · ★/hut charge only · [power](./power-plan-2027.md) |
+| 🛒 | **Suunto Vertical 2** | 1 | Steel **87 g** (or Ti **74 g**) | ~€599–699 | [Suunto](https://www.suunto.com) · Bever · i-Run | Primary on-trail nav · cable in box · [power](./power-plan-2027.md) |
+| 🛒 | **Headlamp** | 1 | **NU43** / Actik Core / Spot 400-R | ~€45–90 | [headlamp](./gear-considerations-2027.md#headlamp-usb) | NU43 + Actik = **USB-C**; Spot = micro-USB + **dimmable red** |
 | 🛒 | **Garmin inReach plan** | 1 | On **GPSMAP 68i** | ~€15–50/mo | Garmin | Activate before departure · not hardware |
-| ❓ | Suunto Vertical 2 **charge cable** | 1 | Proprietary | incl. | Suunto / spare | Confirm in box |
+| ✅ | Suunto Vertical 2 **charge cable** | 1 | Proprietary | incl. | With watch | Comes in box |
 | ❓ | Kindle **cable** | 0–1 | Match your Kindle | ~€5–10 | — | Only if bringing e-reader |
 
-**Owned (no buy):** GPSMAP 68i ✓ · Suunto Vertical 2 ✓ · OsmAnd+ ✓ · CO detector ✓ · **1× Anker Zolo 20k** (on trail) ✓ · **Anker 100 W wall** ✓ · **3× USB-C cables** ✓
+**Owned (no buy):** GPSMAP 68i ✓ · **Armor 14 Pro** ✓ · OsmAnd+ ✓ · CO detector ✓ · **1× Anker Zolo 20k** (on trail) ✓ · **Anker 100 W wall** ✓ · **3× USB-C cables** ✓ · **no Fairphone for 2027**
 
 **Power plan:** [power-plan-2027.md](./power-plan-2027.md)
 
@@ -130,8 +130,8 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | When | Do |
 |------|-----|
-| **Now–autumn 2026** | Poles · skin reglue + wax/glue · headlamp · Fairphone 6 · Calazo (watch for VGB discount) |
-| **Autumn 2026** | Socks · booties · Sirex foam · shakedowns |
+| **Now–autumn 2026** | **Suunto Vertical 2** · poles · skin reglue + wax/glue · headlamp · Calazo (watch for VGB discount) · OsmAnd on Armor |
+| **Autumn 2026** | Socks · booties · Sirex foam · shakedowns · Suunto route practice |
 | **Jan 2027** | inReach plan live · OsmAnd + Suunto routes loaded · confirm shell |
 | **Feb 2027** | Alkylate fill · last gaps · optional VBL |
 

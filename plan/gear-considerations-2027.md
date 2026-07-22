@@ -159,8 +159,8 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 | Device | Role |
 |--------|------|
 | **GPSMAP 68i** | Primary GPS + inReach (with plan) — **on body** |
-| **Fairphone** | **Fairphone 6** · OsmAnd+ backup · GPX · occasional camp nav |
-| **Suunto Vertical 2** | **Primary on-trail nav** · offline route · GPS while skiing |
+| **Phone** | **Ulefone Power Armor 14 Pro** · OsmAnd+ backup · GPX · occasional camp nav |
+| **Suunto Vertical 2** | **Buy** — **Primary on-trail nav** · offline route · GPS while skiing · ~€599–699 |
 | **1× 20k power bank** | Primary recharge — **always warm on body** · full at every ★ |
 | **USB headlamp** | **Buy** — **NU43** ~€73 · see [headlamp](#headlamp-usb) |
 
@@ -224,13 +224,13 @@ Confirm **68i inReach plan** before departure. Shakedown: ski one day with 68i o
 
 ### Power
 
-**Need:** **USB headlamp** · **Fairphone 6** · inReach plan — banks/wall/cables ✓ — see [power banks & cables](#power-banks-wall-charger--cables).
+**Need:** **USB headlamp** · inReach plan — banks/wall/cables · **Armor 14 Pro** ✓ — see [power banks & cables](#power-banks-wall-charger--cables).
 
 | Item | Qty | Notes |
 |------|-----|-------|
 | Power bank 20k USB-C PD | **1** ✓ | **Anker Zolo 20k · 30 W** — warm in jacket · **2nd bank stays home** |
 | **Anker 100 W · 3 ports · Smart Display** | 1 ✓ | Resupply — bank + phone overnight |
-| USB-C cables (braided) | **3** ✓ | 68i · Fairphone · headlamp · spare optional |
+| USB-C cables (braided) | **3** ✓ | 68i · Armor · headlamp · spare optional |
 | **USB headlamp** | **1** | **Buy** — see [headlamp](#headlamp-usb) |
 
 Charge at every **★** resupply; sleep with phone + one bank in bag foot on cold tent nights. **Daily plan:** [power-plan-2027.md](./power-plan-2027.md).
@@ -239,9 +239,9 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 ## Power banks, wall charger & cables
 
-**Status:** **Owned** — **1× Anker Zolo 20k · 30 W** (A1689) on trail ✓ · **2nd Zolo at home** · **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) ✓ · **3× USB-C cables** ✓. **Still need:** USB headlamp · Fairphone 6 · inReach plan.
+**Status:** **Owned** — **1× Anker Zolo 20k · 30 W** (A1689) on trail ✓ · **2nd Zolo at home** · **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) ✓ · **3× USB-C cables** ✓ · **Armor 14 Pro** ✓. **Still need:** USB headlamp · inReach plan. **No Fairphone for 2027.**
 
-**Job:** Keep **GPSMAP 68i**, **Fairphone**, and **USB headlamp** alive between shops (**~8–10 days** typical; Padjelanta longer).
+**Job:** Keep **GPSMAP 68i**, **Armor 14 Pro**, and **USB headlamp** alive between shops (**~8–10 days** typical; Padjelanta longer).
 
 **Ops (Wh/day, charge calendar, long legs):** [power-plan-2027.md](./power-plan-2027.md) · weights: [gear-inventory-2027.md](./gear-inventory-2027.md).
 
@@ -257,15 +257,15 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 ## Headlamp (USB)
 
-**Status:** **Need** — buy new **USB-C rechargeable** headlamp before Feb 2027.
+**Status:** **Need** — buy new **USB-rechargeable** headlamp before Feb 2027.
 
-**Job:** Tent setup, cooking, melting, vestibule tasks, late hut arrival — **Feb–Apr dark hours**. Not primary nav (**Suunto** on trail · **OsmAnd** occasional). Same charge workflow as **68i** + **Fairphone** + power banks — one **wall charger** at resupply covers all.
+**Job:** Tent setup, cooking, melting, vestibule tasks, late hut arrival — **Feb–Apr dark hours**. Not primary nav (**Suunto** on trail · **OsmAnd** occasional). Same charge workflow as **68i** + **Armor** + power banks — wall charger at resupply covers all.
 
 ### What to look for
 
 | Feature | Why |
 |---------|-----|
-| **USB-C recharge** | Matches power banks + wall charger |
+| **USB recharge** | From power bank / wall — prefer **USB-C**; Spot still micro-USB OK |
 | **≥300 lm** on medium | Enough for Nallo pitch in −20 °C |
 | **Red / low mode** | Preserve night vision in tent |
 | **IPX4+** | Snow, melt drip |
@@ -279,13 +279,13 @@ Indicative — check retailer before buying; sales move fast.
 
 | Lamp | Weight | Price (typical) | Charge | Comment |
 |------|--------|-----------------|--------|---------|
-| **Nitecore NU43** ★ | ~116 g | **€60–90** · ~**€73** NL/BE | **USB-C** | Best value for your USB kit — [Nitecore BE/NL](https://nitecore-belux.com/nl/koplamp/76-nu43-lichtgewicht-1400lm-koplamp-met-afstandssensor.html) €72,90 |
-| **Petzl Actik Core** | ~88 g | **€55–80** · ~**€60–80** | **micro-USB** (CORE pack) | Proven winter pick — [Bever](https://www.bever.nl/p/petzl-actik-core-hoofdlamp-B48B390147.html) €79,95 · sale ~€59 |
-| **Black Diamond Spot 400-R** | ~86–100 g | **€44–66** · ~**€45–60** | **micro-USB** | Cheapest — [BD EU](https://eu.blackdiamondequipment.com/products/spot-400-r-rechargeable-headlamp) €60 · sales ~€45 |
+| **Nitecore NU43** ★ | ~116 g | **€60–90** · ~**€73** NL/BE | **USB-C** | Strong default — [Nitecore BE/NL](https://nitecore-belux.com/nl/koplamp/76-nu43-lichtgewicht-1400lm-koplamp-met-afstandssensor.html) €72,90 |
+| **Petzl Actik Core** | ~88 g | **€55–80** · ~**€60–80** | **USB-C** (CORE pack) | Proven winter · hybrid AAA · [Bever](https://www.bever.nl/p/petzl-actik-core-hoofdlamp-B48B390147.html) · cable not in box |
+| **Black Diamond Spot 400-R** | ~86–100 g | **€44–66** · ~**€45–60** | **micro-USB** | Cheapest · **dimmable red** — [BD EU](https://eu.blackdiamondequipment.com/products/spot-400-r-rechargeable-headlamp) €60 · sales ~€45 |
 | **Nitecore NU53** | ~151 g | **€71–95** · ~**€85** | **USB-C** | Brighter; heavier — [zaklampen.nl](https://www.zaklampen.nl/nitecore-nu53-hoofdlamp-oplaadbaar.html) €84,95 |
 | **Fenix HM65R** | ~97 g | **€85–95** · ~**€85–95** | **USB-C** | Dual beam; metal body — [Military.eu](https://military.eu/p/fenix/fenix-hm65r-headlamp-1400-lumens-94936) €85 |
 
-**USB-C note:** Only **NU43 / NU53 / HM65R** match your **USB-C** power banks + wall charger one-cable kit. **Actik Core** and **Spot 400-R** need **micro-USB** for the battery/lamp — fine if you carry a second cable, but not ideal.
+**Cable note:** **Actik Core** (current CORE battery) and **NU43** use your **C–C** kit. **Spot 400-R** still needs **1× short micro-USB** (or C→micro). Petzl does **not** include a charge cable.
 
 **Skip:** proprietary dock-only lamps (hard to charge in hut).
 
@@ -296,13 +296,13 @@ Indicative — check retailer before buying; sales move fast.
 | Skiing / track | **68i** screen or no light |
 | Tent pitch, stove, melt | **Headlamp** medium |
 | Inside tent / hut | **Red** or lowest white |
-| Recharge | USB-C from warm power bank; full top-up at **★** resupply |
+| Recharge | From warm power bank (correct cable); full top-up at **★** resupply |
 
 **Cold tip:** keep headlamp (or spare bank) **inside jacket** 30 min before a long camp session if battery feels flat.
 
 **Shakedown:** pitch **Nallo** at dusk with gloves; confirm band over hat and USB charge from power bank.
 
-**Verdict:** **Buy Nitecore NU43** (~**€73**) — USB-C, red mode, IP68, fits one-cable power kit. **Petzl Actik Core** (~**€60–80**) if you prefer Petzl and will carry micro-USB. Short USB-C cable in repair/nav pouch.
+**Verdict:** Any of **NU43** / **Actik Core** / **Spot 400-R** works. Default **NU43** or **Actik** (both USB-C); Spot if you want **dimmable red** (+ micro-USB cable).
 
 ---
 
