@@ -32,7 +32,6 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 | **Length** | BC: **~35–40 cm below height**; with pulk often **145–155 cm** for 175–185 cm skier — verify on snow |
 | **Long EVA grip** | Multiple hand positions |
 | **Carbide tip** | Ice, wind crust |
-| **Repair** | Pole sleeve + **Åsnes flex tip** |
 
 ### Recommended
 
@@ -58,8 +57,8 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 | Item | Qty |
 |------|-----|
 | Spare large baskets | 2 |
-| Åsnes flex tip | 1 |
-| Pole repair sleeve (~14 mm) | 1 |
+
+**Not packing:** flex tip · pole repair sleeve.
 
 **Verdict:** **Åsnes Ingstad Alloy** in the right fixed length — or **Start Aluminium** if you want adjustability.
 
@@ -100,8 +99,8 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 |------|-----|
 | Short Åsnes | 1 pair ✓ |
 | Long old | 1 pair (pulk; after reglue) |
-| Skin wax | 1 stick |
-| Glue tube | 1 small (field patch only) |
+| Skin wax | 1 stick ✓ |
+| Glue tube | 1 small ✓ (field patch only) |
 | Spare ski strap | 1 |
 
 **Verdict:** **Long skins** — priority fix before Feb 2027; do not start Padjelanta/Lappjord with dead glue on the long pair.

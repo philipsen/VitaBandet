@@ -7,8 +7,8 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 
 ## Buy / fix before departure
 
-- [ ] **Long skins** — reglue or replace (+ skin wax + glue tube); short Åsnes ✓
-- [ ] **Ski poles** — Åsnes Ingstad Alloy (or Start) + 2 spare baskets + flex tip + repair sleeve
+- [ ] **Long skins** — reglue or replace; short Åsnes ✓ · skin wax + glue tube ✓
+- [ ] **Ski poles** — Åsnes Ingstad Alloy (or Start) + 2 spare baskets
 - [ ] **Down booties** — **Rab Down Hut Slipper** (~€45–65) — [booties](./gear-considerations-2027.md#down-booties-camp)
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
@@ -19,9 +19,8 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Armor 14 Pro** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
 - [x] **DNT key** + membership
 - [ ] **Garmin inReach plan** on GPSMAP 68i
-- [ ] **Kindle** cable (if bringing)
 - [x] **OmniLite** service kit — included with stove kit
-- [ ] **Shell** jacket + pants (if missing)
+- [x] **Shell** jacket + pants ✓
 - [ ] **Calazo 1:100k** — **full set** (10 Tyvek sheets) — [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k)
 - [x] **Exped Ultra 7R** LW + pump + pad repair kit — primary pad in Sleeper
 - [ ] **Sirex PE Trekkingmat Everest 10** — foam backup (~€15 · [Bever](https://www.bever.nl/merken/sirex.html)) · main pulk
@@ -33,7 +32,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 
 - [ ] Passport · driving licence · bank card
 - [x] Cash SEK/NOK
-- [ ] VGB registration / insurance docs (waterproof pouch)
+- [x] VGB registration / insurance docs (**waterproof pouch** ✓)
 - [ ] Emergency contacts loaded (inReach + phone)
 - [x] DNT number + **DNT key**
 
@@ -45,7 +44,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] Boots **Alfa Outback** + **Xplore** + spare laces / insoles
 - [ ] Binding **Xplore** + spare pins/straps
 - [ ] Skins **short Åsnes** ✓ + **long** (after reglue)
-- [ ] Poles **new** + pole repair sleeve
+- [ ] Poles **new** + spare baskets
 - [ ] Pulk **Jemtlander 14** + harness
 - [ ] **Sleeper 200** on pulk — **bag + pad** in dry bags inside
 
@@ -53,7 +52,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 
 ## Shelter & sleep
 
-- [ ] Tent **Nallo 3GT** + stakes **12+** alu snow/sand + guy line + repair kit
+- [x] Tent **Nallo 3GT** + stakes **12+** alu snow/sand + guy line + repair kit ✓
 - [ ] Sleeping bag **Lowland K2** + dry bag + **liner** ✓ → **Sleeper 200**
 - [ ] Pad **Exped Ultra 7R** + pump + repair kit + dry bag → **Sleeper 200** (active)
 - [x] Pad **NeoAir XLite** ✓ — **ship to Abisko** (not in pulk · optional switch at D62)

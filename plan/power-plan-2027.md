@@ -20,7 +20,7 @@
 | **Nitecore NU43** | Tent · cook · melt | **~1 h/night** — mostly low/mid, some red | USB-C |
 | **Suunto Vertical 2** | **Primary on-trail nav** · HR · time | **GPS + route on** while skiing (~8 h) · offline map · wrist-raise | Proprietary USB (pack cable) |
 | **Fairbuds XL** | Camp audio | **30–60 min/night** camp only | USB-C (on ear cup) |
-| **Kindle (basic e-ink)** | Reading | Resupply charge only — weeks of runtime | Micro-USB or USB-C (model dependent) |
+| **Kindle (basic e-ink)** | Reading | Resupply charge only — weeks of runtime | **USB-C** (shared C–C) |
 | **Portable CO detector** | Vestibule cook safety · temp/RH glance | **On melt/cook only** (~45–90 min) · **off** rest of day | USB-C |
 | **Anker Zolo 20k** | Storage + on-trail charging | **Always warm on body** skiing · bag foot at night | USB-C in/out |
 | **Anker 100 W wall** | Resupply / hut refill | Bank + all devices overnight | 2× C + 1× A |
@@ -280,10 +280,9 @@ At every shop stop (**Storlien · Gäddede · Hemavan · Kvikkjokk · Ritsem · 
 
 | Cable | For |
 |-------|-----|
-| **3× short braided USB-C ↔ C** | 68i · Armor · NU43 / Fairbuds / **CO detector** / bank↔wall |
+| **3× short braided USB-C ↔ C** | 68i · Armor · NU43 / Fairbuds / **CO detector** / Kindle / bank↔wall |
 | **1× spare C–C** | Repair pouch |
 | **1× Suunto Vertical 2 charge cable** | Watch — proprietary |
-| **1× Kindle cable** | Micro-USB or USB-C — match your unit |
 | **Wall box 1.5 m C–C** | Hut / hotel overnight only |
 
 ---

@@ -39,7 +39,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | VGB registration / insurance | 1 | | | Waterproof pouch |
 | Emergency contacts | — | | | inReach + phone |
 | Cash SEK/NOK | ✓ | | | |
-| Waterproof document pouch | 1 | | | |
+| Waterproof document pouch | 1 | ✓ | | Passport · VGB · cash |
 
 ### Ski system
 
@@ -50,9 +50,9 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Bindings | **Rottefella Xplore** | 1 pair | | ✓ | | Spare pins/straps |
 | Skins — short | **Åsnes** Skinlock | 1 pair | ~200? | ✓ | | Trip-ready |
 | Skins — long | Full-length old | 1 pair | ~400? | ✓ | **Reglue** | Padjelanta / Lappjord |
-| Skin wax | Pomoca bicolor | 1 | | | **Need** | |
-| Skin glue tube | | 1 small | | | **Need** | Field patches only |
-| Poles | **Åsnes Ingstad Alloy** | 1 pair | ~450–600 | | **Need** | + baskets, flex tip, sleeve |
+| Skin wax | Pomoca bicolor | 1 | | ✓ | | |
+| Skin glue tube | | 1 small | | ✓ | | Field patches only |
+| Poles | **Åsnes Ingstad Alloy** | 1 pair | ~450–600 | | **Need** | + spare baskets |
 
 ### Pulk & carry
 
@@ -69,7 +69,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 |------|--------------|-----|------------|-----|------|-------|
 | Tent | Hilleberg **Nallo 3GT** | 1 | ~3100 | ✓ | **Test** | |
 | Tent stakes snow/sand | Aluminium | 12+ | | ✓ | **Test** | |
-| Tent repair kit | poles, fabric | 1 | | | ? | |
+| Tent repair kit | poles, fabric | 1 | ✓ | | With **Nallo 3GT** |
 
 ### Sleep
 
@@ -89,7 +89,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Underwear merino | 3 | ✓ | | |
 | Mid fleece | 1 | | ? | |
 | Insulation jacket | 1 | ✓ | | **Rab down jacket** · pulk · breaks + camp |
-| Shell jacket + pants | 1+1 | | ? | **Priority** if missing |
+| Shell jacket + pants | 1+1 | ✓ | | |
 | Softshell / touring pants | 1 | | ? | |
 | Mittens **Hesta** | 2 sets | ✓ | | |
 | Hat / balaclava / buff | 2+2 | ✓ | | |
@@ -222,7 +222,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 | 4 | **Suunto** ski day + **68i** inReach; **OsmAnd** backup test | |
 | 5 | **OmniLite** + silencer on alkylate at −20 °C — **g/day** | |
 | 6 | Sleep: **Lowland K2 + Ultra 7R** at −15 °C | |
-| 7 | **New poles** — loaded pulk, baskets, flex tip drill | |
+| 7 | **New poles** — loaded pulk, baskets drill | |
 | 8 | Repair drill: tent, binding | |
 | 9 | Weigh loaded pulk | |
 
@@ -230,10 +230,10 @@ Measure **g/day** on shakedown at **−15 °C**.
 
 ## Purchase priority
 
-1. **Long skins** — reglue or replace + wax + glue tube  
-2. **Ski poles** — Ingstad Alloy + baskets + flex tip + sleeve  
+1. **Long skins** — reglue or replace *(wax + glue tube ✓)*  
+2. **Ski poles** — Ingstad Alloy + spare baskets  
 3. **Power / nav** — **Suunto Vertical 2** · **USB headlamp** · OsmAnd maps on **Armor 14 Pro** · inReach plan *(phone ✓ · 1× Zolo on trail ✓ · 100 W wall ✓ · cables ✓)*  
-4. **New ski socks** (4–5) + **down booties**; **Sirex Everest 10** foam (~€15); **shell** if missing  
+4. **New ski socks** (4–5) + **down booties**; **Sirex Everest 10** foam (~€15)  
 5. Fill **2× 1 L** bottles (OmniLite service kit ✓ — in stove kit)  
 6. Tent upgrade **only after** shakedown — [considerations](./gear-considerations-2027.md#tent--nallo-3gt--upgrades)
 
@@ -262,7 +262,7 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 | Eten | Buy on trail · [resupply](./resupply-2027.md) |
 | Base kleding | **2+2** merino ✓ |
 | Skisokken | **Buy 4–5** |
-| Shell | Confirm owned |
+| Shell | ✅ Own |
 | Camp / sloffen | Dry base · **Rab down jacket** ✓ · **Hesta** ×2 ✓ · **down booties** buy |
 
 ---

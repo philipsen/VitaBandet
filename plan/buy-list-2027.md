@@ -10,7 +10,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | | Items | Est. budget (EUR) |
 |---|-------|-------------------|
-| **Priority 1–2** — ski (poles, skins prep) | 6 lines | ~€120–200 |
+| **Priority 1–2** — ski (poles, skins prep) | 4 lines | ~€90–170 |
 | **Priority 3** — power & comms | 4 lines | ~€675–840 |
 | **Priority 4** — clothing & sleep | 4 lines | ~€120–200 |
 | **Maps & admin** | 2 lines | ~€140–220 |
@@ -26,8 +26,8 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | Status | Item | Qty | Spec / model | Est. | Where | Notes |
 |--------|------|-----|--------------|------|-------|-------|
 | 🔧 | **Long skins** — reglue | 1 pair | Existing full-length | ~€0–30 | Home | Strip + reglue · [skins](./gear-considerations-2027.md#climbing-skins) |
-| 🛒 | Skin wax | 1 | Pomoca bicolor stick | ~€10–15 | Bever · Skiweb · Pomoca | |
-| 🛒 | Skin glue tube | 1 | Small | ~€10–15 | Same | Field patches only |
+| ✅ | Skin wax | 1 | Pomoca bicolor stick | — | ✓ owned | |
+| ✅ | Skin glue tube | 1 | Small | — | ✓ owned | Field patches only |
 
 **Or** 🔧 replace long pair if fabric worn — budget **~€150–250** new full-length instead of reglue.
 
@@ -39,8 +39,6 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 |--------|------|-----|--------------|------|-------|-------|
 | 🛒 | **Ski poles** | 1 pair | **Åsnes Ingstad Alloy** (size TBD) | ~€80–120 | Åsnes · Bever · Skiweb | [poles](./gear-considerations-2027.md#ski-poles) |
 | 🛒 | Spare powder baskets | 2 | Large ~9–10 cm · screw-on | ~€10–20 | Match pole brand | |
-| 🛒 | Flex tip | 1 | **Åsnes** | ~€5–10 | Åsnes | |
-| 🛒 | Pole repair sleeve | 1 | ~14 mm | ~€5–10 | Outdoor shop | |
 
 ---
 
@@ -56,9 +54,8 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | 🛒 | **Headlamp** | 1 | **NU43** / Actik Core / Spot 400-R | ~€45–90 | [headlamp](./gear-considerations-2027.md#headlamp-usb) | NU43 + Actik = **USB-C**; Spot = micro-USB + **dimmable red** |
 | 🛒 | **Garmin inReach plan** | 1 | On **GPSMAP 68i** | ~€15–50/mo | Garmin | Activate before departure · not hardware |
 | ✅ | Suunto Vertical 2 **charge cable** | 1 | Proprietary | incl. | With watch | Comes in box |
-| ❓ | Kindle **cable** | 0–1 | Match your Kindle | ~€5–10 | — | Only if bringing e-reader |
 
-**Owned (no buy):** GPSMAP 68i ✓ · **Armor 14 Pro** ✓ · OsmAnd+ ✓ · CO detector ✓ · **1× Anker Zolo 20k** (on trail) ✓ · **Anker 100 W wall** ✓ · **3× USB-C cables** ✓ · **no Fairphone for 2027**
+**Owned (no buy):** GPSMAP 68i ✓ · **Armor 14 Pro** ✓ · OsmAnd+ ✓ · CO detector ✓ · **1× Anker Zolo 20k** (on trail) ✓ · **Anker 100 W wall** ✓ · **3× USB-C cables** ✓ · Kindle ✓ (charges on existing **USB-C**) · **no Fairphone for 2027**
 
 **Power plan:** [power-plan-2027.md](./power-plan-2027.md)
 
@@ -80,7 +77,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | Status | Item | Qty | Spec / model | Est. | Where | Notes |
 |--------|------|-----|--------------|------|-------|-------|
 | 🛒 | **Calazo 1:100k** | **10 sheets** | Full set Sälen → Treriksröset | ~€140–200 | [Calazo](https://calazomaps.com/collections/fjallkartor-1-100-000) · Naturkompaniet | **~30% VGB discount** if registered · [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k) |
-| ❓ | Waterproof **document pouch** | 1 | Passport · VGB · cash | ~€5–15 | Outdoor shop | If not owned |
+| ✅ | Waterproof **document pouch** | 1 | Passport · VGB · cash | — | ✓ owned | |
 
 ---
 
@@ -88,11 +85,11 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | Status | Item | Notes |
 |--------|------|-------|
-| ❓ | **Shell jacket + pants** | **Priority** if missing — hardshell for wind/precip |
+| ✅ | **Shell jacket + pants** | Owned — hardshell for wind/precip |
 | ❓ | Mid fleece | Inventory shows ? |
 | ❓ | Softshell / touring pants | Inventory shows ? |
 | ❓ | Sunscreen · goggles · sunglasses | Safety section — ? |
-| ❓ | Tent repair kit | Poles · fabric · ? |
+| ✅ | Tent repair kit | Included with **Nallo 3GT** |
 | ❓ | Duct tape on pole | ? |
 
 ---
@@ -111,7 +108,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | Item | Status |
 |------|--------|
-| Skis · boots · bindings · short skins | ✅ Own |
+| Skis · boots · bindings · short skins · **skin wax + glue** | ✅ Own |
 | Pulk J14 · Sleeper 200 · Nallo 3GT | ✅ Own |
 | Lowland K2 · Ultra 7R · XLite | ✅ Own |
 | OmniLite + silencer · TOAKS pot · 2× 1 L bottles | ✅ Own |
@@ -130,9 +127,9 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | When | Do |
 |------|-----|
-| **Now–autumn 2026** | **Suunto Vertical 2** · poles · skin reglue + wax/glue · headlamp · Calazo (watch for VGB discount) · OsmAnd on Armor |
+| **Now–autumn 2026** | **Suunto Vertical 2** · poles · skin reglue (wax/glue ✓) · headlamp · Calazo (watch for VGB discount) · OsmAnd on Armor |
 | **Autumn 2026** | Socks · booties · Sirex foam · shakedowns · Suunto route practice |
-| **Jan 2027** | inReach plan live · OsmAnd + Suunto routes loaded · confirm shell |
+| **Jan 2027** | inReach plan live · OsmAnd + Suunto routes loaded |
 | **Feb 2027** | Alkylate fill · last gaps · optional VBL |
 
 ---
