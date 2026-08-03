@@ -123,21 +123,22 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Power bank 20k | **Anker Zolo · 30 W** (A1689) | 1 | **353** | **353** | ✓ | | Recall SN checked · 2nd at home · [power](./power-plan-2027.md) |
 | Wall charger | **Anker 100 W · Smart Display** (B121BGZ1) | 1 | **212** | **212** | ✓ | | Resupply only · [Amazon.nl](https://www.amazon.nl/dp/B0FG745LNB) |
 | Wall cable (in box) | USB-C **1.5 m** | 1 | **~35** | **~35** | ✓ | | With wall charger |
-| USB-C cables | braided **30–60 cm** | 3 | **~15** | **~45** | ✓ | | 68i · phone · headlamp / bank |
+| USB-C cables | braided **30–60 cm** | 3 | **~15** | **~45** | ✓ | | 68i · phone · bank / wall |
+| micro-USB cable | short **C→micro** | 1 | **~10** | **~10** | | **Buy** | **Storm 500-R** charge |
 | USB-C cable spare | braided **30–60 cm** | 1 | **~15** | **~15** | | ? | Repair / nav pouch — optional |
-| Headlamp | **Nitecore NU43** (USB-C) | 1 | **116** | **116** | | **Buy** | w/ bracket + headband · [Nitecore](https://www.nitecore.com/product/nu43) |
+| Headlamp | **BD Storm 500-R** (micro-USB) | 1 | **120** | **120** | | **Buy** | 500 lm · 2400 mAh · IP67 · [BD](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp) |
 | Compass | baseplate (e.g. Silva Ranger) | 1 | **33** | **33** | ✓ | | Weigh yours on shakedown |
-| Paper maps | **Calazo 1:100k** — **10 sheets** | 1 set | **430** | **430** | | **Buy** | **30–52 g**/sheet · [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k) |
-| **Nav / comms subtotal** | | | | **~1 950** | | | Confirm **68i** + compass on shakedown |
+| Paper maps | **Calazo 1:100k** — **9 sheets** | 1 set | **390** | **390** | | **Buy** | Skip Dalafjällen · **30–52 g**/sheet · [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k) |
+| **Nav / comms subtotal** | | | | **~1 924** | | | Confirm **68i** + compass on shakedown |
 
 **Weights checked 17 Jul 2026** — manufacturer / retailer specs unless noted **~**.
 
 | Carry | Items | ≈ g |
 |-------|--------|-----|
-| **On body (ski day)** | Suunto **87** + 68i **241** + Armor **358** + Zolo **353** + NU43 **116** + compass **33** | **~1 188** |
+| **On body (ski day)** | Suunto **87** + 68i **241** + Armor **358** + Zolo **353** + Storm **120** + compass **33** | **~1 192** |
 | **On body (minimal)** | Suunto + 68i + Zolo (phone off · no headlamp · no compass) | **~681** |
-| **Pulk / resupply** | wall **212** + box cable **35** + field cables **45** + spare **15** + Suunto cable **25** + maps **430** | **~762** |
-| **Full nav/comms kit** | All rows above | **~1 950** |
+| **Pulk / resupply** | wall **212** + box cable **35** + C–C **45** + micro **10** + spare **15** + Suunto cable **25** + maps **390** | **~732** |
+| **Full nav/comms kit** | All rows above | **~1 924** |
 
 ### Safety & repair
 
@@ -252,7 +253,7 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 | Schoenen | **Alfa Outback + Xplore** ✓ |
 | Vellen | Short **Åsnes** ✓ + long — **reglue** |
 | Stokken | **Buy** — [poles](./gear-considerations-2027.md#ski-poles) |
-| GPS + kaarten | **GPSMAP 68i** ✓ · **OsmAnd+** · **Calazo 1:100k** full set |
+| GPS + kaarten | **GPSMAP 68i** ✓ · **OsmAnd+** · **Calazo 1:100k** (9 sheets) |
 | Telefoon | **Armor 14 Pro** + offline maps |
 | Tent | **Nallo 3GT** ✓ |
 | Slaapmat | **Ultra 7R** ✓ in pulk · **XLite** ✓ ship to Abisko |

@@ -13,7 +13,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | **Priority 1–2** — ski (poles, skins prep) | 4 lines | ~€80–160 |
 | **Priority 3** — power & comms | 4 lines | ~€675–840 |
 | **Priority 4** — clothing & sleep | 4 lines | ~€120–200 |
-| **Maps & admin** | 2 lines | ~€140–220 |
+| **Maps & admin** | 2 lines | ~€130–200 |
 | **Confirm / optional** | 5 lines | ~€0–120 |
 | **Total** | | **~€1 480–2 070** |
 
@@ -48,10 +48,11 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 |--------|------|-----|--------------|------|-------|-------|
 | ✅ | **Power bank** | 1 | **Anker Zolo 20k · 30 W** (A1689) | — | ✓ owned | On trail only · **2nd at home** · recall SN · [anker.com/rc2506](https://www.anker.com/rc2506) |
 | ✅ | **Wall charger** | 1 | **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) | — | ✓ owned | Resupply / hut · 1.5 m C–C in box |
-| ✅ | **USB-C cables** | 3 | Braided **30–60 cm** C–C | — | ✓ owned | 68i · phone · headlamp / bank |
+| ✅ | **USB-C cables** | 3 | Braided **30–60 cm** C–C | — | ✓ owned | 68i · phone · bank / wall |
+| 🛒 | **micro-USB cable** | 1 | Short **C→micro** or A→micro | ~€5–10 | With lamp | **Storm 500-R** charge |
 | ✅ | **Phone** | 1 | **Ulefone Power Armor 14 Pro** | — | ✓ owned | OsmAnd backup · **~358 g** · 10k mAh · **18 W** · ★/hut charge only · [power](./power-plan-2027.md) |
 | 🛒 | **Suunto Vertical 2** | 1 | Steel **87 g** (or Ti **74 g**) | ~€599–699 | [Suunto](https://www.suunto.com) · Bever · i-Run | Primary on-trail nav · cable in box · [power](./power-plan-2027.md) |
-| 🛒 | **Headlamp** | 1 | **NU43** / Actik / Spot 400-R / **Storm 500-R** | ~€45–90 | [headlamp](./gear-considerations-2027.md#headlamp-usb) | USB-C: NU43 · Actik · micro-USB: Spot/Storm (**dimmable**; Storm = brighter IP67) |
+| 🛒 | **Headlamp** | 1 | **BD Storm 500-R** | ~€54–70 | [BD EU](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp) · [headlamp](./gear-considerations-2027.md#headlamp-usb) | **120 g** · 500 lm · IP67 · **micro-USB** · low **6 lm · 350 h** |
 | 🛒 | **Garmin inReach plan** | 1 | On **GPSMAP 68i** | ~€15–50/mo | Garmin | Activate before departure · not hardware |
 | ✅ | Suunto Vertical 2 **charge cable** | 1 | Proprietary | incl. | With watch | Comes in box |
 
@@ -76,7 +77,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | Status | Item | Qty | Spec / model | Est. | Where | Notes |
 |--------|------|-----|--------------|------|-------|-------|
-| 🛒 | **Calazo 1:100k** | **10 sheets** | Full set Sälen → Treriksröset | ~€140–200 | [Calazo](https://calazomaps.com/collections/fjallkartor-1-100-000) · Naturkompaniet | **~30% VGB discount** if registered · [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k) |
+| 🛒 | **Calazo 1:100k** | **9 sheets** | Härjedalen → Treriksröset · **skip Dalafjällen & Trysil** | ~€130–180 | [Calazo](https://calazomaps.com/collections/fjallkartor-1-100-000) · Naturkompaniet | **~30% VGB discount** if registered · [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k) |
 | ✅ | Waterproof **document pouch** | 1 | Passport · VGB · cash | — | ✓ owned | |
 
 ---

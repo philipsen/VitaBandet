@@ -120,7 +120,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 ### Buy / test next
 
-**Long skins: reglue/replace**, ski poles, **new merino ski socks** (4–5), **USB headlamp**, **Suunto Vertical 2**, **OsmAnd+** maps + GPX on **Armor 14 Pro**, **Calazo 1:100k full set**, **inReach plan** (68i), **2× 1 L fuel bottles** *(short Åsnes ✓; skin wax + glue ✓; shell ✓; **Ultra 7R** ✓; **DNT key** ✓; **OmniLite** + silencer + **service kit** ✓; **1× Zolo + 100 W wall + cables** ✓; **Armor 14 Pro** ✓; merino base + 2× **Hesta** owned; VBL optional; **no Fairphone for 2027**)*.
+**Long skins: reglue/replace**, ski poles, **new merino ski socks** (4–5), **BD Storm 500-R** headlamp, **Suunto Vertical 2**, **OsmAnd+** maps + GPX on **Armor 14 Pro**, **Calazo 1:100k** (9 sheets), **inReach plan** (68i), **2× 1 L fuel bottles** *(short Åsnes ✓; skin wax + glue ✓; shell ✓; **Ultra 7R** ✓; **DNT key** ✓; **OmniLite** + silencer + **service kit** ✓; **1× Zolo + 100 W wall + cables** ✓; **Armor 14 Pro** ✓; merino base + 2× **Hesta** owned; VBL optional; **no Fairphone for 2027**)*.
 
 ### Shakedown trips
 | Date | Location | Duration | Lessons learned |
@@ -142,7 +142,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 - **Emergency contacts:** *(name, phone, relationship × 2)*  
 - **Check‑in schedule:** fixed times (e.g. daily 20:00) + missed-check-in protocol for contacts  
-- **Satellite / nav:** **Suunto Vertical 2** (buy) primary on-trail · **GPSMAP 68i** on body (inReach + SOS) · **Armor 14 Pro** + **OsmAnd** occasional backup · **Calazo 1:100k** full set · **1× Zolo + 100 W wall** ✓ · **USB headlamp** (buy)  
+- **Satellite / nav:** **Suunto Vertical 2** (buy) primary on-trail · **GPSMAP 68i** on body (inReach + SOS) · **Armor 14 Pro** + **OsmAnd** occasional backup · **Calazo 1:100k** (9 sheets · skip Dalafjällen) · **1× Zolo + 100 W wall** ✓ · **BD Storm 500-R** headlamp (buy)  
 - **Turnaround rules:** weather, injury, pace — decide alone before departure  
 - **Insurance:** incl. search & rescue / evacuation  
 - **Share live track** with trusted contact for full expedition  

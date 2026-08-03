@@ -17,7 +17,7 @@
 |--------|------|--------------------------|-------------|
 | **GPSMAP 68i** | inReach · SOS · backup track log | Expedition mode · screen **off** skiing · **30 min** tracking · **2–5 msgs/day** · not primary map | USB-C |
 | **Armor 14 Pro** | **Occasional** nav backup · photos · messages | **Off/airplane** skiing · tent **~8–20 min** max · **not** daily driver | USB-C · **18 W** |
-| **Nitecore NU43** | Tent · cook · melt | **~1 h/night** — mostly low/mid, some red | USB-C |
+| **BD Storm 500-R** | Tent · cook · melt | **~1 h/night** — mostly low/mid, some red/RGB | **micro-USB** |
 | **Suunto Vertical 2** | **Primary on-trail nav** · HR · time | **GPS + route on** while skiing (~8 h) · offline map · wrist-raise | Proprietary USB (pack cable) |
 | **Fairbuds XL** | Camp audio | **30–60 min/night** camp only | USB-C (on ear cup) |
 | **Kindle (basic e-ink)** | Reading | Resupply charge only — weeks of runtime | **USB-C** (shared C–C) |
@@ -36,7 +36,7 @@
 | **GPSMAP 68i** | On · **expedition** · track + inReach **30 min** · screen **off** · msgs at camp | On · inReach · **no** routine map use | On body · stays on | **~8 h** log + **~2 min** screen | **~2–4%** (~0.3–0.45 Wh) | **~16%** | Every **5–7 nights** |
 | **Armor · ski day** | **Airplane** (or off) · jacket · **no routine nav** · rare Suunto-fail glance | — | — | **~0–5 min** screen (most days **0**) | **~0.3–0.8%** (~0.1–0.3 Wh) | **~9%** | — |
 | **Armor · tent** | — | Short OsmAnd / photos / msgs · **~8–20 min** screen (not every night) | Airplane · **bag foot** | **~0.15–0.35 h** | **~1.2–1.6%** (~0.45–0.6 Wh) | **~24%** | **★ / hut only** (skip Zolo) |
-| **Nitecore NU43** | Off (in pack/pulk) | Tent pitch · cook · melt · chores · **~1 h** low/mid + red in tent | Off | **~1 h** | **~3–7%** (~0.4 Wh) | **~18%** | Every **7–10 nights** |
+| **BD Storm 500-R** | Off (in pack/pulk) | Tent pitch · cook · melt · chores · **~1 h** low/mid + red in tent | Off | **~1 h** | **~4–6%** (~0.4 Wh) | **~18%** | Every **7–10 nights** |
 | **Suunto Vertical 2** | **GPS route on** · map on wrist · **~8 h** ski · wrist-raise · HR | End/pause activity · camp time · optional LED | On wrist | **~8 h** GPS + **~15–20 min** screen | **~12–18%** (~0.3–0.4 Wh) | **~16%** | Every **2 nights** → ~60–70% |
 | **Fairbuds XL** | Off | Camp audio · **30–60 min** · ANC off | Off | **~0.5–1 h** | **~2–4%** (~0.15 Wh) | **~7%** | Every **7 nights** |
 | **Kindle** | Off · in pulk | Reading · **~30–60 min** (optional) | Off | **~0.5–1 h** | **~1–2%** (~0.05 Wh) | **~2%** | **★ resupply only** |
@@ -64,14 +64,14 @@
 
 | Order | Task | Power |
 |-------|------|-------|
-| 1 | Tent up · melt start | NU43 **low/mid** ~20–30 min · **CO detector ON** — magnetic · face height |
+| 1 | Tent up · melt start | Storm **low/mid** ~20–30 min · **CO detector ON** — magnetic · face height |
 | 2 | **Boots off · booties** | — |
-| 3 | Dinner + camp chores | NU43 as needed · Suunto stays on wrist |
+| 3 | Dinner + camp chores | Storm as needed · Suunto stays on wrist |
 | 3b | Stove out · vestibule aired | **CO detector OFF** |
 | 4 | **Charge window** (~45–90 min) | See [charge calendar](#charge-calendar-7-day-leg) — **one device** from **warm Zolo** |
 | 5 | Phone **if needed** — short OsmAnd / photos / msgs | Armor **~8–20 min** · skip on easy days |
 | 6 | Reading | Kindle (no charge) · Fairbuds if wanted |
-| 7 | Pre-sleep | Phone **airplane mode** · NU43 off · **phone + Zolo** in **bag foot** · 68i stays on body or bag top |
+| 7 | Pre-sleep | Phone **airplane mode** · Storm off · **phone + Zolo** in **bag foot** · 68i stays on body or bag top |
 
 ### Hut night (power available)
 
@@ -81,7 +81,7 @@
 2. **Armor 14 Pro** (full — **18 W**, overnight OK)
 3. **68i** (full)
 4. **Suunto Vertical 2**
-5. **NU43** · **Fairbuds** · **CO detector**
+5. **Storm** · **Fairbuds** · **CO detector**
 6. **Kindle** (if due)
 
 Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
@@ -126,16 +126,16 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 | Display | Wrist-raise **on** · brightness **medium-low** | AMOLED drain in cold |
 | HR | **On** — or **off during ski** if charge tight | Wrist HR costs ~10–15% on long GPS days |
 | Phone backup | OsmAnd only when Suunto unclear / whiteout | Occasional — not daily |
-| Flashlight | NU43 first · Suunto LED for **glove tasks only** | AMOLED + LED adds drain |
+| Flashlight | Storm first · Suunto LED for **glove tasks only** | AMOLED + LED adds drain |
 | Charge target | **Every 2 nights** to ~60–70% | Small cell · priority charge rhythm |
 
-### NU43
+### Storm 500-R
 
 | Setting | Value | Why |
 |---------|-------|-----|
-| Camp default | **Low (100 lm)** or **mid (300 lm)** | ~1 h/night ≈ **3–7%**/night |
-| Inside tent | **Red constant** | Night vision + 66 h runtime |
-| Charge target | **Every 7–10 nights** partial top-up | Full charge only at ★ or hut |
+| Camp default | **Low (6 lm)** or **mid (250 lm)** | ~1 h/night ≈ **4–6%**/night of ~9 Wh cell |
+| Inside tent | **Red** (dimmable) | Night vision · green/blue optional |
+| Charge target | **Every 7–10 nights** partial top-up | Full charge only at ★ or hut · **micro-USB** |
 
 ### Fairbuds XL
 
@@ -177,7 +177,7 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 | **68i** | ~12 Wh | Expedition + **30 min** track + msgs | **~0.3–0.45** | **~16%** |
 | **Armor · ski day** | ~37 Wh | Airplane / off · rare OsmAnd glance | **~0.1–0.3** | **~9%** |
 | **Armor · tent** | *(same cell)* | Short OsmAnd · photos · msgs · **~8–20 min** | **~0.45–0.6** | **~24%** |
-| **NU43** | ~13 Wh | ~1 h low/mid | **~0.4** | **~18%** |
+| **Storm 500-R** | ~9 Wh (2400 mAh) | ~1 h low/mid | **~0.4** | **~18%** |
 | **Suunto V2** | **~2.3 Wh** (620 mAh) | **~8 h GPS ski** · Endurance/Tour mode | **~0.3–0.4** | **~16%** |
 | **Fairbuds XL** | ~3 Wh | 30–60 min camp | **~0.15** | **~7%** |
 | **Kindle** | ~2 Wh | Reading only | **~0.05** | **~2%** |
@@ -205,7 +205,7 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 | **D3** | **Suunto** → ~65% | |
 | **D4** | **68i** → full | First 68i top-up |
 | **D5** | **Suunto** → ~60% | |
-| **D6** | **NU43** or **Fairbuds** | Or rest bank — **not** Armor |
+| **D6** | **Storm** or **Fairbuds** | Or rest bank — **not** Armor |
 | **D7** | **Suunto** partial · enter **★** next day | Bank should be **~25–35%** — refill tonight |
 
 **When bank hits ~30%:** **Suunto first** — then 68i if low. **No Armor top-up** from Zolo. **No second device** same night unless hut wall power.
@@ -234,7 +234,7 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 |----------|------|
 | **Chest / jacket** | 68i · **Zolo (warm)** · Armor (off) |
 | **Wrist** | Suunto Vertical 2 |
-| **Head** | NU43 (evening only) |
+| **Head** | Storm (evening only) |
 | **Pulk top** | Wall charger · spare cables · Kindle · **CO detector** (off) |
 | **Bag foot (sleep)** | Phone + Zolo when not charging |
 
@@ -265,7 +265,7 @@ At every shop stop (**Storlien · Gäddede · Hemavan · Kvikkjokk · Ritsem · 
 - [ ] **Armor 14 Pro** full (**18 W** — overnight)
 - [ ] **68i** full
 - [ ] **Suunto** full
-- [ ] **NU43** full
+- [ ] **Storm** full
 - [ ] **CO detector** full
 - [ ] **Fairbuds** full
 - [ ] **Kindle** if &lt;50% or every 2nd resupply
@@ -280,7 +280,8 @@ At every shop stop (**Storlien · Gäddede · Hemavan · Kvikkjokk · Ritsem · 
 
 | Cable | For |
 |-------|-----|
-| **3× short braided USB-C ↔ C** | 68i · Armor · NU43 / Fairbuds / **CO detector** / Kindle / bank↔wall |
+| **3× short braided USB-C ↔ C** | 68i · Armor · Fairbuds / **CO detector** / Kindle / bank↔wall |
+| **1× short micro-USB** (or C→micro) | **Storm 500-R** |
 | **1× spare C–C** | Repair pouch |
 | **1× Suunto Vertical 2 charge cable** | Watch — proprietary |
 | **Wall box 1.5 m C–C** | Hut / hotel overnight only |
@@ -304,11 +305,11 @@ Log **start % / end %** each day for one **3-night −15 °C** tent test:
 ```
 NAV         Suunto GPS route on trail · Armor OsmAnd occasional · 68i inReach/SOS
 SKI DAY     Suunto activity ON · 68i expedition · inReach 30 min · phone AIRPLANE · Zolo in jacket
-CAMP        End Suunto activity · NU43 · CO ON during cook · phone tent ~8–20 min
+CAMP        End Suunto activity · Storm · CO ON during cook · phone tent ~8–20 min
 CHARGE      Suunto every 2 nights · 68i every 5–7 nights · Armor ★/hut ONLY (no Zolo sip)
             ONE device per night · bank FULL at every ★ · ≥1 mid-leg wall on Hemavan→Kvikkjokk
             (Ammarnäs / Vuoggatjålme / Adolfström / Jäckvik) · other legs >7 days same idea
-            NU43 + Fairbuds weekly · CO detector at ★ · Kindle at ★ only
+            Storm + Fairbuds weekly · CO detector at ★ · Kindle at ★ only
 COOK        CO detector ON in vestibule · OFF when stove out
 HUT         Charge ALL — bank first · Suunto + 68i + Armor full
 COLD        Warm bank 15 min before USB · one device at a time below −20 °C

@@ -12,7 +12,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Down booties** — **Rab Down Hut Slipper** (~€45–65) — [booties](./gear-considerations-2027.md#down-booties-camp)
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
-- [ ] **USB headlamp** — **Nitecore NU43** USB-C (~€73) or Petzl Actik Core — [headlamp](./gear-considerations-2027.md#headlamp-usb)
+- [ ] **USB headlamp** — **BD Storm 500-R** (~€54–70 · micro-USB) + short charge cable — [headlamp](./gear-considerations-2027.md#headlamp-usb)
 - [x] **1× Anker Zolo** 20k · 30 W (A1689) ✓ — warm in jacket · 2nd at home — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
 - [x] **Anker Charger (100 W, 3 Ports, Smart Display)** (B121BGZ1) ✓ + **3× braided USB-C–C** short cables ✓
 - [ ] **Suunto Vertical 2** — primary on-trail nav (~€599–699) + charge cable in box
@@ -21,7 +21,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Garmin inReach plan** on GPSMAP 68i
 - [x] **OmniLite** service kit — included with stove kit
 - [x] **Shell** jacket + pants ✓
-- [ ] **Calazo 1:100k** — **full set** (10 Tyvek sheets) — [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k)
+- [ ] **Calazo 1:100k** — **9 sheets** (skip Dalafjällen & Trysil) — [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k)
 - [x] **Exped Ultra 7R** LW + pump + pad repair kit — primary pad in Sleeper
 - [ ] **Sirex PE Trekkingmat Everest 10** — foam backup (~€15 · [Bever](https://www.bever.nl/merken/sirex.html)) · main pulk
 - [ ] **Alkylate** — fill bottles at home; phone **Hemavan + Kvikkjokk** for stock · Hemavan→Kvikkjokk: **≥1** mid-leg wall (Ammarnäs / Vuoggatjålme / Adolfström / Jäckvik)
@@ -84,7 +84,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [x] Compass
 - [ ] **Calazo 1:100k** maps — carry **current + next** sheet; rest in map pouch / pulk top
 - [x] **1× power bank** (Anker Zolo 20k) ✓ — **always warm in jacket** while skiing
-- [ ] **USB headlamp** + USB-C charge cable
+- [ ] **USB headlamp** (Storm 500-R) + **micro-USB** charge cable
 
 ---
 

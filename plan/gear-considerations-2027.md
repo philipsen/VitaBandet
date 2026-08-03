@@ -185,7 +185,7 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 | **Phone** | **Ulefone Power Armor 14 Pro** · OsmAnd+ backup · GPX · occasional camp nav |
 | **Suunto Vertical 2** | **Buy** — **Primary on-trail nav** · offline route · GPS while skiing · ~€599–699 |
 | **1× 20k power bank** | Primary recharge — **always warm on body** · full at every ★ |
-| **USB headlamp** | **Buy** — **NU43** ~€73 · see [headlamp](#headlamp-usb) |
+| **USB headlamp** | **Buy** — **BD Storm 500-R** ~€54–70 · see [headlamp](#headlamp-usb) |
 
 ### GPSMAP 68i — carry rule
 
@@ -213,48 +213,50 @@ Confirm **68i inReach plan** before departure. Shakedown: ski one day with 68i o
 |-----|------|
 | **OsmAnd** ★ | Primary phone nav |
 | **Organic Maps** | Tiny lightweight backup |
-| **Calazo 1:100k** ★ | **Buy** — full set · whiteout / battery death |
+| **Calazo 1:100k** ★ | **Buy** — **9 sheets** (skip Dalafjällen) · whiteout / battery death |
 | **Gaia / Avenza** | Skip as primary for full route |
 
 **Hierarchy:** **Suunto** (skiing · primary map) → **OsmAnd** (occasional backup · camp) → **68i** (inReach · SOS · expedition log) → **Calazo + compass**.
 
 ### Paper maps — Calazo 1:100k
 
-**Status:** **Buy** — **full set** (10 Tyvek sheets · Sälen → Treriksröset · covers entire Vita Bandet).
+**Status:** **Buy** — **9 Tyvek sheets** (Härjedalen → Treriksröset). **Skip Dalafjällen & Trysil** — not on route.
 
-**Why full set:** One scale end-to-end · waterproof Tyvek · generous double-sided coverage · no Lantmäteriet sheet seams mid-route.
+**Why Calazo:** One scale end-to-end · waterproof Tyvek · generous double-sided coverage · no Lantmäteriet sheet seams mid-route.
 
 | # | Sheet (S→N) | Route section |
 |---|-------------|---------------|
 | 1 | **Härjedalsfjällen** | Grövelsjön · Sylarna |
-| 2 | **Dalafjällen & Trysil** | Södra fjällen overlap |
-| 3 | **Jämtlandsfjällen** | Storlien · Åre side |
-| 4 | **Gäddede, Hotagsfjällen & Skäckerfjällen** | Hotagen · Gäddede |
-| 5 | **Kittelfjäll & Borgafjäll** | Hemavan · Borgafjäll |
-| 6 | **Vindelfjällen** | Lapplandsleden north |
-| 7 | **Arjeplogsfjällen** | Arjeplog fjäll |
-| 8 | **Sarek & Padjelanta** | Kvikkjokk · Ritsem · Padjelanta |
-| 9 | **Kebnekaisefjällen & Narvik** | KL · Sälka · Abisko approach |
-| 10 | **Treriksröset, Abisko & Kiruna** | Abisko · Treriksröset finish |
+| 2 | **Jämtlandsfjällen** | Storlien · Åre side |
+| 3 | **Gäddede, Hotagsfjällen & Skäckerfjällen** | Hotagen · Gäddede |
+| 4 | **Kittelfjäll & Borgafjäll** | Hemavan · Borgafjäll |
+| 5 | **Vindelfjällen** | Lapplandsleden north |
+| 6 | **Arjeplogsfjällen** | Arjeplog fjäll |
+| 7 | **Sarek & Padjelanta** | Kvikkjokk · Ritsem · Padjelanta |
+| 8 | **Kebnekaisefjällen & Narvik** | KL · Sälka · Abisko approach |
+| 9 | **Treriksröset, Abisko & Kiruna** | Abisko · Treriksröset finish |
+
+**Not buying:** **Dalafjällen & Trysil** (Södra fjällen — south of start / off route).
 
 **Pack:** **Current + next** sheet on body or map case; rest in waterproof pouch in pulk top. Pre-fold to day's track before leaving camp.
 
-**Budget:** **~€200** RRP (10 × ~€20) · **VGB registrant discount ~30%** after [vitagronabandet.se](https://www.vitagronabandet.se/) registration — best deal if eligible.
+**Budget:** **~€180** RRP (9 × ~€20) · **VGB registrant discount ~30%** after [vitagronabandet.se](https://www.vitagronabandet.se/) registration — best deal if eligible.
 
 **Where to buy:** [Calazo](https://calazomaps.com/collections/fjallkartor-1-100-000) direct · Naturkompaniet · Kartbutiken · outdoor shops.
 
-**Weight:** **~430 g** full set folded (**30–52 g**/sheet · [Varuste](https://varuste.net/en/p87612/calazo-vindelfj%C3%A4llen-1-100-000) 30 g · [Viranomainen](https://viranomainen.fi/en/p71560/calazo-sarek-padjelanta-1-100-000) 50 g · Kebnekaise 52 g).
+**Weight:** **~390 g** folded (**30–52 g**/sheet · [Varuste](https://varuste.net/en/p87612/calazo-vindelfj%C3%A4llen-1-100-000) 30 g · [Viranomainen](https://viranomainen.fi/en/p71560/calazo-sarek-padjelanta-1-100-000) 50 g · Kebnekaise 52 g).
 
 ### Power
 
-**Need:** **USB headlamp** · inReach plan — banks/wall/cables · **Armor 14 Pro** ✓ — see [power banks & cables](#power-banks-wall-charger--cables).
+**Need:** **Storm 500-R** · inReach plan — banks/wall/cables · **Armor 14 Pro** ✓ — see [power banks & cables](#power-banks-wall-charger--cables).
 
 | Item | Qty | Notes |
 |------|-----|-------|
 | Power bank 20k USB-C PD | **1** ✓ | **Anker Zolo 20k · 30 W** — warm in jacket · **2nd bank stays home** |
 | **Anker 100 W · 3 ports · Smart Display** | 1 ✓ | Resupply — bank + phone overnight |
-| USB-C cables (braided) | **3** ✓ | 68i · Armor · headlamp · spare optional |
-| **USB headlamp** | **1** | **Buy** — see [headlamp](#headlamp-usb) |
+| USB-C cables (braided) | **3** ✓ | 68i · Armor · bank · spare optional |
+| **USB headlamp** | **1** | **Buy Storm 500-R** — see [headlamp](#headlamp-usb) |
+| **micro-USB cable** | **1** | **Buy** with Storm |
 
 Charge at every **★** resupply; sleep with phone + one bank in bag foot on cold tent nights. **Daily plan:** [power-plan-2027.md](./power-plan-2027.md).
 
@@ -262,7 +264,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 ## Power banks, wall charger & cables
 
-**Status:** **Owned** — **1× Anker Zolo 20k · 30 W** (A1689) on trail ✓ · **2nd Zolo at home** · **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) ✓ · **3× USB-C cables** ✓ · **Armor 14 Pro** ✓. **Still need:** USB headlamp · inReach plan. **No Fairphone for 2027.**
+**Status:** **Owned** — **1× Anker Zolo 20k · 30 W** (A1689) on trail ✓ · **2nd Zolo at home** · **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) ✓ · **3× USB-C cables** ✓ · **Armor 14 Pro** ✓. **Still need:** **Storm 500-R** + micro-USB cable · inReach plan. **No Fairphone for 2027.**
 
 **Job:** Keep **GPSMAP 68i**, **Armor 14 Pro**, and **USB headlamp** alive between shops (**~8–10 days** typical; Padjelanta longer).
 
@@ -272,17 +274,17 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 |------|------|-------|
 | **Zolo 20k** | A1689 · **353 g** · **~72 Wh** · 30 W PD | Warm in jacket · recall SN checked · [anker.com/rc2506](https://www.anker.com/rc2506) |
 | **Wall charger** | B121BGZ1 · **100 W** · 3 ports + display | Resupply / hut only · 1.5 m C–C in box |
-| **USB-C cables** | Braided **30–60 cm** ×3 | 68i · phone · headlamp / bank · optional spare in repair pouch |
+| **USB-C cables** | Braided **30–60 cm** ×3 | 68i · phone · bank · optional spare in repair pouch |
 
-**On trip:** bank warm on body · ★ shops refill bank overnight · legs **>7 days** need mid-leg hut/★ ([power plan](./power-plan-2027.md) — **Ammarnäs D39** on Hemavan→Kvikkjokk). **Still buy:** USB headlamp ([headlamp](#headlamp-usb)).
+**On trip:** bank warm on body · ★ shops refill bank overnight · legs **>7 days** need mid-leg hut/★ ([power plan](./power-plan-2027.md) — **Ammarnäs D39** on Hemavan→Kvikkjokk). **Still buy:** **Storm 500-R** + micro-USB ([headlamp](#headlamp-usb)).
 
 ---
 
 ## Headlamp (USB)
 
-**Status:** **Need** — buy new **USB-rechargeable** headlamp before Feb 2027.
+**Status:** **Buy** — **Black Diamond Storm 500-R** (~€54–70 · **micro-USB** · [BD EU](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp)).
 
-**Job:** Tent setup, cooking, melting, vestibule tasks, late hut arrival — **Feb–Apr dark hours**. Not primary nav (**Suunto** on trail · **OsmAnd** occasional). Same charge workflow as **68i** + **Armor** + power banks — wall charger at resupply covers all.
+**Job:** Tent setup, cooking, melting, vestibule tasks, late hut arrival — **Feb–Apr dark hours**. Not primary nav (**Suunto** on trail · **OsmAnd** occasional). Charge from warm bank / ★ wall — pack **1× short micro-USB** (or C→micro).
 
 ### What to look for
 
@@ -302,16 +304,16 @@ Indicative — check retailer before buying; sales move fast.
 
 | Lamp | Weight | Price | Charge | Low (lm · burn) | Comment |
 |------|--------|-------|--------|-----------------|---------|
-| **Nitecore NU43** ★ | ~116 g | ~**€73** | **USB-C** | **8 lm · 165 h** | Default — [Nitecore BE/NL](https://nitecore-belux.com/nl/koplamp/76-nu43-lichtgewicht-1400lm-koplamp-met-afstandssensor.html) |
-| **Petzl Actik Core** | ~88 g | ~**€60–80** | **USB-C** | **7 lm · 100 h** | Hybrid AAA · [Bever](https://www.bever.nl/p/petzl-actik-core-hoofdlamp-B48B390147.html) |
-| **BD Spot 400-R** | ~86–100 g | ~**€45–60** | **micro-USB** | **6 lm · 225 h** | Dimmable red — [BD EU](https://eu.blackdiamondequipment.com/products/spot-400-r-rechargeable-headlamp) |
-| **BD Storm 500-R** | ~100–120 g | ~**€54–70** | **micro-USB** | **6 lm · 350 h** | 500 lm · IP67 · [BD EU](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp) |
+| **BD Storm 500-R** ★ | **120 g** | ~**€54–70** | **micro-USB** | **6 lm · 350 h** | **Pick** — 500 lm · 2400 mAh · IP67 · dimmable + RGB — [BD EU](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp) |
+| **Nitecore NU43** | ~116 g | ~**€73** | **USB-C** | **8 lm · 165 h** | Alt — [Nitecore BE/NL](https://nitecore-belux.com/nl/koplamp/76-nu43-lichtgewicht-1400lm-koplamp-met-afstandssensor.html) |
+| **Petzl Actik Core** | ~88 g | ~**€60–80** | **USB-C** | **7 lm · 100 h** | Alt · hybrid AAA · [Bever](https://www.bever.nl/p/petzl-actik-core-hoofdlamp-B48B390147.html) |
+| **BD Spot 400-R** | ~86–100 g | ~**€45–60** | **micro-USB** | **6 lm · 225 h** | Skip vs Storm — dimmer · smaller cell |
 | **Nitecore NU53** | ~151 g | ~**€85** | **USB-C** | **8 lm · 153 h** | Heavier — [zaklampen.nl](https://www.zaklampen.nl/nitecore-nu53-hoofdlamp-oplaadbaar.html) |
 | **Fenix HM65R** | ~97 g | ~**€85–95** | **USB-C** | **8 lm · ~280 h** (flood) | Dual beam — [Military.eu](https://military.eu/p/fenix/fenix-hm65r-headlamp-1400-lumens-94936) |
 
 *Low = manufacturer ANSI lowest white mode (room-temp). Cold cuts real burn time.*
 
-**Cable note:** **Actik Core** + **NU43** use your **C–C** kit. **Spot 400-R** / **Storm 500-R** need **1× short micro-USB** (or C→micro). Petzl does **not** include a charge cable.
+**Cable note:** Storm needs **1× short micro-USB** (or C→micro) — not in the C–C kit. Buy with the lamp.
 
 **Skip:** proprietary dock-only lamps (hard to charge in hut).
 
@@ -328,7 +330,7 @@ Indicative — check retailer before buying; sales move fast.
 
 **Shakedown:** pitch **Nallo** at dusk with gloves; confirm band over hat and USB charge from power bank.
 
-**Verdict:** Default **NU43** or **Actik** (USB-C). Prefer **Storm 500-R** over Spot 400-R if going BD — brighter, bigger cell, IP67, still dimmable (+ micro-USB).
+**Verdict:** **Buy Storm 500-R** — 500 lm · IP67 · long low burn · dimmable RGB. Accept **micro-USB** + one short cable. Alts: **NU43** / **Actik** if you want USB-C only.
 
 ---
 
