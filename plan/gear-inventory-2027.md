@@ -14,7 +14,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 |--------|--------|-------|
 | Skis / boots / binding | Ingstad · Outback · Xplore | [details](./gear-considerations-2027.md#ski-system) |
 | Skins | Short ✓ + long after reglue | [skins](./gear-considerations-2027.md#climbing-skins) |
-| Poles | **Åsnes Ingstad Alloy** (buy) | Size on shakedown |
+| Poles | **Åsnes Combat** (alt Breidablikk V2 / Traverse) | Varuste VIP |
 | Pulk | **Jemtlander 14** + **Sleeper 200** | Sleep kit on sled — [packing](./packing-pulk-2027.md) |
 | Tent | **Nallo 3GT** | [upgrades](./gear-considerations-2027.md#tent--nallo-3gt--upgrades) |
 | Bag | **Lowland K2** ✓ | −35 °C comfort · ~2 kg |
@@ -52,7 +52,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Skins — long | Full-length old | 1 pair | ~400? | ✓ | **Reglue** | Padjelanta / Lappjord |
 | Skin wax | Pomoca bicolor | 1 | | ✓ | | |
 | Skin glue tube | | 1 small | | ✓ | | Field patches only |
-| Poles | **Åsnes Ingstad Alloy** | 1 pair | ~450–600 | | **Need** | + spare baskets |
+| Poles | **Åsnes Combat 2-Section V2** | 1 pair | **~595** | | **Need** | Adj. 110–155 · **125 mm** · Varuste VIP ~€97 · fallback BD Traverse ~520 g / ~€69 |
 
 ### Pulk & carry
 
@@ -231,7 +231,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 ## Purchase priority
 
 1. **Long skins** — reglue or replace *(wax + glue tube ✓)*  
-2. **Ski poles** — Ingstad Alloy + spare baskets  
+2. **Ski poles** — **Combat V2** ★ (alt: Breidablikk V2 / Traverse) + spare baskets · Varuste VIP  
 3. **Power / nav** — **Suunto Vertical 2** · **USB headlamp** · OsmAnd maps on **Armor 14 Pro** · inReach plan *(phone ✓ · 1× Zolo on trail ✓ · 100 W wall ✓ · cables ✓)*  
 4. **New ski socks** (4–5) + **down booties**; **Sirex Everest 10** foam (~€15)  
 5. Fill **2× 1 L** bottles (OmniLite service kit ✓ — in stove kit)  

@@ -12,7 +12,7 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 | **Boots** | Alfa **Outback** (Xplore) | **Good** — expedition warmth; break in fully before Feb. |
 | **Binding** | **Rottefella Xplore** | **Good** — carry spare pins/straps. |
 | **Skins** | Short **Åsnes** ✓ + long old (**no glue**) | **Long: reglue or replace** — see [skins](#climbing-skins) |
-| **Poles** | **Need new** | See [poles](#ski-poles) |
+| **Poles** | **Need new** — **adjustable aluminium** · see [poles](#ski-poles) |
 
 **Shakedown:** Xplore flex with pulk harness; kick-turn with day-1 load; **8 h day with pulk**.
 
@@ -20,49 +20,73 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 
 ## Ski poles
 
-**Job:** thousands of km on BC track, deep snow, pulk side-load. Favour **durable** over race carbon.
+**Job:** thousands of km on BC track, deep snow, pulk side-load. Favour **durable adjustable aluminium**.
+
+**Buy where:** [Varuste.net — deep snow poles](https://varuste.net/nl/c3266/wandelstokken-voor-de-sneeuw) (**VIP**). Prices **Jul 2026 · VAT incl.** campaign / normal.
 
 ### What to look for
 
 | Feature | Why |
 |---------|-----|
-| **Large powder basket** (~9–10 cm) | Soft snow — small baskets sink |
-| **Screw-on baskets** | Carry **2 spares** |
-| **7075 alu or burly carbon** | Pulk torque; alu bends, carbon can shatter |
-| **Length** | BC: **~35–40 cm below height**; with pulk often **145–155 cm** for 175–185 cm skier — verify on snow |
-| **Long EVA grip** | Multiple hand positions |
+| **Adjustable aluminium 7075** | Pulk / flat / climb — dial length on the move |
+| **Large powder basket** (≥**100 mm**; **125 mm** better) | Soft snow |
+| **Max length ≥~150–155 cm** | Tall skier + pulk — not **100–140** / **110–140** |
+| **Long EVA grip** | Mittens · grip changes with pulk |
+| **Solid FlickLock** | Gloves + cold |
 | **Carbide tip** | Ice, wind crust |
 
-### Recommended
+### Full Varuste category (all on that page)
 
-| Pole | Type | Weight (pair) | Comment |
-|------|------|---------------|---------|
-| **Åsnes Ingstad Alloy** ★ | Fixed 130–160 cm | ~450 g @ 145 | **Default** — large Hypalon basket; matches Ingstad/Outback |
-| **Start Aluminium** | Adjustable ~135–180 | ~550–600 g | Expedition standard; if unsure of length |
-| **Swix Quantum 4** | Fixed/adj. | varies | Swap to largest powder basket |
-| **Black Diamond Expedition 3** | 3-piece 85–125 cm | ~520 g | Check max length fits your height |
+| Pole | Adj? | Length | Basket | € camp. | Bandet? |
+|------|------|--------|--------|---------|---------|
+| **Åsnes Combat 2-Section V2** ★ | Yes | **110–155** | **125 mm** | **€97** / 130 | **Buy this** — Nordic/military BC · long EVA · biggest basket |
+| **Åsnes Breidablikk Pole 2-Section V2** | Yes | **110–155** | **105 mm** | **€90** / 120 | **Strong #2** — same platform as Combat, smaller basket |
+| **BD Traverse** | Yes | **105–155** | **100 mm** | **€69** / 95 | **Value fallback** — FlickLock · PH3 · in stock |
+| **Åsnes Breidablikk BC 2-Section** (older) | Yes | **110–150** | **105 mm** | **€82** / 105 | OK if max **150** is enough for you |
+| **Åsnes Nansen Alloy/Carbon** | Yes | **110–155** | ~100–125 | **€107** / 139 | Skip — carbon upper, pulk risk |
+| **Åsnes Polar Carbon/Kevlar** | Yes | **115–155** | **105 mm** | **€143** / 185 | Skip — carbon/Kevlar, expensive |
+| **TSL Semnoz** | Yes | **105–130** / **130–155** | hiking | **€60** / 80 | Skip — trekking pole, not Nordic BC |
+| **Komperdell Free Touring** (outlet) | Yes | **110–140** | — | **€69** outlet | **Skip** — max **140** too short for pulk |
+| **Åsnes Ingstad Alloy** | **Fixed** | 130–160 | **125 mm** | **€82** / 110 | Skip — you want adjustable |
+| **Swix Blizzard Mountain Extreme** | **Fixed** | 130–165 | large | **€82** / 110 | Skip — fixed |
+| **Peltonen Metsä** | **Fixed** | 120–155 | ~100 mm | **€55–63** / 64 | Skip — fixed · forest XC |
+| **Start Nordic Ranger** | **Fixed** | 120–155 | **~200 mm** | **€44** / 59 | Skip — fixed (huge basket though) |
 
-**Skip:** race carbon, trekking poles without ski baskets, tiny 5 cm baskets.
+### Prices elsewhere (shortlist)
 
-### Sizing (Ingstad Alloy)
+| Shop | Combat V2 | Traverse | Breidablikk V2 |
+|------|-----------|----------|----------------|
+| **Varuste VIP** | **€97** / 130 | **€69** / 95 | **€90** / 120 |
+| **BD Europe** | — | **~€70** | — |
+| Other EU | mostly Varuste | patchy | Åsnes dealers |
 
-| Height (boots on snow) | Start with |
-|------------------------|------------|
+### Pick for Bandet
+
+1. **Combat V2** ★ — best basket + long EVA for pulk. Order early (often **backorder**).  
+2. **Breidablikk V2** — if Combat OOS / save ~€7; same length range, **105 mm** basket (add **125 mm** spare baskets).  
+3. **Traverse 105–155** — cheapest adjustable that fits; buy large spare baskets.
+
+**Skip for you:** all **fixed** poles · **Polar / Nansen** (carbon) · **Semnoz** · **Komperdell 110–140** · BD Expedition (not on this page; Traverse covers it).
+
+### Sizing (adjustable)
+
+| Height (boots on snow) | Typical working length |
+|------------------------|------------------------|
 | ~165–170 cm | **140–145 cm** |
 | ~175–180 cm | **145–150 cm** |
 | ~185–190 cm | **150–155 cm** |
 
+With pulk, often **+5 cm** vs free-ski.
+
 ### Accessories
 
-| Item | Qty |
-|------|-----|
-| Spare large baskets | 2 |
+| Item | Qty | Est. |
+|------|-----|------|
+| Spare large baskets | 2 | ~€10–20 · **125 mm** if Combat/Åsnes |
 
 **Not packing:** flex tip · pole repair sleeve.
 
-**Verdict:** **Åsnes Ingstad Alloy** in the right fixed length — or **Start Aluminium** if you want adjustability.
-
----
+**Verdict:** From the [Varuste deep-snow list](https://varuste.net/nl/c3266/wandelstokken-voor-de-sneeuw): **Combat V2**. Next **Breidablikk V2** or **Traverse 105–155**.
 
 ## Climbing skins
 
@@ -264,27 +288,30 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 | Feature | Why |
 |---------|-----|
-| **USB recharge** | From power bank / wall — prefer **USB-C**; Spot still micro-USB OK |
+| **USB recharge** | From power bank / wall — prefer **USB-C**; BD R-models micro-USB OK |
 | **≥300 lm** on medium | Enough for Nallo pitch in −20 °C |
-| **Red / low mode** | Preserve night vision in tent |
-| **IPX4+** | Snow, melt drip |
+| **Red / low mode** | Preserve night vision in tent — **dimmable red** nice |
+| **IPX4+** (IP67 better) | Snow, melt drip |
 | **Headband fits over hat** | Test with balaclava |
-| **~60–100 g** | Worth carrying daily |
+| **~60–120 g** | Worth carrying daily |
 | **Runtime** | Check **manufacturer spec at 0 °C** — marketing numbers are optimistic |
 
 ### Options (prices · July 2026 · EUR incl. VAT)
 
 Indicative — check retailer before buying; sales move fast.
 
-| Lamp | Weight | Price (typical) | Charge | Comment |
-|------|--------|-----------------|--------|---------|
-| **Nitecore NU43** ★ | ~116 g | **€60–90** · ~**€73** NL/BE | **USB-C** | Strong default — [Nitecore BE/NL](https://nitecore-belux.com/nl/koplamp/76-nu43-lichtgewicht-1400lm-koplamp-met-afstandssensor.html) €72,90 |
-| **Petzl Actik Core** | ~88 g | **€55–80** · ~**€60–80** | **USB-C** (CORE pack) | Proven winter · hybrid AAA · [Bever](https://www.bever.nl/p/petzl-actik-core-hoofdlamp-B48B390147.html) · cable not in box |
-| **Black Diamond Spot 400-R** | ~86–100 g | **€44–66** · ~**€45–60** | **micro-USB** | Cheapest · **dimmable red** — [BD EU](https://eu.blackdiamondequipment.com/products/spot-400-r-rechargeable-headlamp) €60 · sales ~€45 |
-| **Nitecore NU53** | ~151 g | **€71–95** · ~**€85** | **USB-C** | Brighter; heavier — [zaklampen.nl](https://www.zaklampen.nl/nitecore-nu53-hoofdlamp-oplaadbaar.html) €84,95 |
-| **Fenix HM65R** | ~97 g | **€85–95** · ~**€85–95** | **USB-C** | Dual beam; metal body — [Military.eu](https://military.eu/p/fenix/fenix-hm65r-headlamp-1400-lumens-94936) €85 |
+| Lamp | Weight | Price | Charge | Low (lm · burn) | Comment |
+|------|--------|-------|--------|-----------------|---------|
+| **Nitecore NU43** ★ | ~116 g | ~**€73** | **USB-C** | **8 lm · 165 h** | Default — [Nitecore BE/NL](https://nitecore-belux.com/nl/koplamp/76-nu43-lichtgewicht-1400lm-koplamp-met-afstandssensor.html) |
+| **Petzl Actik Core** | ~88 g | ~**€60–80** | **USB-C** | **7 lm · 100 h** | Hybrid AAA · [Bever](https://www.bever.nl/p/petzl-actik-core-hoofdlamp-B48B390147.html) |
+| **BD Spot 400-R** | ~86–100 g | ~**€45–60** | **micro-USB** | **6 lm · 225 h** | Dimmable red — [BD EU](https://eu.blackdiamondequipment.com/products/spot-400-r-rechargeable-headlamp) |
+| **BD Storm 500-R** | ~100–120 g | ~**€54–70** | **micro-USB** | **6 lm · 350 h** | 500 lm · IP67 · [BD EU](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp) |
+| **Nitecore NU53** | ~151 g | ~**€85** | **USB-C** | **8 lm · 153 h** | Heavier — [zaklampen.nl](https://www.zaklampen.nl/nitecore-nu53-hoofdlamp-oplaadbaar.html) |
+| **Fenix HM65R** | ~97 g | ~**€85–95** | **USB-C** | **8 lm · ~280 h** (flood) | Dual beam — [Military.eu](https://military.eu/p/fenix/fenix-hm65r-headlamp-1400-lumens-94936) |
 
-**Cable note:** **Actik Core** (current CORE battery) and **NU43** use your **C–C** kit. **Spot 400-R** still needs **1× short micro-USB** (or C→micro). Petzl does **not** include a charge cable.
+*Low = manufacturer ANSI lowest white mode (room-temp). Cold cuts real burn time.*
+
+**Cable note:** **Actik Core** + **NU43** use your **C–C** kit. **Spot 400-R** / **Storm 500-R** need **1× short micro-USB** (or C→micro). Petzl does **not** include a charge cable.
 
 **Skip:** proprietary dock-only lamps (hard to charge in hut).
 
@@ -301,7 +328,7 @@ Indicative — check retailer before buying; sales move fast.
 
 **Shakedown:** pitch **Nallo** at dusk with gloves; confirm band over hat and USB charge from power bank.
 
-**Verdict:** Any of **NU43** / **Actik Core** / **Spot 400-R** works. Default **NU43** or **Actik** (both USB-C); Spot if you want **dimmable red** (+ micro-USB cable).
+**Verdict:** Default **NU43** or **Actik** (USB-C). Prefer **Storm 500-R** over Spot 400-R if going BD — brighter, bigger cell, IP67, still dimmable (+ micro-USB).
 
 ---
 

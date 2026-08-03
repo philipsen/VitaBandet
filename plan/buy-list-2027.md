@@ -10,7 +10,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | | Items | Est. budget (EUR) |
 |---|-------|-------------------|
-| **Priority 1–2** — ski (poles, skins prep) | 4 lines | ~€90–170 |
+| **Priority 1–2** — ski (poles, skins prep) | 4 lines | ~€80–160 |
 | **Priority 3** — power & comms | 4 lines | ~€675–840 |
 | **Priority 4** — clothing & sleep | 4 lines | ~€120–200 |
 | **Maps & admin** | 2 lines | ~€140–220 |
@@ -37,8 +37,8 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | Status | Item | Qty | Spec / model | Est. | Where | Notes |
 |--------|------|-----|--------------|------|-------|-------|
-| 🛒 | **Ski poles** | 1 pair | **Åsnes Ingstad Alloy** (size TBD) | ~€80–120 | Åsnes · Bever · Skiweb | [poles](./gear-considerations-2027.md#ski-poles) |
-| 🛒 | Spare powder baskets | 2 | Large ~9–10 cm · screw-on | ~€10–20 | Match pole brand | |
+| 🛒 | **Ski poles** | 1 pair | **Åsnes Combat 2-Section V2** ★ (alt: Breidablikk V2 / Traverse 105–155) | **~€70–130** | [Varuste deep-snow](https://varuste.net/nl/c3266/wandelstokken-voor-de-sneeuw) **VIP** | Combat **€97** · Breidablikk V2 **€90** · Traverse **€69** · [poles](./gear-considerations-2027.md#ski-poles) |
+| 🛒 | Spare powder baskets | 2 | Large ~10–12.5 cm · screw-on | ~€10–20 | Varuste · match brand | Prefer Combat-size if buying Combat |
 
 ---
 
@@ -51,7 +51,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | ✅ | **USB-C cables** | 3 | Braided **30–60 cm** C–C | — | ✓ owned | 68i · phone · headlamp / bank |
 | ✅ | **Phone** | 1 | **Ulefone Power Armor 14 Pro** | — | ✓ owned | OsmAnd backup · **~358 g** · 10k mAh · **18 W** · ★/hut charge only · [power](./power-plan-2027.md) |
 | 🛒 | **Suunto Vertical 2** | 1 | Steel **87 g** (or Ti **74 g**) | ~€599–699 | [Suunto](https://www.suunto.com) · Bever · i-Run | Primary on-trail nav · cable in box · [power](./power-plan-2027.md) |
-| 🛒 | **Headlamp** | 1 | **NU43** / Actik Core / Spot 400-R | ~€45–90 | [headlamp](./gear-considerations-2027.md#headlamp-usb) | NU43 + Actik = **USB-C**; Spot = micro-USB + **dimmable red** |
+| 🛒 | **Headlamp** | 1 | **NU43** / Actik / Spot 400-R / **Storm 500-R** | ~€45–90 | [headlamp](./gear-considerations-2027.md#headlamp-usb) | USB-C: NU43 · Actik · micro-USB: Spot/Storm (**dimmable**; Storm = brighter IP67) |
 | 🛒 | **Garmin inReach plan** | 1 | On **GPSMAP 68i** | ~€15–50/mo | Garmin | Activate before departure · not hardware |
 | ✅ | Suunto Vertical 2 **charge cable** | 1 | Proprietary | incl. | With watch | Comes in box |
 

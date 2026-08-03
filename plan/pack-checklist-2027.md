@@ -8,7 +8,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 ## Buy / fix before departure
 
 - [ ] **Long skins** — reglue or replace; short Åsnes ✓ · skin wax + glue tube ✓
-- [ ] **Ski poles** — Åsnes Ingstad Alloy (or Start) + 2 spare baskets
+- [ ] **Ski poles** — **Åsnes Combat 2-Section V2** ★ (alt: Breidablikk V2 / Traverse **105–155**) + 2 spare baskets · [Varuste](https://varuste.net/nl/c3266/wandelstokken-voor-de-sneeuw)
 - [ ] **Down booties** — **Rab Down Hut Slipper** (~€45–65) — [booties](./gear-considerations-2027.md#down-booties-camp)
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
