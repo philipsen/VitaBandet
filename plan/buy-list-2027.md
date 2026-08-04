@@ -75,9 +75,44 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 ## Maps & admin
 
+**Paper nav:** mix **Calazo 1:100k** (S) + owned **1:50k** (Hemavan → Abisko approach). Primary on trail remains **Suunto** · paper = whiteout / battery death. [details](./gear-considerations-2027.md#paper-maps-calazo-1100k)
+
+### Calazo 1:100k — buy
+
+| Status | # | Sheet | Route section | Est. | Notes |
+|--------|---|-------|---------------|------|-------|
+| 🛒 | 1 | **Härjedalsfjällen** | Grövelsjön · Sylarna | ~€20 | No 1:50k cover |
+| 🛒 | 2 | **Jämtlandsfjällen** | Storlien · Åre side | ~€20 | No 1:50k cover |
+| 🛒 | 3 | **Gäddede, Hotagsfjällen & Skäckerfjällen** | Hotagen · Gäddede | ~€20 | No 1:50k cover |
+| 🛒 | 4 | **Kittelfjäll & Borgafjäll** | Gäddede → Hemavan | ~€20 | Ammarnäs–Hemavan starts **at** Hemavan N |
+| ✅ | 8 | **Kebnekaisefjällen & Narvik** | KL · Sälka · Abisko approach | — | Owned |
+| 🛒 | 9 | **Treriksröset, Abisko & Kiruna** | Abisko · Treriksröset finish | ~€20 | Not on Nikkaluokta 1:50k |
+| | | **Still to buy** | **5 sheets** | **~€70–100** | |
+
+### Calazo 1:100k — skip (covered by owned 1:50k)
+
+| Status | # | Sheet | Covered by |
+|--------|---|-------|------------|
+| ⏭ | 5 | **Vindelfjällen** | **Ammarnäs–Hemavan** 1:50k |
+| ⏭ | 6 | **Arjeplogsfjällen** | **Kvikkjokk–Adolfström** 1:50k |
+| ⏭ | 7 | **Sarek & Padjelanta** | **Padjelantaleden** 1:50k (Band = west line, not Saltoluokta KL) |
+
+**Also skip:** Dalafjällen & Trysil (off route).
+
+**Check before leaving home:** Band track often runs **west of** KL villages — confirm GPX sits inside the 1:50k sheet edges for #5/#6 legs (esp. west of Ammarnäs / Jäckvik).
+
+### Owned 1:50k (Calazo KL / Padjelanta)
+
+| Status | Sheet | Use on Band |
+|--------|-------|-------------|
+| ✅ | **Ammarnäs–Hemavan** | Hemavan → Ammarnäs |
+| ✅ | **Kvikkjokk–Adolfström** | Adolfström → Kvikkjokk |
+| ✅ | **Padjelantaleden** | Kvikkjokk → Ritsem (Áhkká / Staloluokta) |
+| ✅ | **Nikkaluokta, Ritsem & Vakkotavare** | Ritsem → Sälka · Nikkaluokta bail |
+| ✅ | **Saltoluokta–Kvikkjokk** | **Bail only** — Band passes **väster om** Saltoluokta; does **not** replace Padjelanta sheet |
+
 | Status | Item | Qty | Spec / model | Est. | Where | Notes |
 |--------|------|-----|--------------|------|-------|-------|
-| 🛒 | **Calazo 1:100k** | **9 sheets** | Härjedalen → Treriksröset · **skip Dalafjällen & Trysil** | ~€130–180 | [Calazo](https://calazomaps.com/collections/fjallkartor-1-100-000) · Naturkompaniet | **~30% VGB discount** if registered · [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k) |
 | ✅ | Waterproof **document pouch** | 1 | Passport · VGB · cash | — | ✓ owned | |
 
 ---

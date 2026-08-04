@@ -128,7 +128,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | USB-C cable spare | braided **30–60 cm** | 1 | **~15** | **~15** | | ? | Repair / nav pouch — optional |
 | Headlamp | **BD Storm 500-R** (micro-USB) | 1 | **120** | **120** | | **Buy** | 500 lm · 2400 mAh · IP67 · [BD](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp) |
 | Compass | baseplate (e.g. Silva Ranger) | 1 | **33** | **33** | ✓ | | Weigh yours on shakedown |
-| Paper maps | **Calazo 1:100k** — **9 sheets** | 1 set | **390** | **390** | | **Buy** | Skip Dalafjällen · **30–52 g**/sheet · [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k) |
+| Paper maps | **Calazo 1:100k** + **1:50k** | mix | **~400** | **~400** | 1:50k ✓ | **Buy 5** | Skip 1:100k #5–7 · [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k) |
 | **Nav / comms subtotal** | | | | **~1 924** | | | Confirm **68i** + compass on shakedown |
 
 **Weights checked 17 Jul 2026** — manufacturer / retailer specs unless noted **~**.
@@ -253,7 +253,7 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 | Schoenen | **Alfa Outback + Xplore** ✓ |
 | Vellen | Short **Åsnes** ✓ + long — **reglue** |
 | Stokken | **Buy** — [poles](./gear-considerations-2027.md#ski-poles) |
-| GPS + kaarten | **GPSMAP 68i** ✓ · **OsmAnd+** · **Calazo 1:100k** (9 sheets) |
+| GPS + kaarten | **GPSMAP 68i** ✓ · **OsmAnd+** · **Calazo** (buy 5× 1:100k · 1:50k ✓) |
 | Telefoon | **Armor 14 Pro** + offline maps |
 | Tent | **Nallo 3GT** ✓ |
 | Slaapmat | **Ultra 7R** ✓ in pulk · **XLite** ✓ ship to Abisko |

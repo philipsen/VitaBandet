@@ -213,34 +213,38 @@ Confirm **68i inReach plan** before departure. Shakedown: ski one day with 68i o
 |-----|------|
 | **OsmAnd** ★ | Primary phone nav |
 | **Organic Maps** | Tiny lightweight backup |
-| **Calazo 1:100k** ★ | **Buy** — **9 sheets** (skip Dalafjällen) · whiteout / battery death |
+| **Calazo 1:100k** ★ | **Buy 5** — skip #5–7 (owned 1:50k) · Kebnekaise ✓ · whiteout / battery death |
 | **Gaia / Avenza** | Skip as primary for full route |
 
 **Hierarchy:** **Suunto** (skiing · primary map) → **OsmAnd** (occasional backup · camp) → **68i** (inReach · SOS · expedition log) → **Calazo + compass**.
 
-### Paper maps — Calazo 1:100k
+### Paper maps — Calazo 1:100k + owned 1:50k
 
-**Status:** **Buy** — **9 Tyvek sheets** (Härjedalen → Treriksröset). **Skip Dalafjällen & Trysil** — not on route.
+**Status:** **Buy 5** × 1:100k (Härjedalen → Hemavan approach + Treriksröset). **Skip 1:100k #5–7** — owned **1:50k** covers Hemavan → Ritsem/Sälka. **Kebnekaise 1:100k** ✓. Skip Dalafjällen & Trysil.
 
-**Why Calazo:** One scale end-to-end · waterproof Tyvek · generous double-sided coverage · no Lantmäteriet sheet seams mid-route.
+**Why mix:** One waterproof scale south of Hemavan · **better detail** on KL/Padjelanta where you already own 1:50k · Suunto stays primary.
 
-| # | Sheet (S→N) | Route section |
-|---|-------------|---------------|
-| 1 | **Härjedalsfjällen** | Grövelsjön · Sylarna |
-| 2 | **Jämtlandsfjällen** | Storlien · Åre side |
-| 3 | **Gäddede, Hotagsfjällen & Skäckerfjällen** | Hotagen · Gäddede |
-| 4 | **Kittelfjäll & Borgafjäll** | Hemavan · Borgafjäll |
-| 5 | **Vindelfjällen** | Lapplandsleden north |
-| 6 | **Arjeplogsfjällen** | Arjeplog fjäll |
-| 7 | **Sarek & Padjelanta** | Kvikkjokk · Ritsem · Padjelanta |
-| 8 | **Kebnekaisefjällen & Narvik** | KL · Sälka · Abisko approach |
-| 9 | **Treriksröset, Abisko & Kiruna** | Abisko · Treriksröset finish |
+| # | Sheet (S→N) | Route section | Plan |
+|---|-------------|---------------|------|
+| 1 | **Härjedalsfjällen** | Grövelsjön · Sylarna | **Buy** 1:100k |
+| 2 | **Jämtlandsfjällen** | Storlien · Åre side | **Buy** 1:100k |
+| 3 | **Gäddede, Hotagsfjällen & Skäckerfjällen** | Hotagen · Gäddede | **Buy** 1:100k |
+| 4 | **Kittelfjäll & Borgafjäll** | Gäddede → Hemavan | **Buy** 1:100k |
+| 5 | **Vindelfjällen** | Hemavan → Ammarnäs | **Skip** — **Ammarnäs–Hemavan** 1:50k ✓ |
+| 6 | **Arjeplogsfjällen** | Adolfström → Kvikkjokk | **Skip** — **Kvikkjokk–Adolfström** 1:50k ✓ |
+| 7 | **Sarek & Padjelanta** | Kvikkjokk → Ritsem | **Skip** — **Padjelantaleden** 1:50k ✓ |
+| 8 | **Kebnekaisefjällen & Narvik** | KL · Sälka · Abisko approach | ✓ 1:100k (+ **Nikkaluokta/Ritsem/Vakkotavare** 1:50k) |
+| 9 | **Treriksröset, Abisko & Kiruna** | Abisko · Treriksröset finish | **Buy** 1:100k |
 
-**Not buying:** **Dalafjällen & Trysil** (Södra fjällen — south of start / off route).
+**Owned 1:50k:** Ammarnäs–Hemavan · Kvikkjokk–Adolfström · Padjelantaleden · Nikkaluokta/Ritsem/Vakkotavare · Saltoluokta–Kvikkjokk (**bail only** — Band is **väster om** Saltoluokta).
+
+**Not buying:** **Dalafjällen & Trysil** · 1:100k #5–7 (covered above).
+
+**Caveat:** Band often runs **west of** KL villages — check GPX vs 1:50k edges before relying on #5/#6 skip.
 
 **Pack:** **Current + next** sheet on body or map case; rest in waterproof pouch in pulk top. Pre-fold to day's track before leaving camp.
 
-**Budget:** **~€180** RRP (9 × ~€20) · **VGB registrant discount ~30%** after [vitagronabandet.se](https://www.vitagronabandet.se/) registration — best deal if eligible.
+**Budget:** **~€70–100** RRP left (5 × ~€20) · **VGB registrant discount ~30%** after [vitagronabandet.se](https://www.vitagronabandet.se/) registration — best deal if eligible.
 
 **Where to buy:** [Calazo](https://calazomaps.com/collections/fjallkartor-1-100-000) direct · Naturkompaniet · Kartbutiken · outdoor shops.
 
