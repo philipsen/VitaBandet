@@ -12,7 +12,7 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 | **Boots** | Alfa **Outback** (Xplore) | **Good** — expedition warmth; break in fully before Feb. |
 | **Binding** | **Rottefella Xplore** | **Good** — carry spare pins/straps. |
 | **Skins** | Short **Åsnes** ✓ + long old (**no glue**) | **Long: reglue or replace** — see [skins](#climbing-skins) |
-| **Poles** | **Need new** — **adjustable aluminium** · see [poles](#ski-poles) |
+| **Poles** | **Komperdell Speed Trail** ✓ (1 shaft bent) · snow baskets + spares ✓ | **Still buy** Bandet poles — max **140** too short + bent · see [poles](#ski-poles) |
 
 **Shakedown:** Xplore flex with pulk harness; kick-turn with day-1 load; **8 h day with pulk**.
 
@@ -20,7 +20,9 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 
 ## Ski poles
 
-**Job:** thousands of km on BC track, deep snow, pulk side-load. Favour **durable adjustable aluminium**.
+**Owned now:** **Komperdell Speed Trail** (Al · Powerlock · **105–140 cm**) — **one shaft bent** · **snow baskets + spares** ✓. Fine for short tours / training; **not** Bandet trip poles.
+
+**Job:** thousands of km on BC track, deep snow, pulk side-load. Favour **durable adjustable aluminium** with **max ≥~150–155**.
 
 **Buy where:** [Varuste.net — deep snow poles](https://varuste.net/nl/c3266/wandelstokken-voor-de-sneeuw) (**VIP**). Prices **Jul 2026 · VAT incl.** campaign / normal.
 
@@ -47,6 +49,7 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 | **Åsnes Polar Carbon/Kevlar** | Yes | **115–155** | **105 mm** | **€143** / 185 | Skip — carbon/Kevlar, expensive |
 | **TSL Semnoz** | Yes | **105–130** / **130–155** | hiking | **€60** / 80 | Skip — trekking pole, not Nordic BC |
 | **Komperdell Free Touring** (outlet) | Yes | **110–140** | — | **€69** outlet | **Skip** — max **140** too short for pulk |
+| **Komperdell Speed Trail** (owned) | Yes | **105–140** | snow + spare ✓ | — | **Keep for training** — max **140** + **1 bent** → still buy Combat/Traverse |
 | **Åsnes Ingstad Alloy** | **Fixed** | 130–160 | **125 mm** | **€82** / 110 | Skip — you want adjustable |
 | **Swix Blizzard Mountain Extreme** | **Fixed** | 130–165 | large | **€82** / 110 | Skip — fixed |
 | **Peltonen Metsä** | **Fixed** | 120–155 | ~100 mm | **€55–63** / 64 | Skip — fixed · forest XC |
@@ -66,7 +69,7 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 2. **Breidablikk V2** — if Combat OOS / save ~€7; same length range, **105 mm** basket (add **125 mm** spare baskets).  
 3. **Traverse 105–155** — cheapest adjustable that fits; buy large spare baskets.
 
-**Skip for you:** all **fixed** poles · **Polar / Nansen** (carbon) · **Semnoz** · **Komperdell 110–140** · BD Expedition (not on this page; Traverse covers it).
+**Skip for you:** all **fixed** poles · **Polar / Nansen** (carbon) · **Semnoz** · **Komperdell 105–140 / 110–140** (owned Speed Trail — training only) · BD Expedition (not on this page; Traverse covers it).
 
 ### Sizing (adjustable)
 
@@ -82,7 +85,7 @@ With pulk, often **+5 cm** vs free-ski.
 
 | Item | Qty | Est. |
 |------|-----|------|
-| Spare large baskets | 2 | ~€10–20 · **125 mm** if Combat/Åsnes |
+| Spare large baskets | 2 | Speed Trail spares ✓ · still buy **125 mm** match for **Combat**/new pair ~€10–20 |
 
 **Not packing:** flex tip · pole repair sleeve.
 

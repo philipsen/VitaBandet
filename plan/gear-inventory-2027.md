@@ -14,7 +14,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 |--------|--------|-------|
 | Skis / boots / binding | Ingstad · Outback · Xplore | [details](./gear-considerations-2027.md#ski-system) |
 | Skins | Short ✓ + long after reglue | [skins](./gear-considerations-2027.md#climbing-skins) |
-| Poles | **Åsnes Combat** (alt Breidablikk V2 / Traverse) | Varuste VIP |
+| Poles | **Combat V2** (own Speed Trail — training) | Varuste VIP |
 | Pulk | **Jemtlander 14** + **Sleeper 200** | Sleep kit on sled — [packing](./packing-pulk-2027.md) |
 | Tent | **Nallo 3GT** | [upgrades](./gear-considerations-2027.md#tent--nallo-3gt--upgrades) |
 | Bag | **Lowland K2** ✓ | −35 °C comfort · ~2 kg |
@@ -52,7 +52,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Skins — long | Full-length old | 1 pair | ~400? | ✓ | **Reglue** | Padjelanta / Lappjord |
 | Skin wax | Pomoca bicolor | 1 | | ✓ | | |
 | Skin glue tube | | 1 small | | ✓ | | Field patches only |
-| Poles | **Åsnes Combat 2-Section V2** | 1 pair | **~595** | | **Need** | Adj. 110–155 · **125 mm** · Varuste VIP ~€97 · fallback BD Traverse ~520 g / ~€69 |
+| Poles | **Åsnes Combat 2-Section V2** | 1 pair | **~595** | Speed Trail | **Buy** | Own **Speed Trail** (105–140 · **1 bent** · baskets ✓) — Bandet needs **110–155** · Varuste VIP ~€97 · alt Traverse |
 
 ### Pulk & carry
 
@@ -232,7 +232,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 ## Purchase priority
 
 1. **Long skins** — reglue or replace *(wax + glue tube ✓)*  
-2. **Ski poles** — **Combat V2** ★ (alt: Breidablikk V2 / Traverse) + spare baskets · Varuste VIP  
+2. **Ski poles** — still **Combat V2** ★ (Speed Trail owned but max **140** + bent) + spare baskets for **new** pair · Varuste VIP  
 3. **Power / nav** — **Suunto Vertical 2** · **USB headlamp** · OsmAnd maps on **Armor 14 Pro** · inReach plan *(phone ✓ · 1× Zolo on trail ✓ · 100 W wall ✓ · cables ✓)*  
 4. **New ski socks** (4–5) + **down booties**; **Sirex Everest 10** foam (~€15)  
 5. Fill **2× 1 L** bottles (OmniLite service kit ✓ — in stove kit)  
@@ -252,7 +252,7 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 | Ski’s | **Åsnes Ingstad BC** ✓ |
 | Schoenen | **Alfa Outback + Xplore** ✓ |
 | Vellen | Short **Åsnes** ✓ + long — **reglue** |
-| Stokken | **Buy** — [poles](./gear-considerations-2027.md#ski-poles) |
+| Stokken | Own **Speed Trail** (bent) · **buy** Combat/Traverse — [poles](./gear-considerations-2027.md#ski-poles) |
 | GPS + kaarten | **GPSMAP 68i** ✓ · **OsmAnd+** · **Calazo** (buy 5× 1:100k · 1:50k ✓) |
 | Telefoon | **Armor 14 Pro** + offline maps |
 | Tent | **Nallo 3GT** ✓ |

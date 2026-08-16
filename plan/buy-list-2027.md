@@ -37,8 +37,8 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | Status | Item | Qty | Spec / model | Est. | Where | Notes |
 |--------|------|-----|--------------|------|-------|-------|
-| 🛒 | **Ski poles** | 1 pair | **Åsnes Combat 2-Section V2** ★ (alt: Breidablikk V2 / Traverse 105–155) | **~€70–130** | [Varuste deep-snow](https://varuste.net/nl/c3266/wandelstokken-voor-de-sneeuw) **VIP** | Combat **€97** · Breidablikk V2 **€90** · Traverse **€69** · [poles](./gear-considerations-2027.md#ski-poles) |
-| 🛒 | Spare powder baskets | 2 | Large ~10–12.5 cm · screw-on | ~€10–20 | Varuste · match brand | Prefer Combat-size if buying Combat |
+| 🛒 | **Ski poles** | 1 pair | **Åsnes Combat 2-Section V2** ★ (alt: Breidablikk V2 / Traverse 105–155) | **~€70–130** | [Varuste deep-snow](https://varuste.net/nl/c3266/wandelstokken-voor-de-sneeuw) **VIP** | Own **Speed Trail** (max **140** · **1 bent**) — keep for training · [poles](./gear-considerations-2027.md#ski-poles) |
+| 🛒 | Spare powder baskets | 2 | Large ~10–12.5 cm · match **new** poles | ~€10–20 | Varuste · match brand | Speed Trail baskets ✓ — buy spares for Combat/Traverse |
 
 ---
 

@@ -8,7 +8,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 ## Buy / fix before departure
 
 - [ ] **Long skins** — reglue or replace; short Åsnes ✓ · skin wax + glue tube ✓
-- [ ] **Ski poles** — **Åsnes Combat 2-Section V2** ★ (alt: Breidablikk V2 / Traverse **105–155**) + 2 spare baskets · [Varuste](https://varuste.net/nl/c3266/wandelstokken-voor-de-sneeuw)
+- [ ] **Ski poles** — **Åsnes Combat 2-Section V2** ★ (alt: Breidablikk V2 / Traverse **105–155**) + 2 spare baskets · own **Speed Trail** = training only · [poles](./gear-considerations-2027.md#ski-poles)
 - [ ] **Down booties** — **Rab Down Hut Slipper** (~€45–65) — [booties](./gear-considerations-2027.md#down-booties-camp)
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
@@ -44,7 +44,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] Boots **Alfa Outback** + **Xplore** + spare laces / insoles
 - [ ] Binding **Xplore** + spare pins/straps
 - [ ] Skins **short Åsnes** ✓ + **long** (after reglue)
-- [ ] Poles **new** + spare baskets
+- [ ] Poles **new** (Combat/Traverse — not Speed Trail) + spare baskets for that pair
 - [ ] Pulk **Jemtlander 14** + harness
 - [ ] **Sleeper 200** on pulk — **bag + pad** in dry bags inside
 
