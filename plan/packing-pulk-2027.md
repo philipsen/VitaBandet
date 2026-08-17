@@ -33,7 +33,7 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 
 - Shell, insulation, mittens, buff, hat
 - Snacks + water (or melt plan)
-- **GPSMAP 68i / inReach** — reachable without opening pulk
+- **GPSMAP 66i / inReach** — reachable without opening pulk
 - One **power bank** warm in jacket
 
 **Rule:** if you need it within **30 minutes** (cold, nav, SOS), it is not at the bottom of the sled.
@@ -53,7 +53,7 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 | Alkylate bottles | Main bag **bottom centre**, upright | **Liquid only** until Abisko; separate from food |
 | Stove + **TOAKS 1600 ml** pot/pan + fuel tools + **CO detector** | Main bag **middle** | OmniLite + silencer · **CO detector ON** in vestibule when cooking · magnetic · face height |
 | Spare clothes | Dry bags, main bag | One dry set packed deep |
-| Phone, spare battery, maps | Main bag top **or** body | 68i on **body** preferred |
+| Phone, spare battery, maps | Main bag top **or** body | 66i on **body** preferred |
 | Snow shovel | Main bag / accessible | Vestibule pit · camp · emergency snow shelter |
 | Sleeper 200 (empty shell weight) | **On pulk** | Fjellpulken straps — not inside main cargo |
 
@@ -89,7 +89,7 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 3. **Middle** — stove kit, clothes in dry bags, repair.  
 4. **Top** — tent if you want quick camp access; otherwise tent middle is OK if consistent.  
 5. **Harness on** — heavy/low should feel stable; no tall soft peak (tips in side wind).  
-6. **Body kit** — shell accessible, 68i, snacks, one warm power bank.
+6. **Body kit** — shell accessible, 66i, snacks, one warm power bank.
 
 At camp (reverse):
 

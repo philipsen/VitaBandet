@@ -184,31 +184,31 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 
 | Device | Role |
 |--------|------|
-| **GPSMAP 68i** | Primary GPS + inReach (with plan) — **on body** |
+| **GPSMAP 66i** | Primary GPS + inReach (with plan) — **on body** |
 | **Phone** | **Ulefone Power Armor 14 Pro** · OsmAnd+ backup · GPX · occasional camp nav |
-| **Suunto Vertical 2** | **Buy** — **Primary on-trail nav** · offline route · GPS while skiing · ~€599–699 |
+| **Suunto Vertical 2** | ✓ — **Primary on-trail nav** · offline route · GPS while skiing |
 | **1× 20k power bank** | Primary recharge — **always warm on body** · full at every ★ |
 | **USB headlamp** | **Buy** — **BD Storm 500-R** ~€54–70 · see [headlamp](#headlamp-usb) |
 
-### GPSMAP 68i — carry rule
+### GPSMAP 66i — carry rule
 
-**No inReach Mini** — **68i on body** every ski day. SOS is useless if the unit is buried in the pulk.
+**No inReach Mini** — **66i on body** every ski day. SOS is useless if the unit is buried in the pulk.
 
 | Rule | Why |
 |------|-----|
 | **Chest pocket or belt pouch** | Reachable without opening pulk |
 | **inReach plan active** before Feb | Satellite messaging + SOS |
-| **USB Li-ion** — expedition mode | Long runtime; charge from power banks |
+| **micro-USB** — expedition mode | Long runtime (**~200 h** claim / **30 min**) · charge from power banks |
 | **One subscription** | Single active inReach unit |
 
-Confirm **68i inReach plan** before departure. Shakedown: ski one day with 68i on body only — no pulk bury test.
+Confirm **66i inReach plan** before departure. Shakedown: ski one day with 66i on body only — no pulk bury test.
 
 ### OsmAnd+ setup
 
 1. Download Sweden north + Norway strips (**5–15 GB**).  
 2. Import **`tracks/2027.GPX`**.  
 3. Contour lines on; high-contrast winter profile.  
-4. Shakedown: one day **68i only**, one **phone only**.
+4. Shakedown: one day **66i only**, one **phone only**.
 
 ### Map app alternatives
 
@@ -219,7 +219,7 @@ Confirm **68i inReach plan** before departure. Shakedown: ski one day with 68i o
 | **Calazo 1:100k** ★ | **Buy 5** — skip #5–7 (owned 1:50k) · Kebnekaise ✓ · whiteout / battery death |
 | **Gaia / Avenza** | Skip as primary for full route |
 
-**Hierarchy:** **Suunto** (skiing · primary map) → **OsmAnd** (occasional backup · camp) → **68i** (inReach · SOS · expedition log) → **Calazo + compass**.
+**Hierarchy:** **Suunto** (skiing · primary map) → **OsmAnd** (occasional backup · camp) → **66i** (inReach · SOS · expedition log) → **Calazo + compass**.
 
 ### Paper maps — Calazo 1:100k + owned 1:50k
 
@@ -261,9 +261,9 @@ Confirm **68i inReach plan** before departure. Shakedown: ski one day with 68i o
 |------|-----|-------|
 | Power bank 20k USB-C PD | **1** ✓ | **Anker Zolo 20k · 30 W** — warm in jacket · **2nd bank stays home** |
 | **Anker 100 W · 3 ports · Smart Display** | 1 ✓ | Resupply — bank + phone overnight |
-| USB-C cables (braided) | **3** ✓ | 68i · Armor · bank · spare optional |
+| USB-C cables (braided) | **3** ✓ | Armor · bank · Fairbuds / CO / Kindle |
 | **USB headlamp** | **1** | **Buy Storm 500-R** — see [headlamp](#headlamp-usb) |
-| **micro-USB cable** | **1** | **Buy** with Storm |
+| **micro-USB cable** | **1** | **Buy** — **66i** + Storm share |
 
 Charge at every **★** resupply; sleep with phone + one bank in bag foot on cold tent nights. **Daily plan:** [power-plan-2027.md](./power-plan-2027.md).
 
@@ -273,7 +273,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 **Status:** **Owned** — **1× Anker Zolo 20k · 30 W** (A1689) on trail ✓ · **2nd Zolo at home** · **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) ✓ · **3× USB-C cables** ✓ · **Armor 14 Pro** ✓. **Still need:** **Storm 500-R** + micro-USB cable · inReach plan. **No Fairphone for 2027.**
 
-**Job:** Keep **GPSMAP 68i**, **Armor 14 Pro**, and **USB headlamp** alive between shops (**~8–10 days** typical; Padjelanta longer).
+**Job:** Keep **GPSMAP 66i**, **Armor 14 Pro**, and **USB headlamp** alive between shops (**~8–10 days** typical; Padjelanta longer).
 
 **Ops (Wh/day, charge calendar, long legs):** [power-plan-2027.md](./power-plan-2027.md) · weights: [gear-inventory-2027.md](./gear-inventory-2027.md).
 
@@ -281,7 +281,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 |------|------|-------|
 | **Zolo 20k** | A1689 · **353 g** · **~72 Wh** · 30 W PD | Warm in jacket · recall SN checked · [anker.com/rc2506](https://www.anker.com/rc2506) |
 | **Wall charger** | B121BGZ1 · **100 W** · 3 ports + display | Resupply / hut only · 1.5 m C–C in box |
-| **USB-C cables** | Braided **30–60 cm** ×3 | 68i · phone · bank · optional spare in repair pouch |
+| **USB-C cables** | Braided **30–60 cm** ×3 | Armor · phone · bank · optional spare in repair pouch |
 
 **On trip:** bank warm on body · ★ shops refill bank overnight · legs **>7 days** need mid-leg hut/★ ([power plan](./power-plan-2027.md) — **Ammarnäs D39** on Hemavan→Kvikkjokk). **Still buy:** **Storm 500-R** + micro-USB ([headlamp](#headlamp-usb)).
 
@@ -320,7 +320,7 @@ Indicative — check retailer before buying; sales move fast.
 
 *Low = manufacturer ANSI lowest white mode (room-temp). Cold cuts real burn time.*
 
-**Cable note:** Storm needs **1× short micro-USB** (or C→micro) — not in the C–C kit. Buy with the lamp.
+**Cable note:** Storm + **66i** share **1× short micro-USB** (or C→micro) — not in the C–C kit. Buy with the lamp (or sooner for 66i shakedowns).
 
 **Skip:** proprietary dock-only lamps (hard to charge in hut).
 
@@ -328,7 +328,7 @@ Indicative — check retailer before buying; sales move fast.
 
 | Task | Light |
 |------|-------|
-| Skiing / track | **68i** screen or no light |
+| Skiing / track | **66i** screen or no light |
 | Tent pitch, stove, melt | **Headlamp** medium |
 | Inside tent / hut | **Red** or lowest white |
 | Recharge | From warm power bank (correct cable); full top-up at **★** resupply |

@@ -2,7 +2,7 @@
 
 **Trip:** solo · S→N · Feb–Apr · ski + **pulk** · ~65 days · mostly **tent**
 
-**Core kit:** Hilleberg **Nallo 3GT** · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Lowland K2** ✓ · **Exped Ultra 7R** ✓ · **NeoAir XLite** ✓ · **OmniLite Ti** + silencer · **2× 1 L** fuel · **Jemtlander 14** + **Sleeper 200** · **TOAKS 1600 ml** ✓ · **GPSMAP 68i** · **OsmAnd+**
+**Core kit:** Hilleberg **Nallo 3GT** · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Lowland K2** ✓ · **Exped Ultra 7R** ✓ · **NeoAir XLite** ✓ · **OmniLite Ti** + silencer · **2× 1 L** fuel · **Jemtlander 14** + **Sleeper 200** · **TOAKS 1600 ml** ✓ · **GPSMAP 66i** · **OsmAnd+**
 
 Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). **Comparisons & upgrade paths:** [gear-considerations-2027.md](./gear-considerations-2027.md). **Packing:** [packing-pulk-2027.md](./packing-pulk-2027.md). **Print list:** [pack-checklist-2027.md](./pack-checklist-2027.md).
 
@@ -20,7 +20,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Bag | **Lowland K2** ✓ | −35 °C comfort · ~2 kg |
 | Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ (ship to Abisko) · **Sirex Everest 10** foam backup (**Buy**) | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
 | Stove / pot | **OmniLite** + silencer · **TOAKS 1600 ml** ✓ | **2 L** max alkylate · [cooking](./gear-considerations-2027.md#cooking--toaks-ti-1600-ml) |
-| Nav / comms | **Suunto V2** · **68i** · **OsmAnd+** · **Calazo 1:100k** | [comms](./gear-considerations-2027.md#navigation-comms--power) · [power plan](./power-plan-2027.md) |
+| Nav / comms | **Suunto V2** · **66i** · **OsmAnd+** · **Calazo 1:100k** | [comms](./gear-considerations-2027.md#navigation-comms--power) · [power plan](./power-plan-2027.md) |
 | Food | Buy on trail ~**8–10 days** | ~4,000–5,000 kcal/day · [resupply](./resupply-2027.md) |
 
 **Columns in master list below:** **Own** · **Need** · **Test**
@@ -116,27 +116,27 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 
 | Item | Model / spec | Qty | Unit (g) | Total (g) | Own | Need | Notes |
 |------|--------------|-----|----------|-----------|-----|------|-------|
-| GPS + inReach | **GPSMAP 68i** | 1 | **241** | **241** | ✓ | **Plan** | Garmin 67i spec 8.5 oz · weigh on shakedown · [power](./power-plan-2027.md) |
-| Watch / nav | **Suunto Vertical 2** | 1 | **87** | **87** | | **Buy** | Steel **87** · Ti **74** · ~€599–699 · [Suunto](https://www.suunto.com) · primary on-trail nav |
+| GPS + inReach | **GPSMAP 66i** | 1 | **241** | **241** | ✓ | | **8.5 oz** · **micro-USB** · expedition · [power](./power-plan-2027.md) |
+| Watch / nav | **Suunto Vertical 2** | 1 | **87** | **87** | ✓ | | Steel **87** · Ti **74** · primary on-trail nav · weigh yours |
 | Suunto charge cable | USB-C magnetic | 1 | **~25** | **~25** | | **w/ watch** | In box · pulk/resupply |
 | Phone | **Ulefone Power Armor 14 Pro** | 1 | **358** | **358** | ✓ | | OsmAnd backup · 10k mAh (~37 Wh) · **18 W** · ★/hut charge · [power](./power-plan-2027.md) |
 | Power bank 20k | **Anker Zolo · 30 W** (A1689) | 1 | **353** | **353** | ✓ | | Recall SN checked · 2nd at home · [power](./power-plan-2027.md) |
 | Wall charger | **Anker 100 W · Smart Display** (B121BGZ1) | 1 | **212** | **212** | ✓ | | Resupply only · [Amazon.nl](https://www.amazon.nl/dp/B0FG745LNB) |
 | Wall cable (in box) | USB-C **1.5 m** | 1 | **~35** | **~35** | ✓ | | With wall charger |
-| USB-C cables | braided **30–60 cm** | 3 | **~15** | **~45** | ✓ | | 68i · phone · bank / wall |
-| micro-USB cable | short **C→micro** | 1 | **~10** | **~10** | | **Buy** | **Storm 500-R** charge |
+| USB-C cables | braided **30–60 cm** | 3 | **~15** | **~45** | ✓ | | Armor · bank / wall · Fairbuds |
+| micro-USB cable | short **C→micro** | 1 | **~10** | **~10** | | **Buy** | **66i** + **Storm 500-R** |
 | USB-C cable spare | braided **30–60 cm** | 1 | **~15** | **~15** | | ? | Repair / nav pouch — optional |
 | Headlamp | **BD Storm 500-R** (micro-USB) | 1 | **120** | **120** | | **Buy** | 500 lm · 2400 mAh · IP67 · [BD](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp) |
 | Compass | baseplate (e.g. Silva Ranger) | 1 | **33** | **33** | ✓ | | Weigh yours on shakedown |
 | Paper maps | **Calazo 1:100k** + **1:50k** | mix | **~400** | **~400** | 1:50k ✓ | **Buy 5** | Skip 1:100k #5–7 · [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k) |
-| **Nav / comms subtotal** | | | | **~1 924** | | | Confirm **68i** + compass on shakedown |
+| **Nav / comms subtotal** | | | | **~1 924** | | | Confirm **66i** + compass on shakedown |
 
 **Weights checked 17 Jul 2026** — manufacturer / retailer specs unless noted **~**.
 
 | Carry | Items | ≈ g |
 |-------|--------|-----|
-| **On body (ski day)** | Suunto **87** + 68i **241** + Armor **358** + Zolo **353** + Storm **120** + compass **33** | **~1 192** |
-| **On body (minimal)** | Suunto + 68i + Zolo (phone off · no headlamp · no compass) | **~681** |
+| **On body (ski day)** | Suunto **87** + 66i **241** + Armor **358** + Zolo **353** + Storm **120** + compass **33** | **~1 192** |
+| **On body (minimal)** | Suunto + 66i + Zolo (phone off · no headlamp · no compass) | **~681** |
 | **Pulk / resupply** | wall **212** + box cable **35** + C–C **45** + micro **10** + spare **15** + Suunto cable **25** + maps **390** | **~732** |
 | **Full nav/comms kit** | All rows above | **~1 924** |
 
@@ -220,7 +220,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 | 1 | 3 nights **Nallo 3GT** sub −20 °C, pulk in vestibule | |
 | 2 | **J14 + Sleeper** — 8 h, 18–22 km, 10-day load | |
 | 3 | **Skins** — short ✓ + long after reglue; fishscale; pulk on hill | |
-| 4 | **Suunto** ski day + **68i** inReach; **OsmAnd** backup test | |
+| 4 | **Suunto** ski day + **66i** inReach; **OsmAnd** backup test | |
 | 5 | **OmniLite** + silencer on alkylate at −20 °C — **g/day** | |
 | 6 | Sleep: **Lowland K2 + Ultra 7R** at −15 °C | |
 | 7 | **New poles** — loaded pulk, baskets drill | |
@@ -233,7 +233,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 
 1. **Long skins** — reglue or replace *(wax + glue tube ✓)*  
 2. **Ski poles** — still **Combat V2** ★ (Speed Trail owned but max **140** + bent) + spare baskets for **new** pair · Varuste VIP  
-3. **Power / nav** — **Suunto Vertical 2** · **USB headlamp** · OsmAnd maps on **Armor 14 Pro** · inReach plan *(phone ✓ · 1× Zolo on trail ✓ · 100 W wall ✓ · cables ✓)*  
+3. **Power / nav** — **USB headlamp** · OsmAnd maps on **Armor 14 Pro** · inReach plan *(Suunto V2 ✓ · phone ✓ · 1× Zolo on trail ✓ · 100 W wall ✓ · cables ✓)*  
 4. **New ski socks** (4–5) + **down booties**; **Sirex Everest 10** foam (~€15)  
 5. Fill **2× 1 L** bottles (OmniLite service kit ✓ — in stove kit)  
 6. Tent upgrade **only after** shakedown — [considerations](./gear-considerations-2027.md#tent--nallo-3gt--upgrades)
@@ -253,7 +253,7 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 | Schoenen | **Alfa Outback + Xplore** ✓ |
 | Vellen | Short **Åsnes** ✓ + long — **reglue** |
 | Stokken | Own **Speed Trail** (bent) · **buy** Combat/Traverse — [poles](./gear-considerations-2027.md#ski-poles) |
-| GPS + kaarten | **GPSMAP 68i** ✓ · **OsmAnd+** · **Calazo** (buy 5× 1:100k · 1:50k ✓) |
+| GPS + kaarten | **GPSMAP 66i** ✓ · **OsmAnd+** · **Calazo** (buy 5× 1:100k · 1:50k ✓) |
 | Telefoon | **Armor 14 Pro** + offline maps |
 | Tent | **Nallo 3GT** ✓ |
 | Slaapmat | **Ultra 7R** ✓ in pulk · **XLite** ✓ ship to Abisko |

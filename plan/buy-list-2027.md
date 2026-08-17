@@ -11,11 +11,11 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | | Items | Est. budget (EUR) |
 |---|-------|-------------------|
 | **Priority 1–2** — ski (poles, skins prep) | 4 lines | ~€80–160 |
-| **Priority 3** — power & comms | 4 lines | ~€675–840 |
+| **Priority 3** — power & comms | 3 lines left | ~€75–130 |
 | **Priority 4** — clothing & sleep | 4 lines | ~€120–200 |
-| **Maps & admin** | 2 lines | ~€130–200 |
+| **Maps & admin** | 5× 1:100k | ~€70–100 |
 | **Confirm / optional** | 5 lines | ~€0–120 |
-| **Total** | | **~€1 480–2 070** |
+| **Total** | | **~€350–710** |
 
 *Prices indicative · Jul 2026 · incl. VAT where noted.*
 
@@ -48,15 +48,15 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 |--------|------|-----|--------------|------|-------|-------|
 | ✅ | **Power bank** | 1 | **Anker Zolo 20k · 30 W** (A1689) | — | ✓ owned | On trail only · **2nd at home** · recall SN · [anker.com/rc2506](https://www.anker.com/rc2506) |
 | ✅ | **Wall charger** | 1 | **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) | — | ✓ owned | Resupply / hut · 1.5 m C–C in box |
-| ✅ | **USB-C cables** | 3 | Braided **30–60 cm** C–C | — | ✓ owned | 68i · phone · bank / wall |
-| 🛒 | **micro-USB cable** | 1 | Short **C→micro** or A→micro | ~€5–10 | With lamp | **Storm 500-R** charge |
+| ✅ | **USB-C cables** | 3 | Braided **30–60 cm** C–C | — | ✓ owned | Armor · bank / wall · Fairbuds |
+| 🛒 | **micro-USB cable** | 1 | Short **C→micro** or A→micro | ~€5–10 | With lamp | **66i** + **Storm 500-R** (share) |
 | ✅ | **Phone** | 1 | **Ulefone Power Armor 14 Pro** | — | ✓ owned | OsmAnd backup · **~358 g** · 10k mAh · **18 W** · ★/hut charge only · [power](./power-plan-2027.md) |
-| 🛒 | **Suunto Vertical 2** | 1 | Steel **87 g** (or Ti **74 g**) | ~€599–699 | [Suunto](https://www.suunto.com) · Bever · i-Run | Primary on-trail nav · cable in box · [power](./power-plan-2027.md) |
+| ✅ | **Suunto Vertical 2** | 1 | Steel **87 g** (or Ti **74 g**) | — | ✓ owned | Primary on-trail nav · [power](./power-plan-2027.md) |
 | 🛒 | **Headlamp** | 1 | **BD Storm 500-R** | ~€54–70 | [BD EU](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp) · [headlamp](./gear-considerations-2027.md#headlamp-usb) | **120 g** · 500 lm · IP67 · **micro-USB** · low **6 lm · 350 h** |
-| 🛒 | **Garmin inReach plan** | 1 | On **GPSMAP 68i** | ~€15–50/mo | Garmin | Activate before departure · not hardware |
+| 🛒 | **Garmin inReach plan** | 1 | On **GPSMAP 66i** | ~€15–50/mo | Garmin | Activate before departure · not hardware |
 | ✅ | Suunto Vertical 2 **charge cable** | 1 | Proprietary | incl. | With watch | Comes in box |
 
-**Owned (no buy):** GPSMAP 68i ✓ · **Armor 14 Pro** ✓ · OsmAnd+ ✓ · CO detector ✓ · **1× Anker Zolo 20k** (on trail) ✓ · **Anker 100 W wall** ✓ · **3× USB-C cables** ✓ · Kindle ✓ (charges on existing **USB-C**) · **no Fairphone for 2027**
+**Owned (no buy):** GPSMAP 66i ✓ · **Armor 14 Pro** ✓ · OsmAnd+ ✓ · CO detector ✓ · **1× Anker Zolo 20k** (on trail) ✓ · **Anker 100 W wall** ✓ · **3× USB-C cables** ✓ · Kindle ✓ (charges on existing **USB-C**) · **no Fairphone for 2027**
 
 **Power plan:** [power-plan-2027.md](./power-plan-2027.md)
 
@@ -163,7 +163,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | When | Do |
 |------|-----|
-| **Now–autumn 2026** | **Suunto Vertical 2** · poles · skin reglue (wax/glue ✓) · headlamp · Calazo (watch for VGB discount) · OsmAnd on Armor |
+| **Now–autumn 2026** | Poles · skin reglue (wax/glue ✓) · headlamp · Calazo (watch for VGB discount) · OsmAnd on Armor · sync Vertical 2 |
 | **Autumn 2026** | Socks · booties · Sirex foam · shakedowns · Suunto route practice |
 | **Jan 2027** | inReach plan live · OsmAnd + Suunto routes loaded |
 | **Feb 2027** | Alkylate fill · last gaps · optional VBL |

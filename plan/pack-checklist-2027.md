@@ -15,10 +15,10 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **USB headlamp** — **BD Storm 500-R** (~€54–70 · micro-USB) + short charge cable — [headlamp](./gear-considerations-2027.md#headlamp-usb)
 - [x] **1× Anker Zolo** 20k · 30 W (A1689) ✓ — warm in jacket · 2nd at home — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
 - [x] **Anker Charger (100 W, 3 Ports, Smart Display)** (B121BGZ1) ✓ + **3× braided USB-C–C** short cables ✓
-- [ ] **Suunto Vertical 2** — primary on-trail nav (~€599–699) + charge cable in box
+- [x] **Suunto Vertical 2** — primary on-trail nav + charge cable ✓
 - [ ] **Armor 14 Pro** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
 - [x] **DNT key** + membership
-- [ ] **Garmin inReach plan** on GPSMAP 68i
+- [ ] **Garmin inReach plan** on GPSMAP 66i
 - [x] **OmniLite** service kit — included with stove kit
 - [x] **Shell** jacket + pants ✓
 - [ ] **Calazo** — **buy 5× 1:100k** + owned **1:50k** (skip 1:100k #5–7) — [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k)
@@ -78,8 +78,8 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 
 ## Nav & comms
 
-- [ ] **Suunto Vertical 2** (buy) — route synced · charge cable · **primary on-trail nav**
-- [ ] **GPSMAP 68i** + USB-C cable + inReach active — SOS / backup log
+- [ ] **Suunto Vertical 2** — route synced · charge cable · **primary on-trail nav**
+- [ ] **GPSMAP 66i** + **micro-USB** cable + inReach active — SOS / backup log
 - [ ] **Armor 14 Pro** + **OsmAnd+** maps downloaded — **occasional backup**
 - [x] Compass
 - [ ] **Calazo 1:100k** maps — carry **current + next** sheet; rest in map pouch / pulk top
@@ -181,7 +181,7 @@ S→N: each point **east** of track. Wide corridor OK.
 - [ ] Sleep test: bag + pad on snow
 - [ ] **Sleeper 200** on pulk — repack bag + pad after each camp
 - [ ] Sleeper **bivi drill** (Nallo failed scenario) 20 min
-- [ ] Suunto + 68i inReach test · OsmAnd backup once
+- [ ] Suunto + 66i inReach test · OsmAnd backup once
 - [ ] Weigh loaded pulk: ______ kg
 
 ---

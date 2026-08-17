@@ -45,7 +45,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 | When | Milestone |
 |------|-----------|
 | 2025–2026 | Confirm route variant (direction: **S → N** ✓) · gear trials · training |
-| **Autumn 2026** | **Suunto Vertical 2** · long skins reglue / ski fixes · shakedowns |
+| **Autumn 2026** | Long skins reglue / ski fixes · shakedowns · sync Vertical 2 routes |
 | **Jan–Feb 2027** | Register route; notify contacts; last equipment check |
 | **Expedition** | **15 Feb – ~25 Apr 2027** |
 
@@ -120,7 +120,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 ### Buy / test next
 
-**Long skins: reglue/replace**, ski poles, **new merino ski socks** (4–5), **BD Storm 500-R** headlamp, **Suunto Vertical 2**, **OsmAnd+** maps + GPX on **Armor 14 Pro**, **Calazo** (buy 5× 1:100k · 1:50k ✓), **inReach plan** (68i), **2× 1 L fuel bottles** *(short Åsnes ✓; skin wax + glue ✓; shell ✓; **Ultra 7R** ✓; **DNT key** ✓; **OmniLite** + silencer + **service kit** ✓; **1× Zolo + 100 W wall + cables** ✓; **Armor 14 Pro** ✓; merino base + 2× **Hesta** owned; VBL optional; **no Fairphone for 2027**)*.
+**Long skins: reglue/replace**, ski poles, **new merino ski socks** (4–5), **BD Storm 500-R** headlamp, **OsmAnd+** maps + GPX on **Armor 14 Pro**, **Calazo** (buy 5× 1:100k · 1:50k ✓), **inReach plan** (66i), **2× 1 L fuel bottles** *(short Åsnes ✓; skin wax + glue ✓; shell ✓; **Ultra 7R** ✓; **DNT key** ✓; **OmniLite** + silencer + **service kit** ✓; **1× Zolo + 100 W wall + cables** ✓; **Armor 14 Pro** ✓; **Suunto Vertical 2** ✓; merino base + 2× **Hesta** owned; VBL optional; **no Fairphone for 2027**)*.
 
 ### Shakedown trips
 | Date | Location | Duration | Lessons learned |
@@ -142,7 +142,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 - **Emergency contacts:** *(name, phone, relationship × 2)*  
 - **Check‑in schedule:** fixed times (e.g. daily 20:00) + missed-check-in protocol for contacts  
-- **Satellite / nav:** **Suunto Vertical 2** (buy) primary on-trail · **GPSMAP 68i** on body (inReach + SOS) · **Armor 14 Pro** + **OsmAnd** occasional backup · **Calazo** (buy 5× 1:100k · skip #5–7 · Kebnekaise ✓) · **1× Zolo + 100 W wall** ✓ · **BD Storm 500-R** headlamp (buy)  
+- **Satellite / nav:** **Suunto Vertical 2** ✓ primary on-trail · **GPSMAP 66i** on body (inReach + SOS) · **Armor 14 Pro** + **OsmAnd** occasional backup · **Calazo** (buy 5× 1:100k · skip #5–7 · Kebnekaise ✓) · **1× Zolo + 100 W wall** ✓ · **BD Storm 500-R** headlamp (buy)  
 - **Turnaround rules:** weather, injury, pace — decide alone before departure  
 - **Insurance:** incl. search & rescue / evacuation  
 - **Share live track** with trusted contact for full expedition  
