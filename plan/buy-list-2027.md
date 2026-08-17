@@ -53,7 +53,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | ✅ | **Phone** | 1 | **Ulefone Power Armor 14 Pro** | — | ✓ owned | OsmAnd backup · **~358 g** · 10k mAh · **18 W** · ★/hut charge only · [power](./power-plan-2027.md) |
 | ✅ | **Suunto Vertical 2** | 1 | Steel **87 g** (or Ti **74 g**) | — | ✓ owned | Primary on-trail nav · [power](./power-plan-2027.md) |
 | 🛒 | **Headlamp** | 1 | **BD Storm 500-R** | ~€54–70 | [BD EU](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp) · [headlamp](./gear-considerations-2027.md#headlamp-usb) | **120 g** · 500 lm · IP67 · **micro-USB** · low **6 lm · 350 h** |
-| 🛒 | **Garmin inReach plan** | 1 | On **GPSMAP 66i** | ~€15–50/mo | Garmin | Activate before departure · not hardware |
+| 🛒 | **Garmin inReach plan** | 1 | On **66i** or **Mini 2** | ~€15–50/mo | Garmin | Activate before departure · track-only · [consider Mini 2](./gear-considerations-2027.md#inreach--66i-vs-mini-2--consider-replace) |
 | ✅ | Suunto Vertical 2 **charge cable** | 1 | Proprietary | incl. | With watch | Comes in box |
 
 **Owned (no buy):** GPSMAP 66i ✓ · **Armor 14 Pro** ✓ · OsmAnd+ ✓ · CO detector ✓ · **1× Anker Zolo 20k** (on trail) ✓ · **Anker 100 W wall** ✓ · **3× USB-C cables** ✓ · Kindle ✓ (charges on existing **USB-C**) · **no Fairphone for 2027**
@@ -134,6 +134,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | Status | Item | Qty | Est. | Notes |
 |--------|------|-----|------|-------|
+| ⏸ | **inReach Mini 2** | 0–1 | ~€300–400 | Consider **replace 66i** — track-only · −140 g · less Wh · [66i vs Mini 2](./gear-considerations-2027.md#inreach--66i-vs-mini-2--consider-replace) |
 | ⏸ | **VBL liners** | 0–1 | ~€0–50 | DIY trial first · [VBL](./gear-considerations-2027.md#vbl-liners-optional) |
 | ⏸ | Tent upgrade | 0–1 | €700+ | **Only if** Nallo fails shakedown · [tent](./gear-considerations-2027.md#tent--nallo-3gt--upgrades) |
 | ⏸ | Long skins **replace** (vs reglue) | 1 pair | ~€150–250 | If fabric worn |

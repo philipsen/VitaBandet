@@ -5,7 +5,7 @@
 
 **Planning assumption:** **1× Anker Zolo 20k** (~72 Wh nominal) · **~7–8 days max** between wall power on tent legs · bank **always warm on body** · **~30% cold margin** · long legs need **mid-leg ★ / hut** top-up (see [long legs](#long-legs--7-days)).
 
-**Nav hierarchy:** **Suunto Vertical 2** (on-trail map + track) → **Armor 14 Pro / OsmAnd** (occasional backup · camp planning) → **66i** (inReach · SOS · expedition log) → **Calazo + compass**.
+**Nav hierarchy:** **Suunto** (skiing · primary map) → **OsmAnd** (occasional backup · camp) → **66i or Mini 2** (inReach track · SOS) → **Calazo + compass**.
 
 **Phone:** **Ulefone Power Armor 14 Pro** (owned) — **no Fairphone** for 2027. Large cell → **★ / hut charge only**; do **not** sip from Zolo mid-leg.
 
@@ -15,7 +15,7 @@
 
 | Device | Role | Daily use (your answers) | Charge port |
 |--------|------|--------------------------|-------------|
-| **GPSMAP 66i** | inReach · SOS · backup track log | Expedition mode · screen **off** skiing · **30 min** tracking · **2–5 msgs/day** · not primary map | **micro-USB** |
+| **GPSMAP 66i** | inReach · SOS · **track only** | Expedition · screen **off** · **30 min** tracking · **not** primary map · [consider Mini 2](./gear-considerations-2027.md#inreach--66i-vs-mini-2--consider-replace) | **micro-USB** |
 | **Armor 14 Pro** | **Occasional** nav backup · photos · messages | **Off/airplane** skiing · tent **~8–20 min** max · **not** daily driver | USB-C · **18 W** |
 | **BD Storm 500-R** | Tent · cook · melt | **~1 h/night** — mostly low/mid, some red/RGB | **micro-USB** |
 | **Suunto Vertical 2** | **Primary on-trail nav** · HR · time | **GPS + route on** while skiing (~8 h) · offline map · wrist-raise | Proprietary USB (pack cable) |
@@ -58,7 +58,7 @@
 | **Morning** | **Suunto** — start **Ski/Expedition** activity · load today’s leg · **Endurance** or **Tour** GPS mode · 66i on expedition · inReach **30 min** · phone **airplane** |
 | **Pack** | **Zolo** warm in jacket · 66i on body · **Suunto on wrist** (nav) · Armor in jacket (off) |
 | **On trail** | **Suunto map + track** · glance wrist · 66i screen off · **phone stays off** · Armor only if Suunto fails |
-| **inReach** | Batch messages at **lunch** or **camp** — not spread through ski hours |
+| inReach | **Track** at set interval · SOS always · msgs rare | Batch any msgs at camp — track-only default |
 
 ### Camp / hut night
 
@@ -98,7 +98,7 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 | inReach tracking | **30 min** | SOS still works · track points every **½ h** · less drain than **10 min** |
 | Screen | **Off while skiing** | Expedition dims + fewer track points |
 | Map | **Not primary** — Suunto on wrist | 66i = inReach + backup track only |
-| Messages | **2–5/day batched** at camp | Typing on device in −20 °C costs power + patience |
+| Messages | **Rare / none** — track-only | Typing on device in −20 °C costs power + patience |
 | Charge target | **Top up every 4–6 days** | Claimed **~200 h** expedition / **30 min** · hungrier than Mini 2 · **micro-USB** |
 
 ### Ulefone Power Armor 14 Pro

@@ -184,31 +184,58 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 
 | Device | Role |
 |--------|------|
-| **GPSMAP 66i** | Primary GPS + inReach (with plan) — **on body** |
+| **GPSMAP 66i** (owned) | inReach · SOS · **track only** — **on body** · consider **→ Mini 2** |
+| **inReach Mini 2** | **Consider buy** — lighter · less Wh · same SOS/track job — see [66i → Mini 2](#inreach--66i-vs-mini-2--consider-replace) |
 | **Phone** | **Ulefone Power Armor 14 Pro** · OsmAnd+ backup · GPX · occasional camp nav |
 | **Suunto Vertical 2** | ✓ — **Primary on-trail nav** · offline route · GPS while skiing |
 | **1× 20k power bank** | Primary recharge — **always warm on body** · full at every ★ |
 | **USB headlamp** | **Buy** — **BD Storm 500-R** ~€54–70 · see [headlamp](#headlamp-usb) |
 
-### GPSMAP 66i — carry rule
+### inReach — 66i vs Mini 2 (consider replace)
 
-**No inReach Mini** — **66i on body** every ski day. SOS is useless if the unit is buried in the pulk.
+**Use on Bandet:** **Track only** (LiveTrack / send interval) + **SOS** · **not** primary GPS · Suunto does maps. Messaging optional/rare.
+
+**Status:** Own **GPSMAP 66i** · **consider replacing with Mini 2** for power + weight. **Mini 3** ≈ same battery class as Mini 2 — not worth the upgrade for track-only.
+
+| | **Mini 2** | **Mini 3** | **66i** (owned) |
+|--|------------|------------|-----------------|
+| Cell | **1250 mAh** (~4.6 Wh) | **1800 mAh** (~6.7 Wh) | **3100 mAh** (~11.5 Wh) |
+| **10 min** track (claim) | **~14 d** (336 h) | **~14.5 d** (350 h) | **~1.5 d** (35 h)* |
+| **30 min** track (claim) | **~30 d** (720 h) | **~30 d**** | **~8 d** (200 h expedition) |
+| Est. Wh/day (track-only · 30 min) | **~0.1–0.25** | **~0.15–0.3** | **~0.5–0.9** |
+| Zolo top-up (≤7–8 d legs) | Often **★ only** | Same | Every **4–6** nights |
+| Weight | **~100 g** | **~122 g** | **~241 g** |
+| Port | USB-C | USB-C | **micro-USB** |
+| Bandet fit | **Best** if buying | Skip vs Mini 2 | **Keep OK** — hungrier · heavier |
+
+\*Without expedition · \*\*retailer claim; Garmin Mini 3 table leads with 10 min @ 350 h.
+
+**Settings (any unit):** send **30 min** · activity **standard** / not high-detail · BT **off** unless messaging · **66i:** **Expedition** · screen off · don’t open maps.
+
+**If keep 66i:** usable on current [power plan](./power-plan-2027.md) — accept mid-leg micro-USB charges.  
+**If buy Mini 2:** drop ~**140 g** · cut sat Wh ~**2–4×** · USB-C · leave 66i at home (one inReach subscription).  
+**Skip Mini 3** for this trip — colour screen, no meaningful endurance win for track-only.
+
+### Sat device — carry rule
+
+**Whichever unit (66i or Mini 2) stays on body** every ski day. SOS is useless if buried in the pulk.
 
 | Rule | Why |
 |------|-----|
 | **Chest pocket or belt pouch** | Reachable without opening pulk |
-| **inReach plan active** before Feb | Satellite messaging + SOS |
-| **micro-USB** — expedition mode | Long runtime (**~200 h** claim / **30 min**) · charge from power banks |
+| **inReach plan active** before Feb | Satellite tracking + SOS |
 | **One subscription** | Single active inReach unit |
+| **66i:** expedition · **micro-USB** | Claimed **~200 h** / **30 min** |
+| **Mini 2:** track **30 min** · USB-C | Claimed **~30 d** / **30 min** |
 
-Confirm **66i inReach plan** before departure. Shakedown: ski one day with 66i on body only — no pulk bury test.
+Confirm **inReach plan** before departure. Shakedown: ski one day with sat unit on body only — no pulk bury test.
 
 ### OsmAnd+ setup
 
 1. Download Sweden north + Norway strips (**5–15 GB**).  
 2. Import **`tracks/2027.GPX`**.  
 3. Contour lines on; high-contrast winter profile.  
-4. Shakedown: one day **66i only**, one **phone only**.
+4. Shakedown: one day **sat unit only**, one **phone only**.
 
 ### Map app alternatives
 
@@ -219,7 +246,7 @@ Confirm **66i inReach plan** before departure. Shakedown: ski one day with 66i o
 | **Calazo 1:100k** ★ | **Buy 5** — skip #5–7 (owned 1:50k) · Kebnekaise ✓ · whiteout / battery death |
 | **Gaia / Avenza** | Skip as primary for full route |
 
-**Hierarchy:** **Suunto** (skiing · primary map) → **OsmAnd** (occasional backup · camp) → **66i** (inReach · SOS · expedition log) → **Calazo + compass**.
+**Hierarchy:** **Suunto** (skiing · primary map) → **OsmAnd** (occasional backup · camp) → **66i or Mini 2** (inReach track · SOS) → **Calazo + compass**.
 
 ### Paper maps — Calazo 1:100k + owned 1:50k
 
