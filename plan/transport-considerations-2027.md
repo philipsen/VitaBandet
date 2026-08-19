@@ -15,7 +15,9 @@ How to get **to Grövelsjön** and **home from Treriksröset**. Trip dates: **15
 |-----|------|-------------|-----------|
 | **Start** | **STF Grövelsjön** | **Drive → Mora** (park) → bus **~3.5 h** · companion shares outbound | Confirm **parking** + companion · **Jan 2027** |
 | **Companion exit** | **Storlien** (~D10 · **24 Feb**) | Train → **Mora** → **drive car home** | Train seats when companion confirmed |
-| **Your finish** | **Treriksröset** | Ski out → **Kilpisjärvi (FI)** or **Tromsø (NO)** → **train/bus south** | Flexible tickets · confirm **Apr 2027** buses |
+| **Your finish** | **Treriksröset** (~**25 Apr**) | Ski out → **Kilpisjärvi** or **Tromsø** → south (see [From finish](#from-finish--treriksröset--25-apr)) | Flexible tickets · confirm **Apr 2027** |
+| **Home — car already NL** ★ | Companion drove from Mora ~**25–27 Feb** | Finish → **Kiruna / Tromsø** → **train/bus → NL** (no Mora detour) | Book ±1 week around finish |
+| **Home — car still Mora** | Companion failed / no companion / long park | Finish → **Mora** → **drive NL** (or pay retrieval) | Parking must allow **~Feb–end Apr** |
 
 **Hard constraint:** pulk + skis + fuel = awkward on bus Mora→Grövelsjön — car outbound removes most of that pain.
 
@@ -49,17 +51,27 @@ You continue **solo Storlien → Treriksröset**. Companion is **section-1 only*
 | Alkylate | Carry **full bottles** in car — [resupply](./resupply-2027.md) |
 | Pulk / skis | Load in car — no ski-bag fees outbound |
 
-### Park in Mora (~10+ days)
+### Park in Mora
+
+Only if you leave the car while you ski. **Not** a mandatory commercial “long-stay” product — any **legal spot for ~10–14 days** covers the companion plan.
+
+| Scenario | Duration | Notes |
+|----------|----------|-------|
+| **★ Companion drives home** | **~10–14 days** (park ~13 Feb → collect ~25–27 Feb) | Default — hotel/guest parking, private driveway, friends, paid lot OK for **2 weeks** |
+| **Car still there at finish** | **~70–80 days** (mid-Feb → late Apr) | Contingency only — then need an **explicit long park** **or** paid retrieval |
 
 | Need | Notes |
 |------|-------|
-| **Long-stay parking** | Confirm **safe / legal** spot for **~10–14 days** (15 Feb → companion return ~25–27 Feb) |
-| Options to check | Hotel/pension package · private garage · friends · station-area long-term · **not** “abandon on street” |
+| **Where** | Legal for the days you need · **not** unlimited street dumping |
 | Keys | Companion needs **keys + spare** · written permission if rental / insurance named driver |
-| Insurance | Confirm **laid-up / abroad** cover while car sits · companion as **driver** for return |
+| Spare key | Leave **spare with trusted person in NL/SE** if companion might fail |
+| Insurance | Cover while parked abroad · companion as **driver** for Feb return · **you** if late-Apr |
 | Contact | Leave Mora contact + plate with emergency person |
+| Battery / winter | **2 weeks:** usually fine. **Months:** trickle / host check |
 
-**Fallback if no companion:** same Mora park + bus yourself · retrieving the car later is hard — then prefer train/coach outbound, or arrange **paid retrieval**.
+**Mandatory for this car plan:** somewhere legal until companion returns (~**end Feb**).  
+**Not mandatory:** branded long-stay · multi-month booking (unless Case 2).  
+**Fallback if no companion:** do **not** leave the car ~2.5 months casually — train/coach outbound, or **paid retrieval**.
 
 ### Mora → Grövelsjön
 
@@ -133,7 +145,7 @@ Official: [Vad och vem får du ta med](https://www.dalatrafik.se/sa-reser-du-med
 | Step | Notes |
 |------|-------|
 | Arrive **Storlien** | Plan **~24 Feb** (D10) · [dag-for-dag](./dag-for-dag-2027.md) |
-| Rest / shop | Optional night Storlien · then public transport |
+| Rest / shop | **Night in Storlien** (decided) · morning train toward Mora |
 | **Train** | Storlien is on rail — typically via **Östersund** toward **Mora** · check **SJ / Norrtåg** · winter delays |
 | Time | Budget **1 travel day** Storlien→Mora (connections not always same-day easy) |
 | Car | Collect · drive NL (same long drive · winter) |
@@ -141,7 +153,7 @@ Official: [Vad och vem får du ta med](https://www.dalatrafik.se/sa-reser-du-med
 
 **If companion bails early** (weather / injury): agree rendezvous (e.g. **Tänndalen / Funäsdalen** road) or they bus back to Mora without finishing to Storlien — car still recoverable.
 
-**If companion no-show for return drive:** need a **plan B** for the car (friend pickup · paid retrieval). Confirm companion **before** locking this plan.
+**If companion no-show for return drive:** treat as **Case 2** in [From finish](#from-finish--treriksröset--25-apr) — car stays Mora until **you** collect late Apr, or **paid retrieval**. Confirm companion **before** locking short-park-only.
 
 ### Why this works
 
@@ -186,27 +198,118 @@ Official: [Vad och vem får du ta med](https://www.dalatrafik.se/sa-reser-du-med
 
 ## From finish — Treriksröset (~25 Apr)
 
-**There is no road at the cairn.** You ski out. Goal day is **not** “home same evening.” **Car is already home** (companion) — you take **train/bus south** from the north.
+**There is no road at the cairn.** You ski out. Goal day is **not** “home same evening.” Budget **2–5 travel days** to NL depending on exit and whether the **car is still in Mora**.
 
-### Exit A ★ — Kilpisjärvi (Finland)
+```text
+Treriksröset
+    │
+    ├── Exit A ★ ──► Kilpisjärvi (FI) ──bus──► … ──► Kiruna
+    ├── Exit B    ──► Tromsø (NO)
+    └── Exit C    ──► Abisko / Riksgränsen (bail only)
+              │
+              ▼
+     ┌────────┴────────┐
+     │                 │
+ Car home (★)     Car still Mora
+     │                 │
+ train/bus          → Mora → drive NL
+  → NL              (or paid retrieval)
+```
+
+---
+
+### Gate 1 — ski out of the cairn
+
+| Exit | Ski | Then | Lean |
+|------|-----|------|------|
+| **A ★ Kilpisjärvi (FI)** | **~11–15 km** via Malla / lake · or **Pältsa → Kilpisjärvi ~22 km** | Village · lodging · FI buses | **Default** |
+| **B Tromsø (NO)** | Via **Goldahytta / Gappohytta** · **Signaldalen** · road bus | Bigger hub · NOK | Alt if weather / route favors NO |
+| **C Abisko corridor** | Bail **south** before / without cairn | Train on Malmbanan | Storm / injury / skip finish |
+
+Summer boat on Kilpisjärvi does **not** run in April. **Pältsa** may be closed late Apr — [stf-openings](./stf-openings-2027.md).
+
+**Docs at finish:** passport · **EUR + SEK + NOK + card** · FI time often **1 h ahead** of SE.
+
+---
+
+### Gate 2 — north hub → southbound rail
+
+#### Path A ★ — Kilpisjärvi → Kiruna → train south
+
+| Hop | Notes |
+|-----|-------|
+| **Kilpisjärvi → border corridor** | Bus toward **Karesuvanto (FI)** / **Karesuando (SE)** — **not** always one ticket to Kiruna; check **Matkahuolto** + SE connectors · **Apr 2027** TT not fixed yet |
+| **→ Kiruna** | Often **overnight** / multi-leg · taxi budget if last bus misses |
+| **Kiruna station** | ~**6 km** from centrum — free transfer bus with many train times ([Kiruna Lappland](https://kirunalappland.se/res-till-kiruna/tag/)) |
+| **Kiruna → south** | **SJ / night train** toward **Stockholm** (or Boden/Luleå change — confirm **Apr 2027** product) · book **flexible** ±1 week around **25 Apr** |
+| **Stockholm → NL** | Day/night train via **Köln / Hamburg** or coach · or overnight in STHLM then continue |
+
+**Reality check:** Kilpisjärvi→Kiruna is the **fragile** link (few buses · ski/pulk awkward). Confirm Matkahuolto / local lines in **Mar 2027**; keep **taxi / hitch** mental budget for the border–Kiruna gap.
+
+#### Path B — Tromsø → south
+
+| Hop | Notes |
+|-----|-------|
+| **Into Tromsø** | Bus from Signaldalen / E8 corridor · [Troms fylkestrafikk](https://www.tromskortet.no/) |
+| **Tromsø → south** | Coach toward **Narvik / Bodø / Oslo** · or bus to **Narvik** then **train** SE (Malmbanan → Kiruna → south) |
+| **Toward NL** | Via **Oslo → København / Hamburg** · or rejoin Swedish night train at **Kiruna / Luleå / Stockholm** |
+
+Useful if you already exit west/NW of the cairn; longer and more expensive than A for most Band finishes.
+
+#### Path C — Bail Abisko / Björkliden / Riksgränsen
+
+Train **south on Malmbanan** → same Kiruna/Stockholm spine. Contingency only (you did not “finish” at the cairn, or you retreated).
+
+---
+
+### Gate 3 — NL: two cases
+
+#### Case 1 ★ — Car already home (companion drove ~late Feb)
+
+You only need **public transport finish → NL**.
 
 | Step | Notes |
 |------|-------|
-| **Treriksröset → Kilpisjärvi** | Ski **~11–15 km** via Malla / lake · or **Pältsa → Kilpisjärvi ~22 km** |
-| **South** | Bus → **Karesuvanto / Karesuando** → **Kiruna** (often overnight) |
-| **Home** | **Night train / SJ** from Kiruna south · connect toward NL |
+| 1 | Exit A or B → **Kiruna** or **Tromsø** hub |
+| 2 | **Night train / SJ** south to **Stockholm** (or equivalent) |
+| 3 | Continue **Stockholm → NL** (train via DE/DK · or FlixBus / similar) |
+| Time | Often **2–4 days** after cairn (weather + bus gaps) |
+| Gear | Soft-pack pulk · ski bag · use up alkylate before long hops |
 
-Summer boat does **not** run in April. **Pältsa** may be closed late Apr — [stf-openings](./stf-openings-2027.md).
+No Mora detour. Companion already has the car.
 
-**Docs:** passport · **EUR + SEK + card** · FI time often **1 h ahead** of SE — check before bus.
+#### Case 2 — Car still in Mora (~70–80 day park)
 
-### Exit B — Tromsø (Norway)
+Companion failed, cancelled, or you never had one. You must **retrieve the car** before the final drive to NL (unless someone else drives it home).
 
-Ski toward **Goldahytta / Gappohytta** · **Signaldalen** · bus **Tromsø** · bus/train south (or coastal route) toward home.
+```text
+Finish hub (Kiruna / Tromsø / Stockholm)
+        │
+        ├── Option 2a ★ ── train/bus ──► Mora ── drive ──► NL
+        ├── Option 2b    ── to Stockholm ──► Mora ── drive ──► NL
+        └── Option 2c    ── paid retrieval (friend / company) · you go NL public
+```
 
-### Exit C — Bail south
+| Option | Route | When | Notes |
+|--------|-------|------|-------|
+| **2a ★ Direct to Mora** | Kiruna (or Tromsø→SE rail) → **Östersund / Uppsala / Stockholm** connections → **Mora** | Prefer if you still have energy + gear | [SJ](https://www.sj.se/) / [Resrobot](https://www.resrobot.se/) · budget **1–2 travel days** hub→Mora · overnight if needed |
+| **2b Via Stockholm** | Night train → **Stockholm** · rest · day train → **Mora** | Safer if exhausted / gear mess | Extra night · cleaner connections |
+| **2c Paid retrieval** | Friend / family / commercial drive-out from Mora while you train NL | Best if injured / timed out / parking expires | Agree **before** trip · keys + insurance named |
 
-Drop to **Abisko / Björkliden / Riksgränsen** → train south. Contingency only.
+**After Mora (2a/2b):** collect car · check battery/tyres · **drive Mora → NL** (~**18–22 h** · 1–2 overnight stops · winter→spring roads). Same drive companion would have done in Feb, but **you** do it after ~70 days on trail — plan real rest before the wheel.
+
+**Parking must allow late-Apr pickup** (or 2c). Mid-Feb → end-Apr is **not** the same product as “10–14 days.”
+
+| Risk | Mitigation |
+|------|------------|
+| Parking contract ends March | Book **through 30 Apr** or movable end date |
+| Dead battery / flat | Local garage / jump · leave contact with parking host |
+| Keys only with failed companion | **Spare key** in NL or with parking host |
+| You finish late (May) | Buffer in parking agreement |
+
+**Do not** leave car in Mora “and see” without Case 2 parking + key plan.
+
+---
 
 ### Gear on the way out
 
@@ -215,6 +318,7 @@ Drop to **Abisko / Björkliden / Riksgränsen** → train south. Contingency onl
 | **Pulk / skis** | Oversized on FI/NO buses — taxi budget · ski bag for long trains |
 | **Alkylate left** | Use up or leave — awkward on long public hops |
 | **XLite / Ultra** | Abisko ship-home if planned |
+| **Drive-home bag** | If Case 2: clean clothes/shoes either **in Mora car** or soft parcel to Mora hotel |
 
 ---
 
@@ -223,7 +327,7 @@ Drop to **Abisko / Björkliden / Riksgränsen** → train south. Contingency onl
 ### Outbound (Jan–Feb 2027)
 
 - [ ] Confirm **companion** Grövelsjön → Storlien + **drive Mora → NL**
-- [ ] Confirm **Mora long-stay parking** (~10–14 days) + insurance / named driver
+- [ ] Confirm **Mora parking** for **~10–14 days** (hotel/guest/private OK — not a special long-stay product) + insurance / named driver
 - [ ] Plan **drive NL → Mora** (overnights · ferry/bridge)
 - [ ] Book **Dalatrafik 396** Mora → Grövelsjön (**60 SEK**/adult länszon) · confirm **2 pulkor** with **0771-95 95 95**
 - [ ] **Recheck winter 396 timetable** (Dec 2026–Jan 2027) for **13–14 Feb** · PDF via tidtabeller search **396**
@@ -236,23 +340,35 @@ Drop to **Abisko / Björkliden / Riksgränsen** → train south. Contingency onl
 
 ### Return — you (flexible · Apr 2027)
 
-- [ ] **Flexible** train/bus home from **Kiruna** or **Tromsø** (±1 week around **25 Apr**)
-- [ ] Offline maps for **Kilpisjärvi exit**
-- [ ] Bus days Kilpisjärvi → Kiruna · taxi backup
-- [ ] Passport · roaming **FI/NO**
+**Always**
+- [ ] Offline maps for **Kilpisjärvi** (and Tromsø bail)
+- [ ] Confirm **Apr** buses Kilpisjärvi → border / Kiruna · taxi backup
+- [ ] Passport · roaming **FI/NO** · EUR/SEK/NOK
 - [ ] Ski/pulk policy on night trains south
+- [ ] **Flexible** tickets ±1 week around **25 Apr**
+
+**If car already home (Case 1 ★)**
+- [ ] Book **Kiruna → Stockholm** (night) + **Stockholm → NL**
+- [ ] No Mora stop needed
+
+**If car still in Mora (Case 2)**
+- [ ] Parking valid through **≥ end Apr** (or retrieval booked)
+- [ ] Spare key plan · insurance covers **your** late-Apr drive
+- [ ] Book hub → **Mora** (2a) or hub → **Stockholm → Mora** (2b)
+- [ ] Rest night before **Mora → NL** drive · ferry/bridge if needed
+- [ ] Or confirm **paid retrieval** (2c) + your public path to NL
 
 ### Contacts / planners
 
 | Service | Use |
 |---------|-----|
 | [Dalatrafik](https://www.dalatrafik.se/) | Mora → Grövelsjön |
-| [SJ](https://www.sj.se/) / Norrtåg | Companion Storlien → Mora · your return south |
-| [Resrobot](https://www.resrobot.se/) | SE connections |
+| [SJ](https://www.sj.se/) / Norrtåg | Companion Storlien → Mora · finish → south / Mora |
+| [Resrobot](https://www.resrobot.se/) | SE connections · hub → Mora |
 | [Fjällexpressen](https://www.fjallexpressen.se/) | Fallback coach |
-| [lanstrafiken.norrbotten.se](https://www.lanstrafiken.norrbotten.se/) | North buses |
-| Matkahuolto / FI buses | Kilpisjärvi south |
-| Troms fylkestrafikk | → Tromsø |
+| [lanstrafiken.norrbotten.se](https://www.lanstrafiken.norrbotten.se/) | North SE buses |
+| [Matkahuolto](https://www.matkahuolto.fi/) | Kilpisjärvi / FI buses |
+| Troms fylkestrafikk / Tromskortet | → Tromsø |
 
 ---
 
@@ -261,10 +377,12 @@ Drop to **Abisko / Björkliden / Riksgränsen** → train south. Contingency onl
 | # | Question | Default lean |
 |---|----------|--------------|
 | 1 | **Companion confirmed?** | Need yes before locking car-in-Mora |
-| 2 | **Where park in Mora?** | Hotel/long-stay — research autumn 2026 |
+| 2 | **Where park in Mora?** | Any legal **~2 weeks** — hotel/guest/private; research autumn 2026 |
 | 3 | Bus vs **taxi** Mora→Grövelsjön with 2 pulks? | Try **396** (**120 SEK** pair) · call ahead · taxi quote as backup |
 | 4 | Your exit: **Kilpisjärvi → Kiruna → train** vs **Tromsø**? | **Kilpisjärvi → Kiruna → SJ south** |
 | 5 | Arrive Grövelsjön **1 or 2** nights early? | **2** |
+| 6 | If car still Mora: **you collect (2a/2b)** vs **paid retrieval (2c)**? | Prefer **2a** if fit · else **2c** |
+| 7 | Mora parking: short (**~14 d**) only, or bookable through **Apr**? | **~14 d** enough if companion confirmed · Apr only for Case 2 |
 
 ---
 
@@ -277,3 +395,4 @@ Drop to **Abisko / Björkliden / Riksgränsen** → train south. Contingency onl
 | 2026-08-19 | Surface travel only (car · bus · train) |
 | 2026-08-19 | **396** Mora→Grövelsjön: **60 SEK** länszon · skis/stort bagage **om plats** · **2 pulks** not guaranteed · no fuel on bus |
 | 2026-08-19 | **396 schedules** logged from autumn PDF + planner · **Feb 2027 winter TT not out yet** |
+| 2026-08-19 | Finish→home expanded: Case 1 car already NL · Case 2 car still Mora (2a/2b/2c) |
