@@ -13,6 +13,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 **Fast dense (~27 km · scraped stitch):** [dag-for-dag-fast-27km-2027.md](./dag-for-dag-fast-27km-2027.md) · [`vita-bandet-fast-27km.gpx`](../tracks/generated/vita-bandet-fast-27km.gpx)  
 **Master GPX:** [`2027.GPX`](../tracks/2027.GPX) — maintained manually in BaseCamp and used as the route source of truth. Detail/context: [band-tracks-comparison.md](./band-tracks-comparison.md).  
 **Resupply (local):** [resupply-2027.md](./resupply-2027.md)  
+**Transport (start & return):** [transport-considerations-2027.md](./transport-considerations-2027.md) · **Companion (§1):** [companion-plan-2027.md](./companion-plan-2027.md)  
 **STF hut openings:** [stf-openings-2027.md](./stf-openings-2027.md) (scraped from [svenskaturistforeningen.se](https://www.svenskaturistforeningen.se))
 **Gear inventory:** [gear-inventory-2027.md](./gear-inventory-2027.md) · **Comparisons & upgrades:** [gear-considerations-2027.md](./gear-considerations-2027.md)
 
@@ -54,6 +55,8 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 ## Route & logistics
 
 - **Planned direction:** Grövelsjön → Treriksröset  
+- **Getting there / home:** [transport-considerations-2027.md](./transport-considerations-2027.md) — **drive → Mora (park)** · companion **Grövelsjön→Storlien** may drive car home · you exit **Kilpisjärvi / Tromsø**
+- **Companion trip:** [companion-plan-2027.md](./companion-plan-2027.md) — ski **D1–D10** · train Storlien → Mora · drive car NL
 - **Daily distance target (km):** ramp **10 → 23 km**; cruise **~20–23 km** (~22 km winter average); see [dag-for-dag](./dag-for-dag-2027.md)  
 - **Rest / weather buffer:** no fixed **R** days — resupply stops only; **Apr 20–30** = ~11 spare days  
 - **Resupply strategy:** **local shops first** (see [resupply-2027.md](./resupply-2027.md)); depots only for special items  
