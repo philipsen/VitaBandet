@@ -5,7 +5,7 @@ How to get **to Grövelsjön** and **home from Treriksröset**. Trip dates: **15
 **Assumptions:** solo after **Storlien** · ski + **pulk** · travel from **NL** · passport/ID for **SE / NO / FI**.  
 **Working plan:** **drive to Mora** · leave car · bus to start · **companion Grövelsjön → Storlien** may drive car home.
 
-**Related:** [companion plan](./companion-plan-2027.md) · [resupply](./resupply-2027.md) · [pack-checklist](./pack-checklist-2027.md) · [vita-bandet](./vita-bandet-2027.md)
+**Related:** [companion plan](./companion-plan-2027.md) · [resupply](./resupply-2027.md) · [pack-checklist](./pack-checklist-2027.md) · [vita-bandet](../README.md)
 
 ---
 
@@ -57,12 +57,28 @@ Only if you leave the car while you ski. **Not** a mandatory commercial “long-
 
 | Scenario | Duration | Notes |
 |----------|----------|-------|
-| **★ Companion drives home** | **~10–14 days** (park ~13 Feb → collect ~25–27 Feb) | Default — hotel/guest parking, private driveway, friends, paid lot OK for **2 weeks** |
-| **Car still there at finish** | **~70–80 days** (mid-Feb → late Apr) | Contingency only — then need an **explicit long park** **or** paid retrieval |
+| **★ Companion drives home** | **~10–14 days** (park ~13 Feb → collect ~25–27 Feb) | Default — **resecentrum långtid** or hotel/guest/private |
+| **Car still there at finish** | **~70–80 days** (mid-Feb → late Apr) | Contingency — **book through end Apr** or paid retrieval · not free town lots |
+
+Town has **no unlimited free parking.** Centre lots: **2 h free** then pay. Simhall / Tingsnäsbadet / Skidstadion / Prästholmen: **free but max 12 h** — ticket **400 SEK** if overstayed. Do not dump the car there.
+
+| Option | Cost (Aug 2026) | Max stay | For this trip |
+|--------|-----------------|----------|---------------|
+| **★ Resecentrum långtid 25011** | **2 SEK/h** first 24 h · then **1 SEK/h** (~**350 SEK** / 2 weeks · ~**1 800 SEK** / ~75 d) | None | Next to **396** · default if no host · [rules](https://morakommun.se/trafik-och-infrastruktur/trafik-gator-och-parkering/parkeringar-.html) · [map](https://karta.morakommun.se/#layers=topokartaskuggad_nedtonad/v/1/s/0,mora_parkering_gator/v/1/s/1,mora_parkeringszoner/v/1/s/1&center=474976,6763493&zoom=7&map=index) (click the resecentrum lot) |
+| **Månadsbiljett** (traveller) | **200 SEK**/month | Until you cancel (before 14th of last month) | Same lots: resecentrum långtid · Kajen · Morastrand · space permitting · [apply Parkster](https://parkster.se/subscriptionregistrationflow?subGroupId=85) · ask if **396 / Grövelsjön** counts (page says e.g. Inlandsbanan) |
+| Hotel / guest / private driveway | Often free with a night | Host agrees | Cleanest for **~14 d** if someone will host |
+| **Mora-Siljan Airport** | **Free** open lot · gated **81 SEK/d** or **379 SEK/week** | Advertised långtid · no pre-book | **~6 km** SW of centre · **no bus** to Mora C · taxi to resecentrum · meant for **flyers** — OK-ish for **2 weeks**; confirm with Dalaflyget before **Feb–Apr** |
+| Town “free” lots / street | Free | **12 h** or signed limit | **No** |
+
+**Pay on the lot:** EasyPark / Parkster zone **25011** (app fee on top of 1–2 SEK/h).  
+**Månadsbiljett:** [Parkster form](https://parkster.se/subscriptionregistrationflow?subGroupId=85) · no Swedish personnummer → [teknik-serviceforvaltningen@mora.se](mailto:teknik-serviceforvaltningen@mora.se) · **0250-260 00**.  
+**Airport:** [Dalaflyget parkering](https://www.dalaflyget.se/mora/parkering/) — they do **not** cover theft/damage.
+
+**Jan 2027 checks:** 25011 still open (roadworks have closed it before) · **Vasaloppet ~20 Feb–1 Mar** crowds Mora when companion returns · Case 2: ticket valid **≥ 30 Apr**.
 
 | Need | Notes |
 |------|-------|
-| **Where** | Legal for the days you need · **not** unlimited street dumping |
+| **Where** | Legal for the days you need · **not** 12 h lots or unsigned street |
 | Keys | Companion needs **keys + spare** · written permission if rental / insurance named driver |
 | Spare key | Leave **spare with trusted person in NL/SE** if companion might fail |
 | Insurance | Cover while parked abroad · companion as **driver** for Feb return · **you** if late-Apr |
@@ -70,8 +86,8 @@ Only if you leave the car while you ski. **Not** a mandatory commercial “long-
 | Battery / winter | **2 weeks:** usually fine. **Months:** trickle / host check |
 
 **Mandatory for this car plan:** somewhere legal until companion returns (~**end Feb**).  
-**Not mandatory:** branded long-stay · multi-month booking (unless Case 2).  
-**Fallback if no companion:** do **not** leave the car ~2.5 months casually — train/coach outbound, or **paid retrieval**.
+**Not mandatory:** branded multi-month booking (unless Case 2).  
+**Fallback if no companion:** do **not** leave the car ~2.5 months on free town / unconfirmed airport — resecentrum through Apr, or **paid retrieval**.
 
 ### Mora → Grövelsjön
 
@@ -327,7 +343,7 @@ Finish hub (Kiruna / Tromsø / Stockholm)
 ### Outbound (Jan–Feb 2027)
 
 - [ ] Confirm **companion** Grövelsjön → Storlien + **drive Mora → NL**
-- [ ] Confirm **Mora parking** for **~10–14 days** (hotel/guest/private OK — not a special long-stay product) + insurance / named driver
+- [ ] Confirm **Mora parking** for **~10–14 days**: **resecentrum långtid 25011** (or månadsbiljett **200 SEK**) · hotel/guest if offered · insurance / named driver
 - [ ] Plan **drive NL → Mora** (overnights · ferry/bridge)
 - [ ] Book **Dalatrafik 396** Mora → Grövelsjön (**60 SEK**/adult länszon) · confirm **2 pulkor** with **0771-95 95 95**
 - [ ] **Recheck winter 396 timetable** (Dec 2026–Jan 2027) for **13–14 Feb** · PDF via tidtabeller search **396**
@@ -352,7 +368,7 @@ Finish hub (Kiruna / Tromsø / Stockholm)
 - [ ] No Mora stop needed
 
 **If car still in Mora (Case 2)**
-- [ ] Parking valid through **≥ end Apr** (or retrieval booked)
+- [ ] Parking valid through **≥ end Apr** (resecentrum hourly / månadsbiljett — or retrieval booked) · **not** 12 h town lots
 - [ ] Spare key plan · insurance covers **your** late-Apr drive
 - [ ] Book hub → **Mora** (2a) or hub → **Stockholm → Mora** (2b)
 - [ ] Rest night before **Mora → NL** drive · ferry/bridge if needed
@@ -363,6 +379,8 @@ Finish hub (Kiruna / Tromsø / Stockholm)
 | Service | Use |
 |---------|-----|
 | [Dalatrafik](https://www.dalatrafik.se/) | Mora → Grövelsjön |
+| [Mora kommun parkeringar](https://morakommun.se/trafik-och-infrastruktur/trafik-gator-och-parkering/parkeringar-.html) | Resecentrum långtid · månadsbiljett **200 SEK** |
+| [Dalaflyget parkering](https://www.dalaflyget.se/mora/parkering/) | Mora-Siljan **free** långtid · gated paid |
 | [SJ](https://www.sj.se/) / Norrtåg | Companion Storlien → Mora · finish → south / Mora |
 | [Resrobot](https://www.resrobot.se/) | SE connections · hub → Mora |
 | [Fjällexpressen](https://www.fjallexpressen.se/) | Fallback coach |
@@ -377,12 +395,12 @@ Finish hub (Kiruna / Tromsø / Stockholm)
 | # | Question | Default lean |
 |---|----------|--------------|
 | 1 | **Companion confirmed?** | Need yes before locking car-in-Mora |
-| 2 | **Where park in Mora?** | Any legal **~2 weeks** — hotel/guest/private; research autumn 2026 |
+| 2 | **Where park in Mora?** | **★ Resecentrum långtid 25011** (walk to 396) · hotel/guest if offered · airport free only as backup |
 | 3 | Bus vs **taxi** Mora→Grövelsjön with 2 pulks? | Try **396** (**120 SEK** pair) · call ahead · taxi quote as backup |
 | 4 | Your exit: **Kilpisjärvi → Kiruna → train** vs **Tromsø**? | **Kilpisjärvi → Kiruna → SJ south** |
 | 5 | Arrive Grövelsjön **1 or 2** nights early? | **2** |
 | 6 | If car still Mora: **you collect (2a/2b)** vs **paid retrieval (2c)**? | Prefer **2a** if fit · else **2c** |
-| 7 | Mora parking: short (**~14 d**) only, or bookable through **Apr**? | **~14 d** enough if companion confirmed · Apr only for Case 2 |
+| 7 | Mora parking: short (**~14 d**) only, or bookable through **Apr**? | **~14 d** at 25011 enough if companion confirmed · Case 2: same lot **through Apr** (~**1 800 SEK** hourly or **200 SEK**/month) |
 
 ---
 
@@ -396,3 +414,4 @@ Finish hub (Kiruna / Tromsø / Stockholm)
 | 2026-08-19 | **396** Mora→Grövelsjön: **60 SEK** länszon · skis/stort bagage **om plats** · **2 pulks** not guaranteed · no fuel on bus |
 | 2026-08-19 | **396 schedules** logged from autumn PDF + planner · **Feb 2027 winter TT not out yet** |
 | 2026-08-19 | Finish→home expanded: Case 1 car already NL · Case 2 car still Mora (2a/2b/2c) |
+| 2026-08-19 | Mora parking: no free unlimited town · **★ resecentrum långtid 25011** (1–2 SEK/h) · månadsbiljett **200 SEK** · airport free långtid 6 km, no bus |
