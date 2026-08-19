@@ -6,7 +6,8 @@ Trip for the **section-1 companion**: ski **~10 days** with you (shared tent + s
 **Transport / car / bus:** [transport-considerations-2027.md](./transport-considerations-2027.md)  
 **Resupply:** [resupply-2027.md](./resupply-2027.md)  
 **GPX:** [`tracks/2027.GPX`](../tracks/2027.GPX) (section Grövelsjön → Storlien)  
-**Other PT-easy legs:** [Other companion-suited sections](#other-companion-suited-sections--pt-both-ends)
+**Other PT-easy legs:** [Other companion-suited sections](#other-companion-suited-sections--pt-both-ends)  
+**Official Ribbon:** [White & Green Ribbon](https://www.vitagronabandet.se/en/white-green-ribbon/) (companion is **not** a registered Section unless they sign up separately)
 
 ---
 

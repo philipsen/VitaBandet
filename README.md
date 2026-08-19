@@ -1,6 +1,6 @@
 # Vita Bandet 2027 — trip planning
 
-Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https://www.vitagronabandet.se/) (The White Ribbon): human-powered travel along Sweden’s mountain chain, typically **Grövelsjön ↔ Treriksröset** (~1,400 km), in one continuous winter journey.
+Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https://www.vitagronabandet.se/en/white-green-ribbon/) (The White Ribbon): human-powered travel along Sweden’s mountain chain, typically **Grövelsjön ↔ Treriksröset** (~1,400 km), in one continuous winter journey.
 
 **Target season:** **15 Feb – 25 Apr 2027** (70-day plan · **~5 days slack** to 30 Apr)  
 **Mode:** ski + **pulk**, **mostly tent**  
@@ -13,7 +13,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 **Fast dense (~27 km · scraped stitch):** [dag-for-dag-fast-27km-2027.md](plan/dag-for-dag-fast-27km-2027.md) · [`vita-bandet-fast-27km.gpx`](tracks/generated/vita-bandet-fast-27km.gpx)  
 **Master GPX:** [`2027.GPX`](tracks/2027.GPX) — maintained manually in BaseCamp and used as the route source of truth. Detail/context: [band-tracks-comparison.md](plan/band-tracks-comparison.md).  
 **Resupply (local):** [resupply-2027.md](plan/resupply-2027.md)  
-**Transport (start & return):** [transport-considerations-2027.md](plan/transport-considerations-2027.md) · **Companion (§1):** [companion-plan-2027.md](plan/companion-plan-2027.md)  
+**Transport (start & return):** [transport-considerations-2027.md](plan/transport-considerations-2027.md) · **Companion (§1):** [companion-plan-2027.md](plan/companion-plan-2027.md) · [other PT-easy legs](plan/companion-plan-2027.md#other-companion-suited-sections--pt-both-ends)  
 **STF hut openings:** [stf-openings-2027.md](plan/stf-openings-2027.md) (scraped from [svenskaturistforeningen.se](https://www.svenskaturistforeningen.se))
 **Gear inventory:** [gear-inventory-2027.md](plan/gear-inventory-2027.md) · **Comparisons & upgrades:** [gear-considerations-2027.md](plan/gear-considerations-2027.md)
 
@@ -56,7 +56,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 - **Planned direction:** Grövelsjön → Treriksröset  
 - **Getting there / home:** [transport-considerations-2027.md](plan/transport-considerations-2027.md) — **drive → Mora (park)** · companion **Grövelsjön→Storlien** may drive car home · you exit **Kilpisjärvi / Tromsø**
-- **Companion trip:** [companion-plan-2027.md](plan/companion-plan-2027.md) — ski **D1–D10** · train Storlien → Mora · drive car NL
+- **Companion trip:** [companion-plan-2027.md](plan/companion-plan-2027.md) — ski **D1–D10** · train Storlien → Mora · drive car NL · [other PT-easy legs](plan/companion-plan-2027.md#other-companion-suited-sections--pt-both-ends)
 - **Daily distance target (km):** ramp **10 → 23 km**; cruise **~20–23 km** (~22 km winter average); see [dag-for-dag](plan/dag-for-dag-2027.md)  
 - **Rest / weather buffer:** no fixed **R** days — resupply stops only; **Apr 20–30** = ~11 spare days  
 - **Resupply strategy:** **local shops first** (see [resupply-2027.md](plan/resupply-2027.md)); depots only for special items  
@@ -185,6 +185,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 ## Log & references
 
 - **Useful links:**  
+  - [White & Green Ribbon — official (EN)](https://www.vitagronabandet.se/en/white-green-ribbon/)  
   - [Vita & Gröna Bandet — official site](https://www.vitagronabandet.se/)  
   - [History (EN)](https://www.vitagronabandet.se/en/history/)  
 - **Trip reports / mentors:**  
