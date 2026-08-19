@@ -5,7 +5,7 @@ How to get **to Grövelsjön** and **home from Treriksröset**. Trip dates: **15
 **Assumptions:** solo after **Storlien** · ski + **pulk** · travel from **NL** · passport/ID for **SE / NO / FI**.  
 **Working plan:** **drive to Mora** · leave car · bus to start · **companion Grövelsjön → Storlien** may drive car home.
 
-**Related:** [companion plan](./companion-plan-2027.md) · [resupply](./resupply-2027.md) · [pack-checklist](./pack-checklist-2027.md) · [vita-bandet](../README.md)
+**Related:** [companion plan](./companion-plan-2027.md) (§1 working · [other PT-easy legs](./companion-plan-2027.md#other-companion-suited-sections--pt-both-ends)) · [resupply](./resupply-2027.md) · [pack-checklist](./pack-checklist-2027.md) · [vita-bandet](../README.md)
 
 ---
 
@@ -415,3 +415,4 @@ Finish hub (Kiruna / Tromsø / Stockholm)
 | 2026-08-19 | **396 schedules** logged from autumn PDF + planner · **Feb 2027 winter TT not out yet** |
 | 2026-08-19 | Finish→home expanded: Case 1 car already NL · Case 2 car still Mora (2a/2b/2c) |
 | 2026-08-19 | Mora parking: no free unlimited town · **★ resecentrum långtid 25011** (1–2 SEK/h) · månadsbiljett **200 SEK** · airport free långtid 6 km, no bus |
+| 2026-08-19 | Companion PT-easy alts (huts): Hemavan→Ammarnäs · Ritsem→Abisko — see companion plan; §1 still needed for Mora car |
