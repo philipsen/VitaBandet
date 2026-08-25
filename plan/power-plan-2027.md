@@ -119,13 +119,14 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 
 | Setting | Value | Why |
 |---------|-------|-----|
-| **Role** | **Primary on-trail nav** | Map on wrist · GPX route loaded |
+| **Role** | **Primary on-trail nav** | Map on wrist · GPX **preloaded** |
 | Activity | **Start at camp** · **End/pause at camp** | Clean daily track · saves idle GPS |
 | GPS mode | **Endurance** or **Tour** — not Multi-Band all day | Multi-Band **65 h** vs Tour **250 h** spec |
-| Maps | **Offline route/region** synced pre-trip | No phone needed on trail |
+| Maps | **Offline route/region** synced **at home** | No phone needed on trail |
+| **Track → phone** | **No** — cloud export only (★ / hut wifi) | Charge cable is power only · [Suunto dump](./gear-considerations-2027.md#suunto-vertical-2--no-offline-track-dump) |
 | Display | Wrist-raise **on** · brightness **medium-low** | AMOLED drain in cold |
 | HR | **On** — or **off during ski** if charge tight | Wrist HR costs ~10–15% on long GPS days |
-| Phone backup | OsmAnd only when Suunto unclear / whiteout | Occasional — not daily |
+| Phone backup | OsmAnd (own `2027.GPX`) when Suunto unclear / whiteout | Occasional — not daily · **not** a Suunto dump |
 | Flashlight | Storm first · Suunto LED for **glove tasks only** | AMOLED + LED adds drain |
 | Charge target | **Every 2 nights** to ~60–70% | Small cell · priority charge rhythm |
 
@@ -159,7 +160,7 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 | Setting | Value | Why |
 |---------|-------|-----|
 | Power | **ON melt/cook only** · **OFF** all other times | ~18 h active runtime spec — vestibule use is **~1 h/night** |
-| Mount | **Magnetic** on pole/pot/stove · **face height** in Nallo GT vestibule | OmniLite + silencer in vestibule — [packing](./packing-pulk-2027.md) |
+| Mount | **Magnetic** on pole/pot/stove · **face height** in Nammatj GT vestibule | OmniLite + silencer in vestibule — [packing](./packing-pulk-2027.md) |
 | Screen | Let auto-dim / sleep if equipped | Saves battery between checks |
 | Temp/RH | Bonus glance only — not primary weather kit | Suunto + 66i barometer cover nav |
 | Charge target | **Full at every ★ / hut** · mid-leg sip only if &lt;20% before long cook stretch | Drain is tiny if you **power off** after stove |

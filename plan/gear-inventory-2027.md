@@ -2,7 +2,7 @@
 
 **Trip:** solo · S→N · Feb–Apr · ski + **pulk** · ~65 days · mostly **tent**
 
-**Core kit:** Hilleberg **Nallo 3GT** · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Lowland K2** ✓ · **Exped Ultra 7R** ✓ · **NeoAir XLite** ✓ · **OmniLite Ti** + silencer · **2× 1 L** fuel · **Jemtlander 14** + **Sleeper 200** · **TOAKS 1600 ml** ✓ · **GPSMAP 66i** · **OsmAnd+**
+**Core kit:** Hilleberg **Nammatj 3 GT** + **Sled Pack** (📦) · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Lowland K2** ✓ · **Exped Ultra 7R** ✓ · **NeoAir XLite** ✓ · **OmniLite Ti** + silencer · **2× 1 L** fuel · **Jemtlander 14** + **Sleeper 200** · **TOAKS 1600 ml** ✓ · **GPSMAP 66i** · **OsmAnd+**
 
 Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). **Comparisons & upgrade paths:** [gear-considerations-2027.md](./gear-considerations-2027.md). **Packing:** [packing-pulk-2027.md](./packing-pulk-2027.md). **Print list:** [pack-checklist-2027.md](./pack-checklist-2027.md).
 
@@ -15,8 +15,8 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Skis / boots / binding | Ingstad · Outback · Xplore | [details](./gear-considerations-2027.md#ski-system) |
 | Skins | Short ✓ + long after reglue | [skins](./gear-considerations-2027.md#climbing-skins) |
 | Poles | **Combat V2** (own Speed Trail — training) | Varuste VIP |
-| Pulk | **Jemtlander 14** + **Sleeper 200** | Sleep kit on sled — [packing](./packing-pulk-2027.md) |
-| Tent | **Nallo 3GT** | [upgrades](./gear-considerations-2027.md#tent--nallo-3gt--upgrades) |
+| Pulk | **Jemtlander 14** + **Sleeper 200** + **Sled Pack** 📦 | Sleep kit + tent on sled — [packing](./packing-pulk-2027.md) |
+| Tent | **Nammatj 3 GT** 📦 | [tent](./gear-considerations-2027.md#tent--nammatj-3-gt) · Nallo 3GT spare |
 | Bag | **Lowland K2** ✓ | −35 °C comfort · ~2 kg |
 | Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ (ship to Abisko) · **Sirex Everest 10** foam backup (**Buy**) | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
 | Stove / pot | **OmniLite** + silencer · **TOAKS 1600 ml** ✓ | **2 L** max alkylate · [cooking](./gear-considerations-2027.md#cooking--toaks-ti-1600-ml) |
@@ -67,9 +67,11 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 
 | Item | Model / spec | Qty | Weight (g) | Own | Need | Notes |
 |------|--------------|-----|------------|-----|------|-------|
-| Tent | Hilleberg **Nallo 3GT** | 1 | ~3100 | ✓ | **Test** | |
+| Tent | Hilleberg **Nammatj 3 GT** | 1 | ~4100 | 📦 | **Test** | Trail tent · Kerlon 1800 · weigh when it arrives |
+| Sled / pulka pack | Hilleberg **Sled Pack** | 1 | **~200** | 📦 | **Test** | Tent **on** pulk · poles half-in · [sled pack](./gear-considerations-2027.md#hilleberg-sled-pack-pulka-pack) |
+| Tent (spare) | Hilleberg **Nallo 3GT** | 1 | ~3100 | ✓ | | Leave home unless Nammatj fails |
 | Tent stakes snow/sand | Aluminium | 12+ | | ✓ | **Test** | |
-| Tent repair kit | poles, fabric | 1 | ✓ | | With **Nallo 3GT** |
+| Tent repair kit | poles, fabric | 1 | | 📦 | | Comes with **Nammatj** · Nallo kit with spare |
 
 ### Sleep
 
@@ -203,7 +205,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 | Pulk rig (J14 + harness + bag) | ~5.3 kg | |
 | Food (10-day leg max) | 12–16 kg | |
 | Fuel | 2–4 kg | |
-| Tent (Nallo 3GT) | ~3.1 kg | |
+| Tent (Nammatj 3 GT) | ~4.1 kg | |
 | Sleep (bag + Ultra 7R in Sleeper) | 4.5–6.5 kg | XLite **not in pulk** — ship to Abisko |
 | Clothing spare | 3–5 kg | |
 | Kitchen + misc | ~2 kg | |
@@ -217,8 +219,8 @@ Measure **g/day** on shakedown at **−15 °C**.
 
 | # | Test | Pass? |
 |---|------|-------|
-| 1 | 3 nights **Nallo 3GT** sub −20 °C, pulk in vestibule | |
-| 2 | **J14 + Sleeper** — 8 h, 18–22 km, 10-day load | |
+| 1 | 3 nights **Nammatj 3 GT** in **Sled Pack** sub −20 °C, pulk in vestibule | |
+| 2 | **J14 + Sleeper + Sled Pack** — 8 h, 18–22 km, 10-day load | |
 | 3 | **Skins** — short ✓ + long after reglue; fishscale; pulk on hill | |
 | 4 | **Suunto** ski day + **66i** inReach; **OsmAnd** backup test | |
 | 5 | **OmniLite** + silencer on alkylate at −20 °C — **g/day** | |
@@ -236,7 +238,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 3. **Power / nav** — **USB headlamp** · OsmAnd maps on **Armor 14 Pro** · inReach plan *(Suunto V2 ✓ · phone ✓ · 1× Zolo on trail ✓ · 100 W wall ✓ · cables ✓)*  
 4. **New ski socks** (4–5) + **down booties**; **Sirex Everest 10** foam (~€15)  
 5. Fill **2× 1 L** bottles (OmniLite service kit ✓ — in stove kit)  
-6. Tent upgrade **only after** shakedown — [considerations](./gear-considerations-2027.md#tent--nallo-3gt--upgrades)
+6. **Nammatj 3 GT** 📦 — shakedown when it arrives · Nallo spare — [tent](./gear-considerations-2027.md#tent--nammatj-3-gt)
 
 ---
 
@@ -255,7 +257,7 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 | Stokken | Own **Speed Trail** (bent) · **buy** Combat/Traverse — [poles](./gear-considerations-2027.md#ski-poles) |
 | GPS + kaarten | **GPSMAP 66i** ✓ · **OsmAnd+** · **Calazo** (buy 5× 1:100k · 1:50k ✓) |
 | Telefoon | **Armor 14 Pro** + offline maps |
-| Tent | **Nallo 3GT** ✓ |
+| Tent | **Nammatj 3 GT** 📦 · Nallo 3GT spare ✓ |
 | Slaapmat | **Ultra 7R** ✓ in pulk · **XLite** ✓ ship to Abisko |
 | Winterslaapzak | **Lowland K2** ✓ |
 | Brander + benzine | **OmniLite** ✓ · **2× 1 L alkylate** |

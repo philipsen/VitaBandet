@@ -45,14 +45,15 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] Binding **Xplore** + spare pins/straps
 - [ ] Skins **short Åsnes** ✓ + **long** (after reglue)
 - [ ] Poles **new** (Combat/Traverse — not Speed Trail) + spare baskets for that pair
-- [ ] Pulk **Jemtlander 14** + harness
-- [ ] **Sleeper 200** on pulk — **bag + pad** in dry bags inside
+- [ ] Pulk **Jemtlander 14** + harness  
+- [ ] **Sleeper 200** on pulk — **bag + pad** in dry bags inside  
+- [ ] **Hilleberg Sled Pack** 📦 — Nammatj strapped on pulk
 
 ---
 
 ## Shelter & sleep
 
-- [x] Tent **Nallo 3GT** + stakes **12+** alu snow/sand + guy line + repair kit ✓
+- [ ] Tent **Nammatj 3 GT** 📦 in **Hilleberg Sled Pack** 📦 + stakes **12+** alu snow/sand + guy line + repair kit — Nallo 3GT spare at home
 - [ ] Sleeping bag **Lowland K2** + dry bag + **liner** ✓ → **Sleeper 200**
 - [ ] Pad **Exped Ultra 7R** + pump + repair kit + dry bag → **Sleeper 200** (active)
 - [x] Pad **NeoAir XLite** ✓ — **ship to Abisko** (not in pulk · optional switch at D62)
@@ -78,7 +79,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 
 ## Nav & comms
 
-- [ ] **Suunto Vertical 2** — route synced · charge cable · **primary on-trail nav**
+- [ ] **Suunto Vertical 2** — **all** routes preloaded at home · charge cable · **no** mid-trip GPX dump to phone
 - [ ] **GPSMAP 66i** + **micro-USB** cable + inReach active — SOS / backup log
 - [ ] **Armor 14 Pro** + **OsmAnd+** maps downloaded — **occasional backup**
 - [x] Compass
@@ -174,13 +175,13 @@ S→N: each point **east** of track. Wide corridor OK.
 
 ## Pre-trip shakedown (tick when done)
 
-- [ ] Nallo + pulk 3 nights ≤ −20 °C
+- [ ] Nammatj in **Sled Pack** + pulk 3 nights ≤ −20 °C
 - [ ] 8 h / 20 km day, 10-day pulk load
 - [ ] Long skins reglued — on/off in gloves
 - [ ] Alkylate g/day measured · silencer boil test
 - [ ] Sleep test: bag + pad on snow
 - [ ] **Sleeper 200** on pulk — repack bag + pad after each camp
-- [ ] Sleeper **bivi drill** (Nallo failed scenario) 20 min
+- [ ] Sleeper **bivi drill** (Nammatj failed scenario) 20 min
 - [ ] Suunto + 66i inReach test · OsmAnd backup once
 - [ ] Weigh loaded pulk: ______ kg
 
@@ -239,7 +240,7 @@ Blog: [andersnoren.se/white-ribbon-planning](https://andersnoren.se/white-ribbon
 | Topic | A light | B Paolo start | C Anders | **Your 2027** |
 |-------|---------|---------------|----------|---------------|
 | Pulk | Rulk hybrid | Acapulka XL 150 | **Jemtlander 17** | **Jemtlander 14** + **Sleeper 200** |
-| Tent | Soulo 1p | Keron 3 | **Nammatj 3 GT** | **Nallo 3GT** |
+| Tent | Soulo 1p | Keron 3 | **Nammatj 3 GT** | **Nammatj 3 GT** 📦 |
 | Sleep transport | Stuff sacks | Piteraq | **Exped Dura Bedding** | **Sleeper 200** |
 | Bag | Marmot −10/−18 | WM Puma −25 | Marmot Col −29 | **Lowland K2** |
 | Pad | Tensor + CCF | Xtherm + Z-Lite | XTherm + Z-Lite | **Ultra 7R** · **Sirex** foam · XLite→Abisko |
@@ -256,7 +257,7 @@ Blog: [andersnoren.se/white-ribbon-planning](https://andersnoren.se/white-ribbon
 - [ ] **Spare BC binding** — B carries ~250 g; still open for you.
 - [ ] **IKEA Frakta** — B + C use as pulk organising bag.
 - [ ] **Cooking board** — B plywood (~220 g) or late-trip cardboard under stove.
-- [ ] **Hilleberg sled pack** — C uses it for faster solo pitch with poles in channels.
+- [x] **Hilleberg sled pack** 📦 — with Nammatj · poles in channels · strap on pulk
 - [ ] **Daypack** — C packs Durston while skiing (sweat); keep town/detour pack named on list.
 - [ ] **Late-season slim** — B finish dropped tunnel tent for Duomid; don’t force Feb kit for all of April.
 

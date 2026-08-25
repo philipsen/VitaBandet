@@ -2,7 +2,7 @@
 
 Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.md) · [pack-checklist-2027.md](./pack-checklist-2027.md) · [gear-considerations-2027.md](./gear-considerations-2027.md).
 
-**Legend:** ✅ owned · 🛒 buy · 🔧 fix/prepare · ❓ confirm you have · ⏸ optional / after shakedown
+**Legend:** ✅ owned · 📦 on the way · 🛒 buy · 🔧 fix/prepare · ❓ confirm you have · ⏸ optional / after shakedown
 
 ---
 
@@ -125,7 +125,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | ❓ | Mid fleece | Inventory shows ? |
 | ❓ | Softshell / touring pants | Inventory shows ? |
 | ❓ | Sunscreen · goggles · sunglasses | Safety section — ? |
-| ✅ | Tent repair kit | Included with **Nallo 3GT** |
+| ✅ | Tent repair kit | Included with **Nammatj** (Nallo kit with spare) |
 | ❓ | Duct tape on pole | ? |
 
 ---
@@ -136,7 +136,6 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 |--------|------|-----|------|-------|
 | ⏸ | **inReach Mini 2** | 0–1 | ~€300–400 | Consider **replace 66i** — track-only · −140 g · less Wh · [66i vs Mini 2](./gear-considerations-2027.md#inreach--66i-vs-mini-2--consider-replace) |
 | ⏸ | **VBL liners** | 0–1 | ~€0–50 | DIY trial first · [VBL](./gear-considerations-2027.md#vbl-liners-optional) |
-| ⏸ | Tent upgrade | 0–1 | €700+ | **Only if** Nallo fails shakedown · [tent](./gear-considerations-2027.md#tent--nallo-3gt--upgrades) |
 | ⏸ | Long skins **replace** (vs reglue) | 1 pair | ~€150–250 | If fabric worn |
 
 ---
@@ -146,7 +145,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | Item | Status |
 |------|--------|
 | Skis · boots · bindings · short skins · **skin wax + glue** | ✅ Own |
-| Pulk J14 · Sleeper 200 · Nallo 3GT | ✅ Own |
+| Pulk J14 · Sleeper 200 · **Nammatj 3 GT** 📦 · **Sled Pack** 📦 · Nallo 3GT spare | 📦 tent + pulka pack · J14/Sleeper/Nallo ✓ |
 | Lowland K2 · Ultra 7R · XLite | ✅ Own |
 | OmniLite + silencer · TOAKS pot · 2× 1 L bottles | ✅ Own |
 | CO detector · Leatherman · shovel · first aid | ✅ Own |
@@ -164,9 +163,9 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | When | Do |
 |------|-----|
-| **Now–autumn 2026** | Poles · skin reglue (wax/glue ✓) · headlamp · Calazo (watch for VGB discount) · OsmAnd on Armor · sync Vertical 2 |
+| **Now–autumn 2026** | Poles · skin reglue (wax/glue ✓) · headlamp · Calazo (watch for VGB discount) · OsmAnd on Armor · sync Vertical 2 · **Nammatj** pitch practice when it arrives |
 | **Autumn 2026** | Socks · booties · Sirex foam · shakedowns · Suunto route practice |
-| **Jan 2027** | inReach plan live · OsmAnd + Suunto routes loaded |
+| **Jan 2027** | inReach plan live · OsmAnd `2027.GPX` on Armor · **all** Suunto routes loaded **at home** (no offline dump on trail) |
 | **Feb 2027** | Alkylate fill · last gaps · optional VBL |
 
 ---

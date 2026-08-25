@@ -155,7 +155,7 @@ You keep the **shared tent and stove** and continue solo **D11**. Companion leav
 - [ ] Agree weather turnaround · who leads · pitch / cook order on shared kit  
 - [ ] Visa/passport if needed · SEK card  
 - [ ] Optional: short Vita Bandet awareness (they are **not** finishing the Band)  
-- [ ] Tent fits **both** sleep systems · alkylate for **two** on one stove (D1–D10)
+- [ ] Tent fits **both** sleep systems — **Nammatj 3 GT** (same class as Nallo 3) · alkylate for **two** on one stove (D1–D10)
 
 ---
 
@@ -186,21 +186,27 @@ You keep the **shared tent and stove** and continue solo **D11**. Companion leav
 
 ## Other companion-suited sections — PT both ends
 
-Filter: **public transport at start and finish** (no car needed for the companion). Hut nights as of the 2027 plan dates. **§1 remains the working trip** because it also recovers the **Mora car**. A second person can join a later leg independently (train/bus in, ski with you, train/bus out).
+Filter: **public transport at start and finish** (no car needed for the companion). Sleep = hut **or** tent as of the 2027 plan dates. **§1 remains the working trip** because it also recovers the **Mora car**. A second person can join a later leg independently (train/bus in, ski with you, train/bus out).
 
 **PT ease:** ★★★ train or daily coach · ★★ regular winter bus · ★ thin (weekday / 1× day).
 
-| Option | Leg | Days (plan) | km | PT in | PT out | Hut nights | Suitability |
-|--------|-----|-------------|-----|-------|--------|------------|-------------|
-| **A ★ working** | Grövelsjön → Storlien | D1–D10 · 15–24 Feb | ~162 | ★★ 396 Mora | ★★★ Storlien train | **Poor** in mid-Feb (Jämtland STF closed) | Best for **car home** · shared tent |
-| **B ★ hut** | Hemavan → Ammarnäs | D34–D39 · ~20–25 Mar | ~70 | ★★★ bus 31 / airport | ★★ bus 341 → Sorsele | **Best short** — full STF KL chain | Easy 5–6 d · huts open |
-| **C ★ hut** | Ritsem → Abisko | D55–D62 · ~10–17 Apr | ~121 | ★★ Gällivare + Falcks bus | ★★★ Abisko train | **Best long** — staffed KL huts | Classic hut-to-hut · best exit |
-| **D** | Hemavan → Kvikkjokk | D34–D47 · ~20 Mar–2 Apr | ~235 | ★★★ Hemavan | ★ Kvikkjokk bus 47 | Huts **only first ~5 d**; then tent / village detours | Long · thin exit bus |
-| **E** | Kvikkjokk → Abisko | D47–D62 · ~2–17 Apr | ~246 | ★ bus 47 | ★★★ Abisko | Padjelanta-west **tent**; huts from **Ritsem** | Same as C after Ritsem |
-| **F** | Abisko → Kilpisjärvi | D62–D70 · ~17–25 Apr | ~168 | ★★★ Abisko | ★★ Kilpisjärvi bus (fragile) | **DNT hut chain** (key) · Pältsa maybe closed | Hut-to-hut · finish PT weaker than Abisko |
-| **G** | Tänndalen → Storlien | D4–D10 · ~18–24 Feb | ~98 | ★★ Funäsdalen bus | ★★★ Storlien train | Village **H** only · alpine STF **closed** | Short join onto §1 |
+| Option | Leg | Days (plan) | km | PT in | PT out | Sleep | Suitability |
+|--------|-----|-------------|-----|-------|--------|-------|-------------|
+| **A ★ working** | Grövelsjön → Storlien | D1–D10 · 15–24 Feb | ~162 | ★★ 396 Mora | ★★★ Storlien train | **Tent** (Jämtland STF closed) | Best for **car home** |
+| **B ★ hut** | Hemavan → Ammarnäs | D34–D39 · ~20–25 Mar | ~70 | ★★★ bus 31 / airport | ★★ bus 341 → Sorsele | **STF KL chain** | Easy 5–6 d · huts open |
+| **C ★ hut** | Ritsem → Abisko | D55–D62 · ~10–17 Apr | ~121 | ★★ Gällivare + Falcks bus | ★★★ Abisko train | **Staffed KL huts** | Classic hut-to-hut · best exit |
+| **D** | Hemavan → Kvikkjokk | D34–D47 · ~20 Mar–2 Apr | ~235 | ★★★ Hemavan | ★ Kvikkjokk bus 47 | Huts first ~5 d, then **tent** | Long · thin exit bus |
+| **E** | Kvikkjokk → Abisko | D47–D62 · ~2–17 Apr | ~246 | ★ bus 47 | ★★★ Abisko | **I** tent or **L** Padjelanta huts, then **C** | Same gates |
+| **F** | Abisko → Kilpisjärvi | D62–D70 · ~17–25 Apr | ~168 | ★★★ Abisko | ★★ Kilpisjärvi bus (fragile) | **DNT hut chain** (key) | Hut-to-hut · finish PT weaker |
+| **G** | Tänndalen → Storlien | D4–D10 · ~18–24 Feb | ~98 | ★★ Funäsdalen bus | ★★★ Storlien train | Village **H** + alpine **tent** | Short join onto §1 |
+| **H ★ camp** | **Lapplandsleden** Gäddede → Hemavan | D25–D34 · ~11–20 Mar | ~237 | ★ 425 Gäddede | ★★★ Hemavan | **Tent** · unlocked Länsstyrelsen backup | Marked winter trail · shared tent |
+| **J ★ camp** | **Klimpfjäll → Hemavan** (short H) | D28–D34 · ~14–20 Mar | ~154 | ★ 420 Vilhelmina | ★★★ Hemavan | **Tent** · same stugor as H from D29 | Shorter camp join · skip Gäddede |
+| **I ★ camp** | **Kvikkjokk → Ritsem** Padjelanta-**west** | D47–D55 · ~2–10 Apr | ~125 | ★ bus 47 | ★★ Falcks → Gällivare | **Wild tent** · STF bookends only | Your 2027 Band line · off marked trail |
+| **L ★ hut** | **Kvikkjokk → Ritsem** **Padjelantaleden** | ~10–11 d · early Apr | ~**160** | ★ bus 47 | ★★ Falcks → Gällivare | **STF + BLT hut chain** | Marked trail · huts all the way |
 
-**Weaker (not “easy” PT):** Storlien → Gäddede (train in, **425** Gäddede ~1× weekday to Strömsund) · Gäddede → Hemavan (same thin 425 in, Hemavan out). Fine if they accept a sparse bus, not if they want walk-up trains.
+**Weaker (not “easy” PT):** Storlien → Gäddede (train in, **425** ~1× weekday to Strömsund). **H** uses that same thin 425 at the **start**. **J** starts on **420** Vilhelmina → Klimpfjäll (weekdays) — still thin, but Vilhelmina is a real hub. Hemavan out is easy either way.
+
+**Camping legs (H, J, I)** use the **same shared tent + stove** model as §1. Padjelanta-west (**I**) is **off** the marked trail — tent. Marked **Padjelantaleden** hut-to-hut is **L**.
 
 Hut openings: [stf-openings-2027.md](./stf-openings-2027.md) · day camps: [dag-for-dag-2027.md](./dag-for-dag-2027.md).
 
@@ -275,7 +281,7 @@ Harder than B/C: long food carry, ice on Hornavan, thin exit bus. Hut-heavy only
 
 **PT:** bus **47** in · Abisko train out.
 
-On **your** line this is **Padjelanta-west tent** (D48–D54) then the **C** hut chain from Ritsem. Padjelanta STF/Sámi stugor exist off the west line — do not count on them. Companion who wants huts should **join at Ritsem** (C), not at Kvikkjokk.
+**I** (tent, Padjelanta-west) **or L** (huts, Padjelantaleden) then **C**. Hut-minded on this gate: **L**.
 
 ### F — Abisko → Kilpisjärvi / Treriksröset (~8 days)
 
@@ -301,13 +307,111 @@ Companion skips Grövelsjön and meets you at **Hamra Livs (D4)**. **PT in:** H�
 
 Huts: village lodging D4 + Storlien D10; **Helags / Sylarna / Blåhammaren still closed**. Shared tent for D5–D9.
 
+### H — Lapplandsleden · Gäddede → Hemavan (★ camp · ~10 days)
+
+[Lapplandsleden](https://www.lansstyrelsen.se/vasterbotten/besoksmal/vandringsleder/lapplandsleden.html) west of Borgafjäll / Saxnäs — red winter crosses. Matches [dag-for-dag](./dag-for-dag-2027.md) **§3 D25–D34**. **Default: shared tent.** Länsstyrelsen stugor are unlocked emergency/backup (pay **200 kr**/person if used) — **carry the tent anyway**.
+
+**PT in:** Länstrafiken Jämtland **425** Gäddede ↔ Strömsund (~2 h) — typically **1× weekday**, poor/none Sat. Then Strömsund → Östersund train/bus. Night in Gäddede (camping / Pilgrimshotellet) before D25. [ltr.se](https://ltr.se/).  
+**PT out:** Hemavan — daily **31** toward Umeå · airport · see option B.
+
+**Food:** **~4–5 days** Gäddede → Klimpfjäll Handlar'n (D28) · **~4–5 days** → Hemavan. Optional Gränssjö kiosk (snacks only). **Alkylate** from Gäddede Frostvikens if stocked.
+
+| Night | Place | Sleep |
+|-------|-------|-------|
+| Before D25 | Gäddede | **H** Pilgrimshotellet · or Gäddede Camping (year-round) |
+| D25 | Vilhelmina fjäll | **Tent** on track |
+| D26 | Borgafjäll west | **Tent** · optional **H** Borgafjäll Hotell (~**24 km E** — skip unless storm) |
+| D27 | Slipsikstugan | **Tent default** · unlocked Länsstyrelsen 4–6 bunks (often cold/occupied) |
+| D28 | Klimpfjäll | **Tent** · Handlar'n **D** · no staffed hut |
+| D29 | Tjåkkelestugan | **Tent default** · unlocked 6+2 beds |
+| D30 | Åtnikstugan | **Tent default** · unlocked · vedspis / madrasser |
+| D31 | Between Åtnik and Arevattnet | **Tent** — long kalfjäll gap, no hut |
+| D32 | Arevattnet | **Tent** at stuga · optional **H** [Gränssjöarna](https://granssjoarna.se/) (~1 km · 6 cabins · shower/sauna · phone **073-068 03 41**) |
+| D33 | Atostugan | **Tent default** · unlocked · last Länsstyrelsen before Hemavan |
+| D34 | Hemavan | **STF Hemavan** / Fjällcenter |
+
+Hard days: **D32** (big climb) · **D34** (long into Hemavan). Exposed kalfjäll D31–D33 — stick together. Vildmarksvägen / Stekenjokk is **winter-closed** — **no** bus Gäddede → Klimpfjäll. Companion joining at the village uses **J** (420 from Vilhelmina).
+
+### J — Klimpfjäll → Hemavan (★ camp · ~6 days)
+
+Short join onto **H**: meet at **Klimpfjäll Handlar'n (D28)**, skip the Gäddede approach. Same Lapplandsleden nights **D29–D34**. Matches [dag-for-dag](./dag-for-dag-2027.md) from cum ~498 km.
+
+**PT in:** Länstrafiken Västerbotten **420** Vilhelmina → Klimpfjäll (~**1 h 50**, typically **weekdays**; some Sunday). Vilhelmina is on inland buses toward Umeå / Östersund / Lycksele. [tabussen.nu](https://www.tabussen.nu/). Night in Klimpfjäll (tent / private) or arrive D28 morning and ski out after shop. **Not** via Stekenjokk.  
+**PT out:** Hemavan — same as H / B.
+
+**Food:** buy at **Handlar'n** on arrival — **~4–5 days** to Hemavan. Gränssjö kiosk snacks only. Alkylate **unlikely** in Klimpfjäll — companion should not count on filling here (you already carry from Gäddede).
+
+| Night | Place | Sleep |
+|-------|-------|-------|
+| D28 | Klimpfjäll | **Tent** · Handlar'n **D** · meet / shop |
+| D29–D34 | Same as **H** | Tent default · unlocked Tjåkkele · Åtnik · Arevattnet / optional Gränssjö cabin · Atostugan · **STF Hemavan** |
+
+Hard days still **D32** and **D34**. Better companion length than full H (~6 ski days vs ~10) and a slightly easier start gate than Gäddede **425** (Vilhelmina is a real hub).
+
+### I — Kvikkjokk → Ritsem · Padjelanta-west (★ camp · ~8 days)
+
+Your **2027 Band line** — a **west corridor**, **not** the marked [Padjelantaleden](https://www.svenskaturistforeningen.se/guider-tips/leder/padjelantaleden/). [dag-for-dag](./dag-for-dag-2027.md) **D47–D55**. **Wild tent every night on trail.** Official Padjelanta STF/BLT stugor sit **on the marked trail (L)**, not on this west line. GPS essential; winter line often faint.
+
+**Hut alternative, same buses:** **L** marked Padjelantaleden.
+
+**PT in:** bus **47** Jokkmokk ↔ Kvikkjokk — **weekdays 1×/day** (same as D). Night **STF Kvikkjokk** before leaving.  
+**PT out:** **Falcks Omnibus** Ritsem → Gällivare (1–2×/day in season) → night train south — same bus as C, reverse. Book with train if possible · [roadtoritsem.com](https://roadtoritsem.com/). Companion can **quit at Ritsem** or continue with you on **C** (huts to Abisko).
+
+**Food / fuel:** **no shops** for **6–7 days**. Carry all food + **both alkylate bottles** from Kvikkjokk (or Hemavan if Kvikkjokk has no liquid). Heaviest shared-pulk stretch for a companion.
+
+| Night | Place | Sleep |
+|-------|-------|-------|
+| D47 | Kvikkjokk | **STF Kvikkjokk** · no tent field (wild **T** nearby if full) |
+| D48 | Njunjes | **Tent** on west line — **STF Njunjes** is on **L**, ~east of this camp |
+| D49 | Sämerlappa | **Tent** · open west Padjelanta · wind / reindeer |
+| D50 | Duottar area | **Tent** on west line — **BLT Duottar** is on **L** |
+| D51–D52 | Saltoluokta väster om | **Tent** · STF Saltoluokta **east** |
+| D53 | Kisurgis / Áhkká | **Tent** |
+| D54 | Ritsem approach | **Tent** near road if late — no night ski on the dam |
+| D55 | Ritsem | **STF Ritsem** · shop · shower · bus out |
+
+Remote, shop-less, April still cold. Companion who wants the **Padjelanta hut trail:** **L**.
+
+### L — Kvikkjokk → Ritsem · Padjelantaleden (★ hut · ~10–11 days)
+
+Marked **[Padjelantaleden](https://www.svenskaturistforeningen.se/guider-tips/leder/padjelantaleden/)** (~**160 km** · 9–10 summer stages). **Not** your 2027 west Band line (**I**). Huts the whole way: **STF** at both ends of the trail (Tarradalen + Akka) · **BLT** (Badjelánnda Laponia Turism) inside the national park — [padjelanta.com](https://padjelanta.com/). BLT **cannot be pre-booked**; typically **one cabin open year-round** at each site.
+
+**PT:** same as **I** — bus **47** in · Falcks out of Ritsem.
+
+**Winter:** no Tarraälven boat (ski from Kvikkjokk) · no M/S Storlule on Akkajaure (ski marked ice **Ritsem ↔ Akka / Vaisaluokta**). STF Tarradalen 2026 winter **27 Feb – 19 Apr** (Njunjes · Tarrekaise · Såmmarlappa) · **Akka 27 Feb – 26 Apr** — early April is inside. Carry **tent** anyway (BLT overflow / storm).
+
+**If you ski L together:** you leave Padjelanta-west and follow the marked trail — still **väster om Saltoluokta**. **If you stay on the 2027 plan:** companion does **L** on the trail, you tent west, meet at **Ritsem**.
+
+South → north (STF stages reversed · summer km; winter led may differ):
+
+| Night | Place | Run by | Stage |
+|-------|-------|--------|-------|
+| 0 | Kvikkjokk | **STF** | Shop · restaurant |
+| 1 | Njunjes | **STF** | ~**15 km** (winter; summer 12 + 3 km boat) |
+| 2 | Tarrekaise | **STF** | ~**6 km** — short; often combined with Njunjes or Såmmarlappa |
+| 3 | Såmmarlappa | **STF** | ~**13 km** · **shop** when staffed |
+| 4 | Darreluoppal | **BLT** | ~**15 km** |
+| 5 | Duottar | **BLT** | ~**11 km** |
+| 6 | Stáloluokta | **BLT** | ~**18 km** · park hub (sauna summer; winter = hut only) |
+| 7 | Árasluokta | **BLT** | ~**10 km** |
+| 8 | Låddejåhkå | **BLT** | ~**13 km** |
+| 9 | Gisuris | **BLT** | ~**23 km** — longest day |
+| 10 | Akka | **STF** | ~**14 km** |
+| 11 | Ritsem | **STF** | ~**2 km** + **ice** Änonjalme → Ritsem |
+
+**North alt:** Vaisaluokta (STF) → **Kutjaure** (STF) → Låddejåhkå instead of Akka/Gisuris.
+
+**Food:** shops **Kvikkjokk · Såmmarlappa (STF winter) · Ritsem**. BLT kiosks are **summer**. Carry **~7–8 days** from Kvikkjokk (or from Såmmarlappa if the butik is open). No alkylate on the trail.
+
+Combine the **6 km** Tarrekaise hop if you want **~10 ski days** instead of 11.
+
 ### How this interacts with the car
 
 | Companion does | Mora car |
 |----------------|----------|
 | **A** (or **G**) as planned | They drive it **home ~25–27 Feb** ★ |
-| **B–F** instead of A | Car still in Mora unless someone else collects — treat as transport **Case 2** (park through **end Apr**) |
-| A **plus** a later friend on B or C | First companion still takes the car; second person is train/bus only |
+| **B–L** instead of A | Car still in Mora unless someone else collects — treat as transport **Case 2** (park through **end Apr**) |
+| A **plus** a later friend on B, C, **H**, **J**, **I**, or **L** | First companion still takes the car; second person is train/bus only |
 
 ---
 
@@ -317,3 +421,6 @@ Huts: village lodging D4 + Storlien D10; **Helags / Sylarna / Blåhammaren still
 |------|------|
 | 2026-08-19 | Companion plan created — §1 only · car home via Mora · shared tent/stove · Storlien night + morning train |
 | 2026-08-19 | Other PT-easy legs added — hut nights per option; ★ hut: Hemavan→Ammarnäs · Ritsem→Abisko |
+| 2026-08-20 | ★ camp legs: **H** Lapplandsleden Gäddede→Hemavan · **J** Klimpfjäll→Hemavan · **I** Kvikkjokk→Ritsem Padjelanta-west (tent) |
+| 2026-08-20 | **L** Kvikkjokk→Ritsem **Padjelantaleden** hut-to-hut (STF Tarradalen + BLT park + STF Akka) · distinct from **I** west tent corridor |
+| 2026-08-20 | Dropped **K** (Kungsleden Kvikkjokk→Ritsem) |

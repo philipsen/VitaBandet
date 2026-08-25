@@ -157,12 +157,12 @@ With pulk, often **+5 cm** vs free-ski.
 |---|-----------------|
 | **Size** | 200 × 67 cm |
 | **Weight** | ~**1.4 kg** (bag + straps; sleep kit extra) |
-| **Role** | Sleep transport on pulk · emergency **bivi shell** if Nallo fails |
+| **Role** | Sleep transport on pulk · emergency **bivi shell** if Nammatj fails |
 | **Material** | ~1000 mm WC — **dry bags inside** still required |
 
 **Packing:** bag + **Ultra 7R** in dry bags in Sleeper only. **XLite** stays **off the pulk** — ship ahead to Abisko for optional late-leg switch.
 
-**If Nallo fails:** pad + bag in Sleeper, zip up — **no stove inside** (CO); practice once on shakedown.
+**If Nammatj fails:** pad + bag in Sleeper, zip up — **no stove inside** (CO); practice once on shakedown. **Nallo 3GT** stays at home as spare.
 
 ---
 
@@ -187,7 +187,7 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 | **GPSMAP 66i** (owned) | inReach · SOS · **track only** — **on body** · consider **→ Mini 2** |
 | **inReach Mini 2** | **Consider buy** — lighter · less Wh · same SOS/track job — see [66i → Mini 2](#inreach--66i-vs-mini-2--consider-replace) |
 | **Phone** | **Ulefone Power Armor 14 Pro** · OsmAnd+ backup · GPX · occasional camp nav |
-| **Suunto Vertical 2** | ✓ — **Primary on-trail nav** · offline route · GPS while skiing |
+| **Suunto Vertical 2** | ✓ — **Primary on-trail nav** · offline route · GPS while skiing · **no offline GPX to phone** |
 | **1× 20k power bank** | Primary recharge — **always warm on body** · full at every ★ |
 | **USB headlamp** | **Buy** — **BD Storm 500-R** ~€54–70 · see [headlamp](#headlamp-usb) |
 
@@ -230,10 +230,22 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 
 Confirm **inReach plan** before departure. Shakedown: ski one day with sat unit on body only — no pulk bury test.
 
+### Suunto Vertical 2 — no offline track dump
+
+Charge cable is **power only**. The watch does **not** appear as a USB disk. GPX export from the Suunto app goes through **Sports Tracker / suunto.com** — **needs internet**. No Bluetooth GPX to OsmAnd in the tent.
+
+| Direction | Offline (tent / fjäll) | With ★ / hut wifi |
+|-----------|------------------------|-------------------|
+| **Route → watch** | Already-synced routes stay on the watch (up to **200**) | Import GPX in Suunto app · then BT sync |
+| **Activity → phone GPX** | **No** | Export from app or suunto.com after sync |
+| **Watch log** | Stays on the watch until a later sync | Archive optional — not operational |
+
+**Bandet rule:** load **all forward routes at home** (section or day legs, thinned). Do **not** plan to push a new GPX mid-leg. OsmAnd already has [`tracks/2027.GPX`](../tracks/2027.GPX) on its own — that is the phone copy. **66i** is the off-watch track if you need a line without Suunto cloud.
+
 ### OsmAnd+ setup
 
 1. Download Sweden north + Norway strips (**5–15 GB**).  
-2. Import **`tracks/2027.GPX`**.  
+2. Import **`tracks/2027.GPX`** — independent of Suunto; **do not** wait for a watch dump.  
 3. Contour lines on; high-contrast winter profile.  
 4. Shakedown: one day **sat unit only**, one **phone only**.
 
@@ -325,7 +337,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 | Feature | Why |
 |---------|-----|
 | **USB recharge** | From power bank / wall — prefer **USB-C**; BD R-models micro-USB OK |
-| **≥300 lm** on medium | Enough for Nallo pitch in −20 °C |
+| **≥300 lm** on medium | Enough for Nammatj pitch in −20 °C |
 | **Red / low mode** | Preserve night vision in tent — **dimmable red** nice |
 | **IPX4+** (IP67 better) | Snow, melt drip |
 | **Headband fits over hat** | Test with balaclava |
@@ -362,51 +374,46 @@ Indicative — check retailer before buying; sales move fast.
 
 **Cold tip:** keep headlamp (or spare bank) **inside jacket** 30 min before a long camp session if battery feels flat.
 
-**Shakedown:** pitch **Nallo** at dusk with gloves; confirm band over hat and USB charge from power bank.
+**Shakedown:** pitch **Nammatj** at dusk with gloves; confirm band over hat and USB charge from power bank.
 
 **Verdict:** **Buy Storm 500-R** — 500 lm · IP67 · long low burn · dimmable RGB. Accept **micro-USB** + one short cable. Alts: **NU43** / **Actik** if you want USB-C only.
 
 ---
 
-## Tent — Nallo 3GT & upgrades
+## Tent — Nammatj 3 GT
 
 ### Hilleberg labels
 
 | Label | Fabric | Your tent |
 |-------|--------|-----------|
-| **Black** | Kerlon 1800 — harshest | Upgrade path |
-| **Red** | Kerlon 1200 — 4-season | **Nallo 3GT** ✓ |
+| **Black** | Kerlon 1800 — harshest | **Nammatj 3 GT** 📦 on the way |
+| **Red** | Kerlon 1200 — 4-season | **Nallo 3GT** ✓ — spare at home |
 | **Yellow** | 3-season | Skip for Feb |
 
-**Nallo 3GT:** ~**3.1 kg** packed · huge **GT vestibule** · not freestanding · tunnel must face wind.
+**Nammatj 3 GT:** ~**4.1 kg** packed · **+~1 kg** vs Nallo · same tunnel + **GT vestibule** · Kerlon 1800 · not freestanding · tunnel must face wind.
 
-**Verdict:** **Usable** for 65 days if pitching/stakes are solid. **2–3 winter shakedowns** before buying Black Label.
+**Nallo 3GT:** ~**3.1 kg** packed · owned backup — leave home unless Nammatj fails.
 
-### Black Label candidates
+**Companion (§1):** same **3**-person inner as the Nallo — two winter bags fit without the squeeze of a 2. GT vestibule still holds cook + pulk kit.
 
-| Tent | Packed | vs Nallo | Comment |
-|------|--------|----------|---------|
-| **Nammatj 2 GT** ★ | 3.8 kg | +~700 g | Same tunnel+GT logic, Kerlon 1800 |
-| **Nammatj 3 GT** | 4.1 kg | +~1 kg | More space |
-| **Staika** | 4.0 kg | +~900 g | Freestanding; less single workshop vestibule |
-| **Tarra** | 4.3 kg | +~1.2 kg | Strongest dome; smaller vestibule |
-| **Saivo 3** | 5.6 kg | +2.5 kg | **Too heavy** for solo pulk |
+**Verdict:** **Trail tent = Nammatj 3 GT.** Shakedown **this** tent (not the Nallo): **2–3 winter nights**, dusk pitch in gloves, pulk in vestibule, stakes in crust.
 
-### Red Label lighter (not Black)
+### Hilleberg Sled Pack (pulka pack)
 
-| Tent | Packed | Comment |
-|------|--------|---------|
-| **Nallo 2 GT** | ~2.7 kg | −400 g; same Red fabric |
-| **Allak 2** | ~3.3 kg | Freestanding; smaller vestibule |
+**On the way** with the Nammatj. ~**200 g** · **205 × 60 cm**. Poles stay **half in the sleeves**, tent folded around them — faster strike/pitch than stuffing the bag.
 
-### Decision guide
+**On pulk:** strap the Sled Pack **on** the J14 (not inside the cargo bag) so the tent is last-out at camp. Pack is **205 cm**; hull is **144 cm** · Sleeper is **200 cm** — test strap layout on shakedown (overhang vs stack with Sleeper).
 
-| Shakedown shows… | Lean toward |
-|------------------|-------------|
-| Nallo fine in wind; like vestibule | **Keep Nallo 3GT** |
-| Want expedition margin | **Nammatj 2 GT** (Black) |
-| Stakes won’t hold / crust | **Staika** or **Tarra** (freestanding) |
-| Save weight, accept Red limits | **Nallo 2 GT** |
+Stuff sack stays at home for travel; **Sled Pack is the trail bag**.
+
+### Other Black Label (not buying)
+
+| Tent | Packed | vs Nammatj 3 GT | Comment |
+|------|--------|-----------------|---------|
+| **Nammatj 2 GT** | 3.8 kg | −~300 g | Tighter for two on §1 |
+| **Staika** | 4.0 kg | −~100 g | Freestanding; less workshop vestibule |
+| **Tarra** | 4.3 kg | +~200 g | Strongest dome; smaller vestibule |
+| **Saivo 3** | 5.6 kg | +~1.5 kg | Too heavy for solo pulk |
 
 ---
 
@@ -708,7 +715,7 @@ Checked **14 Jul 2026** — prices incl. VAT; stock changes quickly.
 
 **Packing:** dry bag with camp clothes or inside bag stuff sack — keep **dry**, away from wet ski socks.
 
-**Shakedown:** one sub −15 °C tent night — boots off at camp, booties for cook + in bag; confirm sole grips Nallo floor.
+**Shakedown:** one sub −15 °C tent night — boots off at camp, booties for cook + in bag; confirm sole grips Nammatj floor.
 
 **Verdict:** **Buy Rab Down Hut Slipper** (~**€46–52** on sale · **€65** RRP · checked Jul 2026) — best value, real sole, hut/tent default. **WM Expedition Booties** (~**€170**) if you want maximum warmth — **3× the price** for marginal gain on Bandet. Pair with **1–2 camp socks** from [socks](#socks--vbl).
 

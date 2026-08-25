@@ -10,7 +10,8 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 
 | Item | Role |
 |------|------|
-| **Jemtlander 14** (200 L bag) | Main cargo — food, tent, fuel, clothes, kitchen |
+| **Jemtlander 14** (200 L bag) | Main cargo — food, fuel, clothes, kitchen |
+| **Hilleberg Sled Pack** | **Tent** on pulk — Nammatj poles half-in · last out |
 | **Fjellpulken Sleeper 200** | **Sleep system** on the pulk — bag + pad in dry bags |
 | **Harness** | Hip belt + shafts (~173 cm) |
 
@@ -24,7 +25,7 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 
 ### On the pulk
 
-- Tent (Nallo 3GT), stakes, repair
+- Tent (**Nammatj 3 GT** in **Sled Pack**), stakes, repair
 - Food for the leg, stove, fuel, pot
 - Spare clothes, repair kit, most electronics
 - **Sleeper 200** with bag + **Ultra 7R** inside (**XLite** shipped to Abisko — not in pulk)
@@ -48,7 +49,7 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 | **Exped Ultra 7R** | Dry bag → **Sleeper** (primary) | Pump in main bag |
 | **NeoAir XLite** | **Ship to Abisko** (STF depot) | Pick up D62 · switch into Sleeper if desired |
 | **Sirex Everest 10** | Flat **main pulk** bottom / roll | Foam backup · under Ultra 7R or emergency alone |
-| Nallo 3GT | Main bag, **middle/top** | Last out at camp, first in next morning if wet |
+| Nammatj 3 GT | **Sled Pack** strapped **on** pulk | Last out at camp · poles half-in · ~4.1 kg + pack **~200 g** · not inside J14 bag |
 | Food (leg) | Main bag **bottom** — **flat clear boxes** | Dense, heavy; repack after every shop |
 | Alkylate bottles | Main bag **bottom centre**, upright | **Liquid only** until Abisko; separate from food |
 | Stove + **TOAKS 1600 ml** pot/pan + fuel tools + **CO detector** | Main bag **middle** | OmniLite + silencer · **CO detector ON** in vestibule when cooking · magnetic · face height |
@@ -85,16 +86,16 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 ## Loading order (morning departure)
 
 1. **Sleeper** — bag + pad in dry bags; strap to pulk (check straps before harnessing).  
-2. **Main bag bottom** — **food boxes** (dinners flat, lunches, then fuel bottles capped/upright beside or in front — never in same box as fuel).  
-3. **Middle** — stove kit, clothes in dry bags, repair.  
-4. **Top** — tent if you want quick camp access; otherwise tent middle is OK if consistent.  
+2. **Sled Pack** — Nammatj, poles half-in; strap on pulk (last-out).  
+3. **Main bag bottom** — **food boxes** (dinners flat, lunches, then fuel bottles capped/upright beside or in front — never in same box as fuel).  
+4. **Middle** — stove kit, clothes in dry bags, repair.  
 5. **Harness on** — heavy/low should feel stable; no tall soft peak (tips in side wind).  
 6. **Body kit** — shell accessible, 66i, snacks, one warm power bank.
 
 At camp (reverse):
 
 1. Unstrap **Sleeper** → bag/pad into tent.  
-2. Tent out → pitch.  
+2. Unstrap **Sled Pack** → pitch (poles already half-in).  
 3. Stove/fuel from main bag (know which layer they are in).  
 4. Repack **dry** before sleep — wet stuff in vestibule, not stuffed against down.
 
@@ -103,10 +104,9 @@ At camp (reverse):
 ## ASCII layout (side view)
 
 ```
-     [ Sleeper 200: bag + pad ]  ← on top / Fjellpulken attachment
+     [ Sleeper 200: bag + pad ]     ← on top / Fjellpulken attachment
+     [ Sled Pack: Nammatj ]         ← on pulk · last-out · 205 cm (test vs 144 cm hull)
     ┌─────────────────────────┐
-    │  tent (folded)          │  ← top / middle
-    ├─────────────────────────┤
     │  clothes · kitchen      │
     ├─────────────────────────┤
     │  food boxes (flat) · fuel │  ← bottom, centred
@@ -171,7 +171,7 @@ Steep days (Padjelanta, Lappjord): lower profile helps more than a bigger sled �
 | Jemtlander rig (chassis + harness + bag) | ~5.3 kg | |
 | Sleeper 200 (empty) | ~1.4 kg | |
 | Sleep kit (bag + pad in Sleeper) | 3–4 kg | |
-| Tent Nallo 3GT | ~3.1 kg | |
+| Tent Nammatj 3 GT | ~4.1 kg | |
 | Food (10-day leg max) | 12–16 kg | |
 | Fuel (full bottles) | 2–4 kg | |
 | Clothes + kitchen + misc | 5–8 kg | |
@@ -186,18 +186,19 @@ Weigh **loaded pulk + Sleeper** on the shakedown that mimics **day 10 leaving St
 
 - [ ] **Food boxes** — 2–3 flat clear containers; tile at bottom; repack test after mock resupply
 - [ ] **Sleeper on pulk** — bag + pad in dry bags; attach/remove in gloves  
+- [ ] **Sled Pack on pulk** — Nammatj poles half-in; strap with Sleeper on 144 cm hull (205 cm pack)  
 - [ ] **10-day main-bag load** + full fuel — 20 km day, side wind  
 - [ ] **Repack at camp** — full cycle in 30 min before dark  
 - [ ] **Steep descent** — rear eyelet + rope; load doesn’t shift forward  
 - [ ] **Alkylate g/day** recorded at −15 °C with silencer  
-- [ ] **Sleeper bivi drill** — Nallo failed scenario, 20 min (no stove inside)  
+- [ ] **Sleeper bivi drill** — Nammatj failed scenario, 20 min (no stove inside)  
 - [ ] **Loaded weight:** ______ kg  
 
 Full kit tests: [pack-checklist-2027.md](./pack-checklist-2027.md#pre-trip-shakedown-tick-when-done).
 
 ---
 
-## Emergency: Sleeper without Nallo
+## Emergency: Sleeper without Nammatj
 
 If the tent is unusable: bag + pad already in Sleeper → zip up as wind shell. **No cooking inside.** Prefer hut/DNT/repair over multi-night Sleeper-only.
 

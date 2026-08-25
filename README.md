@@ -111,7 +111,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 | Item | Notes |
 |------|-------|
-| **Hilleberg Nallo 3GT** (Red) | Upgrade path: **Black Label** e.g. **Nammatj 2 GT** — see gear doc |
+| **Hilleberg Nammatj 3 GT** (Black) 📦 + **Sled Pack** 📦 | Trail tent on pulk · **Nallo 3GT** spare at home — see gear doc |
 | **Åsnes Ingstad BC** + **Alfa Outback Xplore** | Primary ski system |
 | **Jemtlander 14** (200 L) + **Sleeper 200** | Pulk; **Sleeper = sleep system** (bag + pad on sled) |
 | **TOAKS Ti 1600 ml Pot with Pan** | Owned — OmniLite melt + cook |
@@ -128,7 +128,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 ### Shakedown trips
 | Date | Location | Duration | Lessons learned |
 |------|----------|----------|-----------------|
-| | | | Nallo + pulk + Ingstad/Xplore |
+| | | | Nammatj + pulk + Ingstad/Xplore |
 
 ---
 
