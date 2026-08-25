@@ -121,7 +121,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | GPS + inReach | **GPSMAP 66i** | 1 | **241** | **241** | ✓ | **? Mini 2** | Track-only · **micro-USB** · consider **Mini 2** (−140 g) · [compare](./gear-considerations-2027.md#inreach--66i-vs-mini-2--consider-replace) |
 | Watch / nav | **Suunto Vertical 2** | 1 | **87** | **87** | ✓ | | Steel **87** · Ti **74** · primary on-trail nav · weigh yours |
 | Suunto charge cable | USB-C magnetic | 1 | **~25** | **~25** | | **w/ watch** | In box · pulk/resupply |
-| Phone | **Ulefone Power Armor 14 Pro** | 1 | **358** | **358** | ✓ | | OsmAnd backup · 10k mAh (~37 Wh) · **18 W** · ★/hut charge · [power](./power-plan-2027.md) |
+| Phone | **Ulefone Power Armor 14 Pro** | 1 | **358** | **358** | ✓ | | OsmAnd backup · **Topo GPS** IG · 10k mAh (~37 Wh) · **18 W** · ★/hut charge · [power](./power-plan-2027.md) |
 | Power bank 20k | **Anker Zolo · 30 W** (A1689) | 1 | **353** | **353** | ✓ | | Recall SN checked · 2nd at home · [power](./power-plan-2027.md) |
 | Wall charger | **Anker 100 W · Smart Display** (B121BGZ1) | 1 | **212** | **212** | ✓ | | Resupply only · [Amazon.nl](https://www.amazon.nl/dp/B0FG745LNB) |
 | Wall cable (in box) | USB-C **1.5 m** | 1 | **~35** | **~35** | ✓ | | With wall charger |

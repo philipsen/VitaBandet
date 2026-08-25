@@ -17,6 +17,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [x] **Anker Charger (100 W, 3 Ports, Smart Display)** (B121BGZ1) ✓ + **3× braided USB-C–C** short cables ✓
 - [x] **Suunto Vertical 2** — primary on-trail nav + charge cable ✓
 - [ ] **Armor 14 Pro** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
+- [ ] **Topo GPS** — Sweden + Norway packs · offline tiles along Band
 - [x] **DNT key** + membership
 - [ ] **Garmin inReach plan** on GPSMAP 66i
 - [x] **OmniLite** service kit — included with stove kit
@@ -82,6 +83,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Suunto Vertical 2** — **all** routes preloaded at home · charge cable · **no** mid-trip GPX dump to phone
 - [ ] **GPSMAP 66i** + **micro-USB** cable + inReach active — SOS / backup log
 - [ ] **Armor 14 Pro** + **OsmAnd+** maps downloaded — **occasional backup**
+- [ ] **Topo GPS** — SE + NO maps · offline tiles along Band · day’s GPX screenshot (not live GPS)
 - [x] Compass
 - [ ] **Calazo 1:100k** maps — carry **current + next** sheet; rest in map pouch / pulk top
 - [x] **1× power bank** (Anker Zolo 20k) ✓ — **always warm in jacket** while skiing
@@ -183,6 +185,7 @@ S→N: each point **east** of track. Wide corridor OK.
 - [ ] **Sleeper 200** on pulk — repack bag + pad after each camp
 - [ ] Sleeper **bivi drill** (Nammatj failed scenario) 20 min
 - [ ] Suunto + 66i inReach test · OsmAnd backup once
+- [ ] **66i GPX → Topo GPS** screenshot (USB or Explore) · one-day track
 - [ ] Weigh loaded pulk: ______ kg
 
 ---

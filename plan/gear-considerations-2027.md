@@ -240,7 +240,40 @@ Charge cable is **power only**. The watch does **not** appear as a USB disk. GPX
 | **Activity → phone GPX** | **No** | Export from app or suunto.com after sync |
 | **Watch log** | Stays on the watch until a later sync | Archive optional — not operational |
 
-**Bandet rule:** load **all forward routes at home** (section or day legs, thinned). Do **not** plan to push a new GPX mid-leg. OsmAnd already has [`tracks/2027.GPX`](../tracks/2027.GPX) on its own — that is the phone copy. **66i** is the off-watch track if you need a line without Suunto cloud.
+**Bandet rule:** load **all forward routes at home** (section or day legs, thinned). Do **not** plan to push a new GPX mid-leg. OsmAnd already has [`tracks/2027.GPX`](../tracks/2027.GPX) on its own — that is the phone copy. **66i** is the off-watch GPX for camp (Instagram).
+
+### Instagram — day’s track in Topo GPS
+
+**Look:** import that day’s GPX into **[Topo GPS](https://www.topo-gps.com/)** and screenshot. Lantmäteriet (SE) / Kartverket (NO) — not a live GPS session. **Do not** record the ski day in Topo GPS (that is the expensive phone-GPS drain).
+
+**GPX source (Suunto cannot dump offline):**
+
+| When | File | Notes |
+|------|------|-------|
+| **Tent / no wifi** | **66i** saved track | Expedition log is **sparse** but a day’s ski still reads as a line on 1:50k. Wake 66i (expedition kills BT). |
+| **★ / hut wifi** | **Suunto** export | Denser, prettier — use this when you have internet |
+
+**66i → Armor (test on shakedown — pick one that works):**
+
+1. **USB** — C→micro into Armor as **OTG host** · copy `Garmin/GPX/` · open in Topo GPS. Many Androids fail Garmin MTP — prove it at home.  
+2. **Garmin Explore** — leave expedition · BT sync · share track as GPX · Topo GPS.  
+3. **Fail** — save the screenshot at the next ★ from Suunto or MapShare; gallery holds the rest.
+
+**Each morning:** start a **new 66i track** (or save/reset the old one) so the GPX is **one day**, not the whole Band.
+
+**Camp (~10 min, airplane, GPS off):** import GPX → zoom the day → screenshot → **gallery**. Write the caption in **Notes**. **Post IG when you have signal** (Storlien, villages, huts). Tent weeks = queue in the camera roll.
+
+**Instagram without internet:** you can **build a draft** on this phone (Create → photo → caption → back → **Save draft**). Drafts live **only on the Armor** — not the cloud. They survive airplane mode. They **die** if you log out, uninstall, or clear Instagram **storage**. Story drafts can expire (~**7 days**); feed drafts usually stay.
+
+Do **not** tap **Share** and walk away for a week. A retry banner is for a dropped hut wifi, not a tent leg. At the next ★: Drafts (or the gallery + Notes) → **Share** on wifi. Add location/music then — those pickers need internet.
+
+Source of truth is still **screenshot + Notes**, not the IG draft.
+
+**Home, before Feb:**
+
+1. Buy **Sweden** + **Norway** map packs (~**€4** each, one-time).  
+2. Download **offline tiles** along the Band corridor (Grövelsjön → Treriksröset / Kilpisjärvi). Importing a GPX can pull tiles — do that on wifi with `2027.GPX`.  
+3. Grey tiles on trail = you missed a zoom level at home.
 
 ### OsmAnd+ setup
 
@@ -253,7 +286,8 @@ Charge cable is **power only**. The watch does **not** appear as a USB disk. GPX
 
 | App | Role |
 |-----|------|
-| **OsmAnd** ★ | Primary phone nav |
+| **OsmAnd** ★ | Occasional nav backup |
+| **Topo GPS** | **IG screenshot** — day’s GPX on Lantmäteriet / Kartverket · [setup](#instagram--days-track-in-topo-gps) |
 | **Organic Maps** | Tiny lightweight backup |
 | **Calazo 1:100k** ★ | **Buy 5** — skip #5–7 (owned 1:50k) · Kebnekaise ✓ · whiteout / battery death |
 | **Gaia / Avenza** | Skip as primary for full route |

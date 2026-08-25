@@ -101,6 +101,16 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 **Check before leaving home:** Band track often runs **west of** KL villages — confirm GPX sits inside the 1:50k sheet edges for #5/#6 legs (esp. west of Ammarnäs / Jäckvik).
 
+### Topo GPS (Instagram)
+
+| Status | Item | Est. | Notes |
+|--------|------|------|-------|
+| 🛒 | **Sweden** Lantmäteriet pack | **~€4** | One-time · [topo-gps.com](https://www.topo-gps.com/topographic-map-of-sweden/) |
+| 🛒 | **Norway** Kartverket 1:50k | **~€4** | Finish / DNT · [Norway](https://www.topo-gps.com/topographic-map-of-norway/) |
+| 🔧 | Offline tiles · Band corridor | — | Download on wifi · import `2027.GPX` to pull tiles · [IG workflow](./gear-considerations-2027.md#instagram--days-track-in-topo-gps) |
+
+**Do not** GPS-record ski days in Topo GPS. Import the **66i** (tent) or **Suunto** (★ wifi) GPX, screenshot, post when you have signal.
+
 ### Owned 1:50k (Calazo KL / Padjelanta)
 
 | Status | Sheet | Use on Band |
@@ -165,7 +175,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 |------|-----|
 | **Now–autumn 2026** | Poles · skin reglue (wax/glue ✓) · headlamp · Calazo (watch for VGB discount) · OsmAnd on Armor · sync Vertical 2 · **Nammatj** pitch practice when it arrives |
 | **Autumn 2026** | Socks · booties · Sirex foam · shakedowns · Suunto route practice |
-| **Jan 2027** | inReach plan live · OsmAnd `2027.GPX` on Armor · **all** Suunto routes loaded **at home** (no offline dump on trail) |
+| **Jan 2027** | inReach plan live · OsmAnd `2027.GPX` on Armor · **all** Suunto routes loaded **at home** · Topo GPS tiles + **66i → Topo GPS** shakedown |
 | **Feb 2027** | Alkylate fill · last gaps · optional VBL |
 
 ---

@@ -55,7 +55,7 @@
 
 | Time | Action |
 |------|--------|
-| **Morning** | **Suunto** — start **Ski/Expedition** activity · load today’s leg · **Endurance** or **Tour** GPS mode · 66i on expedition · inReach **30 min** · phone **airplane** |
+| **Morning** | **Suunto** — start **Ski/Expedition** activity · load today’s leg · **Endurance** or **Tour** GPS mode · 66i on expedition · **new 66i track** (one GPX per day) · inReach **30 min** · phone **airplane** |
 | **Pack** | **Zolo** warm in jacket · 66i on body · **Suunto on wrist** (nav) · Armor in jacket (off) |
 | **On trail** | **Suunto map + track** · glance wrist · 66i screen off · **phone stays off** · Armor only if Suunto fails |
 | inReach | **Track** at set interval · SOS always · msgs rare | Batch any msgs at camp — track-only default |
@@ -69,7 +69,7 @@
 | 3 | Dinner + camp chores | Storm as needed · Suunto stays on wrist |
 | 3b | Stove out · vestibule aired | **CO detector OFF** |
 | 4 | **Charge window** (~45–90 min) | See [charge calendar](#charge-calendar-7-day-leg) — **one device** from **warm Zolo** |
-| 5 | Phone **if needed** — short OsmAnd / photos / msgs | Armor **~8–20 min** · skip on easy days |
+| 5 | Phone — **Topo GPS screenshot** (import 66i GPX) / short OsmAnd / photos | Armor **~10–20 min** · GPS **off** · skip screenshot only if wrecked |
 | 6 | Reading | Kindle (no charge) · Fairbuds if wanted |
 | 7 | Pre-sleep | Phone **airplane mode** · Storm off · **phone + Zolo** in **bag foot** · 66i stays on body or bag top |
 
