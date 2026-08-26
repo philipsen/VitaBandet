@@ -189,7 +189,7 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 | **Phone** | **Ulefone Power Armor 14 Pro** · OsmAnd+ backup · GPX · occasional camp nav |
 | **Suunto Vertical 2** | ✓ — **Primary on-trail nav** · offline route · GPS while skiing · **no offline GPX to phone** |
 | **1× 20k power bank** | Primary recharge — **always warm on body** · full at every ★ |
-| **USB headlamp** | **Buy** — **BD Storm 500-R** ~€54–70 · see [headlamp](#headlamp-usb) |
+| **USB headlamp** | 📦 **BD Storm 500-R** — see [headlamp](#headlamp-usb) |
 
 ### inReach — 66i vs Mini 2 (consider replace)
 
@@ -328,14 +328,14 @@ Source of truth is still **screenshot + Notes**, not the IG draft.
 
 ### Power
 
-**Need:** **Storm 500-R** · inReach plan — banks/wall/cables · **Armor 14 Pro** ✓ — see [power banks & cables](#power-banks-wall-charger--cables).
+**Need:** inReach plan · **Storm 500-R** 📦 · banks/wall/cables · **Armor 14 Pro** ✓ — see [power banks & cables](#power-banks-wall-charger--cables).
 
 | Item | Qty | Notes |
 |------|-----|-------|
 | Power bank 20k USB-C PD | **1** ✓ | **Anker Zolo 20k · 30 W** — warm in jacket · **2nd bank stays home** |
 | **Anker 100 W · 3 ports · Smart Display** | 1 ✓ | Resupply — bank + phone overnight |
 | USB-C cables (braided) | **3** ✓ | Armor · bank · Fairbuds / CO / Kindle |
-| **USB headlamp** | **1** | **Buy Storm 500-R** — see [headlamp](#headlamp-usb) |
+| **USB headlamp** | **1** | 📦 **Storm 500-R** — see [headlamp](#headlamp-usb) |
 | **micro-USB cable** | **1** | **Buy** — **66i** + Storm share |
 
 Charge at every **★** resupply; sleep with phone + one bank in bag foot on cold tent nights. **Daily plan:** [power-plan-2027.md](./power-plan-2027.md).
@@ -344,7 +344,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 ## Power banks, wall charger & cables
 
-**Status:** **Owned** — **1× Anker Zolo 20k · 30 W** (A1689) on trail ✓ · **2nd Zolo at home** · **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) ✓ · **3× USB-C cables** ✓ · **Armor 14 Pro** ✓. **Still need:** **Storm 500-R** + micro-USB cable · inReach plan. **No Fairphone for 2027.**
+**Status:** **Owned** — **1× Anker Zolo 20k · 30 W** (A1689) on trail ✓ · **2nd Zolo at home** · **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) ✓ · **3× USB-C cables** ✓ · **Armor 14 Pro** ✓. **Storm 500-R** 📦. **Still need:** short micro-USB cable · inReach plan. **No Fairphone for 2027.**
 
 **Job:** Keep **GPSMAP 66i**, **Armor 14 Pro**, and **USB headlamp** alive between shops (**~8–10 days** typical; Padjelanta longer).
 
@@ -356,13 +356,13 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 | **Wall charger** | B121BGZ1 · **100 W** · 3 ports + display | Resupply / hut only · 1.5 m C–C in box |
 | **USB-C cables** | Braided **30–60 cm** ×3 | Armor · phone · bank · optional spare in repair pouch |
 
-**On trip:** bank warm on body · ★ shops refill bank overnight · legs **>7 days** need mid-leg hut/★ ([power plan](./power-plan-2027.md) — **Ammarnäs D39** on Hemavan→Kvikkjokk). **Still buy:** **Storm 500-R** + micro-USB ([headlamp](#headlamp-usb)).
+**On trip:** bank warm on body · ★ shops refill bank overnight · legs **>7 days** need mid-leg hut/★ ([power plan](./power-plan-2027.md) — **Ammarnäs D39** on Hemavan→Kvikkjokk). **Still buy:** short micro-USB for **66i** + Storm ([headlamp](#headlamp-usb)).
 
 ---
 
 ## Headlamp (USB)
 
-**Status:** **Buy** — **Black Diamond Storm 500-R** (~€54–70 · **micro-USB** · [BD EU](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp)).
+**Status:** 📦 **on the way** — **Black Diamond Storm 500-R** (~€54–70 · **micro-USB** · [BD EU](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp)).
 
 **Job:** Tent setup, cooking, melting, vestibule tasks, late hut arrival — **Feb–Apr dark hours**. Not primary nav (**Suunto** on trail · **OsmAnd** occasional). Charge from warm bank / ★ wall — pack **1× short micro-USB** (or C→micro).
 
@@ -393,7 +393,7 @@ Indicative — check retailer before buying; sales move fast.
 
 *Low = manufacturer ANSI lowest white mode (room-temp). Cold cuts real burn time.*
 
-**Cable note:** Storm + **66i** share **1× short micro-USB** (or C→micro) — not in the C–C kit. Buy with the lamp (or sooner for 66i shakedowns).
+**Cable note:** Storm + **66i** share **1× short micro-USB** (or C→micro) — not in the C–C kit. Check the box; if BD didn’t include a short one, still buy.
 
 **Skip:** proprietary dock-only lamps (hard to charge in hut).
 
@@ -410,7 +410,7 @@ Indicative — check retailer before buying; sales move fast.
 
 **Shakedown:** pitch **Nammatj** at dusk with gloves; confirm band over hat and USB charge from power bank.
 
-**Verdict:** **Buy Storm 500-R** — 500 lm · IP67 · long low burn · dimmable RGB. Accept **micro-USB** + one short cable. Alts: **NU43** / **Actik** if you want USB-C only.
+**Verdict:** **Storm 500-R** 📦 — 500 lm · IP67 · long low burn · dimmable RGB. Accept **micro-USB** + one short cable. Alts unused.
 
 ---
 

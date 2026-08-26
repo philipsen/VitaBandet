@@ -189,51 +189,52 @@ Official: [Vad och vem får du ta med](https://www.dalatrafik.se/sa-reser-du-med
 **You travel light** (daypack + ski bag). **Jemtlander 14 packed ~25 kg** goes PostNL/DHL to STF — [ship](#ship-pulk--gear--food-ahead). **No alkylate on any train.**  
 Feb/Apr **2027** tickets are **not all on sale yet**. Times below are **locked products + live Aug 2026 patterns**. Re-check when booking opens.
 
-**Calendar:** D1 = **Mon 15 Feb 2027**. RDC sleeper Hamburg→Stockholm runs **Mon / Wed / Fri** only.
+**Calendar:** D1 = **Mon 15 Feb 2027**. RDC sleeper Hamburg→Stockholm runs **Mon / Wed / Fri** only. **★ Leave NL Wednesday** — weekday 396 + **2–3 nights** at Grövelsjön before D1. Friday sleeper is the compressed backup.
 
-#### ★ Working outbound — Fri 12 → Sun 14 Feb 2027
+#### ★ Working outbound — Wed 10 → Fri 12 Feb 2027
 
 ```text
-Fri 12 Feb  NL ──ICE──► Hamburg Hbf (arrive by ~18:00)
+Wed 10 Feb  NL ──ICE──► Hamburg Hbf (arrive by ~18:00)
                  └── RDC EN346 21:53 ──overnight──►
-Sat 13 Feb  Stockholm C 09:45 ──SJ IC──► Mora (~17:30)
+Thu 11 Feb  Stockholm C 09:45 ──SJ IC afternoon──► Mora (~17:30)
                  └── night Mora
-Sun 14 Feb  Mora 07:20 ──396──► Grövelsjön ~10:40
+Fri 12 Feb  Mora 14:35 (or 11:00) ──396──► Grövelsjön ~17:56 (or ~14:22)
                  └── unpack pulk · night STF / Sjöstugan
+Sat 13–Sun 14  rest · shop · alkylate · pulk check
 Mon 15 Feb  D1 ski
 ```
 
 | When | Hop | Times (local) | Cost (advance) | Book |
 |------|-----|---------------|----------------|------|
-| **Fri 12** | **ICE** Amsterdam C / **Amersfoort** / Hengelo → **Hamburg Hbf** | **~4–4.5 h** from Amersfoort · **4 trains/day** from **13 Dec 2026** (works through **Dec 2027**) · *exact clock times on sale **15 Oct 2026*** · pick a train that is in Hamburg **by ~18:00** (RDC wants **≥2 h** before the sleeper) | from **€33** (NS) · Super Sparpreis often **€20–50** · late **€70–120** | [nsinternational.com](https://www.nsinternational.com/) · [bahn.de](https://int.bahn.de) |
-| **Fri 12** | **RDC EuroNight EN346** Hamburg Hbf → Stockholm C | **21:53 → 09:45 Sat** · **Fri** is a traffic day | Couchette from **~€40–45** · 2-berth from **~€80** · single from **~€165** | [nachtexpress.de](https://www.nachtexpress.de/en/booking) · book **couchette/sleeper**, not a seat |
-| **Sat 13** | **SJ InterCity** Stockholm C → Mora | Pattern (normal, ~**3h50**): **~09:44 → ~13:31** and **~13:41 → ~17:35** (plus an evening). **Do not** use ~09:44 — sleeper arrives **09:45**. Take the **afternoon** IC. *(Aug 2026 diversion: **11:00 → 15:31** / **19:01 → 23:24**, ~4h25 — winter 2027 should be back to ~3h50.)* | from **~189 SEK (€17)** · typical **~350 SEK (€32)** | [sj.se](https://www.sj.se) |
-| **Sat 13** | **Night Mora** | Afternoon IC lands **after** Saturday **396** (last useful ~**16:35**) | Hotel **~€60–100** | Book when SJ time is firm |
-| **Sun 14** | **Dalatrafik 396** Mora resecentrum → **Grövelsjön fjällstationen** | Weekend pattern: **07:20 → ~10:40** ★ · also **11:00 → ~14:22** | **60 SEK** | [Dalatrafik app](https://www.dalatrafik.se/) · **Feb 2027 winter TT not out yet** — these are **autumn 2026** times |
-| **Sun 14** | Night Grövelsjön | Unpack shipped pulk · fill alkylate | STF / Sjöstugan | already on start plan |
+| **Wed 10** | **ICE** Amsterdam C / **Amersfoort** / Hengelo → **Hamburg Hbf** | **~4–4.5 h** from Amersfoort · **4 trains/day** from **13 Dec 2026** · *clock times on sale **15 Oct 2026*** · in Hamburg **by ~18:00** (RDC wants **≥2 h**) | from **€33** · often **€20–50** · late **€70–120** | [nsinternational.com](https://www.nsinternational.com/) · [bahn.de](https://int.bahn.de) |
+| **Wed 10** | **RDC EuroNight EN346** Hamburg Hbf → Stockholm C | **21:53 → 09:45 Thu** | Couchette **~€40–45** · 2-berth **~€80** · single **~€165** | [nachtexpress.de](https://www.nachtexpress.de/en/booking) · couchette/sleeper, not a seat |
+| **Thu 11** | **SJ InterCity** Stockholm C → Mora | **~3h50**. Sleeper **09:45** misses the **~09:44** IC. Take the **afternoon** (~**13:41 → ~17:35**). | from **~189 SEK** · typical **~350 SEK** | [sj.se](https://www.sj.se) |
+| **Thu 11** | **Night Mora** | **No same-day** Stockholm → Grövelsjön (sleeper 09:45 is after the morning IC; afternoon IC is after the last **396**) | **€60–100** | required |
+| **Fri 12** | **Dalatrafik 396** Mora → **Grövelsjön fjällstationen** | Weekday: **11:00 → ~14:22** · **14:35 → ~17:56** ★ · **16:22 / 16:35 → ~19:45–20:00** | **60 SEK** | [Dalatrafik](https://www.dalatrafik.se/) · **Feb 2027 winter TT not out** — autumn 2026 pattern |
+| **Fri 12 – Sun 14** | Grövelsjön | Unpack shipped pulk · fill alkylate · rest | STF / Sjöstugan **~3 nights** | book when travel locked |
 
-**Outbound tickets + Mora night:** **~€170–330**. **Parcel extra ~€55–90.** Door-to-fjäll **~ Fri afternoon → Sun late morning**.
+**Outbound tickets + Mora night:** **~€170–330**. **+ ~2 extra hut nights** vs arriving Sunday. **Parcel ~€55–90.** Ship pulk **~28 Jan** for pickup from **Thu 11**.
 
-**Utrecht / home:** the Hamburg ICE stops **Amsterdam C · Hilversum · Amersfoort · Apeldoorn · Deventer · Hengelo** — **not Utrecht**. NS to **Amersfoort** (~15 min) or start at **Amsterdam C**. Luggage on ICE: whatever you can carry (ski bag OK).
+**Why Wednesday, not Friday:** Friday sleeper → Stockholm **Saturday** 09:45 → Mora too late for Saturday 396 → extra Mora night and only **one** night at the start. Wednesday gives a **weekday** 396 and **Fri–Sun** at Grövelsjön.
 
-**RDC luggage (pulk already shipped):** **1 bag max 90×60×40 cm / 20 kg** + small daypack. Skis in a **ski bag**, stow in the compartment. Oversize → extra berth. **No fuel.** [RDC FAQ](https://www.nachtexpress.de/en/faq/).
+**Utrecht / home:** Hamburg ICE stops **Amsterdam C · Hilversum · Amersfoort · Apeldoorn · Deventer · Hengelo** — **not Utrecht**. NS to **Amersfoort** (~15 min) or **Amsterdam C**. Ski bag OK on ICE.
 
-#### Same-day Mora→Grövelsjön? Unlikely
+**RDC luggage (pulk shipped):** **1 bag 90×60×40 cm / 20 kg** + daypack. Skis in a **ski bag**. Oversize → extra berth. **No fuel.** [RDC FAQ](https://www.nachtexpress.de/en/faq/).
 
-Saturday **396** useful deps are **07:20 / 11:00 / ~14:35–16:35**. After a **09:45** sleeper you only make an **afternoon** IC into Mora **~17:30**, which **misses** 396. **Do not** plan a same-day bus. Taxi Mora→Grövelsjön Sat evening is the only same-day option (quote **Mora Taxi 0250-15 000** — expect **high hundreds to ~1 000+ SEK**).
+#### No same-day Stockholm → Grövelsjön
 
-#### Bus last mile instead of 396
+Sleeper **09:45** into Stockholm C. The SJ IC that would feed a useful **396** has **already left** (~**09:44**). The next IC (~**13:41**) puts you in Mora **after** the last 396 (~**16:35**). Fjällexpressen morning coaches have also gone. **Night Mora Thursday · 396 Friday.** Do not plan a taxi to “make” Thursday.
 
-**Fjällexpressen** Stockholm → Grövelsjön (~**10 h**, rast Rättvik). Season **~mid-Dec → mid-Apr**. Booking for **2026/27** opens **early Sep 2026**. Biggest days **Thu / Sat / Sun**. A **Saturday morning** coach will have **left before 09:45**. Use it only as a **Sunday** bus (Stockholm Sat night → Grövelsjön Sun) — slower than Mora + **07:20** 396. Dynamic fare (typically a few hundred SEK) · STF **20 %**. Pulk is **shipped**, so you only need **specialbagage 55 SEK** if you bring skis.
+#### Compressed / earlier backups
 
-#### If the Friday sleeper is sold out
+| Option | When | Notes |
+|--------|------|-------|
+| **Fri 12** EN346 (compressed) | Hamburg **21:53** → Stockholm **Sat 13 09:45** | Mora Sat night · **396 Sun 07:20** · **one** night at start · if Wed is sold out |
+| **Mon 8** EN346 (staging week) | → Stockholm **Tue 9 09:45** | Weekday 396 **Tue/Wed** · extra hut nights |
+| Day trains AMS → Cph → Stockholm | 2 long days | No sleeper · similar money |
+| FlixBus AMS → Stockholm | **24–30 h** · **€90–250** | **Only if trains fail** |
 
-| Fallback | When | Notes |
-|----------|------|-------|
-| **Wed 10 Feb** EN346 | Hamburg **21:53** → Stockholm **Thu 11 09:45** | Then weekday IC + **396 14:35 / 16:22** **same day** into Grövelsjön ~**18–20**. Extra **3 nights** at start |
-| **Mon 8 Feb** EN346 | Even earlier | Only if you want a long staging week |
-| Day trains AMS → Cph → Stockholm | 2 long days | ICE + Øresund/SJ · **no sleep** · similar money · then same SJ + 396 |
-| FlixBus AMS → Stockholm | **24–30 h** · **€90–250** | **Only if trains fail** · then SJ + 396 |
+**Fjällexpressen** (~**10 h** Stockholm → Grövelsjön): biggest days **Thu / Sat / Sun**; morning coaches leave **before** a 09:45 sleeper arrival. Not better than Mora + 396 on this timing. Booking **early Sep 2026**.
 
 #### Return — ~Sun 25 Apr cairn → NL (train)
 
@@ -280,17 +281,17 @@ No companion / no Mora car. You travel light; **Jemtlander 14 packed to ~25 kg**
 
 #### You — outbound (NL → Grövelsjön)
 
-**Dated itinerary (times + fares):** [Option A](#option-a--train-nl--grövelsjön-pulk-shipped--if-car-drops) — **Fri 12 → Sun 14 Feb 2027**.
+**Dated itinerary (times + fares):** [Option A](#option-a--train-nl--grövelsjön-pulk-shipped--if-car-drops) — **Wed 10 → Fri 12 Feb 2027**.
 
 | Hop | Time | Typical fare (book ahead) | Tight / late |
 |-----|------|---------------------------|--------------|
-| **ICE** Amersfoort/AMS → **Hamburg Hbf** | **~4–4.5 h** · 4/day from 13 Dec 2026 | from **€33** · often **€20–50** | **€70–120** |
-| **RDC EN346** Hamburg → Stockholm | **Fri 21:53 → Sat 09:45** | Couchette **~€40–45** · 2-berth **~€80** · single **~€165** | Sold out → Wed 10 Feb sleeper |
-| **SJ IC** Stockholm → Mora | **~3h50** afternoon (after 09:45) | from **~189 SEK (€17)** · avg **~350 SEK** | **~500–700 SEK** |
-| **Night Mora** (miss Saturday 396) | 1 | **€60–100** | |
-| **396** Mora → Grövelsjön | Sun **07:20 → ~10:40** | **60 SEK** | same |
+| **ICE** Amersfoort/AMS → **Hamburg Hbf** | **Wed** · **~4–4.5 h** · 4/day from 13 Dec 2026 | from **€33** · often **€20–50** | **€70–120** |
+| **RDC EN346** Hamburg → Stockholm | **Wed 21:53 → Thu 09:45** | Couchette **~€40–45** · 2-berth **~€80** · single **~€165** | Sold out → Fri 12 or Mon 8 |
+| **SJ IC** Stockholm → Mora | **Thu** afternoon **~3h50** | from **~189 SEK** · avg **~350 SEK** | **~500–700 SEK** |
+| **Night Mora** | **Thu** (required) | **€60–100** | no same-day 396 |
+| **396** Mora → Grövelsjön | **Fri 14:35 → ~17:56** (or **11:00**) | **60 SEK** | same |
 
-**Outbound total:** **~€170–330** + parcel **~€55–90**. **~ Fri afternoon → Sun morning.**
+**Outbound total:** **~€170–330** + **~3 hut nights** + parcel **~€55–90**. **Wed afternoon → Fri evening.**
 
 **RDC luggage:** 1 bag **90×60×40 cm / 20 kg** + daypack · skis in a bag. **Pulk is not on this train.** ICE: carry-on, no fee. **No alkylate.**
 
@@ -372,7 +373,7 @@ SWEDEN
 
 **Bussgods** to STF huts is a **Sweden-internal** bus-freight product (BankID / pay at a SE terminal). Useful **after** a parcel is already in Mora/Stockholm — not the NL→SE hop.
 
-Send **10–14 days before you arrive** (aim **1 Feb** for a **13 Feb** pickup). Confirm STF is **open** and will hold until your night. Email **grovelsjon@stfturist.se** that a **~25 kg pulk-shaped parcel** is coming.
+Send **10–14 days before you arrive** (aim **~28 Jan** for a **Thu 11 / Fri 12** pickup). Confirm STF is **open** and will hold until your night. Email **grovelsjon@stfturist.se** that a **~25 kg pulk-shaped parcel** is coming.
 
 #### vs driving
 
@@ -523,7 +524,7 @@ Finish hub (Kiruna / Tromsø / Stockholm)
 - [ ] Confirm **Mora parking** for **~10–14 days**: **resecentrum långtid 25011** (or månadsbiljett **200 SEK**) · hotel/guest if offered · insurance / named driver
 - [ ] Plan **drive NL → Mora** (overnights · ferry/bridge)
 - [ ] Book **Dalatrafik 396** Mora → Grövelsjön (**60 SEK**/adult länszon) · confirm **2 pulkor** with **0771-95 95 95**
-- [ ] **Recheck winter 396 timetable** (Dec 2026–Jan 2027) for **13–14 Feb** · PDF via tidtabeller search **396**
+- [ ] **Recheck winter 396 timetable** (Dec 2026–Jan 2027) for **Fri 12 Feb** (PT) / **13–14 Feb** (car) · PDF via tidtabeller search **396**
 - [ ] Soft-pack pulks · ski bags · **no alkylate on bus** (leave in car or fill at start)
 - [ ] Quote **Mora Taxi** backup (**0250-15 000**) if hold full
 - [ ] Book **nights Grövelsjön** (Sjöstugan / STF)
@@ -575,7 +576,7 @@ Finish hub (Kiruna / Tromsø / Stockholm)
 | 2 | **Where park in Mora?** | **★ Resecentrum långtid 25011** (walk to 396) · hotel/guest if offered · airport free only as backup |
 | 3 | Bus vs **taxi** Mora→Grövelsjön with 2 pulks? | Try **396** (**120 SEK** pair) · call ahead · taxi quote as backup |
 | 4 | Your exit: **Kilpisjärvi → Kiruna → train** vs **Tromsø**? | **Kilpisjärvi → Kiruna → SJ south** |
-| 5 | Arrive Grövelsjön **1 or 2** nights early? | **2** |
+| 5 | Arrive Grövelsjön **1 or 2** nights early? | **★ ~3** (Wed sleeper → Fri 396) · Fri sleeper = 1 night only |
 | 6 | If car still Mora: **you collect (2a/2b)** vs **paid retrieval (2c)**? | Prefer **2a** if fit · else **2c** |
 | 7 | Mora parking: short (**~14 d**) only, or bookable through **Apr**? | **~14 d** at 25011 enough if companion confirmed · Case 2: same lot **through Apr** (~**1 800 SEK** hourly or **200 SEK**/month) |
 
@@ -592,4 +593,4 @@ Finish hub (Kiruna / Tromsø / Stockholm)
 | 2026-08-19 | **396 schedules** logged from autumn PDF + planner · **Feb 2027 winter TT not out yet** |
 | 2026-08-19 | Finish→home expanded: Case 1 car already NL · Case 2 car still Mora (2a/2b/2c) |
 | 2026-08-19 | Mora parking: no free unlimited town · **★ resecentrum långtid 25011** (1–2 SEK/h) · månadsbiljett **200 SEK** · airport free långtid 6 km, no bus |
-| 2026-08-26 | PT + ship: **Fri 12 Feb** ICE → RDC **21:53** → Stockholm **09:45** Sat → afternoon SJ → **night Mora** → Sun **396 07:20**. Pulk **25 kg** house parcel. Return **SJ93** from **13 Dec 2026** + RDC **Tue 27 Apr 17:29**. ICE Hamburg **4/day** from Dec 2026. |
+| 2026-08-26 | PT outbound **★ Wed 10 Feb** ICE + RDC **21:53** → Stockholm **Thu 09:45** → Mora night → **Fri 396 14:35**. Fri 12 sleeper = compressed backup. Pulk ship **~28 Jan**. |

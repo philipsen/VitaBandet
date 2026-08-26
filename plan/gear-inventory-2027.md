@@ -128,7 +128,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | USB-C cables | braided **30–60 cm** | 3 | **~15** | **~45** | ✓ | | Armor · bank / wall · Fairbuds |
 | micro-USB cable | short **C→micro** | 1 | **~10** | **~10** | | **Buy** | **66i** + **Storm 500-R** |
 | USB-C cable spare | braided **30–60 cm** | 1 | **~15** | **~15** | | ? | Repair / nav pouch — optional |
-| Headlamp | **BD Storm 500-R** (micro-USB) | 1 | **120** | **120** | | **Buy** | 500 lm · 2400 mAh · IP67 · [BD](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp) |
+| Headlamp | **BD Storm 500-R** (micro-USB) | 1 | **120** | **120** | | 📦 | 500 lm · 2400 mAh · IP67 · [BD](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp) |
 | Compass | baseplate (e.g. Silva Ranger) | 1 | **33** | **33** | ✓ | | Weigh yours on shakedown |
 | Paper maps | **Calazo 1:100k** + **1:50k** | mix | **~400** | **~400** | 1:50k ✓ | **Buy 5** | Skip 1:100k #5–7 · [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k) |
 | **Nav / comms subtotal** | | | | **~1 924** | | | Confirm **66i** + compass on shakedown |
@@ -235,7 +235,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 
 1. **Long skins** — reglue or replace *(wax + glue tube ✓)*  
 2. **Ski poles** — still **Combat V2** ★ (Speed Trail owned but max **140** + bent) + spare baskets for **new** pair · Varuste VIP  
-3. **Power / nav** — **USB headlamp** · OsmAnd maps on **Armor 14 Pro** · inReach plan *(Suunto V2 ✓ · phone ✓ · 1× Zolo on trail ✓ · 100 W wall ✓ · cables ✓)*  
+3. **Power / nav** — OsmAnd maps on **Armor 14 Pro** · inReach plan · short **micro-USB** *(**Storm 500-R** 📦 · Suunto V2 ✓ · phone ✓ · 1× Zolo on trail ✓ · 100 W wall ✓ · cables ✓)*  
 4. **New ski socks** (4–5) + **down booties**; **Sirex Everest 10** foam (~€15)  
 5. Fill **2× 1 L** bottles (OmniLite service kit ✓ — in stove kit)  
 6. **Nammatj 3 GT** 📦 — shakedown when it arrives · Nallo spare — [tent](./gear-considerations-2027.md#tent--nammatj-3-gt)

@@ -12,7 +12,8 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Down booties** — **Rab Down Hut Slipper** (~€45–65) — [booties](./gear-considerations-2027.md#down-booties-camp)
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
-- [ ] **USB headlamp** — **BD Storm 500-R** (~€54–70 · micro-USB) + short charge cable — [headlamp](./gear-considerations-2027.md#headlamp-usb)
+- [x] **USB headlamp** — **BD Storm 500-R** 📦
+- [ ] short **micro-USB** cable (Storm + **66i** share) — [headlamp](./gear-considerations-2027.md#headlamp-usb)
 - [x] **1× Anker Zolo** 20k · 30 W (A1689) ✓ — warm in jacket · 2nd at home — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
 - [x] **Anker Charger (100 W, 3 Ports, Smart Display)** (B121BGZ1) ✓ + **3× braided USB-C–C** short cables ✓
 - [x] **Suunto Vertical 2** — primary on-trail nav + charge cable ✓
@@ -87,7 +88,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [x] Compass
 - [ ] **Calazo 1:100k** maps — carry **current + next** sheet; rest in map pouch / pulk top
 - [x] **1× power bank** (Anker Zolo 20k) ✓ — **always warm in jacket** while skiing
-- [ ] **USB headlamp** (Storm 500-R) + **micro-USB** charge cable
+- [ ] **USB headlamp** (Storm 500-R) 📦 + **micro-USB** charge cable
 
 ---
 
