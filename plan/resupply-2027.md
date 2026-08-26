@@ -550,16 +550,21 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 
 ## Suggested carry between shops (solo pulk)
 
-| Leg | Days | Shop at start | Target carry |
-|-----|------|---------------|--------------|
-| Grövelsjön → Storlien | 8 | Day 1 | 8–9 days food; **alkylate** — start full from home (or split via **Hamra Livs Tänndalen d4**) |
-| → Gäddede | 14 | Day 10 Storlien | 10–12 days (or split: **D15 Kolåsen** → **D21 Valsjöbua** ★ → **D24 Gäddede**; optional **Blåsjöfjäll** detour D23–24) |
-| → Hemavan | 10 | Day 24 Gäddede | 9–10 days (or split: **Saxnäs detour** d~26–27 or **Klimpfjäll Handlar'n** d~28, then **D34 Hemavan**) |
-| → Kvikkjokk | 12 | Day 34 Hemavan ★ | 11–12 days · **max alkylate** · **D39 Ammarnäs** for food **+ bank charge** (1× Zolo plan) · or **D42 Adolfström** / **D41 Vuoggatjålme** H |
-| → Ritsem | 6–7 | Day 47 | **Max leg** — food + **all alkylate** for Padjelanta-west to Ritsem |
-| → Sälka | 3 | Day 55 Ritsem | KL hut snacks optional |
-| → Abisko | 7 | Day 55 Ritsem ★ | **Refill alkylate** (Power Fuel) + 6–7 days food |
-| → Treriksröset | 6 | Day 62 Abisko ★ | **7–8 days food**; **~2 L alkylate** |
+**Rate:** **~1.3–1.5 kg food/day** at **~4,000–5,000 kcal** with shop mix (bars, nötter, pasta, tins, Polarbröd, frozen meat, oil). Denser (oil + freeze-dried + nuts) → closer to **~1.0–1.2 kg/day**. Wetter (lots of tins/bread) → **~1.6 kg/day**. Packing budget already: **10-day max 12–16 kg**.
+
+| Leg | Days | Shop at start | Food to **buy** | On pulk leaving shop |
+|-----|------|---------------|-----------------|----------------------|
+| Grövelsjön → Storlien | 8 | Day 1 | **8–9 d** · **~11–14 kg** (or **4–5 d / ~6–8 kg** if Hamra Livs D4) | Same |
+| → Gäddede | 14 | Day 10 Storlien | **10–12 d** · **~13–18 kg** (or split **Valsjöbua D21**) | Heaviest early load |
+| → Hemavan | 10 | Day 24 Gäddede | **9–10 d** · **~12–15 kg** (or **~5 d / ~7 kg** if Klimpfjäll D28) | |
+| → Kvikkjokk | 12 | Day 34 Hemavan ★ | **11–12 d** · **~14–18 kg** (or **~5 d / ~7 kg** + **Ammarnäs D39 ~7 d / ~9–11 kg**) | Heaviest with full alkylate |
+| → Ritsem | 6–7 | Day 47 | **7–8 d** · **~9–12 kg** | Max leg (no shops) |
+| → Abisko | 7 | Day 55 Ritsem ★ | **6–7 d** · **~8–11 kg** | |
+| → Treriksröset | 6 | Day 62 Abisko ★ | **7–8 d** · **~9–12 kg** | DNT huts sell **no** food |
+
+**Trip total (buy on the way):** **~65–70 days** × **1.3–1.5 kg** ≈ **~85–105 kg** of groceries, bought in those chunks — never all at once. Restaurant nights (Hemavan, STF) shave a kilo or two.
+
+**If the J14 ships with ~25 kg packed:** hull ~5.3 kg leaves **~20 kg** for tent/sleep/clothes **and** start food. Typical gear in the bag is **~14–18 kg**, so shipped food is only **~2–6 kg** (**~2–4 days**) unless tent/sleep travel with you on the train. **Plan to buy the D1 load at Grövelsjön** (or Hamra Livs D4), not from NL.
 
 Adjust for your kcal (~4,000–5,000/day pulk). **Where it goes on the sled:** [packing-pulk-2027.md](./packing-pulk-2027.md).
 

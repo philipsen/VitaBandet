@@ -184,31 +184,208 @@ Official: [Vad och vem får du ta med](https://www.dalatrafik.se/sa-reser-du-med
 
 ## Alternatives (if car plan drops)
 
-### Option A — Train + bus
+### Option A — Train NL → Grövelsjön (pulk shipped) ★ if car drops
 
-| Hop | Notes |
-|-----|-------|
-| Home → **Stockholm / Uppsala** | Train from NL/DE |
-| → **Mora** | **SJ** / night train · book **skis + oversized** |
-| → **Grövelsjön** | **Dalatrafik** (~**3.5 h**) |
+**You travel light** (daypack + ski bag). **Jemtlander 14 packed ~25 kg** goes PostNL/DHL to STF — [ship](#ship-pulk--gear--food-ahead). **No alkylate on any train.**  
+Feb/Apr **2027** tickets are **not all on sale yet**. Times below are **locked products + live Aug 2026 patterns**. Re-check when booking opens.
 
-**Book as Resplus** to **Grövelsjön** when offered ([Resrobot](https://www.resrobot.se/) / SJ).  
-**Watch:** **Vasalopps** crowds Mora area ~**20 Feb–1 Mar** (after your start; affects companion return to Mora).
+**Calendar:** D1 = **Mon 15 Feb 2027**. RDC sleeper Hamburg→Stockholm runs **Mon / Wed / Fri** only.
+
+#### ★ Working outbound — Fri 12 → Sun 14 Feb 2027
+
+```text
+Fri 12 Feb  NL ──ICE──► Hamburg Hbf (arrive by ~18:00)
+                 └── RDC EN346 21:53 ──overnight──►
+Sat 13 Feb  Stockholm C 09:45 ──SJ IC──► Mora (~17:30)
+                 └── night Mora
+Sun 14 Feb  Mora 07:20 ──396──► Grövelsjön ~10:40
+                 └── unpack pulk · night STF / Sjöstugan
+Mon 15 Feb  D1 ski
+```
+
+| When | Hop | Times (local) | Cost (advance) | Book |
+|------|-----|---------------|----------------|------|
+| **Fri 12** | **ICE** Amsterdam C / **Amersfoort** / Hengelo → **Hamburg Hbf** | **~4–4.5 h** from Amersfoort · **4 trains/day** from **13 Dec 2026** (works through **Dec 2027**) · *exact clock times on sale **15 Oct 2026*** · pick a train that is in Hamburg **by ~18:00** (RDC wants **≥2 h** before the sleeper) | from **€33** (NS) · Super Sparpreis often **€20–50** · late **€70–120** | [nsinternational.com](https://www.nsinternational.com/) · [bahn.de](https://int.bahn.de) |
+| **Fri 12** | **RDC EuroNight EN346** Hamburg Hbf → Stockholm C | **21:53 → 09:45 Sat** · **Fri** is a traffic day | Couchette from **~€40–45** · 2-berth from **~€80** · single from **~€165** | [nachtexpress.de](https://www.nachtexpress.de/en/booking) · book **couchette/sleeper**, not a seat |
+| **Sat 13** | **SJ InterCity** Stockholm C → Mora | Pattern (normal, ~**3h50**): **~09:44 → ~13:31** and **~13:41 → ~17:35** (plus an evening). **Do not** use ~09:44 — sleeper arrives **09:45**. Take the **afternoon** IC. *(Aug 2026 diversion: **11:00 → 15:31** / **19:01 → 23:24**, ~4h25 — winter 2027 should be back to ~3h50.)* | from **~189 SEK (€17)** · typical **~350 SEK (€32)** | [sj.se](https://www.sj.se) |
+| **Sat 13** | **Night Mora** | Afternoon IC lands **after** Saturday **396** (last useful ~**16:35**) | Hotel **~€60–100** | Book when SJ time is firm |
+| **Sun 14** | **Dalatrafik 396** Mora resecentrum → **Grövelsjön fjällstationen** | Weekend pattern: **07:20 → ~10:40** ★ · also **11:00 → ~14:22** | **60 SEK** | [Dalatrafik app](https://www.dalatrafik.se/) · **Feb 2027 winter TT not out yet** — these are **autumn 2026** times |
+| **Sun 14** | Night Grövelsjön | Unpack shipped pulk · fill alkylate | STF / Sjöstugan | already on start plan |
+
+**Outbound tickets + Mora night:** **~€170–330**. **Parcel extra ~€55–90.** Door-to-fjäll **~ Fri afternoon → Sun late morning**.
+
+**Utrecht / home:** the Hamburg ICE stops **Amsterdam C · Hilversum · Amersfoort · Apeldoorn · Deventer · Hengelo** — **not Utrecht**. NS to **Amersfoort** (~15 min) or start at **Amsterdam C**. Luggage on ICE: whatever you can carry (ski bag OK).
+
+**RDC luggage (pulk already shipped):** **1 bag max 90×60×40 cm / 20 kg** + small daypack. Skis in a **ski bag**, stow in the compartment. Oversize → extra berth. **No fuel.** [RDC FAQ](https://www.nachtexpress.de/en/faq/).
+
+#### Same-day Mora→Grövelsjön? Unlikely
+
+Saturday **396** useful deps are **07:20 / 11:00 / ~14:35–16:35**. After a **09:45** sleeper you only make an **afternoon** IC into Mora **~17:30**, which **misses** 396. **Do not** plan a same-day bus. Taxi Mora→Grövelsjön Sat evening is the only same-day option (quote **Mora Taxi 0250-15 000** — expect **high hundreds to ~1 000+ SEK**).
+
+#### Bus last mile instead of 396
+
+**Fjällexpressen** Stockholm → Grövelsjön (~**10 h**, rast Rättvik). Season **~mid-Dec → mid-Apr**. Booking for **2026/27** opens **early Sep 2026**. Biggest days **Thu / Sat / Sun**. A **Saturday morning** coach will have **left before 09:45**. Use it only as a **Sunday** bus (Stockholm Sat night → Grövelsjön Sun) — slower than Mora + **07:20** 396. Dynamic fare (typically a few hundred SEK) · STF **20 %**. Pulk is **shipped**, so you only need **specialbagage 55 SEK** if you bring skis.
+
+#### If the Friday sleeper is sold out
+
+| Fallback | When | Notes |
+|----------|------|-------|
+| **Wed 10 Feb** EN346 | Hamburg **21:53** → Stockholm **Thu 11 09:45** | Then weekday IC + **396 14:35 / 16:22** **same day** into Grövelsjön ~**18–20**. Extra **3 nights** at start |
+| **Mon 8 Feb** EN346 | Even earlier | Only if you want a long staging week |
+| Day trains AMS → Cph → Stockholm | 2 long days | ICE + Øresund/SJ · **no sleep** · similar money · then same SJ + 396 |
+| FlixBus AMS → Stockholm | **24–30 h** · **€90–250** | **Only if trains fail** · then SJ + 396 |
+
+#### Return — ~Sun 25 Apr cairn → NL (train)
+
+**SJ nattåg Kiruna↔Stockholm is direct again from 13 Dec 2026** (Trafikverket contract through **2028**). Pattern (pre-disruption, confirm Apr 2027):
+
+| When | Hop | Times | Cost |
+|------|-----|-------|------|
+| **Sun 25** | Ski cairn → **Kilpisjärvi** | **~11–15 km** · **no April boat** | — |
+| **Sun 25** | Night Kilpisjärvi | Hotel / hut | **€80–150** |
+| **Mon 26** | **Bus** Kilpisjärvi → Karesuvanto/Karesuando → **Kiruna** | Fragile · Matkahuolto + Länstrafiken Norrbotten · **Apr TT not out** | **€50–150** if it runs · **taxi budget €200–400** |
+| **Mon 26** | **SJ93** Kiruna → Stockholm C | **~18:19 → ~10:13 Tue** · ~16 h · station **6 km** west of centrum (free transfer bus) | Seat **~700–900 SEK** · couchette **€100–200** |
+| **Tue 27** | **RDC EN345** Stockholm C → Hamburg Hbf | **17:29 → 05:53 Wed** · southbound **Tue / Thu / Sat** | Couchette from **~€40** |
+| **Wed 28** | **ICE** Hamburg Hbf → Amersfoort / AMS | Morning ICE · **~4–4.5 h** | **€20–80** |
+
+**Return tickets:** **~€250–500** if the north bus exists · **€450–800** with taxi + sleeper + buffer night. **Home Wed 28 Apr** if Mon Kiruna train is caught; else **Thu 29** (next RDC is Thu).
+
+**Book order:** (1) RDC sleeper nights — only three days/week · (2) ICE into Hamburg with **2 h** slack · (3) SJ Stockholm–Mora when the Dec 2026 timetable is up · (4) 396 in the app · (5) Kiruna night train **±1 week** around finish.
+
+---
 
 ### Option B — Winter coach
 
 | Coach | Route | Notes |
 |-------|-------|-------|
-| **Fjällexpressen** | Stockholm / Göteborg / Malmö → **Grövelsjön** | Confirm **Feb 2027** |
+| **Fjällexpressen** | Stockholm / Göteborg / Malmö → **Grövelsjön** | Season ~**mid-Dec → mid-Apr** · dynamic fare · **STF 20 %** (not on extras) · included: **1 suitcase + 1 cabin bag** · **specialbagage 55 SEK** (skis/snowboard — **pulk as the same add-on**) · **pjäxbag 35 SEK** · **no unaccompanied cargo** · **no bikes** · [FAQ](https://fjallexpressen.se/vanliga-fragor) · [villkor](https://fjallexpressen.se/villkor) · [fjallexpressen.se](https://fjallexpressen.se) |
+| **FlixBus** | AMS → Stockholm | **~€90–250** · hold **80×50×30 cm / 20 kg** · bulky sports extra and space-limited |
 | **MasExpressen** | Stockholm → Idre / Grövelsjön | Check ski/pulk policy |
+
+Fjällexpressen is **outbound from a Swedish city** — still need NL → Stockholm. It does **not** run at finish (you’re in the north, and their season ends ~mid-Apr).
+
+**Pulk on Fjällexpressen:** you travel **with** the J14 (passenger luggage), you do **not** send it as a parcel. FAQ “skicka ett paket” = **unaccompanied gods — no**. **Specialbagage 55 SEK** is the ski-hold add-on (“inkluderar skidor eller snowboard”) — a **144 cm Jemtlander** is the same class as a ski bag, not a bike (bikes are the item they refuse). **Pulka is not named** in [villkor](https://fjallexpressen.se/villkor) — book **specialbagage**, mark name + phone, email **info@fjallexpressen.se** that it is a **J14 ~144 cm / ~25 kg**. **Skis + pulk** = **two** extras (2× 55 SEK). Soft-pack, **no alkylate**. Hold opens at the Rättvik rast and the short **Idre Fjäll** stop on the Grövelsjön leg.
 
 ### Gear on the way in (non-car)
 
 | Item | Tip |
 |------|-----|
-| **Pulk** | Soft bag · extra fee risk |
+| **Pulk** | **Shipped** to STF (~25 kg packed J14) — not on the train |
 | **Alkylate** | Fill in SE before D1 if not carrying from home |
 | **Night before D1** | Sjöstugan / STF — book ahead |
+
+### Costed PT + ship-ahead (researched Aug 2026)
+
+No companion / no Mora car. You travel light; **Jemtlander 14 packed to ~25 kg** (dry cargo in the bag) goes as **one house parcel** to **STF Grövelsjön**. Prices are **2026 tariffs / typical advance fares** — Feb/Apr 2027 will move with demand. **€1 ≈ 11 SEK.**
+
+#### You — outbound (NL → Grövelsjön)
+
+**Dated itinerary (times + fares):** [Option A](#option-a--train-nl--grövelsjön-pulk-shipped--if-car-drops) — **Fri 12 → Sun 14 Feb 2027**.
+
+| Hop | Time | Typical fare (book ahead) | Tight / late |
+|-----|------|---------------------------|--------------|
+| **ICE** Amersfoort/AMS → **Hamburg Hbf** | **~4–4.5 h** · 4/day from 13 Dec 2026 | from **€33** · often **€20–50** | **€70–120** |
+| **RDC EN346** Hamburg → Stockholm | **Fri 21:53 → Sat 09:45** | Couchette **~€40–45** · 2-berth **~€80** · single **~€165** | Sold out → Wed 10 Feb sleeper |
+| **SJ IC** Stockholm → Mora | **~3h50** afternoon (after 09:45) | from **~189 SEK (€17)** · avg **~350 SEK** | **~500–700 SEK** |
+| **Night Mora** (miss Saturday 396) | 1 | **€60–100** | |
+| **396** Mora → Grövelsjön | Sun **07:20 → ~10:40** | **60 SEK** | same |
+
+**Outbound total:** **~€170–330** + parcel **~€55–90**. **~ Fri afternoon → Sun morning.**
+
+**RDC luggage:** 1 bag **90×60×40 cm / 20 kg** + daypack · skis in a bag. **Pulk is not on this train.** ICE: carry-on, no fee. **No alkylate.**
+
+FlixBus AMS → Stockholm only if trains fail (**€90–250**, 24–30 h), then same SJ + 396.
+
+#### You — return (Treriksröset → NL)
+
+**Dated itinerary:** [Option A return](#return--sun-25-apr-cairn--nl-train) — aim **home Wed 28 Apr**.
+
+| Hop | Typical fare | Notes |
+|-----|--------------|-------|
+| Kilpisjärvi → Kiruna (bus / taxi) | **€50–150** / taxi **€200–400** | Fragile — [finish](#from-finish--treriksröset--25-apr) |
+| **SJ93** Kiruna **~18:19** → Stockholm **~10:13** | Seat **~700–900 SEK** · couchette **€100–200** | **Direct again from 13 Dec 2026** |
+| **RDC EN345** Stockholm **Tue 17:29** → Hamburg **Wed 05:53** | **€45–165** | Southbound **Tue / Thu / Sat** |
+| ICE Hamburg → NL | **€20–80** | Morning after sleeper |
+| Buffer nights Kilpisjärvi / Kiruna | **€80–160** | |
+
+**Return total:** **~€250–500** if buses connect · **€450–800** with north taxi. **2–4 travel days** after the cairn. Pulk rides home on SJ as special luggage (ski/pulk bag).
+
+**Round-trip PT + parcel:** **~€480–920** typical · **€1 200+** if late + north taxi + sleepers.
+
+#### Ship pulk + gear + food ahead
+
+**Address (STF Grövelsjön receives PostNord):**
+
+```text
+STF Grövelsjön Fjällstation
+Grövelsjövägen 495
+797 92 IDRE
+SWEDEN
+```
+
+**No personal name on the address line** — that diverts the parcel to **Konsum Idre** (only you can collect). Tape an envelope **Till personalen / To the Staff** with **your name, phone, arrival date**. Handling **80 SEK (~€7)** at pickup. [STF shop page](https://www.svenskaturistforeningen.se/boende/stf-grovelsjon-fjallstation/butik/).
+
+**PostNL → Sweden** (2026 consumer, [tarievenboekje](https://www.postnl.nl/tarieven/)):
+
+| Weight | Sweden **pickup** (published) |
+|--------|-------------------------------|
+| 0–2 kg | **€18.75** |
+| 2–5 kg | **€25.50** |
+| 5–10 kg | **€32.75** |
+| **10–20 kg** | **€42.50** |
+
+**Send to the STF street address (huisadres), not a pickup point.** Pickup in this valley is **Konsum Idre** — which is what STF tell you to avoid. PostNL’s published Sweden column is pickup-only; house to Sweden is EUR1 but **not in the sample table** — get a live quote at checkout (expect **~€40–55** for 10–20 kg, not the cheaper German door rate). Max **175 × 78 × 58 cm** · **31.5 kg**. Over **95×70×58** or awkward shape: **non-standard surcharge ~€13.50**. Over max: **~€88–90** extra or **refused**. Transit typically **4–8 working days**.
+
+**Working ship: one packed Jemtlander 14 at ~25 kg** (hull ~5.3 kg + ~20 kg dry cargo in the bag).
+
+| Constraint | J14 packed ~25 kg | Verdict |
+|------------|-------------------|---------|
+| Length × width | **144 × 50 cm** hull | Under **175 × 78** — OK |
+| Height | Keep stack **low** (Jemtlander ~**24 cm** useful) · boxed **≤ 58 cm** | Don’t overfill the 200 L bag |
+| **Sweden pickup** | PostNord ombud max **20 kg** | **No** — would dump at Konsum Idre anyway |
+| **House to STF** | PostNord Home to **35 kg** | **Yes** — this is the product |
+| PostNL consumer | Published Sweden column stops at **20 kg**; NL “groot pakket” often **23 kg** | Checkout may **refuse 25 kg** |
+| Hard max | **31.5 kg** | 25 kg is under |
+| Size surcharge | Longest side **> 95 cm** | **+ ~€13.50** (Sweden) |
+| Heavy surcharge | **> 23 kg** | Extra + **zwaarpakket** labels on 4 sides |
+| Over-max surcharge | **> 175 cm** or **> 31.5 kg** (some products: **> 150 cm and > 20 kg**) | Keep boxed length **< 150 cm** (hull is 144 — thin wrap, not a fat carton) |
+
+**Packing**
+
+- Load **inside the J14 bag**, dense and low — the pulk **is** the box. Wrap the hull in cardboard / heavy wrap so it is a **cuboid** (naked boat-shape = irregular, extra fee or refuse).
+- **Sleeper 200** (200 cm) and **Sled Pack** (205 cm): **fold into the bag**. Do **not** strap them on the outside — that becomes a 200 cm parcel and fails.
+- **No** alkylate, gas, or spare lithium in the pulk. Banks in **hand luggage**; fill fuel in SE.
+- Tape the STF address **without your name** + **Till personalen** envelope. Photo the **scale weight** before drop-off.
+
+**Cost (one parcel)**
+
+| If | Est. |
+|----|------|
+| PostNL house to STF, 25 kg, length < 150 cm | **~€55–90** + **€13.50** long + heavy fee · **+ 80 SEK** STF |
+| PostNL checkout refuses > 23 kg | **DHL** 20–31.5 kg to SE street address — often **~€50–90** + long-goods if they flag 144 cm |
+| Boxed length creeps over **150 cm** | **+ ~€88** over-max · avoid |
+| Shave to **23 kg** | Stays in consumer 20–23 kg band if PostNL offers Sweden house — **~€50–70** + size surcharge |
+
+**If 25 kg of cargo isn’t enough:** second carton 10–20 kg **~€43**, not a second pulk.
+
+**Fallback if PostNL says no:** DHL / UPS to the same STF street address, or pack **23 kg** in the J14 and a **2 kg** leftover in your train bag.
+
+**Bussgods** to STF huts is a **Sweden-internal** bus-freight product (BankID / pay at a SE terminal). Useful **after** a parcel is already in Mora/Stockholm — not the NL→SE hop.
+
+Send **10–14 days before you arrive** (aim **1 Feb** for a **13 Feb** pickup). Confirm STF is **open** and will hold until your night. Email **grovelsjon@stfturist.se** that a **~25 kg pulk-shaped parcel** is coming.
+
+#### vs driving
+
+| | **Drive NL → Mora** (current plan) | **PT + parcels** |
+|--|-------------------------------------|------------------|
+| Outbound | Fuel + 1–2 nights **~€250–450** · pulk in car | Tickets + Mora night **~€170–330** + packed J14 **~€55–90** |
+| Pulk on 396 | Awkward but with you | Waiting at STF — **if the box arrived** |
+| Companion car-home | Still the cheap return of the car | No car to recover — you PT home from the north |
+| Return | PT from Kiruna anyway (Case 1) | Same |
+
+PT + ship **replaces the outbound drive**, not the finish train. One packed **Jemtlander 14 at ~25 kg** is cheaper than two extra cartons — **if** house delivery accepts it and boxed length stays **< 150 cm**. It is **worse** if PostNL refuses 25 kg, the wrap pushes length over 150 cm (**+€88**), or the north bus is a taxi.
+
+**Jan 2027:** live quote at [postnl.nl](https://www.postnl.nl) for **Sweden house, 25 kg, 144×50×~40 cm** · fallback [DHL](https://www.dhl.com) same size · [bahn.de](https://www.bahn.de) · [sj.se](https://www.sj.se) · [nachtexpress.de](https://www.nachtexpress.de/en/booking).
 
 ---
 
@@ -415,4 +592,4 @@ Finish hub (Kiruna / Tromsø / Stockholm)
 | 2026-08-19 | **396 schedules** logged from autumn PDF + planner · **Feb 2027 winter TT not out yet** |
 | 2026-08-19 | Finish→home expanded: Case 1 car already NL · Case 2 car still Mora (2a/2b/2c) |
 | 2026-08-19 | Mora parking: no free unlimited town · **★ resecentrum långtid 25011** (1–2 SEK/h) · månadsbiljett **200 SEK** · airport free långtid 6 km, no bus |
-| 2026-08-19 | Companion PT-easy alts (huts): Hemavan→Ammarnäs · Ritsem→Abisko — see companion plan; §1 still needed for Mora car |
+| 2026-08-26 | PT + ship: **Fri 12 Feb** ICE → RDC **21:53** → Stockholm **09:45** Sat → afternoon SJ → **night Mora** → Sun **396 07:20**. Pulk **25 kg** house parcel. Return **SJ93** from **13 Dec 2026** + RDC **Tue 27 Apr 17:29**. ICE Hamburg **4/day** from Dec 2026. |
