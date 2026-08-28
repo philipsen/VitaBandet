@@ -111,7 +111,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 | Item | Notes |
 |------|-------|
-| **Hilleberg Nammatj 3 GT** (Black) 📦 + **Sled Pack** 📦 | Trail tent on pulk · **Nallo 3GT** spare at home — see gear doc |
+| **Hilleberg Nammatj 3 GT** (Black) ✓ + **Sled Pack** 📦 | Trail tent on pulk · **Nallo 3GT** spare at home — see gear doc |
 | **Åsnes Ingstad BC** + **Alfa Outback Xplore** | Primary ski system |
 | **Jemtlander 14** (200 L) + **Sleeper 200** | Pulk; **Sleeper = sleep system** (bag + pad on sled) |
 | **TOAKS Ti 1600 ml Pot with Pan** | Owned — OmniLite melt + cook |
@@ -123,7 +123,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 ### Buy / test next
 
-**Long skins: reglue/replace**, ski poles, **new merino ski socks** (4–5), **OsmAnd+** maps + GPX on **Armor 14 Pro**, **Calazo** (buy 5× 1:100k · 1:50k ✓), **inReach plan** (66i), **2× 1 L fuel bottles** *(short Åsnes ✓; skin wax + glue ✓; shell ✓; **Ultra 7R** ✓; **DNT key** ✓; **OmniLite** + silencer + **service kit** ✓; **1× Zolo + 100 W wall + cables** ✓; **Armor 14 Pro** ✓; **Suunto Vertical 2** ✓; **Storm 500-R** 📦; merino base + 2× **Hesta** owned; VBL optional; **no Fairphone for 2027**)*.
+**Long skins: reglue/replace**, ski poles, **new merino ski socks** (4–5), **OsmAnd+** maps + GPX on **Armor 14 Pro**, **Calazo** (buy 5× 1:100k · 1:50k ✓), **inReach plan** (66i), **2× 1 L fuel bottles** *(short Åsnes ✓; skin wax + glue ✓; shell ✓; **Ultra 7R** ✓; **DNT key** ✓; **OmniLite** + silencer + **service kit** ✓; **1× Zolo + 100 W wall + cables** ✓; **Armor 14 Pro** ✓; **Suunto Vertical 2** ✓; **Storm 500-R** ✓; merino base + 2× **Hesta** owned; VBL optional; **no Fairphone for 2027**)*.
 
 ### Shakedown trips
 | Date | Location | Duration | Lessons learned |
@@ -145,7 +145,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 - **Emergency contacts:** *(name, phone, relationship × 2)*  
 - **Check‑in schedule:** fixed times (e.g. daily 20:00) + missed-check-in protocol for contacts  
-- **Satellite / nav:** **Suunto Vertical 2** ✓ primary on-trail · **GPSMAP 66i** on body (inReach + SOS) · **Armor 14 Pro** + **OsmAnd** occasional backup · **Calazo** (buy 5× 1:100k · skip #5–7 · Kebnekaise ✓) · **1× Zolo + 100 W wall** ✓ · **BD Storm 500-R** 📦  
+- **Satellite / nav:** **Suunto Vertical 2** ✓ primary on-trail · **GPSMAP 66i** on body (inReach + SOS) · **Armor 14 Pro** + **OsmAnd** occasional backup · **Calazo** (buy 5× 1:100k · skip #5–7 · Kebnekaise ✓) · **1× Zolo + 100 W wall** ✓ · **BD Storm 500-R** ✓  
 - **Turnaround rules:** weather, injury, pace — decide alone before departure  
 - **Insurance:** incl. search & rescue / evacuation  
 - **Share live track** with trusted contact for full expedition  

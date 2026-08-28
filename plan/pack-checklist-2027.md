@@ -12,7 +12,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Down booties** — **Rab Down Hut Slipper** (~€45–65) — [booties](./gear-considerations-2027.md#down-booties-camp)
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
-- [x] **USB headlamp** — **BD Storm 500-R** 📦
+- [x] **USB headlamp** — **BD Storm 500-R** ✓
 - [ ] short **micro-USB** cable (Storm + **66i** share) — [headlamp](./gear-considerations-2027.md#headlamp-usb)
 - [x] **1× Anker Zolo** 20k · 30 W (A1689) ✓ — warm in jacket · 2nd at home — [power](./gear-considerations-2027.md#power-banks-wall-charger--cables)
 - [x] **Anker Charger (100 W, 3 Ports, Smart Display)** (B121BGZ1) ✓ + **3× braided USB-C–C** short cables ✓
@@ -55,7 +55,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 
 ## Shelter & sleep
 
-- [ ] Tent **Nammatj 3 GT** 📦 in **Hilleberg Sled Pack** 📦 + stakes **12+** alu snow/sand + guy line + repair kit — Nallo 3GT spare at home
+- [ ] Tent **Nammatj 3 GT** ✓ in **Hilleberg Sled Pack** 📦 + stakes **12+** alu snow/sand + guy line + repair kit — Nallo 3GT spare at home
 - [ ] Sleeping bag **Lowland K2** + dry bag + **liner** ✓ → **Sleeper 200**
 - [ ] Pad **Exped Ultra 7R** + pump + repair kit + dry bag → **Sleeper 200** (active)
 - [x] Pad **NeoAir XLite** ✓ — **ship to Abisko** (not in pulk · optional switch at D62)
@@ -88,7 +88,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [x] Compass
 - [ ] **Calazo 1:100k** maps — carry **current + next** sheet; rest in map pouch / pulk top
 - [x] **1× power bank** (Anker Zolo 20k) ✓ — **always warm in jacket** while skiing
-- [ ] **USB headlamp** (Storm 500-R) 📦 + **micro-USB** charge cable
+- [ ] **USB headlamp** (Storm 500-R) ✓ + **micro-USB** charge cable
 
 ---
 
@@ -244,7 +244,7 @@ Blog: [andersnoren.se/white-ribbon-planning](https://andersnoren.se/white-ribbon
 | Topic | A light | B Paolo start | C Anders | **Your 2027** |
 |-------|---------|---------------|----------|---------------|
 | Pulk | Rulk hybrid | Acapulka XL 150 | **Jemtlander 17** | **Jemtlander 14** + **Sleeper 200** |
-| Tent | Soulo 1p | Keron 3 | **Nammatj 3 GT** | **Nammatj 3 GT** 📦 |
+| Tent | Soulo 1p | Keron 3 | **Nammatj 3 GT** | **Nammatj 3 GT** ✓ |
 | Sleep transport | Stuff sacks | Piteraq | **Exped Dura Bedding** | **Sleeper 200** |
 | Bag | Marmot −10/−18 | WM Puma −25 | Marmot Col −29 | **Lowland K2** |
 | Pad | Tensor + CCF | Xtherm + Z-Lite | XTherm + Z-Lite | **Ultra 7R** · **Sirex** foam · XLite→Abisko |

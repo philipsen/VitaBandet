@@ -189,7 +189,7 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 | **Phone** | **Ulefone Power Armor 14 Pro** · OsmAnd+ backup · GPX · occasional camp nav |
 | **Suunto Vertical 2** | ✓ — **Primary on-trail nav** · offline route · GPS while skiing · **no offline GPX to phone** |
 | **1× 20k power bank** | Primary recharge — **always warm on body** · full at every ★ |
-| **USB headlamp** | 📦 **BD Storm 500-R** — see [headlamp](#headlamp-usb) |
+| **USB headlamp** | ✓ **BD Storm 500-R** — see [headlamp](#headlamp-usb) |
 
 ### inReach — 66i vs Mini 2 (consider replace)
 
@@ -328,14 +328,14 @@ Source of truth is still **screenshot + Notes**, not the IG draft.
 
 ### Power
 
-**Need:** inReach plan · **Storm 500-R** 📦 · banks/wall/cables · **Armor 14 Pro** ✓ — see [power banks & cables](#power-banks-wall-charger--cables).
+**Need:** inReach plan · **Storm 500-R** ✓ · banks/wall/cables · **Armor 14 Pro** ✓ — see [power banks & cables](#power-banks-wall-charger--cables).
 
 | Item | Qty | Notes |
 |------|-----|-------|
 | Power bank 20k USB-C PD | **1** ✓ | **Anker Zolo 20k · 30 W** — warm in jacket · **2nd bank stays home** |
 | **Anker 100 W · 3 ports · Smart Display** | 1 ✓ | Resupply — bank + phone overnight |
 | USB-C cables (braided) | **3** ✓ | Armor · bank · Fairbuds / CO / Kindle |
-| **USB headlamp** | **1** | 📦 **Storm 500-R** — see [headlamp](#headlamp-usb) |
+| **USB headlamp** | **1** | ✓ **Storm 500-R** — see [headlamp](#headlamp-usb) |
 | **micro-USB cable** | **1** | **Buy** — **66i** + Storm share |
 
 Charge at every **★** resupply; sleep with phone + one bank in bag foot on cold tent nights. **Daily plan:** [power-plan-2027.md](./power-plan-2027.md).
@@ -344,7 +344,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 ## Power banks, wall charger & cables
 
-**Status:** **Owned** — **1× Anker Zolo 20k · 30 W** (A1689) on trail ✓ · **2nd Zolo at home** · **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) ✓ · **3× USB-C cables** ✓ · **Armor 14 Pro** ✓. **Storm 500-R** 📦. **Still need:** short micro-USB cable · inReach plan. **No Fairphone for 2027.**
+**Status:** **Owned** — **1× Anker Zolo 20k · 30 W** (A1689) on trail ✓ · **2nd Zolo at home** · **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) ✓ · **3× USB-C cables** ✓ · **Armor 14 Pro** ✓ · **Storm 500-R** ✓. **Still need:** short micro-USB cable · inReach plan. **No Fairphone for 2027.**
 
 **Job:** Keep **GPSMAP 66i**, **Armor 14 Pro**, and **USB headlamp** alive between shops (**~8–10 days** typical; Padjelanta longer).
 
@@ -362,7 +362,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 ## Headlamp (USB)
 
-**Status:** 📦 **on the way** — **Black Diamond Storm 500-R** (~€54–70 · **micro-USB** · [BD EU](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp)).
+**Status:** **Owned** — **Black Diamond Storm 500-R** (~€54–70 · **micro-USB** · [BD EU](https://eu.blackdiamondequipment.com/products/storm-500-r-rechargeable-headlamp)).
 
 **Job:** Tent setup, cooking, melting, vestibule tasks, late hut arrival — **Feb–Apr dark hours**. Not primary nav (**Suunto** on trail · **OsmAnd** occasional). Charge from warm bank / ★ wall — pack **1× short micro-USB** (or C→micro).
 
@@ -410,7 +410,7 @@ Indicative — check retailer before buying; sales move fast.
 
 **Shakedown:** pitch **Nammatj** at dusk with gloves; confirm band over hat and USB charge from power bank.
 
-**Verdict:** **Storm 500-R** 📦 — 500 lm · IP67 · long low burn · dimmable RGB. Accept **micro-USB** + one short cable. Alts unused.
+**Verdict:** **Storm 500-R** ✓ — 500 lm · IP67 · long low burn · dimmable RGB. Accept **micro-USB** + one short cable.
 
 ---
 
@@ -420,7 +420,7 @@ Indicative — check retailer before buying; sales move fast.
 
 | Label | Fabric | Your tent |
 |-------|--------|-----------|
-| **Black** | Kerlon 1800 — harshest | **Nammatj 3 GT** 📦 on the way |
+| **Black** | Kerlon 1800 — harshest | **Nammatj 3 GT** ✓ |
 | **Red** | Kerlon 1200 — 4-season | **Nallo 3GT** ✓ — spare at home |
 | **Yellow** | 3-season | Skip for Feb |
 
@@ -434,7 +434,7 @@ Indicative — check retailer before buying; sales move fast.
 
 ### Hilleberg Sled Pack (pulka pack)
 
-**On the way** with the Nammatj. ~**200 g** · **205 × 60 cm**. Poles stay **half in the sleeves**, tent folded around them — faster strike/pitch than stuffing the bag.
+**On the way.** ~**200 g** · **205 × 60 cm**. Poles stay **half in the sleeves**, tent folded around them — faster strike/pitch than stuffing the bag.
 
 **On pulk:** strap the Sled Pack **on** the J14 (not inside the cargo bag) so the tent is last-out at camp. Pack is **205 cm**; hull is **144 cm** · Sleeper is **200 cm** — test strap layout on shakedown (overhang vs stack with Sleeper).
 
