@@ -155,7 +155,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | Item | Status |
 |------|--------|
 | Skis · boots · bindings · short skins · **skin wax + glue** | ✅ Own |
-| Pulk J14 · Sleeper 200 · **Nammatj 3 GT** ✓ · **Sled Pack** 📦 · Nallo 3GT spare | 📦 pulka pack · tent/J14/Sleeper/Nallo ✓ |
+| Pulk J14 · Sleeper 200 · **Nammatj 3 GT** ✓ · **Sled Pack** ✓ · Nallo 3GT spare | ✅ Own |
 | Lowland K2 · Ultra 7R · XLite | ✅ Own |
 | OmniLite + silencer · TOAKS pot · 2× 1 L bottles | ✅ Own |
 | CO detector · Leatherman · shovel · first aid | ✅ Own |

@@ -434,7 +434,7 @@ Indicative — check retailer before buying; sales move fast.
 
 ### Hilleberg Sled Pack (pulka pack)
 
-**On the way.** ~**200 g** · **205 × 60 cm**. Poles stay **half in the sleeves**, tent folded around them — faster strike/pitch than stuffing the bag.
+**Owned.** ~**200 g** · **205 × 60 cm**. Poles stay **half in the sleeves**, tent folded around them — faster strike/pitch than stuffing the bag.
 
 **On pulk:** strap the Sled Pack **on** the J14 (not inside the cargo bag) so the tent is last-out at camp. Pack is **205 cm**; hull is **144 cm** · Sleeper is **200 cm** — test strap layout on shakedown (overhang vs stack with Sleeper).
 

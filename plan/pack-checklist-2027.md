@@ -49,13 +49,13 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] Poles **new** (Combat/Traverse — not Speed Trail) + spare baskets for that pair
 - [ ] Pulk **Jemtlander 14** + harness  
 - [ ] **Sleeper 200** on pulk — **bag + pad** in dry bags inside  
-- [ ] **Hilleberg Sled Pack** 📦 — Nammatj strapped on pulk
+- [ ] **Hilleberg Sled Pack** ✓ — Nammatj strapped on pulk
 
 ---
 
 ## Shelter & sleep
 
-- [ ] Tent **Nammatj 3 GT** ✓ in **Hilleberg Sled Pack** 📦 + stakes **12+** alu snow/sand + guy line + repair kit — Nallo 3GT spare at home
+- [ ] Tent **Nammatj 3 GT** ✓ in **Hilleberg Sled Pack** ✓ + stakes **12+** alu snow/sand + guy line + repair kit — Nallo 3GT spare at home
 - [ ] Sleeping bag **Lowland K2** + dry bag + **liner** ✓ → **Sleeper 200**
 - [ ] Pad **Exped Ultra 7R** + pump + repair kit + dry bag → **Sleeper 200** (active)
 - [x] Pad **NeoAir XLite** ✓ — **ship to Abisko** (not in pulk · optional switch at D62)
@@ -261,7 +261,7 @@ Blog: [andersnoren.se/white-ribbon-planning](https://andersnoren.se/white-ribbon
 - [ ] **Spare BC binding** — B carries ~250 g; still open for you.
 - [ ] **IKEA Frakta** — B + C use as pulk organising bag.
 - [ ] **Cooking board** — B plywood (~220 g) or late-trip cardboard under stove.
-- [x] **Hilleberg sled pack** 📦 — with Nammatj · poles in channels · strap on pulk
+- [x] **Hilleberg sled pack** ✓ — with Nammatj · poles in channels · strap on pulk
 - [ ] **Daypack** — C packs Durston while skiing (sweat); keep town/detour pack named on list.
 - [ ] **Late-season slim** — B finish dropped tunnel tent for Duomid; don’t force Feb kit for all of April.
 

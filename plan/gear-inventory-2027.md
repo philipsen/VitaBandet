@@ -2,7 +2,7 @@
 
 **Trip:** solo · S→N · Feb–Apr · ski + **pulk** · ~65 days · mostly **tent**
 
-**Core kit:** Hilleberg **Nammatj 3 GT** ✓ + **Sled Pack** (📦) · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Lowland K2** ✓ · **Exped Ultra 7R** ✓ · **NeoAir XLite** ✓ · **OmniLite Ti** + silencer · **2× 1 L** fuel · **Jemtlander 14** + **Sleeper 200** · **TOAKS 1600 ml** ✓ · **GPSMAP 66i** · **OsmAnd+**
+**Core kit:** Hilleberg **Nammatj 3 GT** ✓ + **Sled Pack** ✓ · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Lowland K2** ✓ · **Exped Ultra 7R** ✓ · **NeoAir XLite** ✓ · **OmniLite Ti** + silencer · **2× 1 L** fuel · **Jemtlander 14** + **Sleeper 200** · **TOAKS 1600 ml** ✓ · **GPSMAP 66i** · **OsmAnd+**
 
 Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). **Comparisons & upgrade paths:** [gear-considerations-2027.md](./gear-considerations-2027.md). **Packing:** [packing-pulk-2027.md](./packing-pulk-2027.md). **Print list:** [pack-checklist-2027.md](./pack-checklist-2027.md).
 
@@ -15,7 +15,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Skis / boots / binding | Ingstad · Outback · Xplore | [details](./gear-considerations-2027.md#ski-system) |
 | Skins | Short ✓ + long after reglue | [skins](./gear-considerations-2027.md#climbing-skins) |
 | Poles | **Combat V2** (own Speed Trail — training) | Varuste VIP |
-| Pulk | **Jemtlander 14** + **Sleeper 200** + **Sled Pack** 📦 | Sleep kit + tent on sled — [packing](./packing-pulk-2027.md) |
+| Pulk | **Jemtlander 14** + **Sleeper 200** + **Sled Pack** ✓ | Sleep kit + tent on sled — [packing](./packing-pulk-2027.md) |
 | Tent | **Nammatj 3 GT** ✓ | [tent](./gear-considerations-2027.md#tent--nammatj-3-gt) · Nallo 3GT spare |
 | Bag | **Lowland K2** ✓ | −35 °C comfort · ~2 kg |
 | Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ (ship to Abisko) · **Sirex Everest 10** foam backup (**Buy**) | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
@@ -68,7 +68,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Item | Model / spec | Qty | Weight (g) | Own | Need | Notes |
 |------|--------------|-----|------------|-----|------|-------|
 | Tent | Hilleberg **Nammatj 3 GT** | 1 | ~4100 | ✓ | **Test** | Trail tent · Kerlon 1800 · weigh packed |
-| Sled / pulka pack | Hilleberg **Sled Pack** | 1 | **~200** | 📦 | **Test** | Tent **on** pulk · poles half-in · [sled pack](./gear-considerations-2027.md#hilleberg-sled-pack-pulka-pack) |
+| Sled / pulka pack | Hilleberg **Sled Pack** | 1 | **~200** | ✓ | **Test** | Tent **on** pulk · poles half-in · [sled pack](./gear-considerations-2027.md#hilleberg-sled-pack-pulka-pack) |
 | Tent (spare) | Hilleberg **Nallo 3GT** | 1 | ~3100 | ✓ | | Leave home unless Nammatj fails |
 | Tent stakes snow/sand | Aluminium | 12+ | | ✓ | **Test** | |
 | Tent repair kit | poles, fabric | 1 | | ✓ | | Comes with **Nammatj** · Nallo kit with spare |
