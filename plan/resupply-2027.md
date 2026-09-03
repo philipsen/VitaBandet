@@ -55,7 +55,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 | Day | Stop | Alkylate? | Where / what to buy | Notes |
 |-----|------|-----------|---------------------|--------|
-| **1** | **Grövelsjön** | **Ask** | STF shop / Fjällbua — outdoor section | Often **canisters only** — **ignore**; start bottles **full from home** |
+| **1** | **Grövelsjön** | **Ask** | Fjällbua / STF — outdoor section | Often **canisters only** — **ignore**; **3 L from home/car** (§1, two people) |
 | **4** | **Tänndalen** (Hamra Livs) | **Unlikely** | Village livs — small selection | Planned **D** · ~6 km detour **west** · food top-up only |
 | **7–8** | **Helags / Sylarna** (väster om · east detour) | **Rare** | STF butik if you detour to stations — winter **5 Mar – 18 Apr 2027** ([scraped](./stf-openings-2027.md)) | On Band track D7–D8 (21–22 Feb): **closed** — tent only |
 | **9** | **Blåhammaren** (väster om · east detour) | **Rare** | STF butik if you detour — winter **5 Mar – 18 Apr 2027** | D9 (23 Feb): **closed** — tent; optional **H** from D19 (5 Mar) |
@@ -139,9 +139,12 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **STF Grövelsjön** shop | Frystorkat, basic groceries, outdoor gear | **Liquid alkylate** if stocked; else **full from home** — **no canisters** | Start bottles **full from home** |
+| **Fjällbua** (Storsätern · Grövelsjövägen 378) | **The village livs** — groceries, frozen, bars, freeze-dried when stocked, Systembolag/apotek ombud | **Unlikely** liquid alkylate — **3 L from home/car** · **no canisters** | — |
+| **STF Grövelsjön** shop | Frystorkat / basics if Fjällbua is thin | Same — ignore canisters | — |
 
-**Eat:** STF restaurant (book dinner ahead). **Fjällbua** Storsätern (~4 km off main trail) — only if STF stock is thin; plan leaves **north on main trail** same day.
+**§1 food:** [food-section1-2027.md](./food-section1-2027.md) — **your** food from **NL and/or Fjällbua** · full carry to Storlien · **~7 kg** on pulk. Companion food is separate. **Eat:** STF restaurant (book dinner / D1 frukost). Do **not** count Hamra for D1 weight.
+
+**Fuel:** **3 L alkylate** for **two people** on the shared stove (2× 1 L bottles + 1 L tin). Fill before the bus.
 
 ---
 
@@ -154,7 +157,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | **Hamra Livs** · Hamravägen 73, 846 98 Tänndalen · **62.574°N, 12.226°E** | Village livs — basics: bread, dairy, pasta, snacks, fresh produce when stocked | **Unlikely** alkylbensin — ask for camping fuel, otherwise skip | **T** near shop |
 | **STF Skarvruet vandrarhem** · Skarvruvägen 20 · **62.539°N, 12.408°E** | Self-catering kitchen — only if you detour to Skarvruet (**~10 km** from Hamra Livs) | — | **H** budget · dorm/shared bath · **year-round** · [skarvruet.com](https://www.skarvruet.com/en/hostel/) · 0684-221 11 · STF member price |
 
-**Use it as:** mid-leg food top-up so you don't carry 8–9 days from Grövelsjön. Carry **~4–5 days** Grövelsjön → Tänndalen (D4), then **~4–5 days** Tänndalen → Storlien. **~6 km** round-trip off the line to the shop. Hours: daily **09:00–19:00** ([tanndalen.com](https://www.tanndalen.com/mat-noeje/hamra-livs/)); peak winter often until 21:00.
+**Use it as:** **backup** if you ate faster than the [§1 pack](./food-section1-2027.md) or want fresh food — **not** required. Planned D1 load is **full carry** Grövelsjön → Storlien. **~6 km** round-trip off the line. Hours: daily **09:00–19:00** ([tanndalen.com](https://www.tanndalen.com/mat-noeje/hamra-livs/)); peak winter often until 21:00.
 
 **Cheap H:** After **Hamra Livs**, camp near the shop or use **Tänndalsvallen / Fjällnäs** camping (see dag-for-dag). **Skarvruet hostel** is budget lodging but **~10 km** away in the Skarvruet area — only if you add that separate detour. **Funäsdalen** ICA (~15 km east) only if you need a full supermarket or bus out.
 
@@ -550,11 +553,11 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 
 ## Suggested carry between shops (solo pulk)
 
-**Rate:** **~1.3–1.5 kg food/day** at **~4,000–5,000 kcal** with shop mix (bars, nötter, pasta, tins, Polarbröd, frozen meat, oil). Denser (oil + freeze-dried + nuts) → closer to **~1.0–1.2 kg/day**. Wetter (lots of tins/bread) → **~1.6 kg/day**. Packing budget already: **10-day max 12–16 kg**.
+**Rate (later legs):** **~1.3–1.5 kg food/day** shop mix. **§1** is denser: **~0.73 kg/day** ([food-section1](./food-section1-2027.md)). Packing **10-day max 12–16 kg** still applies after Storlien.
 
 | Leg | Days | Shop at start | Food to **buy** | On pulk leaving shop |
 |-----|------|---------------|-----------------|----------------------|
-| Grövelsjön → Storlien | 8 | Day 1 | **8–9 d** · **~11–14 kg** (or **4–5 d / ~6–8 kg** if Hamra Livs D4) | Same |
+| Grövelsjön → Storlien | 10 | Day 1 · **Fjällbua** / NL | **[§1 menu](./food-section1-2027.md)** · **~7.0 kg** on pulk (your food only) · Hamra **backup** | [pulk-weight](./pulk-weight-2027.md) **~30.5 kg** loaded |
 | → Gäddede | 14 | Day 10 Storlien | **10–12 d** · **~13–18 kg** (or split **Valsjöbua D21**) | Heaviest early load |
 | → Hemavan | 10 | Day 24 Gäddede | **9–10 d** · **~12–15 kg** (or **~5 d / ~7 kg** if Klimpfjäll D28) | |
 | → Kvikkjokk | 12 | Day 34 Hemavan ★ | **11–12 d** · **~14–18 kg** (or **~5 d / ~7 kg** + **Ammarnäs D39 ~7 d / ~9–11 kg**) | Heaviest with full alkylate |
@@ -564,7 +567,7 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 
 **Trip total (buy on the way):** **~65–70 days** × **1.3–1.5 kg** ≈ **~85–105 kg** of groceries, bought in those chunks — never all at once. Restaurant nights (Hemavan, STF) shave a kilo or two.
 
-**If the J14 ships with ~25 kg packed:** hull ~5.3 kg leaves **~20 kg** for tent/sleep/clothes **and** start food. Typical gear in the bag is **~14–18 kg**, so shipped food is only **~2–6 kg** (**~2–4 days**) unless tent/sleep travel with you on the train. **Plan to buy the D1 load at Grövelsjön** (or Hamra Livs D4), not from NL.
+**If the J14 ships with ~25 kg packed:** hull ~5.3 kg leaves **~20 kg** for tent/sleep/clothes **and** start food. Typical gear in the bag is **~14–18 kg**, so shipped food is only **~2–6 kg**. **§1 food** is **NL bag and/or Fjällbua** ([food-section1](./food-section1-2027.md)) — not a depot from home in the pulk parcel.
 
 Adjust for your kcal (~4,000–5,000/day pulk). **Where it goes on the sled:** [packing-pulk-2027.md](./packing-pulk-2027.md).
 

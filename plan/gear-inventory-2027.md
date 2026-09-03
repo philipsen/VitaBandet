@@ -4,7 +4,7 @@
 
 **Core kit:** Hilleberg **Nammatj 3 GT** ✓ + **Sled Pack** ✓ · Åsnes **Ingstad** · Alfa **Outback** + **Xplore** · **Lowland K2** ✓ · **Exped Ultra 7R** ✓ · **NeoAir XLite** ✓ · **OmniLite Ti** + silencer · **2× 1 L** fuel · **Jemtlander 14** + **Sleeper 200** · **TOAKS 1600 ml** ✓ · **GPSMAP 66i** · **OsmAnd+**
 
-Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). **Comparisons & upgrade paths:** [gear-considerations-2027.md](./gear-considerations-2027.md). **Packing:** [packing-pulk-2027.md](./packing-pulk-2027.md). **Print list:** [pack-checklist-2027.md](./pack-checklist-2027.md).
+Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). **D1 pulk grams:** [pulk-weight-2027.md](./pulk-weight-2027.md). **§1 food:** [food-section1-2027.md](./food-section1-2027.md). **Comparisons:** [gear-considerations-2027.md](./gear-considerations-2027.md). **Packing:** [packing-pulk-2027.md](./packing-pulk-2027.md). **Print list:** [pack-checklist-2027.md](./pack-checklist-2027.md).
 
 ---
 
@@ -21,7 +21,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ (ship to Abisko) · **Sirex Everest 10** foam backup (**Buy**) | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
 | Stove / pot | **OmniLite** + silencer · **TOAKS 1600 ml** ✓ | **2 L** max alkylate · [cooking](./gear-considerations-2027.md#cooking--toaks-ti-1600-ml) |
 | Nav / comms | **Suunto V2** · **66i** · **OsmAnd+** · **Calazo 1:100k** | [comms](./gear-considerations-2027.md#navigation-comms--power) · [power plan](./power-plan-2027.md) |
-| Food | Buy on trail ~**8–10 days** | ~4,000–5,000 kcal/day · [resupply](./resupply-2027.md) |
+| Food | Buy on trail ~**8–10 days** | §1: [food-section1-2027.md](./food-section1-2027.md) · **~7 kg** · [pulk-weight](./pulk-weight-2027.md) |
 
 **Columns in master list below:** **Own** · **Need** · **Test**
 
@@ -186,7 +186,7 @@ Liquid **alkylate in bottles only** until Abisko — [resupply](./resupply-2027.
 
 | Leg | Days | Carry |
 |-----|------|-------|
-| Grövelsjön → Storlien | 8 | 1.5–2 L |
+| Grövelsjön → Storlien | 10 | **3 L** (two people · shared stove) |
 | → Gäddede | 13 | ~2 L |
 | → Hemavan | 9 | **2 L** max fill |
 | → Kvikkjokk | 12 | **2 L** |
@@ -200,18 +200,18 @@ Measure **g/day** on shakedown at **−15 °C**.
 
 ## Weight budget (fill in on shakedown)
 
+**D1 detail:** [pulk-weight-2027.md](./pulk-weight-2027.md) — **~30.5 kg** loaded.
+
 | Zone | Target | Your weigh-in |
 |------|--------|---------------|
-| Pulk rig (J14 + harness + bag) | ~5.3 kg | |
-| Food (10-day leg max) | 12–16 kg | |
-| Fuel | 2–4 kg | |
-| Tent (Nammatj 3 GT) | ~4.1 kg | |
-| Sleep (bag + Ultra 7R in Sleeper) | 4.5–6.5 kg | XLite **not in pulk** — ship to Abisko |
-| Clothing spare | 3–5 kg | |
-| Kitchen + misc | ~2 kg | |
-| **Cargo + rig** | **~27–38 kg** | |
-| On body | 5–8 kg | |
-| **Day 1 total** | | |
+| Pulk rig (J14 + harness + bag) | 5.3 kg | |
+| Food §1 on pulk | **7.0 kg** | |
+| Fuel 3 L + bottles | **~2.8 kg** | |
+| Tent (Nammatj 3 GT + pack) | 4.3 kg | |
+| Sleep (bag + Ultra 7R in Sleeper) | 2.85 kg spec | XLite **not in pulk** |
+| Clothing spare + misc | ~est in pulk-weight | |
+| **Cargo + rig D1** | **~30.5 kg** | |
+| On body | electronics 1.2 kg + lunch 0.35 kg | |
 
 ---
 

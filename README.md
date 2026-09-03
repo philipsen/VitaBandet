@@ -12,7 +12,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 **Alt pacing (11 → 17 → ~25 km · 56 days):** [dag-for-dag-alt-25km-2027.md](plan/dag-for-dag-alt-25km-2027.md) · camps [`2027-alt-25km-camps.gpx`](tracks/2027-alt-25km-camps.gpx)  
 **Fast dense (~27 km · scraped stitch):** [dag-for-dag-fast-27km-2027.md](plan/dag-for-dag-fast-27km-2027.md) · [`vita-bandet-fast-27km.gpx`](tracks/generated/vita-bandet-fast-27km.gpx)  
 **Master GPX:** [`2027.GPX`](tracks/2027.GPX) — maintained manually in BaseCamp and used as the route source of truth. Detail/context: [band-tracks-comparison.md](plan/band-tracks-comparison.md).  
-**Resupply (local):** [resupply-2027.md](plan/resupply-2027.md)  
+**Resupply (local):** [resupply-2027.md](plan/resupply-2027.md) · **§1 food:** [food-section1-2027.md](plan/food-section1-2027.md) · **D1 pulk weight:** [pulk-weight-2027.md](plan/pulk-weight-2027.md)  
 **Transport (start & return):** [transport-considerations-2027.md](plan/transport-considerations-2027.md) · **Companion (§1):** [companion-plan-2027.md](plan/companion-plan-2027.md) · [other PT-easy legs](plan/companion-plan-2027.md#other-companion-suited-sections--pt-both-ends)  
 **STF hut openings:** [stf-openings-2027.md](plan/stf-openings-2027.md) (scraped from [svenskaturistforeningen.se](https://www.svenskaturistforeningen.se))
 **Gear inventory:** [gear-inventory-2027.md](plan/gear-inventory-2027.md) · **Comparisons & upgrades:** [gear-considerations-2027.md](plan/gear-considerations-2027.md)
@@ -105,7 +105,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 ## Equipment
 
-**Full inventory:** [gear-inventory-2027.md](plan/gear-inventory-2027.md) · [gear-considerations-2027.md](plan/gear-considerations-2027.md) · **Pulk packing:** [packing-pulk-2027.md](plan/packing-pulk-2027.md) · **Print pack list:** [pack-checklist-2027.md](plan/pack-checklist-2027.md)
+**Full inventory:** [gear-inventory-2027.md](plan/gear-inventory-2027.md) · [gear-considerations-2027.md](plan/gear-considerations-2027.md) · **Pulk packing:** [packing-pulk-2027.md](plan/packing-pulk-2027.md) · **D1 pulk grams:** [pulk-weight-2027.md](plan/pulk-weight-2027.md) · **Print pack list:** [pack-checklist-2027.md](plan/pack-checklist-2027.md)
 
 ### Owned core
 
@@ -134,10 +134,11 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 ## Food & fuel
 
-- **Calories per day (target):** ~4,000–5,000 (solo pulk)  
-- **Water strategy:** snow melt  
-- **Resupply detail:** [resupply-2027.md](plan/resupply-2027.md) — food per stop, Coleman/Primus fuel, carry between shops  
-- **Fuel calculation:** stock at Grövelsjön → top up at shops; **Abisko: max food + fuel** for Norway leg (DNT huts **no pantry**)  
+- **Calories per day (target):** ~4,000–4,500 on §1 ([food-section1-2027.md](plan/food-section1-2027.md)) · ~4,000–5,000 later legs  
+- **Water strategy:** snow melt · morning stove = **coffee + warm water** (milk powder mixed **cold**)  
+- **Resupply detail:** [resupply-2027.md](plan/resupply-2027.md) — **§1** from NL / **Fjällbua**; Hamra backup  
+- **D1 loaded pulk:** **~30.5 kg** — [pulk-weight-2027.md](plan/pulk-weight-2027.md)  
+- **Fuel:** **3 L** alkylate §1 (two people) from home/car; then shops; **no canisters** until Abisko  
 
 ---
 

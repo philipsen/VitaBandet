@@ -12,7 +12,7 @@
 **First major shop:** **Storlien**.  
 **Elevation (↑/↓):** per-day ascent/descent from route GPX + EU-DEM 25 m (OpenTopoData); see [`day-elevation-2027.csv`](./day-elevation-2027.csv). Rough guide — DEM noise on flat ski tracks.
 **GPX (full route):** [`2027.GPX`](../tracks/2027.GPX) — maintained manually in BaseCamp and used as the route source of truth. Track provenance/context: [band-tracks-comparison.md](./band-tracks-comparison.md).  
-**Resupply:** [resupply-2027.md](./resupply-2027.md) · **Pulk packing:** [packing-pulk-2027.md](./packing-pulk-2027.md) · **Solo:** daily inReach
+**Resupply:** [resupply-2027.md](./resupply-2027.md) · **§1 food:** [food-section1-2027.md](./food-section1-2027.md) · **D1 pulk:** [pulk-weight-2027.md](./pulk-weight-2027.md) · **Pulk packing:** [packing-pulk-2027.md](./packing-pulk-2027.md) · **Solo:** daily inReach
 
 ### Camping near huts & resupply (reference)
 
@@ -96,7 +96,7 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 **D** at **STF Grövelsjön** (shop, register Vita Bandet, final pulk check) — then leave on **Södra Kungsleden** north toward **Långfjället** and **Hävlingen**.  
 **Camping (night before / after):** **Sjöstugan** or STF Grövelsjön tent + service fee — see [camping reference](#camping-near-huts--resupply-reference).
 
-Camp near **Hävlingestugorna** (Länsstyrelsen · five 4-bed cabins + one 6-bed · stugvärd mid-Feb–end Apr · sauna · book via Länsstyrelsen). Pack food for **8–9 days** to Storlien.
+Camp near **Hävlingestugorna** (Länsstyrelsen · five 4-bed cabins + one 6-bed · stugvärd mid-Feb–end Apr · sauna · book via Länsstyrelsen). **Your food:** full carry to Storlien — [food-section1-2027.md](./food-section1-2027.md) · pulk **~30.5 kg** — [pulk-weight-2027.md](./pulk-weight-2027.md). Shop **Fjällbua** / NL **13–14 Feb**. Companion food is not on this sled.
 
 | Acc | Notes |
 |-----|-------|
@@ -123,7 +123,7 @@ Continue north through **Rogen** nature reserve toward **Skedbrosjön**.
 
 #### Day 4 · Thu 18 Feb · 24 km (cum 64) · ↑519 m ↓529 m · Tänndalen
 
-North from **Dalstenshån** along the band line, then **detour west** to **Hamra Livs** (**Hamravägen 73** · 846 98 Tänndalen · **62.574°N, 12.226°E** — Hamra / Tännäs side, not Skarvruet) — **~6 km** round-trip off the line (~62.55°N, **12.31°E** on track). Village livs **daily 09:00–19:00** (often until 21:00 peak winter); **070-241 11 84**. Mid-leg **D**: carry **~4–5 days** food from Grövelsjön, restock **~4–5 days** to Storlien. Unlikely alkylate — food only. See [resupply](./resupply-2027.md).
+North from **Dalstenshån** along the band line. **Hamra Livs** (**Hamravägen 73** · 846 98 Tänndalen · **62.574°N, 12.226°E**) is a **backup** shop — **~6 km** round-trip off the line — **not** required if the [§1 pack](./food-section1-2027.md) is intact. Unlikely alkylate — food only. See [resupply](./resupply-2027.md).
 
 **H (budget):** **[STF Skarvruet vandrarhem](https://www.skarvruet.com/en/hostel/)** (Skarvruvägen 20 · **62.539°N, 12.408°E** · **~10 km** from Hamra Livs by ski/road — separate detour) · dorm + shared bath · self-catering kitchen · **open year-round** · STF member discount · 0684-221 11). **T** near Hamra Livs, Tänndalsvallen, or Fjällnäs works better than backtracking to Skarvruet after shop.
 
@@ -133,7 +133,7 @@ North from **Dalstenshån** along the band line, then **detour west** to **Hamra
 
 | Acc | Notes |
 |-----|-------|
-| **D** | Hamra Livs · planned detour |
+| **D** | Hamra Livs · **backup** only |
 | **H** | Optional budget — STF Skarvruet; or Fjällnäs lodges / apartments |
 | **T** | Village / Hamra, Tänndalsvallens Camping, or Fjällnäs Camping |
 

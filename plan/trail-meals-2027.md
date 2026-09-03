@@ -2,11 +2,11 @@
 
 **Solo · pot + pan · fuel-conscious · shop along the route**
 
-Breakfast and dinners for camp cooking on **Optimus OmniLite** + **TOAKS 1600 ml** (pot) with **pan/lid** (~142 mm fry pan). **Lunch:** mostly **bars + nötter** on ski days; **Polarbröd/knäcke + salami** when you want a change. Dinners aim at **one boil + short simmer** (or soak-only where noted). Portions are **one hungry skier** (~600–900 kcal per dinner before snacks); add **olive oil, cheese, or nuts** if you need more. Target **~4,000–5,000 kcal/day** total with lunch snacks ([packing-pulk](./packing-pulk-2027.md)).
+Breakfast and dinners for camp cooking on **Optimus OmniLite** + **TOAKS 1600 ml** (pot) with **pan/lid** (~142 mm fry pan). **Lunch:** **4 bars = 200 g** + **150 g** nötter / torkad frukt (**350 g**) on ski days. **§1 Grövelsjön → Storlien** is fully specified in [food-section1-2027.md](./food-section1-2027.md). Dinners aim at **one boil + short simmer** (or soak-only where noted). Portions are **one hungry skier**; add **olive oil** on freeze-dried nights. Target **~4,000–4,500 kcal/day** on §1 with the heavy lunch.
 
 **Shops:** ICA Nära / Coop / Eurocash / Handlar'n / STF butik — staples below are normal Swedish/Norwegian grocery stock (Feb–Apr). Village livs may lack fresh herbs or fancy cheese; substitutes noted.
 
-Related: [resupply-2027.md](./resupply-2027.md) · [packing-pulk-2027.md](./packing-pulk-2027.md) · [gear-inventory-2027.md](./gear-inventory-2027.md)
+Related: [food-section1-2027.md](./food-section1-2027.md) · [pulk-weight-2027.md](./pulk-weight-2027.md) · [resupply-2027.md](./resupply-2027.md) · [packing-pulk-2027.md](./packing-pulk-2027.md) · [gear-inventory-2027.md](./gear-inventory-2027.md)
 
 ---
 
@@ -49,20 +49,18 @@ Default **daily** breakfast; **pannkakor** as a treat **1–2 mornings per resup
 
 | | |
 |--|--|
-| **Fuel** | ★☆☆ — hot water only (often same boil as tea) |
-| **Shop** | **Mjölkpulver** + **müsli** at ICA, Coop, Handlar'n; **not** Quaker Cruesli (expat shops only) |
+| **Fuel** | Morning stove = **coffee + warm water** — not a milk boil on §1 |
+| **Shop** | **Mjölkpulver** + **müsli** at ICA, Coop, Handlar'n. **§1:** **Cruesli from NL** (Quaker) — not a Swedish shop item |
 
-**Ingredients:** crunchy **müsli** 60–80 g · **mjölkpulver** ~15 g · hot water ~400 ml
+**Ingredients (§1):** **Cruesli 120 g** · **mjölkpulver** ~25 g · cold water from last night’s melt / bottle.
 
-**Method:** Reconstitute mjölkpulver in mug with hot melt water. Pour over müsli. Eat from mug/bowl.
+**Method (§1):** Mix powder **cold** into the cereal. Stove is for **coffee** and a mug of **warm water** only.
 
-**Pack:** müsli + mjölkpulver in **Box 2 (lunches)**; keep powder dry. One **480 g Semper** or **400 g Nido** pack lasts ~8–10 resupply legs.
+**Later legs:** crunchy **müsli** 60–80 g · **mjölkpulver** ~15 g · hot water ~400 ml if you want it warm.
 
-**Alternate:** **havregryn** + mjölkpulver + smör/honung — same fuel rating.
+**Pack:** cereal + mjölkpulver in **Box 2**; keep powder dry. One **480 g Semper** or **400 g Nido** pack lasts several legs after §1.
 
-**Zero-cook:** müsli + cold water + mjölkpulver works; less pleasant in **Feb** cold.
-
-**Per leg carry:** ~70 g müsli × days + mjölkpulver as needed; optional **1 bag pannkaksmix** (~200 g) for treat mornings.
+**Per §1:** **6 × 120 g Cruesli** + ~150 g powder · **3** bread + sausage mornings — [food-section1](./food-section1-2027.md).
 
 ### Treat — pannkakor i TOAKS-panna
 
@@ -87,15 +85,15 @@ Default **daily** breakfast; **pannkakor** as a treat **1–2 mornings per resup
 
 | Item | Amount | Shop (Swedish labels) |
 |------|--------|------------------------|
-| **Nötter** | 1 handful (~40 g) | **cashew**, **mandel**, **jordnötter**, **nötmix** — ICA påse or bulk |
-| **Chokladbars** | **2** | **Mars**, **Snickers**, **Bounty**, **Twix**, **Daim**, **KitKat** — all standard at ICA/Coop |
-| **Müsli- / granolabars** | **2** | **Nature Valley**, **Friskis**, **Eat Natural**, **ProPud**, ICA/Coop own — look for **müslibar** / **granola bar** |
+| **Nötter / torkad frukt** | **150 g** | **nötmix**, cashew, mandel, russin — ICA påse |
+| **Chokladbars** | **2** (~100 g) | **Mars**, **Snickers**, **Bounty**, **Twix**, **Daim**, **KitKat** |
+| **Müsli- / granolabars** | **2** (~100 g) | **Nature Valley**, **Friskis**, **Eat Natural**, ICA/Coop |
 
-**~900–1,100 kcal** lunch before dinner — pairs with müsli breakfast and cooked dinner for daily target.
+**350 g · ~1,550 kcal** lunch. **§1:** this every ski day — no Polarbröd lunch unless you swap.
 
-**Box 3 (today):** 4 bars + nuts bag for the day — refill each evening from Box 2.
+**Box 3 (today):** 4 bars + 150 g mix — refill each evening from Box 2.
 
-**Per 10-day leg:** ~20 chokladbars + ~20 müslibars + **~400 g nötter** (one large påse or two small). Buy mixed multipacks at **D** shops to save repacking.
+**Per 10-day leg:** 20 chokladbars + 20 müslibars + **1.5 kg** nötter/torkad frukt.
 
 ---
 
@@ -558,7 +556,7 @@ See [resupply-2027.md](./resupply-2027.md) for shop details.
 | Situation | Suggestion |
 |-----------|------------|
 | **Daily breakfast** | **Müsli + mjölkpulver** — zero fuss; pack in Box 2 |
-| **Daily lunch (skiing)** | **Default:** nötter + **2 chokladbars** + **2 müslibars** in Box 3 · **Variation:** Polarbröd/knäcke + **salami** after shop |
+| **Daily lunch (skiing)** | **4 bars = 200 g** + **150 g** nötter/torkad frukt (Box 3) · [§1](./food-section1-2027.md) |
 | **Treat breakfast** | **Pannkakor** 1–2× per leg after big shop (ägg + smör) — skip Padjelanta |
 | **First half of leg (cold)** | **Frozen/fresh meat** — korv, bacon, kyckling, köttfärs (7, 11–12, 14, 21–25, 27–28) |
 | **Second half / mild Apr** | **Burk**, **torkat**, **bulgur/couscous** (1, 5, 9, 10, 15, 21, 27 with corned beef) |
@@ -576,15 +574,14 @@ Rotate **protein** (**frozen/fresh meat** / meat tin / beans / egg / frystorkat 
 
 | Item | Weight |
 |------|--------|
-| Breakfast (müsli + mjölkpulver) | ~75–95 g |
-| Lunch — bars + nötter (default day) | ~200–280 g |
-| Lunch — bröd + salami (variation day) | ~150–220 g |
-| Dry carbs (dinner) | 80–100 g |
-| Protein (dry/tinned **or** frozen portion) | 80–200 g |
-| Oil / sauce | 15–30 g |
-| **Total dry per day** | **~370–475 g** × 10 days ≈ **3.7–4.8 kg** food only |
+| Breakfast §1 (Cruesli + powder **or** bread + sausage) | ~145–180 g |
+| Lunch — 4 bars + mix | **350 g** |
+| Dinner — cooked | ~350–400 g |
+| Dinner — freeze-dried + 20 g oil | ~160 g |
+| Coffee | ~8 g |
+| **§1 average** | **~730 g/day** packed · see [food-section1](./food-section1-2027.md) (**7.3 kg** / 10 days) |
 
-At each **D** shop: buy **frozen/fresh meat** for the first half of the leg (pulk stays cold); **tins and dry** for the rest. **ägg**, **lök**, **smör**, **grädde** all keep longer than summer hiking in **Feb–Mar**.
+At each **D** shop after Storlien: buy **frozen/fresh meat** for the first half of the leg; **tins and dry** for the rest. **ägg**, **lök**, **smör**, **grädde** keep in **Feb–Mar** cold.
 
 ---
 

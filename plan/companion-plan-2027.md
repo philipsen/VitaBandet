@@ -6,6 +6,8 @@ Trip for the **section-1 companion**: ski **~10 days** with you (shared tent + s
 **Transport / car / bus:** [transport-considerations-2027.md](./transport-considerations-2027.md)  
 **Resupply:** [resupply-2027.md](./resupply-2027.md)  
 **GPX:** [`tracks/2027.GPX`](../tracks/2027.GPX) (section Grövelsjön → Storlien)  
+**Your food (solo pack):** [food-section1-2027.md](./food-section1-2027.md) — companion food is **not** on that list or on your pulk.  
+**D1 pulk weight:** [pulk-weight-2027.md](./pulk-weight-2027.md)  
 **Other PT-easy legs:** [Other companion-suited sections](#other-companion-suited-sections--pt-both-ends)  
 **Official Ribbon:** [White & Green Ribbon](https://www.vitagronabandet.se/en/white-green-ribbon/) (companion is **not** a registered Section unless they sign up separately)
 
@@ -59,10 +61,10 @@ Same camps as main plan. Distances from [dag-for-dag](./dag-for-dag-2027.md).
 | Day | Date | km | Camp / stop | Companion notes |
 |-----|------|-----|-------------|-----------------|
 | — | 13–14 Feb | — | **Grövelsjön** | Unpack · shop · register if needed · early night |
-| **1** | Mon 15 Feb | 11 | Hävlingestugorna | Easy start · food load for **~4–5 d** to Tänndalen |
+| **1** | Mon 15 Feb | 11 | Hävlingestugorna | Easy start · **full carry** to Storlien · your food [§1](./food-section1-2027.md) |
 | **2** | Tue 16 Feb | 17 | STF Rogen area | Hut **closed** mid-Feb — **shared tent** |
 | **3** | Wed 17 Feb | 12 | Skedbrosjön | Short day |
-| **4** | Thu 18 Feb | 24 | **Tänndalen** · **D** | Detour **Hamra Livs** · restock **~4–5 d** to Storlien |
+| **4** | Thu 18 Feb | 24 | **Tänndalen** | Hamra Livs **backup** only · long day |
 | **5** | Fri 19 Feb | 21 | Ramundberget west | Wild **T** · shared tent |
 | **6** | Sat 20 Feb | 15 | Fältjägaren | Shared tent |
 | **7** | Sun 21 Feb | 12 | Helags area | STF closed — **T** west of station |
@@ -70,7 +72,7 @@ Same camps as main plan. Distances from [dag-for-dag](./dag-for-dag-2027.md).
 | **9** | Tue 23 Feb | 18 | Blåhammaren area | STF closed — **T** |
 | **10** | Wed 24 Feb | 12 | **Storlien** · **D** · **H** | End ski · night in town |
 
-**Hard days for companion:** **D4** (long + shop detour) · **D5 / D8** (climbs) · alpine **D7–D9** (cold / wind — stick together).
+**Hard days for companion:** **D4** (long; Hamra only if needed) · **D5 / D8** (climbs) · alpine **D7–D9** (cold / wind — stick together).
 
 ---
 
@@ -85,7 +87,7 @@ Companion brings personal ski/pulk/sleep/clothes — **not** a second tent or st
 | Skis + boots + bindings | BC / touring · tested |
 | **Pulk** or heavy pack | Pulk preferred with shared pace |
 | Sleep system | Own bag + mat · rated for **−20 °C** nights possible mid-Feb · fits **shared tent** |
-| Food | Own food · cook on **shared stove** · **~4–5 days** Grövelsjön → Tänndalen · restock D4 · **~4–5 days** → Storlien |
+| Food | **Own food** on **their** pulk · cook on **shared stove** · full carry to Storlien (Hamra = backup) |
 | Warm layers · mittens · goggles | Mid-Feb fjäll |
 | Headlamp · first aid · repair | Personal |
 | Phone + power | Offline maps · your GPX segment |
@@ -95,20 +97,20 @@ Companion brings personal ski/pulk/sleep/clothes — **not** a second tent or st
 
 **Shared with you:** tent pitch · one stove / cook nights · nav lead (Suunto / GPX) · emergency (inReach on your body).
 
-**Leave in Mora car:** clean clothes for drive home · spare shoes · anything not needed on trail. **Alkylate:** fill from car / Grövelsjön (not on bus) — carried with **shared stove** in your pulk (or split bottles by weight).
+**Leave in Mora car:** clean clothes for drive home · spare shoes · anything not needed on trail. **Alkylate:** **3 L** from **home/car** (not on the bus) — **2× 1 L bottles + 1 L tin** with the **shared stove** on your pulk.
 
 ---
 
 ## Food & fuel (short trip)
 
+**Your** §1 menu is [food-section1-2027.md](./food-section1-2027.md) (solo). Companion packs **their own** food.
+
 | Leg | Carry |
 |-----|-------|
-| D1 → D4 | **~4–5 days** food from Grövelsjön (each person) |
-| D4 | **Hamra Livs** top-up |
-| D4 → D10 | **~4–5 days** to Storlien |
-| Fuel | **One stove** · alkylate for **~10 cook nights × 2 people** (more melt/boil than solo) |
+| D1 → D10 | **Full carry** each · Hamra Livs **backup** only |
+| Fuel | **One stove** · **3 L alkylate** for **two people** (coffee + warm water mornings, dinner, snowmelt) |
 
-Companion does **not** need Abisko-leg fuel strategy — finish eating/buying in Storlien. After D10 you keep stove + remaining fuel for solo.
+Companion does **not** need Abisko-leg fuel. After D10 you keep stove + leftover alkylate for solo.
 
 ---
 

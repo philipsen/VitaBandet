@@ -68,7 +68,7 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 |-----|-------------|----------|
 | **1 — dinners** | Largest, **flat** (≈3–6 cm high) | Pasta, rice, couscous, **frozen meat**, tins, freeze-dried, sauce |
 | **2 — lunches + breakfast** | Medium flat | **Bars** (choklad + müsli), **nötter**, **müsli**, **mjölkpulver** · **Polarbröd**, salami, ost (variation days) |
-| **3 — today** | Small, shallow — **top of food stack** | **Today’s lunch:** 4 bars + nuts · tomorrow bars · drink mix · tea |
+| **3 — today** | Small, shallow — **top of food stack** | **Today’s lunch:** **350 g** (4 bars + mix) · coffee · tea |
 
 **Rules**
 
@@ -119,11 +119,11 @@ At camp (reverse):
 
 ## Food & fuel by leg
 
-Buy on trail — **8–10 days food** typical; **~4,000–5,000 kcal/day** solo pulk. Meals: [trail-meals-2027.md](./trail-meals-2027.md) · shops: [resupply-2027.md](./resupply-2027.md).
+Buy on trail — **8–10 days food** typical after Storlien; **§1** is [food-section1-2027.md](./food-section1-2027.md). Shops: [resupply-2027.md](./resupply-2027.md).
 
 | Leave | Days to next shop | Food carry | Fuel note |
 |-------|-------------------|------------|-----------|
-| **Grövelsjön** (D1) | 8 → Storlien | 8–9 days | **Full liquid alkylate from home** — no canisters |
+| **Grövelsjön** (D1) | 10 → Storlien | **~7 kg** your food · [§1](./food-section1-2027.md) | **3 L** alkylate (two people) from home/car — no canisters |
 | **Storlien** (D10) | 14 → Gäddede | 10–12 days | **Liquid tins only** — decant into bottles |
 | **Gäddede** (D24) | 10 → Hemavan | 9–10 days | Try Frostvikens El · optional Blåsjö detour D22–23 |
 | **Hemavan** (D34) ★ | 12 → Kvikkjokk | 11–12 days | **Max fill** before long leg |
@@ -152,7 +152,7 @@ Buy on trail — **8–10 days food** typical; **~4,000–5,000 kcal/day** solo 
 
 | Section | Packing focus |
 |---------|----------------|
-| **§1 Grövelsjön → Storlien** | Moderate load; learn harness — **don’t start at max** |
+| **§1 Grövelsjön → Storlien** | [§1 food](./food-section1-2027.md) · [D1 pulk weight](./pulk-weight-2027.md) **~30.5 kg** · Hamra backup |
 | **§2 → Gäddede** | Long food carry; depot option |
 | **§3 Lapplandsleden** | Steady rhythm; fuel at Gäddede/Hemavan |
 | **§4 → Kvikkjokk** | Heavy + **fuel critical** |
@@ -166,19 +166,21 @@ Steep days (Padjelanta, Lappjord): lower profile helps more than a bigger sled �
 
 ## Weight budget (fill on shakedown)
 
+**D1 line items:** [pulk-weight-2027.md](./pulk-weight-2027.md) — spec **24.9 kg** + ~est **5.6 kg** = **~30.5 kg** loaded.
+
 | Zone | Target | Weighed |
 |------|--------|---------|
-| Jemtlander rig (chassis + harness + bag) | ~5.3 kg | |
-| Sleeper 200 (empty) | ~1.4 kg | |
-| Sleep kit (bag + pad in Sleeper) | 3–4 kg | |
-| Tent Nammatj 3 GT | ~4.1 kg | |
-| Food (10-day leg max) | 12–16 kg | |
-| Fuel (full bottles) | 2–4 kg | |
-| Clothes + kitchen + misc | 5–8 kg | |
-| **Loaded pulk (estimate)** | **~27–38 kg** | **____ kg** |
-| On body (skiing) | 5–8 kg | |
+| Jemtlander rig (chassis + harness + bag) | 5.3 kg | |
+| Sleeper 200 (empty) | 1.4 kg | |
+| Sleep kit (bag + pad in Sleeper) | 2.85 kg spec | |
+| Tent Nammatj 3 GT + Sled Pack | 4.3 kg | |
+| Food §1 (on pulk) | **7.0 kg** | |
+| Fuel 3 L + bottles | **~2.8 kg** | |
+| Clothes + kitchen + misc | ~est in pulk-weight | |
+| **Loaded pulk D1** | **~30.5 kg** | **____ kg** |
+| On body (skiing) | electronics 1.2 kg + lunch 0.35 kg + worn | |
 
-Weigh **loaded pulk + Sleeper** on the shakedown that mimics **day 10 leaving Storlien** (10-day food + full fuel).
+Weigh **loaded pulk + Sleeper** before D1. Later legs (Storlien 10-day shop) will be heavier in **food** — re-weigh there.
 
 ---
 
@@ -211,6 +213,8 @@ If the tent is unusable: bag + pad already in Sleeper → zip up as wind shell. 
 | [pack-checklist-2027.md](./pack-checklist-2027.md) | Tick-list before departure |
 | [gear-inventory-2027.md](./gear-inventory-2027.md) | Master list, fuel legs, weight budget |
 | [gear-considerations-2027.md](./gear-considerations-2027.md) | Poles, skins, tent/pad upgrades, nav, VBL |
+| [pulk-weight-2027.md](./pulk-weight-2027.md) | **D1 loaded pulk** — gram table |
+| [food-section1-2027.md](./food-section1-2027.md) | §1 menu · NL / Fjällbua |
 | [resupply-2027.md](./resupply-2027.md) | Shops, alkylate, carry table |
 | [trail-meals-2027.md](./trail-meals-2027.md) | Breakfast + dinner recipes, protein guide |
 | [dag-for-dag-2027.md](./dag-for-dag-2027.md) | Daily km and resupply days |

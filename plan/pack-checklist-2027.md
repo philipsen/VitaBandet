@@ -133,7 +133,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 ## Food carry (first leg — adjust per resupply)
 
 - [ ] **8–10 days** food (~4,000–5,000 kcal/day) in **2–3 flat clear boxes** — see [packing-pulk-2027.md](./packing-pulk-2027.md#food-boxes-23-flat-clear-containers)
-- [ ] Snacks / bars / drink mix
+- [ ] **Today’s lunch** — **4 bars = 200 g** + **150 g** nötter/torkad frukt ([§1](./food-section1-2027.md))
 - [ ] Tea/coffee small supply
 - [ ] **Alkylate** full bottles from home
 
