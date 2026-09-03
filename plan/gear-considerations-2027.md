@@ -328,7 +328,7 @@ Source of truth is still **screenshot + Notes**, not the IG draft.
 
 ### Power
 
-**Need:** inReach plan · **Storm 500-R** ✓ · banks/wall/cables · **Armor 14 Pro** ✓ — see [power banks & cables](#power-banks-wall-charger--cables).
+**Need:** inReach plan · **Storm 500-R** ✓ · banks/wall/cables ✓ · **Armor 14 Pro** ✓ — see [power banks & cables](#power-banks-wall-charger--cables).
 
 | Item | Qty | Notes |
 |------|-----|-------|
@@ -336,7 +336,7 @@ Source of truth is still **screenshot + Notes**, not the IG draft.
 | **Anker 100 W · 3 ports · Smart Display** | 1 ✓ | Resupply — bank + phone overnight |
 | USB-C cables (braided) | **3** ✓ | Armor · bank · Fairbuds / CO / Kindle |
 | **USB headlamp** | **1** | ✓ **Storm 500-R** — see [headlamp](#headlamp-usb) |
-| **micro-USB cable** | **1** | **Buy** — **66i** + Storm share |
+| **micro-USB cable** | **1** ✓ | **66i** + Storm share |
 
 Charge at every **★** resupply; sleep with phone + one bank in bag foot on cold tent nights. **Daily plan:** [power-plan-2027.md](./power-plan-2027.md).
 
@@ -344,7 +344,7 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 
 ## Power banks, wall charger & cables
 
-**Status:** **Owned** — **1× Anker Zolo 20k · 30 W** (A1689) on trail ✓ · **2nd Zolo at home** · **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) ✓ · **3× USB-C cables** ✓ · **Armor 14 Pro** ✓ · **Storm 500-R** ✓. **Still need:** short micro-USB cable · inReach plan. **No Fairphone for 2027.**
+**Status:** **Owned** — **1× Anker Zolo 20k · 30 W** (A1689) on trail ✓ · **2nd Zolo at home** · **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) ✓ · **3× USB-C cables** ✓ · short **micro-USB** ✓ · **Armor 14 Pro** ✓ · **Storm 500-R** ✓. **Still need:** inReach plan. **No Fairphone for 2027.**
 
 **Job:** Keep **GPSMAP 66i**, **Armor 14 Pro**, and **USB headlamp** alive between shops (**~8–10 days** typical; Padjelanta longer).
 
@@ -355,8 +355,9 @@ Charge at every **★** resupply; sleep with phone + one bank in bag foot on col
 | **Zolo 20k** | A1689 · **353 g** · **~72 Wh** · 30 W PD | Warm in jacket · recall SN checked · [anker.com/rc2506](https://www.anker.com/rc2506) |
 | **Wall charger** | B121BGZ1 · **100 W** · 3 ports + display | Resupply / hut only · 1.5 m C–C in box |
 | **USB-C cables** | Braided **30–60 cm** ×3 | Armor · phone · bank · optional spare in repair pouch |
+| **micro-USB** | Short C→micro | **66i** + Storm share ✓ |
 
-**On trip:** bank warm on body · ★ shops refill bank overnight · legs **>7 days** need mid-leg hut/★ ([power plan](./power-plan-2027.md) — **Ammarnäs D39** on Hemavan→Kvikkjokk). **Still buy:** short micro-USB for **66i** + Storm ([headlamp](#headlamp-usb)).
+**On trip:** bank warm on body · ★ shops refill bank overnight · legs **>7 days** need mid-leg hut/★ ([power plan](./power-plan-2027.md) — **Ammarnäs D39** on Hemavan→Kvikkjokk).
 
 ---
 
@@ -393,7 +394,7 @@ Indicative — check retailer before buying; sales move fast.
 
 *Low = manufacturer ANSI lowest white mode (room-temp). Cold cuts real burn time.*
 
-**Cable note:** Storm + **66i** share **1× short micro-USB** (or C→micro) — not in the C–C kit. Check the box; if BD didn’t include a short one, still buy.
+**Cable note:** Storm + **66i** share **1× short micro-USB** (or C→micro) ✓ — not in the C–C kit.
 
 **Skip:** proprietary dock-only lamps (hard to charge in hut).
 

@@ -11,7 +11,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | | Items | Est. budget (EUR) |
 |---|-------|-------------------|
 | **Priority 1–2** — ski (poles, skins prep) | 4 lines | ~€80–160 |
-| **Priority 3** — power & comms | 2 lines left | ~€20–60 |
+| **Priority 3** — power & comms | 1 line left | ~€15–50 |
 | **Priority 4** — clothing & sleep | 4 lines | ~€120–200 |
 | **Maps & admin** | 5× 1:100k | ~€70–100 |
 | **Confirm / optional** | 5 lines | ~€0–120 |
@@ -49,10 +49,10 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | ✅ | **Power bank** | 1 | **Anker Zolo 20k · 30 W** (A1689) | — | ✓ owned | On trail only · **2nd at home** · recall SN · [anker.com/rc2506](https://www.anker.com/rc2506) |
 | ✅ | **Wall charger** | 1 | **Anker 100 W · 3 Ports · Smart Display** (B121BGZ1) | — | ✓ owned | Resupply / hut · 1.5 m C–C in box |
 | ✅ | **USB-C cables** | 3 | Braided **30–60 cm** C–C | — | ✓ owned | Armor · bank / wall · Fairbuds |
-| 🛒 | **micro-USB cable** | 1 | Short **C→micro** or A→micro | ~€5–10 | With lamp | **66i** + **Storm 500-R** (share) |
+| ✅ | **micro-USB cable** | 1 | Short **C→micro** or A→micro | — | ✓ owned | **66i** + **Storm 500-R** (share) |
 | ✅ | **Phone** | 1 | **Ulefone Power Armor 14 Pro** | — | ✓ owned | OsmAnd backup · **~358 g** · 10k mAh · **18 W** · ★/hut charge only · [power](./power-plan-2027.md) |
 | ✅ | **Suunto Vertical 2** | 1 | Steel **87 g** (or Ti **74 g**) | — | ✓ owned | Primary on-trail nav · [power](./power-plan-2027.md) |
-| ✅ | **Headlamp** | 1 | **BD Storm 500-R** | — | ✓ owned | **120 g** · 500 lm · IP67 · **micro-USB** · still need short charge cable · [headlamp](./gear-considerations-2027.md#headlamp-usb) |
+| ✅ | **Headlamp** | 1 | **BD Storm 500-R** | — | ✓ owned | **120 g** · 500 lm · IP67 · **micro-USB** · [headlamp](./gear-considerations-2027.md#headlamp-usb) |
 | 🛒 | **Garmin inReach plan** | 1 | On **66i** or **Mini 2** | ~€15–50/mo | Garmin | Activate before departure · track-only · [consider Mini 2](./gear-considerations-2027.md#inreach--66i-vs-mini-2--consider-replace) |
 | ✅ | Suunto Vertical 2 **charge cable** | 1 | Proprietary | incl. | With watch | Comes in box |
 
@@ -159,8 +159,8 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | Lowland K2 · Ultra 7R · XLite | ✅ Own |
 | OmniLite + silencer · TOAKS pot · 2× 1 L bottles | ✅ Own |
 | CO detector · Leatherman · shovel · first aid | ✅ Own |
-| **1× Anker Zolo 20k** · **Anker 100 W wall** · **3× USB-C cables** | ✅ Own (2nd bank at home) |
-| **BD Storm 500-R** | ✅ Own · still need short **micro-USB** cable |
+| **1× Anker Zolo 20k** · **Anker 100 W wall** · **3× USB-C** · short **micro-USB** | ✅ Own (2nd bank at home) |
+| **BD Storm 500-R** | ✅ Own |
 | Hesta mittens · Rab down jacket · merino base | ✅ Own |
 | DNT key · NKBV card | ✅ Own |
 | Fairbuds XL · Kindle | ✅ Own (user) |
