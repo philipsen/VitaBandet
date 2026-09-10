@@ -184,7 +184,7 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 
 | Device | Role |
 |--------|------|
-| **GPSMAP 66i** (owned) | inReach · SOS · **track only** — **on body** · consider **→ Mini 2** |
+| **GPSMAP 66i** (owned) | inReach · SOS · **track only** — **pulk top** · consider **→ Mini 2** |
 | **inReach Mini 2** | **Consider buy** — lighter · less Wh · same SOS/track job — see [66i → Mini 2](#inreach--66i-vs-mini-2--consider-replace) |
 | **Phone** | **Ulefone Power Armor 14 Pro** · OsmAnd+ backup · GPX · occasional camp nav |
 | **Suunto Vertical 2** | ✓ — **Primary on-trail nav** · offline route · GPS while skiing · **no offline GPX to phone** |
@@ -218,17 +218,17 @@ Solid for solo melt + one-pot meals with OmniLite + silencer in vestibule.
 
 ### Sat device — carry rule
 
-**Whichever unit (66i or Mini 2) stays on body** every ski day. SOS is useless if buried in the pulk.
+**66i lives on the pulk** — bag **top**, not under food. SOS is one unzip. Do **not** bury it.
 
 | Rule | Why |
 |------|-----|
-| **Chest pocket or belt pouch** | Reachable without opening pulk |
+| **Pulk bag top** | Reachable without dumping the load |
 | **inReach plan active** before Feb | Satellite tracking + SOS |
 | **One subscription** | Single active inReach unit |
 | **66i:** expedition · **micro-USB** | Claimed **~200 h** / **30 min** |
 | **Mini 2:** track **30 min** · USB-C | Claimed **~30 d** / **30 min** |
 
-Confirm **inReach plan** before departure. Shakedown: ski one day with sat unit on body only — no pulk bury test.
+Confirm **inReach plan** before departure. Shakedown: ski one day with 66i in the **pulk top** — time how long to reach SOS.
 
 ### Suunto Vertical 2 — no offline track dump
 
@@ -289,28 +289,28 @@ Source of truth is still **screenshot + Notes**, not the IG draft.
 | **OsmAnd** ★ | Occasional nav backup |
 | **Topo GPS** | **IG screenshot** — day’s GPX on Lantmäteriet / Kartverket · [setup](#instagram--days-track-in-topo-gps) |
 | **Organic Maps** | Tiny lightweight backup |
-| **Calazo 1:100k** ★ | **Buy 5** — skip #5–7 (owned 1:50k) · Kebnekaise ✓ · whiteout / battery death |
+| **Calazo 1:100k** ★ | **Owned** — skip #5–7 (1:50k) · whiteout / battery death |
 | **Gaia / Avenza** | Skip as primary for full route |
 
 **Hierarchy:** **Suunto** (skiing · primary map) → **OsmAnd** (occasional backup · camp) → **66i or Mini 2** (inReach track · SOS) → **Calazo + compass**.
 
 ### Paper maps — Calazo 1:100k + owned 1:50k
 
-**Status:** **Buy 5** × 1:100k (Härjedalen → Hemavan approach + Treriksröset). **Skip 1:100k #5–7** — owned **1:50k** covers Hemavan → Ritsem/Sälka. **Kebnekaise 1:100k** ✓. Skip Dalafjällen & Trysil.
+**Status:** **Owned** — 1:100k #1–4, #8–9. **Skip 1:100k #5–7** — owned **1:50k** covers Hemavan → Ritsem/Sälka. Skip Dalafjällen & Trysil.
 
 **Why mix:** One waterproof scale south of Hemavan · **better detail** on KL/Padjelanta where you already own 1:50k · Suunto stays primary.
 
 | # | Sheet (S→N) | Route section | Plan |
 |---|-------------|---------------|------|
-| 1 | **Härjedalsfjällen** | Grövelsjön · Sylarna | **Buy** 1:100k |
-| 2 | **Jämtlandsfjällen** | Storlien · Åre side | **Buy** 1:100k |
-| 3 | **Gäddede, Hotagsfjällen & Skäckerfjällen** | Hotagen · Gäddede | **Buy** 1:100k |
-| 4 | **Kittelfjäll & Borgafjäll** | Gäddede → Hemavan | **Buy** 1:100k |
+| 1 | **Härjedalsfjällen** | Grövelsjön · Sylarna | ✓ 1:100k |
+| 2 | **Jämtlandsfjällen** | Storlien · Åre side | ✓ 1:100k |
+| 3 | **Gäddede, Hotagsfjällen & Skäckerfjällen** | Hotagen · Gäddede | ✓ 1:100k |
+| 4 | **Kittelfjäll & Borgafjäll** | Gäddede → Hemavan | ✓ 1:100k |
 | 5 | **Vindelfjällen** | Hemavan → Ammarnäs | **Skip** — **Ammarnäs–Hemavan** 1:50k ✓ |
 | 6 | **Arjeplogsfjällen** | Adolfström → Kvikkjokk | **Skip** — **Kvikkjokk–Adolfström** 1:50k ✓ |
 | 7 | **Sarek & Padjelanta** | Kvikkjokk → Ritsem | **Skip** — **Padjelantaleden** 1:50k ✓ |
 | 8 | **Kebnekaisefjällen & Narvik** | KL · Sälka · Abisko approach | ✓ 1:100k (+ **Nikkaluokta/Ritsem/Vakkotavare** 1:50k) |
-| 9 | **Treriksröset, Abisko & Kiruna** | Abisko · Treriksröset finish | **Buy** 1:100k |
+| 9 | **Treriksröset, Abisko & Kiruna** | Abisko · Treriksröset finish | ✓ 1:100k |
 
 **Owned 1:50k:** Ammarnäs–Hemavan · Kvikkjokk–Adolfström · Padjelantaleden · Nikkaluokta/Ritsem/Vakkotavare · Saltoluokta–Kvikkjokk (**bail only** — Band is **väster om** Saltoluokta).
 
@@ -319,10 +319,6 @@ Source of truth is still **screenshot + Notes**, not the IG draft.
 **Caveat:** Band often runs **west of** KL villages — check GPX vs 1:50k edges before relying on #5/#6 skip.
 
 **Pack:** **Current + next** sheet on body or map case; rest in waterproof pouch in pulk top. Pre-fold to day's track before leaving camp.
-
-**Budget:** **~€70–100** RRP left (5 × ~€20) · **VGB registrant discount ~30%** after [vitagronabandet.se](https://www.vitagronabandet.se/) registration — best deal if eligible.
-
-**Where to buy:** [Calazo](https://calazomaps.com/collections/fjallkartor-1-100-000) direct · Naturkompaniet · Kartbutiken · outdoor shops.
 
 **Weight:** **~390 g** folded (**30–52 g**/sheet · [Varuste](https://varuste.net/en/p87612/calazo-vindelfj%C3%A4llen-1-100-000) 30 g · [Viranomainen](https://viranomainen.fi/en/p71560/calazo-sarek-padjelanta-1-100-000) 50 g · Kebnekaise 52 g).
 
@@ -500,7 +496,7 @@ Stuff sack stays at home for travel; **Sled Pack is the trail bag**.
 
 ### Foam mat backup — Sirex Everest 10
 
-**Status:** **Buy** — [Bever €14.95](https://www.bever.nl/merken/sirex.html).
+**Status:** **Owned** — **Sirex PE Trekkingmat Everest 10**.
 
 **Chosen ★** — **Sirex PE Trekkingmat Everest 10**.
 
@@ -546,7 +542,7 @@ Stuff sack stays at home for travel; **Sled Pack is the trail bag**.
 
 **Shakedown:** bag + Ultra 7R + Sirex under hips at **−15 °C**; then air pad deflated — confirm sleep + pack size.
 
-**Verdict:** **Buy Sirex Everest 10** (~**€15**, ~**275 g**) — ready PE backup under Ultra 7R / emergency pad. Optional cut to torso to save ~100 g.
+**Verdict:** **Sirex Everest 10** ✓ (~**275 g**) — PE backup under Ultra 7R / emergency pad. Optional cut to torso to save ~100 g.
 
 ---
 

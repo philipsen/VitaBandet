@@ -23,9 +23,9 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Garmin inReach plan** on GPSMAP 66i
 - [x] **OmniLite** service kit — included with stove kit
 - [x] **Shell** jacket + pants ✓
-- [ ] **Calazo** — **buy 5× 1:100k** + owned **1:50k** (skip 1:100k #5–7) — [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k)
+- [x] **Calazo** — **1:100k** #1–4, #8–9 ✓ + owned **1:50k** (skip 1:100k #5–7) — [maps](./gear-considerations-2027.md#paper-maps-calazo-1100k)
 - [x] **Exped Ultra 7R** LW + pump + pad repair kit — primary pad in Sleeper
-- [ ] **Sirex PE Trekkingmat Everest 10** — foam backup (~€15 · [Bever](https://www.bever.nl/merken/sirex.html)) · main pulk
+- [x] **Sirex PE Trekkingmat Everest 10** — foam backup ✓ · main pulk
 - [ ] **Alkylate** — fill bottles at home; phone **Hemavan + Kvikkjokk** for stock · Hemavan→Kvikkjokk: **≥1** mid-leg wall (Ammarnäs / Vuoggatjålme / Adolfström / Jäckvik)
 
 ---

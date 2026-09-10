@@ -27,17 +27,17 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 
 - Tent (**Nammatj 3 GT** in **Sled Pack**), stakes, repair
 - Food for the leg, stove, fuel, pot
-- Spare clothes, repair kit, most electronics
+- **Spare clothes**, **toiletries**, **first aid**, repair kit
+- **GPSMAP 66i** — bag **top** (not bottom)
 - **Sleeper 200** with bag + **Ultra 7R** inside (**XLite** shipped to Abisko — not in pulk)
 
 ### On you while skiing
 
 - Shell, insulation, mittens, buff, hat
 - Snacks + water (or melt plan)
-- **GPSMAP 66i / inReach** — reachable without opening pulk
-- One **power bank** warm in jacket
+- **Suunto** on wrist · one **power bank** warm in jacket
 
-**Rule:** if you need it within **30 minutes** (cold, nav, SOS), it is not at the bottom of the sled.
+**Rule:** if you need it within **30 minutes** (cold, nav, SOS), it is **not at the bottom** of the sled. **66i** is still on the pulk — keep it in the **top** of the bag.
 
 ---
 
@@ -53,8 +53,10 @@ Practical guide for **what goes where**, **how to load**, and **how much food/fu
 | Food (leg) | Main bag **bottom** — **flat clear boxes** | Dense, heavy; repack after every shop |
 | Alkylate bottles | Main bag **bottom centre**, upright | **Liquid only** until Abisko; separate from food |
 | Stove + **TOAKS 1600 ml** pot/pan + fuel tools + **CO detector** | Main bag **middle** | OmniLite + silencer · **CO detector ON** in vestibule when cooking · magnetic · face height |
-| Spare clothes | Dry bags, main bag | One dry set packed deep |
-| Phone, spare battery, maps | Main bag top **or** body | 66i on **body** preferred |
+| Spare clothes | Dry bags, main bag | One dry set packed deep — **on pulk** |
+| Toiletries · first aid | Main bag, reachable | Soap / TP · Compeed — **on pulk** |
+| **GPSMAP 66i** | Main bag **top** | inReach + SOS — unzip top, **not** under food |
+| Phone, spare battery, maps | Main bag top **or** body | Phone / Zolo warm on body |
 | Snow shovel | Main bag / accessible | Vestibule pit · camp · emergency snow shelter |
 | Sleeper 200 (empty shell weight) | **On pulk** | Fjellpulken straps — not inside main cargo |
 
@@ -152,7 +154,7 @@ Buy on trail — **8–10 days food** typical after Storlien; **§1** is [food-s
 
 | Section | Packing focus |
 |---------|----------------|
-| **§1 Grövelsjön → Storlien** | [§1 food](./food-section1-2027.md) · [D1 pulk weight](./pulk-weight-2027.md) **~30.5 kg** · Hamra backup |
+| **§1 Grövelsjön → Storlien** | [§1 food](./food-section1-2027.md) · [D1 pulk weight](./pulk-weight-2027.md) **~30.8 kg** · Hamra backup |
 | **§2 → Gäddede** | Long food carry; depot option |
 | **§3 Lapplandsleden** | Steady rhythm; fuel at Gäddede/Hemavan |
 | **§4 → Kvikkjokk** | Heavy + **fuel critical** |
@@ -166,7 +168,7 @@ Steep days (Padjelanta, Lappjord): lower profile helps more than a bigger sled �
 
 ## Weight budget (fill on shakedown)
 
-**D1 line items:** [pulk-weight-2027.md](./pulk-weight-2027.md) — spec **24.9 kg** + ~est **5.6 kg** = **~30.5 kg** loaded.
+**D1 line items:** [pulk-weight-2027.md](./pulk-weight-2027.md) — spec **25.1 kg** + ~est **5.6 kg** = **~30.8 kg** loaded.
 
 | Zone | Target | Weighed |
 |------|--------|---------|
@@ -176,9 +178,9 @@ Steep days (Padjelanta, Lappjord): lower profile helps more than a bigger sled �
 | Tent Nammatj 3 GT + Sled Pack | 4.3 kg | |
 | Food §1 (on pulk) | **7.0 kg** | |
 | Fuel 3 L + bottles | **~2.8 kg** | |
-| Clothes + kitchen + misc | ~est in pulk-weight | |
-| **Loaded pulk D1** | **~30.5 kg** | **____ kg** |
-| On body (skiing) | electronics 1.2 kg + lunch 0.35 kg + worn | |
+| Clothes + toiletries + first aid + kitchen + misc | ~est in pulk-weight | |
+| **Loaded pulk D1** | **~30.8 kg** | **____ kg** |
+| On body (skiing) | electronics **0.95 kg** + lunch 0.35 kg + worn | |
 
 Weigh **loaded pulk + Sleeper** before D1. Later legs (Storlien 10-day shop) will be heavier in **food** — re-weigh there.
 

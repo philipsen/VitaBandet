@@ -12,10 +12,10 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 |---|-------|-------------------|
 | **Priority 1–2** — ski (poles, skins prep) | 4 lines | ~€80–160 |
 | **Priority 3** — power & comms | 1 line left | ~€15–50 |
-| **Priority 4** — clothing & sleep | 4 lines | ~€120–200 |
-| **Maps & admin** | 5× 1:100k | ~€70–100 |
+| **Priority 4** — clothing & sleep | 3 lines | ~€120–195 |
+| **Maps & admin** | Topo GPS tiles (prep) | — |
 | **Confirm / optional** | 5 lines | ~€0–120 |
-| **Total** | | **~€280–640** |
+| **Total** | | **~€197–517** |
 
 *Prices indicative · Jul 2026 · incl. VAT where noted.*
 
@@ -69,25 +69,25 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | 🛒 | **Ski socks** | 4–5 | Heavy merino · over-calf | ~€60–100 | Bever · Woolpower · Falke | [socks/VBL](./gear-considerations-2027.md#socks--vbl) |
 | 🛒 | Camp socks | 1–2 | Thin merino | ~€15–30 | Same | For booties |
 | 🛒 | **Down booties** | 1 pair | **Rab Down Hut Slipper** | ~€46–65 | [Outdoorweb](https://www.outdoorweb.eu/Rab-Down-Hut-Slipper-black) · Rab EU | Size up one · [booties](./gear-considerations-2027.md#down-booties-camp) |
-| 🛒 | **Foam pad backup** | 1 | **Sirex PE Trekkingmat Everest 10** | ~€15 | [Bever](https://www.bever.nl/merken/sirex.html) | Main pulk · [foam](./gear-considerations-2027.md#foam-mat-backup--sirex-everest-10) |
+| ✅ | **Foam pad backup** | 1 | **Sirex PE Trekkingmat Everest 10** | — | ✓ owned | Main pulk · [foam](./gear-considerations-2027.md#foam-mat-backup--sirex-everest-10) |
 
 ---
 
 ## Maps & admin
 
-**Paper nav:** mix **Calazo 1:100k** (S) + owned **1:50k** (Hemavan → Abisko approach). Primary on trail remains **Suunto** · paper = whiteout / battery death. [details](./gear-considerations-2027.md#paper-maps-calazo-1100k)
+**Paper nav:** mix **Calazo 1:100k** ✓ (S) + owned **1:50k** (Hemavan → Abisko approach). Primary on trail remains **Suunto** · paper = whiteout / battery death. [details](./gear-considerations-2027.md#paper-maps-calazo-1100k)
 
-### Calazo 1:100k — buy
+### Calazo 1:100k — owned
 
 | Status | # | Sheet | Route section | Est. | Notes |
 |--------|---|-------|---------------|------|-------|
-| 🛒 | 1 | **Härjedalsfjällen** | Grövelsjön · Sylarna | ~€20 | No 1:50k cover |
-| 🛒 | 2 | **Jämtlandsfjällen** | Storlien · Åre side | ~€20 | No 1:50k cover |
-| 🛒 | 3 | **Gäddede, Hotagsfjällen & Skäckerfjällen** | Hotagen · Gäddede | ~€20 | No 1:50k cover |
-| 🛒 | 4 | **Kittelfjäll & Borgafjäll** | Gäddede → Hemavan | ~€20 | Ammarnäs–Hemavan starts **at** Hemavan N |
+| ✅ | 1 | **Härjedalsfjällen** | Grövelsjön · Sylarna | — | No 1:50k cover |
+| ✅ | 2 | **Jämtlandsfjällen** | Storlien · Åre side | — | No 1:50k cover |
+| ✅ | 3 | **Gäddede, Hotagsfjällen & Skäckerfjällen** | Hotagen · Gäddede | — | No 1:50k cover |
+| ✅ | 4 | **Kittelfjäll & Borgafjäll** | Gäddede → Hemavan | — | Ammarnäs–Hemavan starts **at** Hemavan N |
 | ✅ | 8 | **Kebnekaisefjällen & Narvik** | KL · Sälka · Abisko approach | — | Owned |
-| 🛒 | 9 | **Treriksröset, Abisko & Kiruna** | Abisko · Treriksröset finish | ~€20 | Not on Nikkaluokta 1:50k |
-| | | **Still to buy** | **5 sheets** | **~€70–100** | |
+| ✅ | 9 | **Treriksröset, Abisko & Kiruna** | Abisko · Treriksröset finish | — | Not on Nikkaluokta 1:50k |
+| | | **Paper 1:100k** | **6 sheets** | ✅ | |
 
 ### Calazo 1:100k — skip (covered by owned 1:50k)
 
@@ -161,6 +161,8 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | CO detector · Leatherman · shovel · first aid | ✅ Own |
 | **1× Anker Zolo 20k** · **Anker 100 W wall** · **3× USB-C** · short **micro-USB** | ✅ Own (2nd bank at home) |
 | **BD Storm 500-R** | ✅ Own |
+| **Calazo** 1:100k + 1:50k | ✅ Own · skip 1:100k #5–7 |
+| **Sirex Everest 10** foam | ✅ Own |
 | Hesta mittens · Rab down jacket · merino base | ✅ Own |
 | DNT key · NKBV card | ✅ Own |
 | Fairbuds XL · Kindle | ✅ Own (user) |
@@ -174,8 +176,8 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | When | Do |
 |------|-----|
-| **Now–autumn 2026** | Poles · skin reglue (wax/glue ✓) · **Storm 500-R** ✓ · Calazo (watch for VGB discount) · OsmAnd on Armor · sync Vertical 2 · **Nammatj** pitch practice |
-| **Autumn 2026** | Socks · booties · Sirex foam · shakedowns · Suunto route practice |
+| **Now–autumn 2026** | Poles · skin reglue (wax/glue ✓) · **Storm 500-R** ✓ · **Calazo** ✓ · OsmAnd on Armor · sync Vertical 2 · **Nammatj** pitch practice |
+| **Autumn 2026** | Socks · booties · **Sirex** ✓ · shakedowns · Suunto route practice |
 | **Jan 2027** | inReach plan live · OsmAnd `2027.GPX` on Armor · **all** Suunto routes loaded **at home** · Topo GPS tiles + **66i → Topo GPS** shakedown |
 | **Feb 2027** | Alkylate fill · last gaps · optional VBL |
 

@@ -557,7 +557,7 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 
 | Leg | Days | Shop at start | Food to **buy** | On pulk leaving shop |
 |-----|------|---------------|-----------------|----------------------|
-| Grövelsjön → Storlien | 10 | Day 1 · **Fjällbua** / NL | **[§1 menu](./food-section1-2027.md)** · **~7.0 kg** on pulk (your food only) · Hamra **backup** | [pulk-weight](./pulk-weight-2027.md) **~30.5 kg** loaded |
+| Grövelsjön → Storlien | 10 | Day 1 · **Fjällbua** / NL | **[§1 menu](./food-section1-2027.md)** · **~7.0 kg** on pulk (your food only) · Hamra **backup** | [pulk-weight](./pulk-weight-2027.md) **~30.8 kg** loaded |
 | → Gäddede | 14 | Day 10 Storlien | **10–12 d** · **~13–18 kg** (or split **Valsjöbua D21**) | Heaviest early load |
 | → Hemavan | 10 | Day 24 Gäddede | **9–10 d** · **~12–15 kg** (or **~5 d / ~7 kg** if Klimpfjäll D28) | |
 | → Kvikkjokk | 12 | Day 34 Hemavan ★ | **11–12 d** · **~14–18 kg** (or **~5 d / ~7 kg** + **Ammarnäs D39 ~7 d / ~9–11 kg**) | Heaviest with full alkylate |

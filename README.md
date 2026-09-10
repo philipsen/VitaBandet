@@ -123,7 +123,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 ### Buy / test next
 
-**Long skins: reglue/replace**, ski poles, **new merino ski socks** (4–5), **OsmAnd+** maps + GPX on **Armor 14 Pro**, **Calazo** (buy 5× 1:100k · 1:50k ✓), **inReach plan** (66i), **2× 1 L fuel bottles** *(short Åsnes ✓; skin wax + glue ✓; shell ✓; **Ultra 7R** ✓; **DNT key** ✓; **OmniLite** + silencer + **service kit** ✓; **1× Zolo + 100 W wall + cables** ✓; **Armor 14 Pro** ✓; **Suunto Vertical 2** ✓; **Storm 500-R** ✓; merino base + 2× **Hesta** owned; VBL optional; **no Fairphone for 2027**)*.
+**Long skins: reglue/replace**, ski poles, **new merino ski socks** (4–5), **OsmAnd+** maps + GPX on **Armor 14 Pro**, **inReach plan** (66i), **2× 1 L fuel bottles** *(short Åsnes ✓; skin wax + glue ✓; shell ✓; **Ultra 7R** ✓; **DNT key** ✓; **OmniLite** + silencer + **service kit** ✓; **1× Zolo + 100 W wall + cables** ✓; **Armor 14 Pro** ✓; **Suunto Vertical 2** ✓; **Storm 500-R** ✓; **Calazo** ✓; merino base + 2× **Hesta** owned; VBL optional; **no Fairphone for 2027**)*.
 
 ### Shakedown trips
 | Date | Location | Duration | Lessons learned |
@@ -137,7 +137,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 - **Calories per day (target):** ~4,000–4,500 on §1 ([food-section1-2027.md](plan/food-section1-2027.md)) · ~4,000–5,000 later legs  
 - **Water strategy:** snow melt · morning stove = **coffee + warm water** (milk powder mixed **cold**)  
 - **Resupply detail:** [resupply-2027.md](plan/resupply-2027.md) — **§1** from NL / **Fjällbua**; Hamra backup  
-- **D1 loaded pulk:** **~30.5 kg** — [pulk-weight-2027.md](plan/pulk-weight-2027.md)  
+- **D1 loaded pulk:** **~30.8 kg** — [pulk-weight-2027.md](plan/pulk-weight-2027.md)  
 - **Fuel:** **3 L** alkylate §1 (two people) from home/car; then shops; **no canisters** until Abisko  
 
 ---
@@ -146,7 +146,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 - **Emergency contacts:** *(name, phone, relationship × 2)*  
 - **Check‑in schedule:** fixed times (e.g. daily 20:00) + missed-check-in protocol for contacts  
-- **Satellite / nav:** **Suunto Vertical 2** ✓ primary on-trail · **GPSMAP 66i** on body (inReach + SOS) · **Armor 14 Pro** + **OsmAnd** occasional backup · **Calazo** (buy 5× 1:100k · skip #5–7 · Kebnekaise ✓) · **1× Zolo + 100 W wall** ✓ · **BD Storm 500-R** ✓  
+- **Satellite / nav:** **Suunto Vertical 2** ✓ primary on-trail · **GPSMAP 66i** on pulk **top** (inReach + SOS) · **Armor 14 Pro** + **OsmAnd** occasional backup · **Calazo** 1:100k + 1:50k ✓ (skip #5–7) · **1× Zolo + 100 W wall** ✓ · **BD Storm 500-R** ✓  
 - **Turnaround rules:** weather, injury, pace — decide alone before departure  
 - **Insurance:** incl. search & rescue / evacuation  
 - **Share live track** with trusted contact for full expedition  

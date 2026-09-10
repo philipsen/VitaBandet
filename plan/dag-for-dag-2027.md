@@ -96,7 +96,7 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 **D** at **STF Grövelsjön** (shop, register Vita Bandet, final pulk check) — then leave on **Södra Kungsleden** north toward **Långfjället** and **Hävlingen**.  
 **Camping (night before / after):** **Sjöstugan** or STF Grövelsjön tent + service fee — see [camping reference](#camping-near-huts--resupply-reference).
 
-Camp near **Hävlingestugorna** (Länsstyrelsen · five 4-bed cabins + one 6-bed · stugvärd mid-Feb–end Apr · sauna · book via Länsstyrelsen). **Your food:** full carry to Storlien — [food-section1-2027.md](./food-section1-2027.md) · pulk **~30.5 kg** — [pulk-weight-2027.md](./pulk-weight-2027.md). Shop **Fjällbua** / NL **13–14 Feb**. Companion food is not on this sled.
+Camp near **Hävlingestugorna** (Länsstyrelsen · five 4-bed cabins + one 6-bed · stugvärd mid-Feb–end Apr · sauna · book via Länsstyrelsen). **Your food:** full carry to Storlien — [food-section1-2027.md](./food-section1-2027.md) · pulk **~30.8 kg** — [pulk-weight-2027.md](./pulk-weight-2027.md). Shop **Fjällbua** / NL **13–14 Feb**. Companion food is not on this sled.
 
 | Acc | Notes |
 |-----|-------|

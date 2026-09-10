@@ -33,7 +33,7 @@
 
 | Device | Ski day (~8 h) | Camp / hut night | Sleep | Active time / day | Est. drain / day | **% of total** | Charge rhythm |
 |--------|----------------|------------------|-------|-------------------|------------------|----------------|---------------|
-| **GPSMAP 66i** | On · **expedition** · track + inReach **30 min** · screen **off** · msgs at camp | On · inReach · **no** routine map use | On body · stays on | **~8 h** log + **~2 min** screen | **~4–8%** (~0.5–0.9 Wh) | **~22%** | Every **4–6 nights** |
+| **GPSMAP 66i** | On · **expedition** · track + inReach **30 min** · screen **off** · msgs at camp | On · inReach · **no** routine map use | Pulk **top** · stays on | **~8 h** log + **~2 min** screen | **~4–8%** (~0.5–0.9 Wh) | **~22%** | Every **4–6 nights** |
 | **Armor · ski day** | **Airplane** (or off) · jacket · **no routine nav** · rare Suunto-fail glance | — | — | **~0–5 min** screen (most days **0**) | **~0.3–0.8%** (~0.1–0.3 Wh) | **~9%** | — |
 | **Armor · tent** | — | Short OsmAnd / photos / msgs · **~8–20 min** screen (not every night) | Airplane · **bag foot** | **~0.15–0.35 h** | **~1.2–1.6%** (~0.45–0.6 Wh) | **~24%** | **★ / hut only** (skip Zolo) |
 | **BD Storm 500-R** | Off (in pack/pulk) | Tent pitch · cook · melt · chores · **~1 h** low/mid + red in tent | Off | **~1 h** | **~4–6%** (~0.4 Wh) | **~18%** | Every **7–10 nights** |
@@ -56,7 +56,7 @@
 | Time | Action |
 |------|--------|
 | **Morning** | **Suunto** — start **Ski/Expedition** activity · load today’s leg · **Endurance** or **Tour** GPS mode · 66i on expedition · **new 66i track** (one GPX per day) · inReach **30 min** · phone **airplane** |
-| **Pack** | **Zolo** warm in jacket · 66i on body · **Suunto on wrist** (nav) · Armor in jacket (off) |
+| **Pack** | **Zolo** warm in jacket · **66i in pulk top** · **Suunto on wrist** (nav) · Armor in jacket (off) |
 | **On trail** | **Suunto map + track** · glance wrist · 66i screen off · **phone stays off** · Armor only if Suunto fails |
 | inReach | **Track** at set interval · SOS always · msgs rare | Batch any msgs at camp — track-only default |
 
@@ -71,7 +71,7 @@
 | 4 | **Charge window** (~45–90 min) | See [charge calendar](#charge-calendar-7-day-leg) — **one device** from **warm Zolo** |
 | 5 | Phone — **Topo GPS screenshot** (import 66i GPX) / short OsmAnd / photos | Armor **~10–20 min** · GPS **off** · skip screenshot only if wrecked |
 | 6 | Reading | Kindle (no charge) · Fairbuds if wanted |
-| 7 | Pre-sleep | Phone **airplane mode** · Storm off · **phone + Zolo** in **bag foot** · 66i stays on body or bag top |
+| 7 | Pre-sleep | Phone **airplane mode** · Storm off · **phone + Zolo** in **bag foot** · 66i stays in **pulk top** |
 
 ### Hut night (power available)
 
@@ -233,10 +233,10 @@ Use **your Anker 100 W** brick — hut USB ports are often weak / shared.
 
 | Location | Item |
 |----------|------|
-| **Chest / jacket** | 66i · **Zolo (warm)** · Armor (off) |
+| **Chest / jacket** | **Zolo (warm)** · Armor (off) |
 | **Wrist** | Suunto Vertical 2 |
 | **Head** | Storm (evening only) |
-| **Pulk top** | Wall charger · spare cables · Kindle · **CO detector** (off) |
+| **Pulk top** | **66i** · wall charger · spare cables · Kindle · **CO detector** (off) |
 | **Bag foot (sleep)** | Phone + Zolo when not charging |
 
 **Overnight tent:** Phone + bank in sleeping bag foot — **never** charge a cold bank below **−10 °C** without warming first. **Second Zolo stays home** — not packed.
@@ -315,7 +315,7 @@ COOK        CO detector ON in vestibule · OFF when stove out
 HUT         Charge ALL — bank first · Suunto + 66i + Armor full
 COLD        Warm bank 15 min before USB · one device at a time below −20 °C
 BANK        1× Zolo only · always on body · 2nd stays home
-SOS         66i always on BODY
+SOS         66i in PULK TOP (not buried)
 ```
 
 ---
