@@ -20,7 +20,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Bag | **Lowland K2** ✓ | −35 °C comfort · ~2 kg |
 | Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ (ship to Abisko) · **Sirex Everest 10** foam backup ✓ | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
 | Stove / pot | **OmniLite** + silencer · **TOAKS 1600 ml** ✓ | **2 L** max alkylate · [cooking](./gear-considerations-2027.md#cooking--toaks-ti-1600-ml) |
-| Nav / comms | **Suunto V2** · **66i** · **OsmAnd+** · **Calazo 1:100k** | [comms](./gear-considerations-2027.md#navigation-comms--power) · [power plan](./power-plan-2027.md) |
+| Nav / comms | **Suunto V2** · **66i** · **OsmAnd+** · **Topo GPS** SE+NO ✓ · **Calazo 1:100k** | [comms](./gear-considerations-2027.md#navigation-comms--power) · [power plan](./power-plan-2027.md) |
 | Food | Buy on trail ~**8–10 days** | §1: [food-section1-2027.md](./food-section1-2027.md) · **~7 kg** · [pulk-weight](./pulk-weight-2027.md) |
 
 **Columns in master list below:** **Own** · **Need** · **Test**
@@ -121,7 +121,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | GPS + inReach | **GPSMAP 66i** | 1 | **241** | **241** | ✓ | **? Mini 2** | Track-only · **micro-USB** · **pulk top** · consider **Mini 2** (−140 g) · [compare](./gear-considerations-2027.md#inreach--66i-vs-mini-2--consider-replace) |
 | Watch / nav | **Suunto Vertical 2** | 1 | **87** | **87** | ✓ | | Steel **87** · Ti **74** · primary on-trail nav · weigh yours |
 | Suunto charge cable | USB-C magnetic | 1 | **~25** | **~25** | | **w/ watch** | In box · pulk/resupply |
-| Phone | **Ulefone Power Armor 14 Pro** | 1 | **358** | **358** | ✓ | | OsmAnd backup · **Topo GPS** IG · 10k mAh (~37 Wh) · **18 W** · ★/hut charge · [power](./power-plan-2027.md) |
+| Phone | **Ulefone Power Armor 14 Pro** | 1 | **358** | **358** | ✓ | | OsmAnd backup · **Topo GPS** SE+NO ✓ · 10k mAh (~37 Wh) · **18 W** · ★/hut charge · [power](./power-plan-2027.md) |
 | Power bank 20k | **Anker Zolo · 30 W** (A1689) | 1 | **353** | **353** | ✓ | | Recall SN checked · 2nd at home · [power](./power-plan-2027.md) |
 | Wall charger | **Anker 100 W · Smart Display** (B121BGZ1) | 1 | **212** | **212** | ✓ | | Resupply only · [Amazon.nl](https://www.amazon.nl/dp/B0FG745LNB) |
 | Wall cable (in box) | USB-C **1.5 m** | 1 | **~35** | **~35** | ✓ | | With wall charger |
@@ -151,7 +151,9 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | **Leatherman** | 1 | ✓ | | Multitool · repair kit |
 | Ski / binding / fabric repair | 1 kit each | ✓ | | duct tape · sewing · etc. |
 | Duct tape on pole | 1 | | ? | |
-| Sunscreen, goggles, glasses | 1+1+1 | | ? | |
+| **Sunglasses** | 1 | | 🛒 | **Julbo Explorer 2.0** ★ **Reactiv 2–4** · ~44 g · [sunglasses](./gear-considerations-2027.md#sunglasses--goggles) |
+| Goggles | 1 | | ? | Storm / spindrift — sunglasses do not replace |
+| Sunscreen + lip SPF | 1 | | ? | |
 
 ### Personal & misc
 
@@ -235,8 +237,8 @@ Measure **g/day** on shakedown at **−15 °C**.
 
 1. **Long skins** — reglue or replace *(wax + glue tube ✓)*  
 2. **Ski poles** — still **Combat V2** ★ (Speed Trail owned but max **140** + bent) + spare baskets for **new** pair · Varuste VIP  
-3. **Power / nav** — OsmAnd maps on **Armor 14 Pro** · inReach plan *(**Calazo** ✓ · **Storm 500-R** ✓ · Suunto V2 ✓ · phone ✓ · 1× Zolo on trail ✓ · 100 W wall ✓ · C–C + micro-USB ✓)*  
-4. **New ski socks** (4–5) + **down booties** *(**Sirex Everest 10** ✓)*  
+3. **Power / nav** — OsmAnd maps on **Armor 14 Pro** · Topo GPS **tiles** · inReach plan *(**Calazo** ✓ · **Topo GPS** packs ✓ · **Storm 500-R** ✓ · Suunto V2 ✓ · phone ✓ · 1× Zolo on trail ✓ · 100 W wall ✓ · C–C + micro-USB ✓)*  
+4. **New ski socks** (4–5) + **down booties** + **Julbo Explorer 2.0 Reactiv 2–4** *(**Sirex Everest 10** ✓)*  
 5. Fill **2× 1 L** bottles (OmniLite service kit ✓ — in stove kit)  
 6. **Nammatj 3 GT** ✓ — pitch + weigh + 2–3 winter nights · Nallo spare — [tent](./gear-considerations-2027.md#tent--nammatj-3-gt)
 
@@ -255,7 +257,7 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 | Schoenen | **Alfa Outback + Xplore** ✓ |
 | Vellen | Short **Åsnes** ✓ + long — **reglue** |
 | Stokken | Own **Speed Trail** (bent) · **buy** Combat/Traverse — [poles](./gear-considerations-2027.md#ski-poles) |
-| GPS + kaarten | **GPSMAP 66i** ✓ · **OsmAnd+** · **Calazo** 1:100k + 1:50k ✓ |
+| GPS + kaarten | **GPSMAP 66i** ✓ · **OsmAnd+** · **Topo GPS** SE+NO ✓ · **Calazo** 1:100k + 1:50k ✓ |
 | Telefoon | **Armor 14 Pro** + offline maps |
 | Tent | **Nammatj 3 GT** ✓ · Nallo 3GT spare ✓ |
 | Slaapmat | **Ultra 7R** ✓ in pulk · **Sirex** ✓ · **XLite** ✓ ship to Abisko |
@@ -266,13 +268,14 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 | Base kleding | **2+2** merino ✓ |
 | Skisokken | **Buy 4–5** |
 | Shell | ✅ Own |
+| Zonnebril / ski-bril | **Buy Explorer 2.0 Reactiv 2–4** · goggles confirm |
 | Camp / sloffen | Dry base · **Rab down jacket** ✓ · **Hesta** ×2 ✓ · **down booties** buy |
 
 ---
 
 ## Links
 
-- [gear-considerations-2027.md](./gear-considerations-2027.md) — poles, skins, tent/pad, nav, **power banks/cables**, headlamp, VBL, booties, foam  
+- [gear-considerations-2027.md](./gear-considerations-2027.md) — poles, skins, tent/pad, nav, **power banks/cables**, headlamp, VBL, booties, foam, sunglasses  
 - [power-plan-2027.md](./power-plan-2027.md) — daily charge calendar · device settings  
 - [pack-checklist-2027.md](./pack-checklist-2027.md)  
 - [packing-pulk-2027.md](./packing-pulk-2027.md)  

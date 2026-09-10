@@ -12,10 +12,10 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 |---|-------|-------------------|
 | **Priority 1–2** — ski (poles, skins prep) | 4 lines | ~€80–160 |
 | **Priority 3** — power & comms | 1 line left | ~€15–50 |
-| **Priority 4** — clothing & sleep | 3 lines | ~€120–195 |
+| **Priority 4** — clothing, sleep & eyes | 4 lines | ~€270–410 |
 | **Maps & admin** | Topo GPS tiles (prep) | — |
 | **Confirm / optional** | 5 lines | ~€0–120 |
-| **Total** | | **~€197–517** |
+| **Total** | | **~€347–732** |
 
 *Prices indicative · Jul 2026 · incl. VAT where noted.*
 
@@ -56,7 +56,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | 🛒 | **Garmin inReach plan** | 1 | On **66i** or **Mini 2** | ~€15–50/mo | Garmin | Activate before departure · track-only · [consider Mini 2](./gear-considerations-2027.md#inreach--66i-vs-mini-2--consider-replace) |
 | ✅ | Suunto Vertical 2 **charge cable** | 1 | Proprietary | incl. | With watch | Comes in box |
 
-**Owned (no buy):** GPSMAP 66i ✓ · **Armor 14 Pro** ✓ · OsmAnd+ ✓ · CO detector ✓ · **1× Anker Zolo 20k** (on trail) ✓ · **Anker 100 W wall** ✓ · **3× USB-C cables** ✓ · Kindle ✓ (charges on existing **USB-C**) · **no Fairphone for 2027**
+**Owned (no buy):** GPSMAP 66i ✓ · **Armor 14 Pro** ✓ · OsmAnd+ ✓ · **Topo GPS** SE+NO ✓ · CO detector ✓ · **1× Anker Zolo 20k** (on trail) ✓ · **Anker 100 W wall** ✓ · **3× USB-C cables** ✓ · Kindle ✓ (charges on existing **USB-C**) · **no Fairphone for 2027**
 
 **Power plan:** [power-plan-2027.md](./power-plan-2027.md)
 
@@ -69,6 +69,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | 🛒 | **Ski socks** | 4–5 | Heavy merino · over-calf | ~€60–100 | Bever · Woolpower · Falke | [socks/VBL](./gear-considerations-2027.md#socks--vbl) |
 | 🛒 | Camp socks | 1–2 | Thin merino | ~€15–30 | Same | For booties |
 | 🛒 | **Down booties** | 1 pair | **Rab Down Hut Slipper** | ~€46–65 | [Outdoorweb](https://www.outdoorweb.eu/Rab-Down-Hut-Slipper-black) · Rab EU | Size up one · [booties](./gear-considerations-2027.md#down-booties-camp) |
+| 🛒 | **Sunglasses** | 1 | **Julbo Explorer 2.0** ★ **Reactiv 2–4** | **~€150–215** | [Julbo](https://www.julbo.com/en_nl/sunglasses/explorer-2-0) · Snowleader | **Not** Spectron 4 as only pair · [sunglasses](./gear-considerations-2027.md#sunglasses--goggles) |
 | ✅ | **Foam pad backup** | 1 | **Sirex PE Trekkingmat Everest 10** | — | ✓ owned | Main pulk · [foam](./gear-considerations-2027.md#foam-mat-backup--sirex-everest-10) |
 
 ---
@@ -105,8 +106,8 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | Status | Item | Est. | Notes |
 |--------|------|------|-------|
-| 🛒 | **Sweden** Lantmäteriet pack | **~€4** | One-time · [topo-gps.com](https://www.topo-gps.com/topographic-map-of-sweden/) |
-| 🛒 | **Norway** Kartverket 1:50k | **~€4** | Finish / DNT · [Norway](https://www.topo-gps.com/topographic-map-of-norway/) |
+| ✅ | **Sweden** Lantmäteriet pack | — | ✓ owned · [topo-gps.com](https://www.topo-gps.com/topographic-map-of-sweden/) |
+| ✅ | **Norway** Kartverket 1:50k | — | ✓ owned · [Norway](https://www.topo-gps.com/topographic-map-of-norway/) |
 | 🔧 | Offline tiles · Band corridor | — | Download on wifi · import `2027.GPX` to pull tiles · [IG workflow](./gear-considerations-2027.md#instagram--days-track-in-topo-gps) |
 
 **Do not** GPS-record ski days in Topo GPS. Import the **66i** (tent) or **Suunto** (★ wifi) GPX, screenshot, post when you have signal.
@@ -134,7 +135,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | ✅ | **Shell jacket + pants** | Owned — hardshell for wind/precip |
 | ❓ | Mid fleece | Inventory shows ? |
 | ❓ | Softshell / touring pants | Inventory shows ? |
-| ❓ | Sunscreen · goggles · sunglasses | Safety section — ? |
+| ❓ | Sunscreen · **goggles** | Sunglasses = Explorer 2.0 (buy) · goggles still needed for storm |
 | ✅ | Tent repair kit | Included with **Nammatj** (Nallo kit with spare) |
 | ❓ | Duct tape on pole | ? |
 
@@ -162,6 +163,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | **1× Anker Zolo 20k** · **Anker 100 W wall** · **3× USB-C** · short **micro-USB** | ✅ Own (2nd bank at home) |
 | **BD Storm 500-R** | ✅ Own |
 | **Calazo** 1:100k + 1:50k | ✅ Own · skip 1:100k #5–7 |
+| **Topo GPS** Sweden + Norway | ✅ Own · tiles still to download |
 | **Sirex Everest 10** foam | ✅ Own |
 | Hesta mittens · Rab down jacket · merino base | ✅ Own |
 | DNT key · NKBV card | ✅ Own |
@@ -176,8 +178,8 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | When | Do |
 |------|-----|
-| **Now–autumn 2026** | Poles · skin reglue (wax/glue ✓) · **Storm 500-R** ✓ · **Calazo** ✓ · OsmAnd on Armor · sync Vertical 2 · **Nammatj** pitch practice |
-| **Autumn 2026** | Socks · booties · **Sirex** ✓ · shakedowns · Suunto route practice |
+| **Now–autumn 2026** | Poles · skin reglue (wax/glue ✓) · **Storm 500-R** ✓ · **Calazo** ✓ · **Topo GPS** packs ✓ · OsmAnd on Armor · sync Vertical 2 · **Nammatj** pitch practice |
+| **Autumn 2026** | Socks · booties · **Explorer 2.0** · **Sirex** ✓ · shakedowns · Suunto route practice |
 | **Jan 2027** | inReach plan live · OsmAnd `2027.GPX` on Armor · **all** Suunto routes loaded **at home** · Topo GPS tiles + **66i → Topo GPS** shakedown |
 | **Feb 2027** | Alkylate fill · last gaps · optional VBL |
 

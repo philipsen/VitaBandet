@@ -11,6 +11,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Ski poles** — **Åsnes Combat 2-Section V2** ★ (alt: Breidablikk V2 / Traverse **105–155**) + 2 spare baskets · own **Speed Trail** = training only · [poles](./gear-considerations-2027.md#ski-poles)
 - [ ] **Down booties** — **Rab Down Hut Slipper** (~€45–65) — [booties](./gear-considerations-2027.md#down-booties-camp)
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
+- [ ] **Sunglasses** — **Julbo Explorer 2.0** ★ **Reactiv 2–4** (not Spectron 4 only) — [sunglasses](./gear-considerations-2027.md#sunglasses--goggles)
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
 - [x] **USB headlamp** — **BD Storm 500-R** ✓
 - [x] short **micro-USB** cable (Storm + **66i** share) ✓ — [headlamp](./gear-considerations-2027.md#headlamp-usb)
@@ -18,7 +19,8 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [x] **Anker Charger (100 W, 3 Ports, Smart Display)** (B121BGZ1) ✓ + **3× braided USB-C–C** short cables ✓
 - [x] **Suunto Vertical 2** — primary on-trail nav + charge cable ✓
 - [ ] **Armor 14 Pro** + **OsmAnd+** offline maps (SE/NO) + VGB GPX
-- [ ] **Topo GPS** — Sweden + Norway packs · offline tiles along Band
+- [x] **Topo GPS** — Sweden + Norway packs ✓
+- [ ] **Topo GPS** offline tiles along Band (wifi + `2027.GPX`)
 - [x] **DNT key** + membership
 - [ ] **Garmin inReach plan** on GPSMAP 66i
 - [x] **OmniLite** service kit — included with stove kit
@@ -84,7 +86,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Suunto Vertical 2** — **all** routes preloaded at home · charge cable · **no** mid-trip GPX dump to phone
 - [ ] **GPSMAP 66i** + **micro-USB** cable + inReach active — SOS / backup log
 - [ ] **Armor 14 Pro** + **OsmAnd+** maps downloaded — **occasional backup**
-- [ ] **Topo GPS** — SE + NO maps · offline tiles along Band · day’s GPX screenshot (not live GPS)
+- [ ] **Topo GPS** — SE + NO packs ✓ · **offline tiles** along Band · day’s GPX screenshot (not live GPS)
 - [x] Compass
 - [ ] **Calazo 1:100k** maps — carry **current + next** sheet; rest in map pouch / pulk top
 - [x] **1× power bank** (Anker Zolo 20k) ✓ — **always warm in jacket** while skiing
@@ -111,6 +113,8 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 | 0–1 | Thin glove liners (skins/stove) |
 | 2 | Hat / balaclava |
 | 1 | Sun cap (April) |
+| 1 | **Julbo Explorer 2.0** sunglasses (on body · leash) |
+| 1 | Ski goggles (storm / spindrift) |
 
 **Not bringing:** funnel · cloth · bottle insulator · Crocs · town clothes · hand warmers · avy kit
 
@@ -121,7 +125,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [x] First aid + Compeed + sport tape
 - [x] **Snow shovel** ✓ — vestibule pit · camp · emergency shelter
 - [x] Repair: ski/base · binding · fabric/zip · **Leatherman** ✓ · duct tape
-- [ ] Sunscreen + lip SPF · glasses + goggles
+- [ ] Sunscreen + lip SPF · **Explorer 2.0** · goggles
 - [x] Toilet kit · soap · TP
 - [ ] Toothbrush/paste · small towel · toothpicks
 - [ ] Earplugs

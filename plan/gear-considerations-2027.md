@@ -271,7 +271,7 @@ Source of truth is still **screenshot + Notes**, not the IG draft.
 
 **Home, before Feb:**
 
-1. Buy **Sweden** + **Norway** map packs (~**€4** each, one-time).  
+1. **Sweden** + **Norway** map packs ✓ (Lantmäteriet / Kartverket).  
 2. Download **offline tiles** along the Band corridor (Grövelsjön → Treriksröset / Kilpisjärvi). Importing a GPX can pull tiles — do that on wifi with `2027.GPX`.  
 3. Grey tiles on trail = you missed a zoom level at home.
 
@@ -287,7 +287,7 @@ Source of truth is still **screenshot + Notes**, not the IG draft.
 | App | Role |
 |-----|------|
 | **OsmAnd** ★ | Occasional nav backup |
-| **Topo GPS** | **IG screenshot** — day’s GPX on Lantmäteriet / Kartverket · [setup](#instagram--days-track-in-topo-gps) |
+| **Topo GPS** | **Owned** — IG screenshot · day’s GPX on Lantmäteriet / Kartverket · [setup](#instagram--days-track-in-topo-gps) |
 | **Organic Maps** | Tiny lightweight backup |
 | **Calazo 1:100k** ★ | **Owned** — skip #5–7 (1:50k) · whiteout / battery death |
 | **Gaia / Avenza** | Skip as primary for full route |
@@ -553,6 +553,36 @@ Multi-fuel expedition stove + silencer — **excellent** for Bandet. **Service k
 **T-sprit** = emergency only (swap jet, no silencer). **Canisters** optional from Abisko.
 
 See [resupply-2027.md](./resupply-2027.md) for shop list.
+
+---
+
+## Sunglasses & goggles
+
+**Job:** Feb–Apr snow albedo on the fjäll is brutal on clear days; whiteout, forest, and dusk are common on the same trip. You need **wrap + cat 4 when the sun is out**, and a **lighter** tint (or goggles) when it is not.
+
+### Sunglasses — Julbo Explorer 2.0 ★
+
+**Frame is right for Bandet.** Glacier wrap, removable side shields, front vent, Grip Tech temples that rotate 360° (hat / hood / no helmet), cord loops, **~44 g**. That is the current Julbo mountaineering flagship — not a summer running glass.
+
+**Buy the photochromic, not fixed cat 4.**
+
+| Lens | Cat / VLT | Bandet? |
+|------|-----------|---------|
+| **Reactiv High Mountain 2–4** (Cameleon) ★ | Photo 2–4 · ~7–20% | **Buy this** — dark enough on the plateau, usable in overcast / forest |
+| Reactiv 2–4 Polarized | Photo 2–4 | Same job · polarize kills some glare, can flatten ice texture a bit — fine for pulk touring |
+| Reactiv 0–4 High Contrast | Photo 0–4 · ~4–86% | Backup pick if you want one pair into deep whiteout / dusk without swapping |
+| **Spectron 4** / Alti Arc cat 4 | Fixed 4 · ~5–7% | **Skip as only pair** — too dark in forest, storm, Feb afternoon |
+| Vermont Classic | Leather side shields | Skip — worse vent, wet leather on a 65-day ski |
+
+**Where:** [Julbo NL Explorer 2.0](https://www.julbo.com/en_nl/sunglasses/explorer-2-0) · [Snowleader Explorer 2.0](https://www.snowleader.nl/en/explorer-2-0-noir-gris-reactiv-2-4-polarized-JULB00478.html) · Bergfreunde. Reactiv **~€150–215** · Spectron 4 cheaper (**~€90–145**) but the wrong only-pair.
+
+**On trip:** wear on the body (leash). Shields **on** in open snow; peel them in forest if they steam. Do **not** GPS-ski in these — they are sun, not nav.
+
+### Goggles (still needed)
+
+Sunglasses do **not** replace goggles. Spindrift, storm, and hard wind need a **ski goggle** (cat 2–3, or photochromic). Confirm you already own a winter pair; if not, buy a simple alpine goggle — not a second glacier glass.
+
+**Shakedown:** one bright snow day + one grey/whiteout day. If Spectron 4 feels like night in the trees, that is why Reactiv is the pick.
 
 ---
 
