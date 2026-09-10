@@ -20,7 +20,7 @@ Commercial **campings / ställplatser** and **STF tält + serviceavgift** (membe
 
 | Days | Near (hut / **D**) | Commercial camping / ställplats | STF tält / notes |
 |------|-------------------|--------------------------------|------------------|
-| **1** | **STF Grövelsjön** · **D** | **[Sjöstugan](https://www.sjostugan.nu/husvagnscamping/)** — year-round pitches + tent; el, sauna, kitchen · book ahead | STF tent ≥100 m from buildings · service fee for kitchen/shower/sauna |
+| **1** | **STF Grövelsjön** · **D** | **[Sjöstugan](https://www.sjostugan.nu/husvagnscamping/)** — year-round pitches + tent; el, sauna, kitchen · book ahead | STF tent ≥100 m · service fee for kitchen/shower · **sauna closed winter 2027** (renovation) |
 | **2** | **STF Rogen** fjällstuga | — | **Tent sites ~100 m from hut** (already in plan) |
 | **4** | Tänndalen · **D** | **Tänndalsvallen**, **Fjällnäs** — see Day 4 | — |
 | **5–8** | **Band line** (Helags / Sylarna väster om) | **[Vålågårdens](https://www.valagarden.se/)** + **STF Vålådalen** only on **east detour** (~30 km off Band track) | **STF Helags / Sylarna** east of line — tent + service fee if weather forces **H**; plan camps on track west of stations |
@@ -45,7 +45,7 @@ Commercial **campings / ställplatser** and **STF tält + serviceavgift** (membe
 | **59–61** | **Tjäktja**, **Alesjaure**, **Abiskojaure** | — | STF tält at huts when stugvärd season open |
 | **62** | **Abisko** · **D** | **STF Abisko** designated **tent site** in nationalpark (pay service fee; winter showers at **Vandrarhem Keron** ~400 m) | **No RV** in park — nearest **[Björkliden Camping](https://bjorkliden.com/)** ~**10 km** (pre-book winter day pitches) |
 | **56, 64** | **Nikkaluokta** **W** (village east) | **[Nikkaluokta Sarri](https://nikkaluokta.com/boende/camping)** — tent **150 kr**/person; RV with/without el; service house (kitchen, shower, sauna) · **no** latrine/grey-water dump | Optional detour if you need **H**/shop — pass **väster om** on Bandet |
-| **69** | **STF Pältastugan** · **D** | — | **H** + shop at station |
+| **69** | **STF Pältastugan** | — | **Closed** 18 Apr 2027 — tent / safety room · no shop |
 
 ### Waypoint compliance (VGB)
 
@@ -93,7 +93,7 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 
 #### Day 1 · Mon 15 Feb · 11 km (cum 11) · ↑212 m ↓266 m · Hävlingestugorna
 
-**D** at **STF Grövelsjön** (shop, register Vita Bandet, final pulk check) — then leave on **Södra Kungsleden** north toward **Långfjället** and **Hävlingen**.  
+**D** at **STF Grövelsjön** (register Vita Bandet, final pulk check) — then leave on **Södra Kungsleden** north toward **Långfjället** and **Hävlingen**. **Winter 2027:** station **open**, **restaurant + sauna closed** (renovation) — eat **Sjöstugan / Storsätern**; shop **Fjällbua**. See [stf-openings-2027.md](./stf-openings-2027.md).  
 **Camping (night before / after):** **Sjöstugan** or STF Grövelsjön tent + service fee — see [camping reference](#camping-near-huts--resupply-reference).
 
 Camp near **Hävlingestugorna** (Länsstyrelsen · five 4-bed cabins + one 6-bed · stugvärd mid-Feb–end Apr · sauna · book via Länsstyrelsen). **Your food:** full carry to Storlien — [food-section1-2027.md](./food-section1-2027.md) · pulk **~30.8 kg** — [pulk-weight-2027.md](./pulk-weight-2027.md). Shop **Fjällbua** / NL **13–14 Feb**. Companion food is not on this sled.
@@ -106,7 +106,7 @@ Camp near **Hävlingestugorna** (Länsstyrelsen · five 4-bed cabins + one 6-bed
 #### Day 2 · Tue 16 Feb · 17 km (cum 28) · ↑66 m ↓93 m · STF Rogen area
 
 North from **Hävlingen** across **Långfjället** toward **Rogen** — open heath and bog, snowmobile spår where safe.  
-**T** at STF tent sites (~100 m from hut) in sparse birch forest. **H optional:** **STF Rogen fjällstuga** if stugvärd is on duty (**2026:** winter **27 Feb – 19 Apr** · ~18 beds · shop · sauna · book via STF). **2027 winter not published** on STF page (Jul 2026) — see [stf-openings-2027.md](./stf-openings-2027.md). On **16 Feb** the hut is **closed** — plan tent.
+**T** at STF tent sites (~100 m from hut) in sparse birch forest. **H optional:** **STF Rogen fjällstuga** (**2027:** winter **19 Feb – 18 Apr** · ~18 beds · shop · sauna · book via STF). On **16 Feb** the hut is **closed** (opens **19 Feb** / D5) — plan tent. See [stf-openings-2027.md](./stf-openings-2027.md).
 
 | Acc | Notes |
 |-----|-------|
@@ -735,13 +735,13 @@ Continue north toward **Gaskashytta** (DNT).
 |-----|-------|
 | **H** | DNT |
 
-#### Day 69 · Sat 24 Apr · 29 km (cum 1288) · ↑617 m ↓576 m · Pältastugan · **D**
+#### Day 69 · Sat 24 Apr · 29 km (cum 1288) · ↑617 m ↓576 m · Pältastugan · **T**
 
-**Pältastugan** (STF) — shop and **H** on the Nordkalottleden corridor toward **Treriksröset**. **STF 2026 winter:** **20 Mar – 19 Apr** (2027 not published Jul 2026) — **D69 (24 Apr) may be after close**; verify before trip · safety room may still be open · see [stf-openings-2027.md](./stf-openings-2027.md).
+**Pältastugan** (STF) — **closed**. **2027 winter:** **19 Mar – 18 Apr**. **D69 (24 Apr)** is **6 days after close** — tent + safety room; **no shop**. Load the finish at **Abisko (D62)**. See [stf-openings-2027.md](./stf-openings-2027.md).
 
 | Acc | Notes |
 |-----|-------|
-| **H** / **D** | STF shop · last resupply before goal |
+| **T** | Hut closed — tent / safety room · no shop |
 
 #### Day 70 · Sun 25 Apr · 13 km (cum 1301) · ↑431 m ↓426 m · Treriksröset · **GOAL**
 

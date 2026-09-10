@@ -18,7 +18,7 @@
 
 | Meal | Count | Notes |
 |------|-------|-------|
-| D1 breakfast | STF restaurant | Not on pulk |
+| D1 breakfast | Village / self-cater (**STF restaurant closed** 2027) | Not on pulk |
 | Cruesli + mjölkpulver | **6** | D2–D7 mornings · **cold** mix · coffee on stove |
 | Bread + dried sausage | **3** | D8–D10 mornings · coffee on stove |
 | Lunch | **10** | D1–D10 ski days. **Today’s 350 g** on body (Box 3 / pockets) |

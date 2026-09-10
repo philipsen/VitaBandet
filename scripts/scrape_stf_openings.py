@@ -60,22 +60,27 @@ ROUTE_HUTS = [
 ]
 
 HOUR_PATTERNS = [
-    # <p><strong>2027:</strong><br>25 februari - 18 april<br>...</p>
+    # <p class="wp-block-paragraph"><strong>2027:</strong><br>25 februari - 18 april<br>...</p>
     re.compile(
-        r"<p>\s*<strong>\s*(20\d{2}):\s*</strong>\s*(?:<br\s*/?>\s*)?"
+        r"<p[^>]*>\s*<strong>\s*(20\d{2}):\s*</strong>\s*(?:<br\s*/?>\s*)?"
         r"([^<]+(?:<br\s*/?>\s*[^<]+)*)(?:<br\s*/?>)?\s*</p>",
         re.I,
     ),
-    # <p><strong>2027:<br></strong>26 februari - 18 april<br>...</p>
+    # <p ...><strong>2027:<br></strong>26 februari - 18 april<br>...</p>
     re.compile(
-        r"<p>\s*<strong>\s*(20\d{2}):\s*<br\s*/?>\s*</strong>\s*"
+        r"<p[^>]*>\s*<strong>\s*(20\d{2}):\s*<br\s*/?>\s*</strong>\s*"
         r"([^<]+(?:<br\s*/?>\s*[^<]+)*)(?:<br\s*/?>)?\s*</p>",
         re.I,
     ),
-    # fjällstuga: <p><strong>2026</strong>:<br>20 mars - 19 april<br>...</p>
+    # fjällstuga: <p ...><strong>2026</strong>:<br>20 mars - 19 april<br>...</p>
     re.compile(
-        r"<p>\s*<strong>\s*(20\d{2})\s*</strong>\s*:\s*<br\s*/?>\s*"
+        r"<p[^>]*>\s*<strong>\s*(20\d{2})\s*</strong>\s*:\s*<br\s*/?>\s*"
         r"([^<]+(?:<br\s*/?>\s*[^<]+)*)(?:<br\s*/?>)?\s*</p>",
+        re.I,
+    ),
+    # Grövelsjön: Vintersäsong 2027: 14 januari - 18 april ...
+    re.compile(
+        r"Vintersäsong\s+(20\d{2}):\s*(\d{1,2}\s+\w+\s*-\s*\d{1,2}\s+\w+)",
         re.I,
     ),
 ]

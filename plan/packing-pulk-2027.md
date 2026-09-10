@@ -131,8 +131,8 @@ Buy on trail — **8–10 days food** typical after Storlien; **§1** is [food-s
 | **Hemavan** (D34) ★ | 12 → Kvikkjokk | 11–12 days | **Max fill** before long leg |
 | **Kvikkjokk** (D47) ★ | 7–8 → Ritsem | **Max leg** — Padjelanta-west | **Call for alkylate**; else **2× 1 L** full from Hemavan |
 | **Ritsem** (D55) ★ | 7 → Abisko | 6–7 days | **Power Fuel** — decant |
-| **Abisko** (D62) ★ | 6 → Pältsa | **7–8 days** | **~2 L liquid alkylate**; **canisters OK from here** if desired |
-| **Pältsa** (~D68) | — | Top-up | Near goal |
+| **Abisko** (D62) ★ | 6 → Treriksröset | **7–8 days** | **~2 L liquid alkylate**; **canisters OK from here** if desired · **Pältsa closed** D69 |
+| **Pältsa** (D69) | — | **No shop** | Closed 18 Apr 2027 |
 
 **Heaviest pulk days:** leaving **Storlien**, **Hemavan**, and **Kvikkjokk** (food + fuel together). Lightest: **2–3 days after** a big shop.
 

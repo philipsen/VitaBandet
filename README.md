@@ -63,7 +63,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 - **Fuel:** **Alkylaatbenzine** in bottles only until **Abisko** (white-gas jet + silencer); **no gas canisters** before day 61 — see [resupply alkylate list](plan/resupply-2027.md)  
 - **Kvikkjokk → Abisko:** Padjelanta-west → **Ritsem** → **KL** via **Sälka** → Abisko ([dag-for-dag](plan/dag-for-dag-2027.md))  
 - **First major shop:** **Storlien** — see [dag-for-dag](plan/dag-for-dag-2027.md) · GPX ref `tracks/source/lottas-och-bjorns-band.gpx`
-- **Accommodation mix:** **mostly tent**; planned **H** at **Storlien**, Gäddede, Hemavan, Kvikkjokk, **Ritsem**, Kungsleden huts, **Lappjord / Altevass (DNT)**, Pältsa (see [planned hut nights](plan/dag-for-dag-2027.md))  
+- **Accommodation mix:** **mostly tent**; planned **H** at **Storlien**, Gäddede, Hemavan, Kvikkjokk, **Ritsem**, Kungsleden huts, **Lappjord / Altevass (DNT)**; **Pältsa closed** on D69 (see [stf-openings](plan/stf-openings-2027.md))  
 - **DNT key** required for Norwegian huts after Abisko (Lappjordhytta, Altevasshytta, Gaskashytta, Rostahytta)  
 - **Border / permit notes:** *(if relevant)*  
 - **Waypoints:** [VGB regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places; **väster om** (S→N = point **east** of track). Wide corridor OK. ICA at **D** = resupply.

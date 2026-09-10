@@ -420,7 +420,7 @@ Treriksröset
 | **B Tromsø (NO)** | Via **Goldahytta / Gappohytta** · **Signaldalen** · road bus | Bigger hub · NOK | Alt if weather / route favors NO |
 | **C Abisko corridor** | Bail **south** before / without cairn | Train on Malmbanan | Storm / injury / skip finish |
 
-Summer boat on Kilpisjärvi does **not** run in April. **Pältsa** may be closed late Apr — [stf-openings](./stf-openings-2027.md).
+Summer boat on Kilpisjärvi does **not** run in April. **Pältsa** winter closes **18 Apr 2027** — D69 (24 Apr) is after close — [stf-openings](./stf-openings-2027.md).
 
 **Docs at finish:** passport · **EUR + SEK + NOK + card** · FI time often **1 h ahead** of SE.
 

@@ -43,7 +43,7 @@ NL ──(shared drive)──► Mora (park)
 | Date | Companion |
 |------|-----------|
 | **~11–12 Feb** | Drive NL → Mora with you (1–2 overnight stops) |
-| **13 or 14 Feb** | Park car · **396** (or taxi) → Grövelsjön · night Sjöstugan / STF |
+| **13 or 14 Feb** | Park car · **396** (or taxi) → Grövelsjön · night Sjöstugan / STF (**no STF restaurant** winter 2027 — eat village) |
 | **15 Feb · D1** | Start Bandet · Hävlingestugorna |
 | **16–23 Feb · D2–D9** | On track with you (see day table) |
 | **24 Feb · D10** | Arrive **Storlien** · shop / shower · **night H** |
