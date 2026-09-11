@@ -7,7 +7,7 @@
   </metadata>
   <wpt lat="62.21683002" lon="12.35376002">
     <ele>781.3</ele>
-    <name>A01 · Klacken</name>
+    <name>A01 · Klacken · 15 km</name>
     <cmt>Day 1 · 15 km (cum 15) · +209 m -261 m · camp 781 m · moved to 15 km</cmt>
     <desc>Day 1 · 15 km (cum 15) · +209 m -261 m · camp 781 m · moved to 15 km</desc>
     <sym>Campground</sym>
@@ -26,7 +26,7 @@
   </wpt>
   <wpt lat="62.35716706" lon="12.34442577">
     <ele>762.6</ele>
-    <name>A02 · Rötviken</name>
+    <name>A02 · Rötviken · 35.5 km</name>
     <cmt>Day 2 · 20.5 km (cum 35.5) · +36 m -55 m · camp 763 m · moved to 35.5 km</cmt>
     <desc>Day 2 · 20.5 km (cum 35.5) · +36 m -55 m · camp 763 m · moved to 35.5 km</desc>
     <sym>Campground</sym>
@@ -43,11 +43,11 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="62.46473998" lon="12.28591003">
-    <ele>896.3</ele>
-    <name>A03 · Camp · 49 km</name>
-    <cmt>Day 3 · 13.5 km (cum 49) · +114 m -4 m · camp 896 m · low elev ~896 m</cmt>
-    <desc>Day 3 · 13.5 km (cum 49) · +114 m -4 m · camp 896 m · low elev ~896 m</desc>
+  <wpt lat="62.54804949" lon="12.32342225">
+    <ele>748.8</ele>
+    <name>A03 · Tänndalen · 60 km</name>
+    <cmt>Day 3 · 24.5 km (cum 60) · +370 m -375 m · camp 749 m · on track · km 60</cmt>
+    <desc>Day 3 · 24.5 km (cum 60) · +370 m -375 m · camp 749 m · on track · km 60</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -62,11 +62,11 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="62.65964001" lon="12.34697999">
-    <ele>913.8</ele>
-    <name>A04 · Camp · 73 km</name>
-    <cmt>Day 4 · 24 km (cum 73) · +585 m -526 m · camp 914 m · Mika Tänndalen shortcut</cmt>
-    <desc>Day 4 · 24 km (cum 73) · +585 m -526 m · camp 914 m · Mika Tänndalen shortcut</desc>
+  <wpt lat="62.72356429" lon="12.32408805">
+    <ele>755.4</ele>
+    <name>A04 · Camp · 82 km</name>
+    <cmt>Day 4 · 22 km (cum 82) · +387 m -376 m · camp 755 m · on track · km 82</cmt>
+    <desc>Day 4 · 22 km (cum 82) · +387 m -376 m · camp 755 m · on track · km 82</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -81,11 +81,11 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="62.83995998" lon="12.46933004">
-    <ele>1003.4</ele>
-    <name>A05 · Camp · 97 km</name>
-    <cmt>Day 5 · 24 km (cum 97) · +507 m -417 m · camp 1003 m · low elev ~1003 m</cmt>
-    <desc>Day 5 · 24 km (cum 97) · +507 m -417 m · camp 1003 m · low elev ~1003 m</desc>
+  <wpt lat="62.91299506" lon="12.50853290">
+    <ele>966.0</ele>
+    <name>A05 · Helags · 106 km</name>
+    <cmt>Day 5 · 24 km (cum 106) · +537 m -326 m · camp 966 m · on track · km 106</cmt>
+    <desc>Day 5 · 24 km (cum 106) · +537 m -326 m · camp 966 m · on track · km 106</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -103,8 +103,8 @@
   <wpt lat="63.01192998" lon="12.32839001">
     <ele>987.6</ele>
     <name>A06 · Camp · 121 km</name>
-    <cmt>Day 6 · 24 km (cum 121) · +268 m -284 m · camp 988 m · low elev ~988 m</cmt>
-    <desc>Day 6 · 24 km (cum 121) · +268 m -284 m · camp 988 m · low elev ~988 m</desc>
+    <cmt>Day 6 · 15 km (cum 121) · +123 m -83 m · camp 988 m · low elev ~988 m</cmt>
+    <desc>Day 6 · 15 km (cum 121) · +123 m -83 m · camp 988 m · low elev ~988 m</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -121,7 +121,7 @@
   </wpt>
   <wpt lat="63.18979003" lon="12.17280001">
     <ele>1026.3</ele>
-    <name>A07 · Blåhammaren fjällstation</name>
+    <name>A07 · Blåhammaren fjällstation · 144 km</name>
     <cmt>Day 7 · 23 km (cum 144) · +522 m -483 m · camp 1026 m · snap to named pin</cmt>
     <desc>Day 7 · 23 km (cum 144) · +522 m -483 m · camp 1026 m · snap to named pin</desc>
     <sym>Campground</sym>
@@ -140,7 +140,7 @@
   </wpt>
   <wpt lat="63.28781915" lon="12.11953972">
     <ele>579.7</ele>
-    <name>A08 D · Storlien</name>
+    <name>A08 D · Storlien · 156 km</name>
     <cmt>Day 8 · 12 km (cum 156) · +201 m -648 m · camp 580 m · overnight</cmt>
     <desc>Day 8 · 12 km (cum 156) · +201 m -648 m · camp 580 m · overnight</desc>
     <sym>Flag, Blue</sym>
@@ -292,7 +292,7 @@
   </wpt>
   <wpt lat="64.06697002" lon="14.14134999">
     <ele>340.6</ele>
-    <name>A16 D · Valsjöbua</name>
+    <name>A16 D · Valsjöbua · 341 km</name>
     <cmt>Day 16 · 13 km (cum 341) · +192 m -230 m · camp 341 m · overnight</cmt>
     <desc>Day 16 · 13 km (cum 341) · +192 m -230 m · camp 341 m · overnight</desc>
     <sym>Flag, Blue</sym>
@@ -349,7 +349,7 @@
   </wpt>
   <wpt lat="64.50329997" lon="14.15103000">
     <ele>311.2</ele>
-    <name>A19 D · Gäddede</name>
+    <name>A19 D · Gäddede · 409 km</name>
     <cmt>Day 19 · 17 km (cum 409) · +234 m -215 m · camp 311 m · overnight</cmt>
     <desc>Day 19 · 17 km (cum 409) · +234 m -215 m · camp 311 m · overnight</desc>
     <sym>Flag, Blue</sym>
@@ -444,7 +444,7 @@
   </wpt>
   <wpt lat="65.30387297" lon="14.60325203">
     <ele>612.8</ele>
-    <name>A24 · Atnikstugan</name>
+    <name>A24 · Atnikstugan · 533 km</name>
     <cmt>Day 24 · 24 km (cum 533) · +268 m -431 m · camp 613 m · snap to named pin</cmt>
     <desc>Day 24 · 24 km (cum 533) · +268 m -431 m · camp 613 m · snap to named pin</desc>
     <sym>Campground</sym>
@@ -482,7 +482,7 @@
   </wpt>
   <wpt lat="65.51679703" lon="14.55282097">
     <ele>718.3</ele>
-    <name>A26 · Tärnaby west</name>
+    <name>A26 · Tärnaby west · 582 km</name>
     <cmt>Day 26 · 24 km (cum 582) · +830 m -669 m · camp 718 m · snap to named pin</cmt>
     <desc>Day 26 · 24 km (cum 582) · +830 m -669 m · camp 718 m · snap to named pin</desc>
     <sym>Campground</sym>
@@ -539,7 +539,7 @@
   </wpt>
   <wpt lat="65.82922996" lon="15.09828002">
     <ele>728.2</ele>
-    <name>A29 D · Hemavan</name>
+    <name>A29 D · Hemavan · 646 km</name>
     <cmt>Day 29 · 13 km (cum 646) · +274 m -201 m · camp 728 m · overnight</cmt>
     <desc>Day 29 · 13 km (cum 646) · +274 m -201 m · camp 728 m · overnight</desc>
     <sym>Flag, Blue</sym>
@@ -577,7 +577,7 @@
   </wpt>
   <wpt lat="65.97210998" lon="15.76256999">
     <ele>695.3</ele>
-    <name>A31 · Situjaure approach</name>
+    <name>A31 · Situjaure approach · 695 km</name>
     <cmt>Day 31 · 24 km (cum 695) · +269 m -179 m · camp 695 m · snap to named pin</cmt>
     <desc>Day 31 · 24 km (cum 695) · +269 m -179 m · camp 695 m · snap to named pin</desc>
     <sym>Campground</sym>
@@ -634,7 +634,7 @@
   </wpt>
   <wpt lat="66.27874020" lon="16.66072394">
     <ele>479.3</ele>
-    <name>A34 · Adolfström Camping</name>
+    <name>A34 · Adolfström Camping · 769 km</name>
     <cmt>Day 34 · 24 km (cum 769) · +129 m -373 m · camp 479 m · snap to named pin</cmt>
     <desc>Day 34 · 24 km (cum 769) · +129 m -373 m · camp 479 m · snap to named pin</desc>
     <sym>Campground</sym>
@@ -729,7 +729,7 @@
   </wpt>
   <wpt lat="66.95383997" lon="17.71991001">
     <ele>311.3</ele>
-    <name>A39 D · Kvikkjokk</name>
+    <name>A39 D · Kvikkjokk · 883 km</name>
     <cmt>Day 39 · 14 km (cum 883) · +126 m -474 m · camp 311 m · overnight</cmt>
     <desc>Day 39 · 14 km (cum 883) · +126 m -474 m · camp 311 m · overnight</desc>
     <sym>Flag, Blue</sym>
@@ -805,7 +805,7 @@
   </wpt>
   <wpt lat="67.55944152" lon="17.20378275">
     <ele>588.4</ele>
-    <name>A43 · Kisurgis</name>
+    <name>A43 · Kisurgis · 982 km</name>
     <cmt>Day 43 · 24 km (cum 982) · +134 m -280 m · camp 588 m · snap to named pin</cmt>
     <desc>Day 43 · 24 km (cum 982) · +134 m -280 m · camp 588 m · snap to named pin</desc>
     <sym>Campground</sym>
@@ -824,7 +824,7 @@
   </wpt>
   <wpt lat="67.72235546" lon="17.46912346">
     <ele>502.8</ele>
-    <name>A44 D · Ritsem</name>
+    <name>A44 D · Ritsem · 1009 km</name>
     <cmt>Day 44 · 27 km (cum 1009) · +130 m -216 m · camp 503 m · overnight</cmt>
     <desc>Day 44 · 27 km (cum 1009) · +130 m -216 m · camp 503 m · overnight</desc>
     <sym>Flag, Blue</sym>
@@ -881,7 +881,7 @@
   </wpt>
   <wpt lat="68.05376242" lon="18.24572749">
     <ele>984.3</ele>
-    <name>A47 · Tjäktja</name>
+    <name>A47 · Tjäktja · 1084 km</name>
     <cmt>Day 47 · 26 km (cum 1084) · +365 m -300 m · camp 984 m · snap to named pin</cmt>
     <desc>Day 47 · 26 km (cum 1084) · +365 m -300 m · camp 984 m · snap to named pin</desc>
     <sym>Campground</sym>
@@ -919,7 +919,7 @@
   </wpt>
   <wpt lat="68.36123016" lon="18.78535358">
     <ele>367.6</ele>
-    <name>A49 D · Abisko</name>
+    <name>A49 D · Abisko · 1131 km</name>
     <cmt>Day 49 · 18 km (cum 1131) · +8 m -286 m · camp 368 m · overnight</cmt>
     <desc>Day 49 · 18 km (cum 1131) · +8 m -286 m · camp 368 m · overnight</desc>
     <sym>Flag, Blue</sym>
@@ -957,7 +957,7 @@
   </wpt>
   <wpt lat="68.66343020" lon="18.89080589">
     <ele>534.9</ele>
-    <name>A51 · Altevasshytta</name>
+    <name>A51 · Altevasshytta · 1176 km</name>
     <cmt>Day 51 · 24 km (cum 1176) · +408 m -590 m · camp 535 m · snap to named pin</cmt>
     <desc>Day 51 · 24 km (cum 1176) · +408 m -590 m · camp 535 m · snap to named pin</desc>
     <sym>Campground</sym>
@@ -995,7 +995,7 @@
   </wpt>
   <wpt lat="68.67497033" lon="19.82367097">
     <ele>591.7</ele>
-    <name>A53 · Dividalshytta</name>
+    <name>A53 · Dividalshytta · 1228 km</name>
     <cmt>Day 53 · 25 km (cum 1228) · +357 m -492 m · camp 592 m · snap to named pin</cmt>
     <desc>Day 53 · 25 km (cum 1228) · +357 m -492 m · camp 592 m · snap to named pin</desc>
     <sym>Campground</sym>
@@ -1052,7 +1052,7 @@
   </wpt>
   <wpt lat="69.06028750" lon="20.54436034">
     <ele>492.6</ele>
-    <name>A56 · Treriksröset</name>
+    <name>A56 · Treriksröset · 1299 km</name>
     <cmt>Day 56 · 21 km (cum 1299) · +509 m -628 m · camp 493 m · GOAL</cmt>
     <desc>Day 56 · 21 km (cum 1299) · +509 m -628 m · camp 493 m · GOAL</desc>
     <sym>Campground</sym>
