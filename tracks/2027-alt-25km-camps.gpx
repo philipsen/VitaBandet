@@ -100,11 +100,11 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="63.01192998" lon="12.32839001">
-    <ele>987.6</ele>
-    <name>A06 · Camp · 121 km</name>
-    <cmt>Day 6 · 15 km (cum 121) · +123 m -83 m · camp 988 m · low elev ~988 m</cmt>
-    <desc>Day 6 · 15 km (cum 121) · +123 m -83 m · camp 988 m · low elev ~988 m</desc>
+  <wpt lat="63.06074191" lon="12.27834024">
+    <ele>934.9</ele>
+    <name>A06 · Gamla Sylen · 128.5 km</name>
+    <cmt>Day 6 · 22.5 km (cum 128.5) · +263 m -290 m · camp 935 m · on track · km 128.5</cmt>
+    <desc>Day 6 · 22.5 km (cum 128.5) · +263 m -290 m · camp 935 m · on track · km 128.5</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -119,11 +119,11 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="63.18979003" lon="12.17280001">
-    <ele>1026.3</ele>
-    <name>A07 · Blåhammaren fjällstation · 144 km</name>
-    <cmt>Day 7 · 23 km (cum 144) · +522 m -483 m · camp 1026 m · snap to named pin</cmt>
-    <desc>Day 7 · 23 km (cum 144) · +522 m -483 m · camp 1026 m · snap to named pin</desc>
+  <wpt lat="63.23163770" lon="12.15921309">
+    <ele>640.4</ele>
+    <name>A07 · Sevedholm · 149 km</name>
+    <cmt>Day 7 · 20.5 km (cum 149) · +441 m -720 m · camp 640 m · on track · km 149</cmt>
+    <desc>Day 7 · 20.5 km (cum 149) · +441 m -720 m · camp 640 m · on track · km 149</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -141,8 +141,8 @@
   <wpt lat="63.28781915" lon="12.11953972">
     <ele>579.7</ele>
     <name>A08 D · Storlien · 156 km</name>
-    <cmt>Day 8 · 12 km (cum 156) · +201 m -648 m · camp 580 m · overnight</cmt>
-    <desc>Day 8 · 12 km (cum 156) · +201 m -648 m · camp 580 m · overnight</desc>
+    <cmt>Day 8 · 7 km (cum 156) · +117 m -176 m · camp 580 m · overnight</cmt>
+    <desc>Day 8 · 7 km (cum 156) · +117 m -176 m · camp 580 m · overnight</desc>
     <sym>Flag, Blue</sym>
     <type>user</type>
     <extensions>

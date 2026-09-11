@@ -18,7 +18,7 @@
 | Distance | **~1299 km** |
 | Mean day (D3+) | **~23.4 km** |
 | ★ Resupply nights | **7** × 4 h |
-| Total ↑ / ↓ | **↑17,563 m** · **↓17,873 m** (EU-DEM 25 m) |
+| Total ↑ / ↓ | **↑17,538 m** · **↓17,845 m** (EU-DEM 25 m) |
 
 *Elevation:* camp height + day ↑/↓ from OpenTopoData **EU-DEM 25 m** along the track (same source as the baseline plan — rough guide; DEM noise on flat ice).
 
@@ -29,6 +29,8 @@
 | 15 Feb | Klacken · 15 km | 15 | 781 m |
 | 17 Feb | Tänndalen · 60 km | 60 | 749 m |
 | 19 Feb | Helags · 106 km | 106 | 966 m |
+| 20 Feb | Gamla Sylen · 128.5 km | 128.5 | 935 m |
+| 21 Feb | Sevedholm · 149 km | 149 | 640 m |
 | 22 Feb | Storlien · **D** ★ | 156 | 580 m |
 | 2 Mar | Valsjöbua · **D** ★ | 341 | 341 m |
 | 5 Mar | Gäddede · **D** ★ | 409 | 311 m |
@@ -47,9 +49,9 @@
 | 3 | Wed 17 Feb | 24.5 | 60 | 370 | 375 | 749 | Tänndalen · 60 km | on track · km 60 |
 | 4 | Thu 18 Feb | 22 | 82 | 387 | 376 | 755 | Camp · 82 km | on track · km 82 |
 | 5 | Fri 19 Feb | 24 | 106 | 537 | 326 | 966 | Helags · 106 km | on track · km 106 |
-| 6 | Sat 20 Feb | 15 | 121 | 123 | 83 | 988 | Camp · 121 km | low elev ~988 m |
-| 7 | Sun 21 Feb | 23 | 144 | 522 | 483 | 1026 | Blåhammaren fjällstation · 144 km | snap to named pin |
-| 8 | Mon 22 Feb | 12 | 156 | 201 | 648 | 580 | Storlien · 156 km | **D** ★ · 4 h resupply · overnight |
+| 6 | Sat 20 Feb | 22.5 | 128.5 | 263 | 290 | 935 | Gamla Sylen · 128.5 km | on track · km 128.5 |
+| 7 | Sun 21 Feb | 20.5 | 149 | 441 | 720 | 640 | Sevedholm · 149 km | on track · km 149 |
+| 8 | Mon 22 Feb | 7 | 156 | 117 | 176 | 580 | Storlien · 156 km | **D** ★ · 4 h resupply · overnight |
 | 9 | Tue 23 Feb | 22 | 178 | 286 | 250 | 616 | Camp · 178 km | low elev ~616 m |
 | 10 | Wed 24 Feb | 26 | 204 | 372 | 352 | 637 | Camp · 204 km | low elev ~637 m |
 | 11 | Thu 25 Feb | 25 | 229 | 59 | 271 | 424 | Camp · 229 km | low elev ~424 m |
