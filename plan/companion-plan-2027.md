@@ -10,7 +10,7 @@ Trip for the **section-1 companion**: ski **~10 days** with you (shared tent + s
 **GPX:** [`tracks/2027.GPX`](../tracks/2027.GPX) (section Grövelsjön → Storlien)  
 **Your food (solo pack):** [food-section1-2027.md](./food-section1-2027.md) — companion food is **not** on that list or on your pulk.  
 **D1 pulk weight:** [pulk-weight-2027.md](./pulk-weight-2027.md)  
-**Other PT-easy legs:** [Other companion-suited sections](#other-companion-suited-sections--pt-both-ends)  
+**Other PT-easy legs:** [Other companion-suited sections](#other-companion-suited-sections--pt-both-ends) · **Klaartje:** [D Hemavan → Kvikkjokk](#d--hemavan--kvikkjokk--klaartje)  
 **Official Ribbon:** [White & Green Ribbon](https://www.vitagronabandet.se/en/white-green-ribbon/) (companion is **not** a registered Section unless they sign up separately)
 
 ---

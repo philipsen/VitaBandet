@@ -1,8 +1,8 @@
 # Vita Bandet 2027 — alternative day plan (~25 km cruise)
 
-**Pacing:** Day 1 **15 km** · Day 2 **20.5 km** · then **~25 km/day** · **rest D9 Storlien, D18 Valsjöbua, D22 Gäddede, D27 Klimpfjäll, D35 Hemavan, D51 Ritsem, D57 Abisko**.  
+**Pacing:** Day 1 **15 km** · Day 2 **20.5 km** · then **~25 km/day** · **rest D9 Storlien, D18 Valsjöbua, D22 Gäddede, D27 Klimpfjäll, D35 Hemavan, D51 Ritsem, D59 Abisko**.  
 **Route:** [`2027-alt-25km-camps.gpx`](../tracks/2027-alt-25km-camps.gpx) — `2027.GPX` + **Mika Tänndalen shortcut** (old km 56–73, ~5 km shorter).  
-**Season:** 10 Feb 2027 → 14 Apr 2027 (**64 days** · **~1299 km** · 7 rest).  
+**Season:** 10 Feb 2027 → 16 Apr 2027 (**66 days** · **~1299 km** · 7 rest).  
 **Baseline plan:** [dag-for-dag-2027.md](./dag-for-dag-2027.md) (~70 days · ~18–22 km).  
 **Companion:** Klaartje **Hemavan → Kvikkjokk** (meet D35 rest · ski D36–D45 · 16–26 Mar) — [companion-plan D](./companion-plan-2027.md#d--hemavan--kvikkjokk--klaartje).  
 
@@ -15,12 +15,12 @@
 
 | | |
 |--|--|
-| Days | **64** (incl. 7 rest) |
+| Days | **66** (incl. 7 rest) |
 | Distance | **~1299 km** |
-| Mean ski day (D3+, excl. rest) | **~23.0 km** |
+| Mean ski day (D3+, excl. rest) | **~22.2 km** |
 | ★ Resupply nights | **9** × 4 h |
-| Rest | **D8–9 Storlien, D17–18 Valsjöbua, D21–22 Gäddede, D26–27 Klimpfjäll, D34–35 Hemavan, D50–51 Ritsem, D56–57 Abisko** |
-| Total ↑ / ↓ | **↑17,758 m** · **↓18,059 m** (EU-DEM 25 m) |
+| Rest | **D8–9 Storlien, D17–18 Valsjöbua, D21–22 Gäddede, D26–27 Klimpfjäll, D34–35 Hemavan, D50–51 Ritsem, D58–59 Abisko** |
+| Total ↑ / ↓ | **↑17,834 m** · **↓18,143 m** (EU-DEM 25 m) |
 
 *Elevation:* camp height + day ↑/↓ from OpenTopoData **EU-DEM 25 m** along the track (same source as the baseline plan — rough guide; DEM noise on flat ice).
 
@@ -41,8 +41,11 @@
 | 22 Mar | Jäckvik · **D** ★ | 790 | 439 m |
 | 26 Mar | Kvikkjokk · **D** ★ · **Klaartje out** | 883 | 311 m |
 | 31 Mar–1 Apr | Ritsem · 1009 km · **D** ★ **R** | 1009 | 503 m |
-| 6–7 Apr | Abisko · 1131 km · **D** ★ **R** | 1131 | 368 m |
-| 14 Apr | Treriksröset · **GOAL** | 1299 | 493 m |
+| 2 Apr | Sitojaure · STF | 1031 | 616 m |
+| 4 Apr | Sälka · STF | 1070 | 864 m |
+| 5 Apr | Tjäktja · STF | 1084 | 981 m |
+| 8–9 Apr | Abisko · 1131 km · **D** ★ **R** | 1131 | 368 m |
+| 16 Apr | Treriksröset · **GOAL** | 1299 | 493 m |
 
 ## Day-by-day
 
@@ -93,25 +96,27 @@
 | 43 | Wed 24 Mar | 25 | 845 | 202 | 372 | 450 | Camp · 845 km | low elev ~450 m |
 | 44 | Thu 25 Mar | 24 | 869 | 508 | 298 | 660 | Camp · 869 km | low elev ~659 m |
 | 45 | Fri 26 Mar | 14 | 883 | 126 | 474 | 311 | Kvikkjokk · 883 km | **D** ★ · 4 h resupply · overnight · **Klaartje out** (bus 47 Mon 29 Mar) |
-| 46 | Sat 27 Mar | 25 | 908 | 218 | 25 | 504 | Camp · 908 km | low elev ~504 m |
+| 46 | Sat 27 Mar | 25 | 908 | 218 | 25 | 504 | Camp · 908 km | solo again · low elev ~504 m |
 | 47 | Sun 28 Mar | 25 | 933 | 232 | 24 | 712 | Camp · 933 km | low elev ~712 m |
 | 48 | Mon 29 Mar | 25 | 958 | 305 | 282 | 734 | Camp · 958 km | low elev ~735 m |
 | 49 | Tue 30 Mar | 24 | 982 | 134 | 280 | 588 | Kisurgis · 982 km | snap to named pin |
 | 50 | Wed 31 Mar | 27 | 1009 | 130 | 216 | 503 | Ritsem · 1009 km | **D** ★ · 4 h resupply · overnight |
 | 51 | Thu 1 Apr | 0 | 1009 | 0 | 0 | 503 | Ritsem · 1009 km | **R** · rest day |
-| 52 | Fri 2 Apr | 24 | 1033 | 280 | 144 | 638 | Camp · 1033 km | low elev ~638 m |
-| 53 | Sat 3 Apr | 25 | 1058 | 460 | 178 | 920 | Camp · 1058 km | low elev ~920 m |
-| 54 | Sun 4 Apr | 26 | 1084 | 365 | 300 | 984 | Tjäktja · 1084 km | snap to named pin |
-| 55 | Mon 5 Apr | 29 | 1113 | 114 | 453 | 646 | Camp · 1113 km | low elev ~646 m |
-| 56 | Tue 6 Apr | 18 | 1131 | 8 | 286 | 368 | Abisko · 1131 km | **D** ★ · 4 h resupply · overnight |
-| 57 | Wed 7 Apr | 0 | 1131 | 0 | 0 | 368 | Abisko · 1131 km | **R** · rest day |
-| 58 | Thu 8 Apr | 21 | 1152 | 380 | 31 | 717 | Camp · 1152 km | low elev ~717 m |
-| 59 | Fri 9 Apr | 24 | 1176 | 408 | 590 | 535 | Altevasshytta · 1176 km | snap to named pin |
-| 60 | Sat 10 Apr | 27 | 1203 | 512 | 320 | 727 | Camp · 1203 km | low elev ~727 m |
-| 61 | Sun 11 Apr | 25 | 1228 | 357 | 492 | 592 | Dividalshytta · 1228 km | snap to named pin |
-| 62 | Mon 12 Apr | 25 | 1253 | 350 | 247 | 695 | Camp · 1253 km | low elev ~695 m |
-| 63 | Tue 13 Apr | 25 | 1278 | 406 | 490 | 611 | Camp · 1278 km | low elev ~611 m |
-| 64 | Wed 14 Apr | 21 | 1299 | 509 | 628 | 493 | Treriksröset · 1299 km | GOAL |
+| 52 | Fri 2 Apr | 22 | 1031 | 265 | 148 | 616 | Sitojaure · 1031 km | STF · snap to hut |
+| 53 | Sat 3 Apr | 19 | 1050 | 407 | 152 | 874 | Hukejaure · 1050 km | tent · väster om Nikkaluokta |
+| 54 | Sun 4 Apr | 20 | 1070 | 195 | 202 | 864 | Sälka · 1070 km | STF · snap to hut |
+| 55 | Mon 5 Apr | 14 | 1084 | 293 | 176 | 981 | Tjäktja · 1084 km | STF · snap to hut |
+| 56 | Tue 6 Apr | 12 | 1096 | 58 | 259 | 780 | Alesjaure · 1096 km | STF · snap to hut |
+| 57 | Wed 7 Apr | 22 | 1118 | 82 | 366 | 488 | Abiskojaure · 1118 km | STF · snap to hut |
+| 58 | Thu 8 Apr | 13 | 1131 | 3 | 142 | 368 | Abisko · 1131 km | **D** ★ · 4 h resupply · overnight |
+| 59 | Fri 9 Apr | 0 | 1131 | 0 | 0 | 368 | Abisko · 1131 km | **R** · rest day |
+| 60 | Sat 10 Apr | 21 | 1152 | 380 | 31 | 717 | Camp · 1152 km | low elev ~717 m |
+| 61 | Sun 11 Apr | 24 | 1176 | 408 | 590 | 535 | Altevasshytta · 1176 km | snap to named pin |
+| 62 | Mon 12 Apr | 27 | 1203 | 512 | 320 | 727 | Camp · 1203 km | low elev ~727 m |
+| 63 | Tue 13 Apr | 25 | 1228 | 357 | 492 | 592 | Dividalshytta · 1228 km | snap to named pin |
+| 64 | Wed 14 Apr | 25 | 1253 | 350 | 247 | 695 | Camp · 1253 km | low elev ~695 m |
+| 65 | Thu 15 Apr | 25 | 1278 | 406 | 490 | 611 | Camp · 1278 km | low elev ~611 m |
+| 66 | Fri 16 Apr | 21 | 1299 | 509 | 628 | 493 | Treriksröset · 1299 km | GOAL |
 
 ## Resupply days (4 h)
 
@@ -121,7 +126,7 @@ Arrive with enough daylight (or overnight + morning shop). Typical block:
 2. **~4 h:** food + alkylate + laundry/charge + repack pulk boxes.  
 3. No further ski that calendar day (camp at shop).
 
-Storlien, Valsjöbua, Gäddede, Klimpfjäll, Hemavan, Ritsem, and Abisko are **two nights** (arrive / resupply, then rest). Jäckvik is one overnight (ICA food; skip fuel — canisters only). Klimpfjäll Handlar'n is a village livs (skip fuel).
+Storlien, Valsjöbua, Gäddede, Klimpfjäll, Hemavan, Ritsem, and Abisko are **two nights** (arrive / resupply, then rest). Jäckvik is one overnight (ICA food; skip fuel — canisters only). Klimpfjäll Handlar'n is a village livs (skip fuel). Ritsem → Abisko camps sit at **STF** Sitojaure · Sälka · Tjäktja · Alesjaure · Abiskojaure; **Hukejaure** is tent (no hut west of Nikkaluokta).
 
 | Day | Shop | Cum km |
 |----:|------|-------:|
@@ -133,8 +138,8 @@ Storlien, Valsjöbua, Gäddede, Klimpfjäll, Hemavan, Ritsem, and Abisko are **t
 | 41 | Jäckvik | 790 |
 | 45 | Kvikkjokk | 883 |
 | 50–51 | Ritsem | 1009 |
-| 56–57 | Abisko | 1131 |
+| 58–59 | Abisko | 1131 |
 
 ---
 
-*Edited from `tracks/2027-alt-25km-camps.gpx` · rest Klimpfjäll · 2026-09-12*
+*Edited from `tracks/2027-alt-25km-camps.gpx` · KL huts incl. Tjäktja · 2026-09-13*
