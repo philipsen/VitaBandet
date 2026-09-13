@@ -304,8 +304,8 @@ Alt arrival is **Fri 26 Mar** — too late for that morning’s 05:25. Next bus 
 | **38–39** | 19–20 Mar | 26+24 | Camps · 721 / 745 km | Tent · optional **STF Tärnasjö** detour |
 | **40** | Sun 21 Mar | 24 | Adolfström Camping · 769 km | Optional ~7 km E village · else tent on track |
 | **41** | Mon 22 Mar | 21 | **Jäckvik** · **D** | ICA food (skip fuel) · pass väster om |
-| **42** | Tue 23 Mar | 18 | **Vuonatjluokta** · 808 km | Riebnes / KL · tent |
-| **43** | Wed 24 Mar | 23 | **Sjviniggi** · 831 km | tent |
+| **42** | Tue 23 Mar | 25 | **Vuonatjluokta** · 815 km | Riebnes / KL · tent |
+| **43** | Wed 24 Mar | 16 | **Sjviniggi** · 831 km | tent |
 | **44** | Thu 25 Mar | 21 | **Bárkåváráti** · 852 km | tent |
 | **45** | Fri 26 Mar | 31 | **Kvikkjokk** · **D** | **Long into STF** · end ski · weekend then Mon bus |
 
