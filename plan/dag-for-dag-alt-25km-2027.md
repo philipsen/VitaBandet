@@ -20,7 +20,7 @@
 | Mean ski day (D3+, excl. rest) | **~22.2 km** |
 | ★ Resupply nights | **9** × 4 h |
 | Rest | **D8–9 Storlien, D17–18 Valsjöbua, D21–22 Gäddede, D26–27 Klimpfjäll, D34–35 Hemavan, D50–51 Ritsem, D58–59 Abisko** |
-| Total ↑ / ↓ | **↑17,834 m** · **↓18,143 m** (EU-DEM 25 m) |
+| Total ↑ / ↓ | **↑17,858 m** · **↓18,156 m** (EU-DEM 25 m) |
 
 *Elevation:* camp height + day ↑/↓ from OpenTopoData **EU-DEM 25 m** along the track (same source as the baseline plan — rough guide; DEM noise on flat ice).
 
@@ -92,10 +92,10 @@
 | 39 | Sat 20 Mar | 24 | 745 | 540 | 249 | 723 | Camp · 745 km | low elev ~723 m |
 | 40 | Sun 21 Mar | 24 | 769 | 129 | 373 | 479 | Adolfström Camping · 769 km | snap to named pin |
 | 41 | Mon 22 Mar | 21 | 790 | 450 | 481 | 439 | Jäckvik · 790 km | **D** ★ · overnight · ICA (skip fuel) |
-| 42 | Tue 23 Mar | 30 | 820 | 366 | 199 | 619 | Camp · 820 km | low elev ~619 m |
-| 43 | Wed 24 Mar | 25 | 845 | 202 | 372 | 450 | Camp · 845 km | low elev ~450 m |
-| 44 | Thu 25 Mar | 24 | 869 | 508 | 298 | 660 | Camp · 869 km | low elev ~659 m |
-| 45 | Fri 26 Mar | 14 | 883 | 126 | 474 | 311 | Kvikkjokk · 883 km | **D** ★ · 4 h resupply · overnight · **Klaartje out** (bus 47 Mon 29 Mar) |
+| 42 | Tue 23 Mar | 18 | 808 | 220 | 159 | 506 | Vuonatjluokta · 808 km | snap to named pin |
+| 43 | Wed 24 Mar | 23 | 831 | 330 | 152 | 684 | Sjviniggi · 831 km | snap to named pin |
+| 44 | Thu 25 Mar | 21 | 852 | 141 | 261 | 566 | Bárkåváráti · 852 km | snap to named pin |
+| 45 | Fri 26 Mar | 31 | 883 | 535 | 784 | 311 | Kvikkjokk · 883 km | **D** ★ · 4 h resupply · overnight · **Klaartje out** (bus 47 Mon 29 Mar) |
 | 46 | Sat 27 Mar | 25 | 908 | 218 | 25 | 504 | Camp · 908 km | solo again · low elev ~504 m |
 | 47 | Sun 28 Mar | 25 | 933 | 232 | 24 | 712 | Camp · 933 km | low elev ~712 m |
 | 48 | Mon 29 Mar | 25 | 958 | 305 | 282 | 734 | Camp · 958 km | low elev ~735 m |
