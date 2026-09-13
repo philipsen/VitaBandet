@@ -199,7 +199,7 @@ Filter: **public transport at start and finish** (no car needed for the companio
 | **A ★ working** | Grövelsjön → Storlien | D1–D10 · 15–24 Feb | ~162 | ★★ 396 Mora | ★★★ Storlien train | **Tent** (Jämtland STF closed) | Best for **car home** |
 | **B ★ hut** | Hemavan → Ammarnäs | D34–D39 · ~20–25 Mar | ~70 | ★★★ bus 31 / airport | ★★ bus 341 → Sorsele | **STF KL chain** | Easy 5–6 d · huts open |
 | **C ★ hut** | Ritsem → Abisko | D55–D62 · ~10–17 Apr | ~121 | ★★ Gällivare + Falcks bus | ★★★ Abisko train | **Staffed KL huts** | Classic hut-to-hut · best exit |
-| **D** | Hemavan → Kvikkjokk | D34–D47 · ~20 Mar–2 Apr | ~235 | ★★★ Hemavan | ★ Kvikkjokk bus 47 | Huts first ~5 d, then **tent** | Long · thin exit bus |
+| **D ★ Klaartje** | Hemavan → Kvikkjokk | alt D36–D45 · **17–26 Mar** | ~237 | ★★★ Hemavan | ★ Kvikkjokk bus 47 | Huts first ~5 d, then **tent** | Working later-leg · thin Mon exit |
 | **E** | Kvikkjokk → Abisko | D47–D62 · ~2–17 Apr | ~246 | ★ bus 47 | ★★★ Abisko | **I** tent or **L** Padjelanta huts, then **C** | Same gates |
 | **F** | Abisko → Kilpisjärvi | D62–D70 · ~17–25 Apr | ~168 | ★★★ Abisko | ★★ Kilpisjärvi bus (fragile) | **DNT hut chain** (key) | Hut-to-hut · finish PT weaker |
 | **G** | Tänndalen → Storlien | D4–D10 · ~18–24 Feb | ~98 | ★★ Funäsdalen bus | ★★★ Storlien train | Village **H** + alpine **tent** | Short join onto §1 |
@@ -268,18 +268,53 @@ Staffed **Kungsleden** from Ritsem. Your dates **10–17 Apr** sit inside typica
 
 Companion can skip Padjelanta and **meet you at Ritsem** (bus in the same day you shop). You keep skiing north together to Abisko.
 
-### D — Hemavan → Kvikkjokk (~12 days)
+### D — Hemavan → Kvikkjokk (★ Klaartje)
 
-**PT in:** same as B (Hemavan).  
-**PT out:** Länstrafiken Norrbotten **47** Kvikkjokk → Jokkmokk — **weekdays 1×/day** in winter (~05:25 out of Kvikkjokk toward Jokkmokk; reverse ~15:10). No weekend winter 47. Then Jokkmokk → Murjek/Gällivare train. [STF FAQ](https://www.svenskaturistforeningen.se/om-stf/stf-medlemsservice/faq/nar-gar-bussen-till-fran-kvikkjokk/).
+**Working later-leg for Klaartje.** Meet on the Hemavan rest, ski the Kungsleden-west / Hornavan corridor to Kvikkjokk, bus out. Shared tent + stove (same model as §1). Does **not** recover the Mora car.
+
+Dates below follow the **[alt ~25 km plan](./dag-for-dag-alt-25km-2027.md)**. Baseline [dag-for-dag](./dag-for-dag-2027.md) is ~20 Mar–2 Apr / D35–D47 (~12 ski days).
+
+| | |
+|--|--|
+| **Role** | Companion · **not** full Bandet |
+| **Ski** | **Hemavan → Kvikkjokk** · **~237 km** · **D36–D45** |
+| **Dates** | Arrive **15–16 Mar** · ski **17–26 Mar** · home **~29 Mar** |
+| **Mode** | Ski + **own pulk** · **one shared tent** · **one shared stove** |
+| **After Kvikkjokk** | Weekend at **STF Kvikkjokk** · **Mon 29 Mar** bus **47** → Jokkmokk → train |
+| **You** | Continue Bandet solo from **D46** (keep tent + stove) |
+
+```text
+NL ──(fly/train)──► Hemavan (15–16 Mar)
+                         │
+                         └── ski D36–D45 ──► Kvikkjokk (Fri 26 Mar)
+                                                │
+                         Klaartje ◄── weekend STF + Mon bus 47 ─┘
+```
+
+**PT in:** same as B (Hemavan) — Länstrafiken Västerbotten **31** Umeå → Hemavan (daily) · or **Hemavan Tärnaby Airport** (Arlanda) · local **320** Hemavan–Tärnaby. Night **STF Hemavan** / Fjällcenter on the rest day (**D35 · Tue 16 Mar**).  
+**PT out:** Länstrafiken Norrbotten **47** Kvikkjokk → Jokkmokk — **weekdays 1×/day** in winter (~05:25 out of Kvikkjokk toward Jokkmokk; reverse ~15:10). **No weekend winter 47.** Then Jokkmokk → Murjek/Gällivare train. [STF FAQ](https://www.svenskaturistforeningen.se/om-stf/stf-medlemsservice/faq/nar-gar-bussen-till-fran-kvikkjokk/).
+
+Alt arrival is **Fri 26 Mar** — too late for that morning’s 05:25. Next bus is **Mon 29 Mar ~05:25**. Budget **two extra nights** at STF (restaurant, shower) rather than a Friday-dawn exit. Taxi Jokkmokk is the expensive bail.
+
+| Day | Date | km | Camp / stop | Klaartje notes |
+|-----|------|-----|-------------|----------------|
+| — | 15–16 Mar | — | **Hemavan** · **D** · **R** | Fly/bus in · rest · shop ICA · shared alkylate max fill |
+| **36** | Wed 17 Mar | 25 | Camp · 671 km | First ski day · KL west |
+| **37** | Thu 18 Mar | 24 | Situjaure approach · 695 km | Optional **STF Syter** ~1 km off |
+| **38–39** | 19–20 Mar | 26+24 | Camps · 721 / 745 km | Tent · optional **STF Tärnasjö** detour |
+| **40** | Sun 21 Mar | 24 | Adolfström Camping · 769 km | Optional ~7 km E village · else tent on track |
+| **41** | Mon 22 Mar | 21 | **Jäckvik** · **D** | ICA food (skip fuel) · pass väster om |
+| **42** | Tue 23 Mar | 30 | Camp · 820 km | **Long day** — stick together |
+| **43–44** | 24–25 Mar | 25+24 | Camps · 845 / 869 km | Tent on KL west / Hornavan ice |
+| **45** | Fri 26 Mar | 14 | **Kvikkjokk** · **D** | **STF** · end ski · weekend then Mon bus |
+
+**Hard days:** **D42** (30 km) · ice on Hornavan · thin exit. Hut-heavy only if she **quits at Ammarnäs** (option B, ~5–6 d). Food: buy at Hemavan for the whole leg, or split at Ammarnäs / Jäckvik ICA. Fuel: **max liquid fill at Hemavan** for two on one stove — Kvikkjokk often has no alkylate.
 
 | Stretch | Hut? |
 |---------|------|
-| D35–D39 | Same **STF KL chain** as B (Viterskalet → Ammarnäs) |
-| D40–D46 | **Mostly tent** on KL west. Optional **H** detours (off Band, east): **Vuoggatjålme Fjällhotell** (~21 km) · **Adolfström** camping/stugor (~7 km) · **Jäckvik** Kyrkans Fjällgård / ICA (VGB: pass väster om) |
-| D47 | **STF Kvikkjokk** (phone ahead — no 2027 block on STF page) · no tent field |
-
-Harder than B/C: long food carry, ice on Hornavan, thin exit bus. Hut-heavy only if they **quit at Ammarnäs** (option B).
+| D36–D39 | Same **STF KL chain** as B (Viterskalet → Ammarnäs) if you detour onto staffed huts |
+| D40–D44 | **Mostly tent** on KL west. Optional **H** detours (off Band, east): **Vuoggatjålme Fjällhotell** (~21 km) · **Adolfström** camping/stugor (~7 km) · **Jäckvik** Kyrkans Fjällgård / ICA (VGB: pass väster om) |
+| D45 | **STF Kvikkjokk** (phone ahead — no 2027 block on STF page) · no tent field |
 
 ### E — Kvikkjokk → Abisko (~15 days)
 
@@ -415,7 +450,7 @@ Combine the **6 km** Tarrekaise hop if you want **~10 ski days** instead of 11.
 |----------------|----------|
 | **A** (or **G**) as planned | They drive it **home ~25–27 Feb** ★ |
 | **B–L** instead of A | Car still in Mora unless someone else collects — treat as transport **Case 2** (park through **end Apr**) |
-| A **plus** a later friend on B, C, **H**, **J**, **I**, or **L** | First companion still takes the car; second person is train/bus only |
+| A **plus Klaartje on D** (or another later friend on B, C, **H**, **J**, **I**, or **L**) | First companion still takes the car; Klaartje is train/bus only |
 
 ---
 
@@ -428,3 +463,4 @@ Combine the **6 km** Tarrekaise hop if you want **~10 ski days** instead of 11.
 | 2026-08-20 | ★ camp legs: **H** Lapplandsleden Gäddede→Hemavan · **J** Klimpfjäll→Hemavan · **I** Kvikkjokk→Ritsem Padjelanta-west (tent) |
 | 2026-08-20 | **L** Kvikkjokk→Ritsem **Padjelantaleden** hut-to-hut (STF Tarradalen + BLT park + STF Akka) · distinct from **I** west tent corridor |
 | 2026-08-20 | Dropped **K** (Kungsleden Kvikkjokk→Ritsem) |
+| 2026-09-13 | **D** Hemavan→Kvikkjokk marked **Klaartje** later-leg · alt ~25 km dates (17–26 Mar) · Mon bus 47 after Friday arrival |

@@ -56,7 +56,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 - **Planned direction:** Grövelsjön → Treriksröset  
 - **Getting there / home:** [transport-considerations-2027.md](plan/transport-considerations-2027.md) — **drive → Mora (park)** · companion **Grövelsjön→Storlien** may drive car home · you exit **Kilpisjärvi / Tromsø**
-- **Companion trip:** [companion-plan-2027.md](plan/companion-plan-2027.md) — ski **D1–D10** · train Storlien → Mora · drive car NL · [other PT-easy legs](plan/companion-plan-2027.md#other-companion-suited-sections--pt-both-ends)
+- **Companion trip:** [companion-plan-2027.md](plan/companion-plan-2027.md) — ski **D1–D10** · train Storlien → Mora · drive car NL · **Klaartje** Hemavan→Kvikkjokk ([option D](plan/companion-plan-2027.md#d--hemavan--kvikkjokk--klaartje)) · [other PT-easy legs](plan/companion-plan-2027.md#other-companion-suited-sections--pt-both-ends)
 - **Daily distance target (km):** ramp **10 → 23 km**; cruise **~20–23 km** (~22 km winter average); see [dag-for-dag](plan/dag-for-dag-2027.md)  
 - **Rest / weather buffer:** no fixed **R** days — resupply stops only; **Apr 20–30** = ~11 spare days  
 - **Resupply strategy:** **local shops first** (see [resupply-2027.md](plan/resupply-2027.md)); depots only for special items  

@@ -4,6 +4,7 @@
 **Route:** [`2027-alt-25km-camps.gpx`](../tracks/2027-alt-25km-camps.gpx) — `2027.GPX` + **Mika Tänndalen shortcut** (old km 56–73, ~5 km shorter).  
 **Season:** 10 Feb 2027 → 14 Apr 2027 (**64 days** · **~1299 km** · 7 rest).  
 **Baseline plan:** [dag-for-dag-2027.md](./dag-for-dag-2027.md) (~70 days · ~18–22 km).  
+**Companion:** Klaartje **Hemavan → Kvikkjokk** (meet D35 rest · ski D36–D45 · 16–26 Mar) — [companion-plan D](./companion-plan-2027.md#d--hemavan--kvikkjokk--klaartje).  
 
 **Camps:** existing alt-plan pins kept; km recomputed on the shortened track.  
 **★ Resupply:** land overnight at shop; budget **4 hours** for food/fuel/repack (Storlien · Valsjöbua · Gäddede · Klimpfjäll · Hemavan · Jäckvik · Kvikkjokk · Ritsem · Abisko).
@@ -36,9 +37,9 @@
 | 26–27 Feb | Valsjöbua · 341 km · **D** ★ **R** | 341 | 341 m |
 | 2–3 Mar | Gäddede · 409 km · **D** ★ **R** | 409 | 311 m |
 | 7–8 Mar | Klimpfjäll · 492 km · **D** ★ **R** | 492 | 541 m |
-| 15–16 Mar | Hemavan · 646 km · **D** ★ **R** | 646 | 728 m |
+| 15–16 Mar | Hemavan · 646 km · **D** ★ **R** · **Klaartje in** | 646 | 728 m |
 | 22 Mar | Jäckvik · **D** ★ | 790 | 439 m |
-| 26 Mar | Kvikkjokk · **D** ★ | 883 | 311 m |
+| 26 Mar | Kvikkjokk · **D** ★ · **Klaartje out** | 883 | 311 m |
 | 31 Mar–1 Apr | Ritsem · 1009 km · **D** ★ **R** | 1009 | 503 m |
 | 6–7 Apr | Abisko · 1131 km · **D** ★ **R** | 1131 | 368 m |
 | 14 Apr | Treriksröset · **GOAL** | 1299 | 493 m |
@@ -80,9 +81,9 @@
 | 31 | Fri 12 Mar | 24 | 582 | 830 | 669 | 718 | Tärnaby west · 582 km | snap to named pin |
 | 32 | Sat 13 Mar | 25 | 607 | 510 | 741 | 488 | Camp · 607 km | low elev ~488 m |
 | 33 | Sun 14 Mar | 26 | 633 | 643 | 476 | 654 | Camp · 633 km | low elev ~654 m |
-| 34 | Mon 15 Mar | 13 | 646 | 274 | 201 | 728 | Hemavan · 646 km | **D** ★ · 4 h resupply · overnight |
-| 35 | Tue 16 Mar | 0 | 646 | 0 | 0 | 728 | Hemavan · 646 km | **R** · rest day |
-| 36 | Wed 17 Mar | 25 | 671 | 323 | 446 | 605 | Camp · 671 km | low elev ~605 m |
+| 34 | Mon 15 Mar | 13 | 646 | 274 | 201 | 728 | Hemavan · 646 km | **D** ★ · 4 h resupply · overnight · Klaartje can arrive |
+| 35 | Tue 16 Mar | 0 | 646 | 0 | 0 | 728 | Hemavan · 646 km | **R** · rest day · **Klaartje meets** |
+| 36 | Wed 17 Mar | 25 | 671 | 323 | 446 | 605 | Camp · 671 km | with Klaartje · low elev ~605 m |
 | 37 | Thu 18 Mar | 24 | 695 | 269 | 179 | 695 | Situjaure approach · 695 km | snap to named pin |
 | 38 | Fri 19 Mar | 26 | 721 | 71 | 334 | 432 | Camp · 721 km | low elev ~432 m |
 | 39 | Sat 20 Mar | 24 | 745 | 540 | 249 | 723 | Camp · 745 km | low elev ~723 m |
@@ -91,7 +92,7 @@
 | 42 | Tue 23 Mar | 30 | 820 | 366 | 199 | 619 | Camp · 820 km | low elev ~619 m |
 | 43 | Wed 24 Mar | 25 | 845 | 202 | 372 | 450 | Camp · 845 km | low elev ~450 m |
 | 44 | Thu 25 Mar | 24 | 869 | 508 | 298 | 660 | Camp · 869 km | low elev ~659 m |
-| 45 | Fri 26 Mar | 14 | 883 | 126 | 474 | 311 | Kvikkjokk · 883 km | **D** ★ · 4 h resupply · overnight |
+| 45 | Fri 26 Mar | 14 | 883 | 126 | 474 | 311 | Kvikkjokk · 883 km | **D** ★ · 4 h resupply · overnight · **Klaartje out** (bus 47 Mon 29 Mar) |
 | 46 | Sat 27 Mar | 25 | 908 | 218 | 25 | 504 | Camp · 908 km | low elev ~504 m |
 | 47 | Sun 28 Mar | 25 | 933 | 232 | 24 | 712 | Camp · 933 km | low elev ~712 m |
 | 48 | Mon 29 Mar | 25 | 958 | 305 | 282 | 734 | Camp · 958 km | low elev ~735 m |
