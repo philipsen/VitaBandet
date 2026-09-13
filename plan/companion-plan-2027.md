@@ -2,6 +2,8 @@
 
 Trip for the **section-1 companion**: ski **~10 days** with you (shared tent + stove), night in **Storlien**, morning train to **Mora**, drive the car home. You continue **solo** north with the shared kit.
 
+**Later-leg (Klaartje):** **Hemavan → Kvikkjokk** — [option D](#d--hemavan--kvikkjokk--klaartje). Train/bus only; does **not** recover the Mora car.
+
 **Full day detail:** [dag-for-dag-2027.md](./dag-for-dag-2027.md) §1  
 **Transport / car / bus:** [transport-considerations-2027.md](./transport-considerations-2027.md)  
 **Resupply:** [resupply-2027.md](./resupply-2027.md)  
@@ -188,7 +190,7 @@ You keep the **shared tent and stove** and continue solo **D11**. Companion leav
 
 ## Other companion-suited sections — PT both ends
 
-Filter: **public transport at start and finish** (no car needed for the companion). Sleep = hut **or** tent as of the 2027 plan dates. **§1 remains the working trip** because it also recovers the **Mora car**. A second person can join a later leg independently (train/bus in, ski with you, train/bus out).
+Filter: **public transport at start and finish** (no car needed for the companion). Sleep = hut **or** tent as of the 2027 plan dates. **§1 remains the working trip** because it also recovers the **Mora car**. **Klaartje** joins later on **[D](#d--hemavan--kvikkjokk--klaartje)** independently (train/bus in, ski with you, train/bus out).
 
 **PT ease:** ★★★ train or daily coach · ★★ regular winter bus · ★ thin (weekday / 1× day).
 
