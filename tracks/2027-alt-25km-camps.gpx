@@ -784,11 +784,11 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="66.46651997" lon="17.24146997">
-    <ele>506.5</ele>
+  <wpt lat="66.49460999" lon="17.23160002">
+    <ele>527.5</ele>
     <name>A42 · Vuonatjluokta · 808 km</name>
-    <cmt>Day 42 · 18 km (cum 808) · +220 m -159 m · camp 506 m · snap to named pin</cmt>
-    <desc>Day 42 · 18 km (cum 808) · +220 m -159 m · camp 506 m · snap to named pin</desc>
+    <cmt>Day 42 · 18 km (cum 808) · +239 m -160 m · camp 528 m · snap to named pin</cmt>
+    <desc>Day 42 · 18 km (cum 808) · +239 m -160 m · camp 528 m · snap to named pin</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -806,8 +806,8 @@
   <wpt lat="66.59311001" lon="17.38595000">
     <ele>684.2</ele>
     <name>A43 · Sjviniggi · 831 km</name>
-    <cmt>Day 43 · 23 km (cum 831) · +330 m -152 m · camp 684 m · snap to named pin</cmt>
-    <desc>Day 43 · 23 km (cum 831) · +330 m -152 m · camp 684 m · snap to named pin</desc>
+    <cmt>Day 43 · 23 km (cum 831) · +324 m -162 m · camp 684 m · snap to named pin</cmt>
+    <desc>Day 43 · 23 km (cum 831) · +324 m -162 m · camp 684 m · snap to named pin</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
