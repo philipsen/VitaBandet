@@ -9,7 +9,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 **Status:** day-by-day draft ready
 
 **Day-by-day itinerary:** [dag-for-dag-2027.md](plan/dag-for-dag-2027.md)  
-**Alt pacing (15 → 20.5 → ~25 km · 66 days · ~1299 km · 7 rest):** [dag-for-dag-alt-25km-2027.md](plan/dag-for-dag-alt-25km-2027.md) · camps [`2027-alt-25km-camps.gpx`](tracks/2027-alt-25km-camps.gpx)  
+**Alt pacing (15 → 20.5 → ~25 km · 65 days · ~1299 km · 6 rest):** [dag-for-dag-alt-25km-2027.md](plan/dag-for-dag-alt-25km-2027.md) · camps [`2027-alt-25km-camps.gpx`](tracks/2027-alt-25km-camps.gpx)  
 **Fast dense (~27 km · scraped stitch):** [dag-for-dag-fast-27km-2027.md](plan/dag-for-dag-fast-27km-2027.md) · [`vita-bandet-fast-27km.gpx`](tracks/generated/vita-bandet-fast-27km.gpx)  
 **Master GPX:** [`2027.GPX`](tracks/2027.GPX) — maintained manually in BaseCamp and used as the route source of truth. Detail/context: [band-tracks-comparison.md](plan/band-tracks-comparison.md).  
 **Resupply (local):** [resupply-2027.md](plan/resupply-2027.md) · **§1 food:** [food-section1-2027.md](plan/food-section1-2027.md) · **D1 pulk weight:** [pulk-weight-2027.md](plan/pulk-weight-2027.md)  
