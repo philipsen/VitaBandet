@@ -8,6 +8,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 **Party:** **solo**  
 **Status:** day-by-day draft ready
 
+**Public trip blog:** [https://vitabandet.maak-t.com](https://vitabandet.maak-t.com) · source [`philipsen/vitabandet-site`](https://github.com/philipsen/vitabandet-site)  
 **Day-by-day itinerary:** [dag-for-dag-2027.md](plan/dag-for-dag-2027.md)  
 **Alt pacing (15 → 20.5 → ~25 km · 65 days · ~1299 km · 6 rest):** [dag-for-dag-alt-25km-2027.md](plan/dag-for-dag-alt-25km-2027.md) · camps [`2027-alt-25km-camps.gpx`](tracks/2027-alt-25km-camps.gpx)  
 **Fast dense (~27 km · scraped stitch):** [dag-for-dag-fast-27km-2027.md](plan/dag-for-dag-fast-27km-2027.md) · [`vita-bandet-fast-27km.gpx`](tracks/generated/vita-bandet-fast-27km.gpx)  
