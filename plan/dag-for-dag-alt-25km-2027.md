@@ -42,6 +42,7 @@
 | 25 Mar | Kvikkjokk · **D** ★ · **Klaartje out** | 883 | 311 m |
 | 30–31 Mar | Ritsem · 1009 km · **D** ★ **R** | 1009 | 503 m |
 | 1 Apr | Sitojaure · STF | 1031 | 616 m |
+| 2 Apr | Hukejaure · STF | 1050 | 874 m |
 | 3 Apr | Sälka · STF | 1070 | 864 m |
 | 4 Apr | Tjäktja · STF | 1084 | 981 m |
 | 7–8 Apr | Abisko · 1131 km · **D** ★ **R** | 1131 | 368 m |
@@ -102,7 +103,7 @@
 | 49 | Tue 30 Mar | 27 | 1009 | 130 | 216 | 503 | Ritsem · 1009 km | **D** ★ · 4 h resupply · overnight |
 | 50 | Wed 31 Mar | 0 | 1009 | 0 | 0 | 503 | Ritsem · 1009 km | **R** · rest day |
 | 51 | Thu 1 Apr | 22 | 1031 | 265 | 148 | 616 | Sitojaure · 1031 km | STF · snap to hut |
-| 52 | Fri 2 Apr | 19 | 1050 | 407 | 152 | 874 | Hukejaure · 1050 km | tent · väster om Nikkaluokta |
+| 52 | Fri 2 Apr | 19 | 1050 | 407 | 152 | 874 | Hukejaure · 1050 km | STF · snap to hut |
 | 53 | Sat 3 Apr | 20 | 1070 | 195 | 202 | 864 | Sälka · 1070 km | STF · snap to hut |
 | 54 | Sun 4 Apr | 14 | 1084 | 293 | 176 | 981 | Tjäktja · 1084 km | STF · snap to hut |
 | 55 | Mon 5 Apr | 12 | 1096 | 58 | 259 | 780 | Alesjaure · 1096 km | STF · snap to hut |
@@ -125,7 +126,7 @@ Arrive with enough daylight (or overnight + morning shop). Typical block:
 2. **~4 h:** food + alkylate + laundry/charge + repack pulk boxes.  
 3. No further ski that calendar day (camp at shop).
 
-Storlien, Valsjöbua, Gäddede, Klimpfjäll, Ritsem, and Abisko are **two nights** (arrive / resupply, then rest). **Hemavan** and **Jäckvik** are one overnight. Klimpfjäll Handlar'n is a village livs (skip fuel). Jäckvik ICA food; skip fuel — canisters only. Ritsem → Abisko camps sit at **STF** Sitojaure · Sälka · Tjäktja · Alesjaure · Abiskojaure; **Hukejaure** is tent (no hut west of Nikkaluokta).
+Storlien, Valsjöbua, Gäddede, Klimpfjäll, Ritsem, and Abisko are **two nights** (arrive / resupply, then rest). **Hemavan** and **Jäckvik** are one overnight. Klimpfjäll Handlar'n is a village livs (skip fuel). Jäckvik ICA food; skip fuel — canisters only. Ritsem → Abisko camps sit at **STF** Sitojaure · Hukejaure · Sälka · Tjäktja · Alesjaure · Abiskojaure.
 
 | Day | Shop | Cum km |
 |----:|------|-------:|

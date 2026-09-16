@@ -77356,11 +77356,11 @@
     <sym>Lodging</sym>
     <type>hut</type>
   </wpt>
-  <wpt lat="67.93954578" lon="18.06530708">
+  <wpt lat="67.935432" lon="17.967496">
     <name>D57 · Hukejaure</name>
-    <desc>Section 5 · 2027-04-12 · cum 1081 km · T · W Nikkaluokta · Sarri camping optional</desc>
-    <sym>Campground</sym>
-    <type>camp</type>
+    <desc>Section 5 · 2027-04-12 · cum 1081 km · H · STF Hukejaure · W Nikkaluokta</desc>
+    <sym>Lodging</sym>
+    <type>hut</type>
   </wpt>
   <wpt lat="67.946376" lon="18.281701">
     <name>D58 · Sälka</name>

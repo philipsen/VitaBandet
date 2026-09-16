@@ -16,7 +16,7 @@ STF has now published **2027** winter windows on most route fjällstugor (was 20
 | **Grövelsjön restaurant closed** | Station **open 14 Jan – 18 Apr 2027**, but **no restaurant / no sauna** (kitchen+shop renovation from Oct 2026). Self-cater kitchen + a shop remain. Eat **Sjöstugan / Storsätern / Fjällbageri**. D1 frukost is **not** STF. |
 | **Rogen 2027 published** | **19 Feb – 18 Apr** (2026 was **27 Feb**). D2 (16 Feb) still **closed**; staffed from **D5**. |
 | **Pältsa 2027 published** | **19 Mar – 18 Apr**. D69 (24 Apr) is **after close** — tent / safety room only. Not “likely” anymore. |
-| **KL stugor 2027 published** | Abiskojaure · Alesjaure · Tjäktja · Sälka **19 Feb – 18 Apr**. Sitojaure / Vakkotavare **26 Feb – 18 Apr**. Your D56–D61 dates sit **inside**. |
+| **KL stugor 2027 published** | Abiskojaure · Alesjaure · Tjäktja · Sälka **19 Feb – 18 Apr**. Sitojaure / Vakkotavare **26 Feb – 18 Apr**. **Hukejaure 26 Feb – 25 Apr**. Your D56–D61 dates sit **inside**. |
 | **Winter close 18 Apr** | Most fjällstugor close **one day earlier** than 2026 (19 Apr). Abiskojaure D61 = **16 Apr** — two days before close. |
 | **Unchanged** | Helags / Sylarna / Blåhammaren **5 Mar – 18 Apr** · Storulvån **25 Feb – 18 Apr** · Ritsem **26 Feb – 25 Apr** · Saltoluokta **26 Feb – 18 Apr** · Abisko year-round. |
 
@@ -31,7 +31,7 @@ STF has now published **2027** winter windows on most route fjällstugor (was 20
 | **Storulvån 1 day late** | Storulvån | **D10** (24 Feb) | Opens **25 Feb 2027** — Storlien **D** still fine; STF Storulvån detour only from D11. |
 | **Rogen before open** | Rogen fjällstuga | **D2** (16 Feb) | Opens **19 Feb 2027**. Tent as planned; **H** from D5. |
 | **Pältsa closed** | Pältsa | **D69** (24 Apr) | Winter **19 Mar – 18 Apr 2027**. Arrival **6 days after close** — tent + safety room; no shop. Load Abisko for the finish. |
-| **KL huts OK** | Ritsem, Sitojaure, Sälka, Tjäktja, Alesjaure, Abiskojaure | D55–D61 (10–16 Apr) | Inside winter window. Close **18 Apr** except Ritsem **25 Apr**. |
+| **KL huts OK** | Ritsem, Sitojaure, Hukejaure, Sälka, Tjäktja, Alesjaure, Abiskojaure | D55–D61 (10–16 Apr) | Inside winter window. Close **18 Apr** except Ritsem / **Hukejaure 25 Apr**. |
 | **Abisko** | Turiststation | **D62** (17 Apr) | **Year-round**. |
 
 ---
@@ -50,6 +50,7 @@ STF has now published **2027** winter windows on most route fjällstugor (was 20
 | **Saltoluokta** | D51 | 6 Apr | **26 Feb – 18 Apr** | 27 Feb – 19 Apr | OK (väster om; emergency only) |
 | **Ritsem** | D55 | 10 Apr | **26 Feb – 25 Apr** | 27 Feb – 26 Apr | OK ★ shop |
 | **Sitojaure** | D56 | 11 Apr | **26 Feb – 18 Apr** | 27 Feb – 19 Apr | OK |
+| **Hukejaure** | D57 | 12 Apr | **26 Feb – 25 Apr** | 27 Feb – 26 Apr | OK |
 | **Sälka** | D58 | 13 Apr | **19 Feb – 18 Apr** | 20 Feb – 19 Apr | OK |
 | **Tjäktja** | D59 | 14 Apr | **19 Feb – 18 Apr** | 20 Feb – 19 Apr | OK |
 | **Alesjaure** | D60 | 15 Apr | **19 Feb – 18 Apr** | 20 Feb – 19 Apr | OK |

@@ -41,7 +41,7 @@ Commercial **campings / ställplatser** and **STF tält + serviceavgift** (membe
 | **47** | **STF Kvikkjokk** · **D** | **No campsite** — wild **T** only | Paid shower **~70 kr**/30 min in external building; restaurant/café/shop |
 | **50–51** | **Saltoluokta** **W** (east) | Optional **east detour** only: **STF Saltoluokta** tent ≥100 m + service fee; nearest **husvagn** often **Stora Sjöfallet** (STF FAQ) | Plan passes **väster om** — do not need to visit |
 | **55** | **STF Ritsem** · **D** | — (rooms + self-catering; parking for cars) | No tent field — book **H** or **T** outside |
-| **56–57** | **Sitojaure**, **Sälka** (KL) | — | **STF tält + serviceavgift** at open huts (e.g. **Sälka**, **Tjäktja** area) |
+| **56–58** | **Sitojaure**, **Hukejaure**, **Sälka** | — | **STF H** at all three (Hukejaure 20 beds, Nordkalottleden) · **STF tält + serviceavgift** at open huts |
 | **59–61** | **Tjäktja**, **Alesjaure**, **Abiskojaure** | — | STF tält at huts when stugvärd season open |
 | **62** | **Abisko** · **D** | **STF Abisko** designated **tent site** in nationalpark (pay service fee; winter showers at **Vandrarhem Keron** ~400 m) | **No RV** in park — nearest **[Björkliden Camping](https://bjorkliden.com/)** ~**10 km** (pre-book winter day pitches) |
 | **56, 64** | **Nikkaluokta** **W** (village east) | **[Nikkaluokta Sarri](https://nikkaluokta.com/boende/camping)** — tent **150 kr**/person; RV with/without el; service house (kitchen, shower, sauna) · **no** latrine/grey-water dump | Optional detour if you need **H**/shop — pass **väster om** on Bandet |
@@ -535,7 +535,7 @@ Arrive **STF Kvikkjokk** — critical resupply before **Padjelanta-west → Rits
 ## Section 5 — Kvikkjokk → Sälka · Padjelanta-west (186 km · days 48–58)
 
 *Direct **Laponia / Áhkká** line via **Ritsem**. **Section 5 + 5b GPX:** [`2027.GPX`](../tracks/2027.GPX).  
-**Camp waypoints (D48–D62):** on the plan GPX; **D**/**H** pins at Ritsem, Sälka, Abisko; optional Nikkaluokta Sarri (D57).
+**Camp waypoints (D48–D62):** on the plan GPX; **D**/**H** pins at Ritsem, Hukejaure, Sälka, Abisko; optional Nikkaluokta Sarri (D57).
 
 #### Day 48 · Sat 03 Apr · 15 km (cum 902) · ↑151 m ↓35 m · Njunjes
 
@@ -616,14 +616,14 @@ Reload for **KL → Sälka → Abisko**.
 |-----|-------|
 | **H** | |
 
-#### Day 57 · Mon 12 Apr · 19 km (cum 1053) · ↑412 m ↓159 m · Hukejaure · **W**
+#### Day 57 · Mon 12 Apr · 19 km (cum 1053) · ↑412 m ↓159 m · Hukejaure · **H** · **W**
 
-**Hukejaure** lake travel. Pass **väster om Nikkaluokta** — village **to your east**.  
-Corridor OK; no village required. **Camping (optional detour east):** **[Nikkaluokta Sarri](https://nikkaluokta.com/boende/camping)** — tent **150 kr**/person, RV + service house — see camping table.
+**STF Hukejaure** — Nordkalottleden, west of Sälka / Kungsleden. Pass **väster om Nikkaluokta** — village **to your east**.  
+Corridor OK; no village required. Winter 2027 **26 Feb – 25 Apr**. **Camping (optional detour east):** **[Nikkaluokta Sarri](https://nikkaluokta.com/boende/camping)** — tent **150 kr**/person, RV + service house — see camping table.
 
 | Acc | Notes |
 |-----|-------|
-| **T** | **W** Nikkaluokta · optional Sarri camping |
+| **H** | **Hukejaure fjällstuga** · **W** Nikkaluokta · optional Sarri camping |
 
 #### Day 58 · Tue 13 Apr · 20 km (cum 1073) · ↑289 m ↓356 m · Sälka · **H**
 

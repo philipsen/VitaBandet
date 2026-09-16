@@ -977,8 +977,8 @@
   <wpt lat="67.93405007" lon="17.96728210">
     <ele>874.4</ele>
     <name>A52 · Hukejaure · 1050 km</name>
-    <cmt>Day 52 · 19 km (cum 1050) · +407 m -152 m · camp 874 m · tent · väster om Nikkaluokta</cmt>
-    <desc>Day 52 · 19 km (cum 1050) · +407 m -152 m · camp 874 m · tent · väster om Nikkaluokta</desc>
+    <cmt>Day 52 · 19 km (cum 1050) · +407 m -152 m · camp 874 m · STF · snap to hut</cmt>
+    <desc>Day 52 · 19 km (cum 1050) · +407 m -152 m · camp 874 m · STF · snap to hut</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>

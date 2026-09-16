@@ -103,6 +103,7 @@ MILESTONES = {
     "JACKVIK": (66.383, 16.967),
     "KVIKK": (66.9513, 17.7285),
     "RITSEM": (67.7327, 17.4711),        # STF Ritsem (gateway to Padjelanta-west)
+    "HUKEJAURE": (67.935432, 17.967496), # STF Hukejaure (Nordkalottleden)
     "SALKA": (67.946376, 18.281701),     # STF Sälka
     "ABISKO": (68.35, 18.83),
     "TRERIK": (69.06, 20.55),
@@ -202,7 +203,7 @@ SECTION5_CAMPS = [
     (54, "2027-04-08", 1029, "Ritsem approach", "T", "", None),
     (55, "2027-04-09", 1045, "Ritsem", "D", "Power Fuel alkylate · STF H", "RITSEM"),
     (56, "2027-04-10", 1063, "Sitojaure", "H", "KL · optional hut top-up", None),
-    (57, "2027-04-11", 1081, "Hukejaure", "T", "W Nikkaluokta · Sarri camping optional", None),
+    (57, "2027-04-11", 1081, "Hukejaure", "H", "STF Hukejaure · W Nikkaluokta", "HUKEJAURE"),
     (58, "2027-04-12", 1098, "Sälka", "H", "STF Sälka · tent if full", "SALKA"),
     (59, "2027-04-13", 1116, "Tjäktja", "T", "Steep pass", None),
     (60, "2027-04-14", 1134, "Alesjaure", "T", "STF tält at hut", None),
@@ -302,7 +303,7 @@ SECTIONS: list[Section] = [
             SubSegment("§5b Sälka → Abisko (Kungsleden)",
                        "2027-plan-kvikkjokk-abisko.gpx", "SALKA", "ABISKO"),
         ],
-        waypoints=["KVIKK", "RITSEM", "SALTOLUOKTA", "SALKA", "NIKKALUOKTA", "ABISKO", "BJORKLIDEN"],
+        waypoints=["KVIKK", "RITSEM", "SALTOLUOKTA", "HUKEJAURE", "SALKA", "NIKKALUOKTA", "ABISKO", "BJORKLIDEN"],
         camps=list(normalize_camps(SECTION5_CAMPS)),
         start_cum_km=905,
     ),
@@ -567,6 +568,7 @@ WPT_LABELS = {
     "JACKVIK":  "Jäckvik",
     "KVIKK":    "Kvikkjokk",
     "RITSEM":   "Ritsem (STF)",
+    "HUKEJAURE": "Hukejaure fjällstuga (STF)",
     "SALKA":    "Sälka fjällstation",
     "ABISKO":   "Abisko",
     "TRERIK":   "Treriksröset",

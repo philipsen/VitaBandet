@@ -49,6 +49,7 @@ ROUTE_HUTS = [
     ("Saltoluokta", "stf-saltoluokta-fjallstation", [51]),
     ("Ritsem", "stf-ritsem", [55]),
     ("Sitojaure", "stf-sitojaure-fjallstuga", [56]),
+    ("Hukejaure", "stf-hukejaure-fjallstuga", [57]),
     ("Sälka", "stf-salka-fjallstuga", [58]),
     ("Tjäktja", "stf-tjaktja-fjallstuga", [59]),
     ("Alesjaure", "stf-alesjaure-fjallstuga", [60]),

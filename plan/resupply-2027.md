@@ -480,7 +480,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 | Hut | Food | Fuel | Notes |
 |-----|------|------|--------|
-| **Sitojaure**, **Sälka**, **Tjäktja**, **Alesjaure**, **Abiskojaure** | STF **Small/Large** hut shops: staples, snacks, freeze-dried when stocked | **No canisters** — fuel from **Ritsem** bottles | Snacks only |
+| **Sitojaure**, **Hukejaure**, **Sälka**, **Tjäktja**, **Alesjaure**, **Abiskojaure** | STF **Small/Large** hut shops: staples, snacks, freeze-dried when stocked | **No canisters** — fuel from **Ritsem** bottles | Snacks only |
 | **Abiskojaure** | Small shop | Snacks | Day before Abisko — **no canister fuel** |
 
 ---

@@ -259,7 +259,7 @@ Staffed **Kungsleden** from Ritsem. Your dates **10–17 Apr** sit inside typica
 |-------|-------|------|
 | D55 | Ritsem | **STF Ritsem** · restaurant · shop · Power Fuel |
 | D56 | Sitojaure | **STF Sitojaure** (2026 winter ~27 Feb – 19 Apr) |
-| D57 | Hukejaure / Nikkaluokta W | Tent on Band (väster om Nikkaluokta) · optional east: **STF Kebnekaise** / Sarri (off Band) |
+| D57 | Hukejaure / Nikkaluokta W | **STF Hukejaure** (2027 winter 26 Feb – 25 Apr) · pass väster om Nikkaluokta · optional east: **STF Kebnekaise** / Sarri (off Band) |
 | D58 | Sälka | **STF Sälka** |
 | D59 | Tjäktja | **STF Tjäktja** (or tent below pass) |
 | D60 | Alesjaure | **STF Alesjaure** |
