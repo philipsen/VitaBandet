@@ -125,7 +125,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 ### Buy / test next
 
-**Long skins: reglue/replace**, ski poles, **new merino ski socks** (4–5), **Julbo Explorer 2.0 Reactiv 2–4**, **OsmAnd+** maps + GPX on **Armor 14 Pro**, Topo GPS **tiles**, **inReach plan** (66i), **2× 1 L fuel bottles** *(short Åsnes ✓; skin wax + glue ✓; shell ✓; **Ultra 7R** ✓; **DNT key** ✓; **OmniLite** + silencer + **service kit** ✓; **1× Zolo + 100 W wall + cables** ✓; **Armor 14 Pro** ✓; **Suunto Vertical 2** ✓; **Storm 500-R** ✓; **Calazo** ✓; **Topo GPS** SE+NO ✓; merino base + 2× **Hesta** owned; VBL optional; **no Fairphone for 2027)***.
+**Long skins: reglue/replace**, **new merino ski socks** (4–5), **OsmAnd+** maps + GPX on **Armor 14 Pro**, Topo GPS **tiles**, **inReach plan** (66i), **2× 1 L fuel bottles** *(ski poles + spare baskets **📦**; **Julbo Shield Reactiv 0–4** 📦; **VBL socks** 📦; short Åsnes ✓; skin wax + glue ✓; shell ✓; **Ultra 7R** ✓; **DNT key** ✓; **OmniLite** + silencer + **service kit** ✓; **1× Zolo + 100 W wall + cables** ✓; **Armor 14 Pro** ✓; **Suunto Vertical 2** ✓; **Storm 500-R** ✓; **Calazo** ✓; **Topo GPS** SE+NO ✓; merino base + 2× **Hesta** owned; **no Fairphone for 2027)***.
 
 ### Shakedown trips
 | Date | Location | Duration | Lessons learned |

@@ -37,8 +37,8 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | Status | Item | Qty | Spec / model | Est. | Where | Notes |
 |--------|------|-----|--------------|------|-------|-------|
-| 🛒 | **Ski poles** | 1 pair | **Åsnes Combat 2-Section V2** ★ (alt: Breidablikk V2 / Traverse 105–155) | **~€70–130** | [Varuste deep-snow](https://varuste.net/nl/c3266/wandelstokken-voor-de-sneeuw) **VIP** | Own **Speed Trail** (max **140** · **1 bent**) — keep for training · [poles](./gear-considerations-2027.md#ski-poles) |
-| 🛒 | Spare powder baskets | 2 | Large ~10–12.5 cm · match **new** poles | ~€10–20 | Varuste · match brand | Speed Trail baskets ✓ — buy spares for Combat/Traverse |
+| 📦 | **Ski poles** | 1 pair | **Åsnes Breidablikk Pole 2-Section V2** | **~€90** | [Varuste deep-snow](https://varuste.net/nl/c3266/wandelstokken-voor-de-sneeuw) **VIP** | **On order** · own **Speed Trail** (max **140** · **1 bent**) — keep for training · [poles](./gear-considerations-2027.md#ski-poles) |
+| 📦 | Spare powder baskets | 2 | Large ~10–12.5 cm / **125 mm** · match **Breidablikk** | ~€10–20 | Varuste · match brand | **On order** · stock baskets **105 mm** · Speed Trail baskets ✓ |
 
 ---
 
@@ -68,8 +68,9 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 |--------|------|-----|--------------|------|-------|-------|
 | 🛒 | **Ski socks** | 4–5 | Heavy merino · over-calf | ~€60–100 | Bever · Woolpower · Falke | [socks/VBL](./gear-considerations-2027.md#socks--vbl) |
 | 🛒 | Camp socks | 1–2 | Thin merino | ~€15–30 | Same | For booties |
+| 📦 | **VBL liners** | 1 | Vapor-barrier sock | ~€25–50 | | **On order** · trial on shakedown · [VBL](./gear-considerations-2027.md#vbl-liners) |
 | 🛒 | **Down booties** | 1 pair | **Rab Down Hut Slipper** | ~€46–65 | [Outdoorweb](https://www.outdoorweb.eu/Rab-Down-Hut-Slipper-black) · Rab EU | Size up one · [booties](./gear-considerations-2027.md#down-booties-camp) |
-| 🛒 | **Sunglasses** | 1 | **Julbo Explorer 2.0** ★ **Reactiv 2–4** | **~€150–215** | [Julbo](https://www.julbo.com/en_nl/sunglasses/explorer-2-0) · Snowleader | **Not** Spectron 4 as only pair · [sunglasses](./gear-considerations-2027.md#sunglasses--goggles) |
+| 📦 | **Sunglasses** | 1 | **Julbo Shield** **Reactiv High Contrast 0–4** | **~€150–200** | [Varuste](https://varuste.net/en/p127938/julbo-shield-black-blue-white-reactiv-0-4-high-contrast-lens) · Julbo | **On order** · cat **0–4** · goggles still for storm · [sunglasses](./gear-considerations-2027.md#sunglasses--goggles) |
 | ✅ | **Foam pad backup** | 1 | **Sirex PE Trekkingmat Everest 10** | — | ✓ owned | Main pulk · [foam](./gear-considerations-2027.md#foam-mat-backup--sirex-everest-10) |
 
 ---
@@ -135,7 +136,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | ✅ | **Shell jacket + pants** | Owned — hardshell for wind/precip |
 | ❓ | Mid fleece | Inventory shows ? |
 | ❓ | Softshell / touring pants | Inventory shows ? |
-| ❓ | Sunscreen · **goggles** | Sunglasses = Explorer 2.0 (buy) · goggles still needed for storm |
+| ❓ | Sunscreen · **goggles** | Sunglasses = **Shield 0–4** 📦 · goggles still needed for storm |
 | ✅ | Tent repair kit | Included with **Nammatj** (Nallo kit with spare) |
 | ❓ | Duct tape on pole | ? |
 
@@ -146,7 +147,6 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | Status | Item | Qty | Est. | Notes |
 |--------|------|-----|------|-------|
 | ⏸ | **inReach Mini 2** | 0–1 | ~€300–400 | Consider **replace 66i** — track-only · −140 g · less Wh · [66i vs Mini 2](./gear-considerations-2027.md#inreach--66i-vs-mini-2--consider-replace) |
-| ⏸ | **VBL liners** | 0–1 | ~€0–50 | DIY trial first · [VBL](./gear-considerations-2027.md#vbl-liners-optional) |
 | ⏸ | Long skins **replace** (vs reglue) | 1 pair | ~€150–250 | If fabric worn |
 
 ---
@@ -178,10 +178,10 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | When | Do |
 |------|-----|
-| **Now–autumn 2026** | Poles · skin reglue (wax/glue ✓) · **Storm 500-R** ✓ · **Calazo** ✓ · **Topo GPS** packs ✓ · OsmAnd on Armor · sync Vertical 2 · **Nammatj** pitch practice |
-| **Autumn 2026** | Socks · booties · **Explorer 2.0** · **Sirex** ✓ · shakedowns · Suunto route practice |
+| **Now–autumn 2026** | Poles **📦** · spare baskets **📦** · **VBL** 📦 · **Shield 0–4** 📦 · skin reglue (wax/glue ✓) · **Storm 500-R** ✓ · **Calazo** ✓ · **Topo GPS** packs ✓ · OsmAnd on Armor · sync Vertical 2 · **Nammatj** pitch practice |
+| **Autumn 2026** | Merino ski socks · camp socks · booties · **Sirex** ✓ · shakedowns (incl. VBL + Shield) · Suunto route practice |
 | **Jan 2027** | inReach plan live · OsmAnd `2027.GPX` on Armor · **all** Suunto routes loaded **at home** · Topo GPS tiles + **66i → Topo GPS** shakedown |
-| **Feb 2027** | Alkylate fill · last gaps · optional VBL |
+| **Feb 2027** | Alkylate fill · last gaps |
 
 ---
 

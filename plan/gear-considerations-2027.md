@@ -41,15 +41,15 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 
 | Pole | Adj? | Length | Basket | € camp. | Bandet? |
 |------|------|--------|--------|---------|---------|
-| **Åsnes Combat 2-Section V2** ★ | Yes | **110–155** | **125 mm** | **€97** / 130 | **Buy this** — Nordic/military BC · long EVA · biggest basket |
-| **Åsnes Breidablikk Pole 2-Section V2** | Yes | **110–155** | **105 mm** | **€90** / 120 | **Strong #2** — same platform as Combat, smaller basket |
+| **Åsnes Combat 2-Section V2** | Yes | **110–155** | **125 mm** | **€97** / 130 | Same platform · bigger basket — not ordered |
+| **Åsnes Breidablikk Pole 2-Section V2** | Yes | **110–155** | **105 mm** | **€90** / 120 | **On order** — same length as Combat · add spare **125 mm** baskets |
 | **BD Traverse** | Yes | **105–155** | **100 mm** | **€69** / 95 | **Value fallback** — FlickLock · PH3 · in stock |
 | **Åsnes Breidablikk BC 2-Section** (older) | Yes | **110–150** | **105 mm** | **€82** / 105 | OK if max **150** is enough for you |
 | **Åsnes Nansen Alloy/Carbon** | Yes | **110–155** | ~100–125 | **€107** / 139 | Skip — carbon upper, pulk risk |
 | **Åsnes Polar Carbon/Kevlar** | Yes | **115–155** | **105 mm** | **€143** / 185 | Skip — carbon/Kevlar, expensive |
 | **TSL Semnoz** | Yes | **105–130** / **130–155** | hiking | **€60** / 80 | Skip — trekking pole, not Nordic BC |
 | **Komperdell Free Touring** (outlet) | Yes | **110–140** | — | **€69** outlet | **Skip** — max **140** too short for pulk |
-| **Komperdell Speed Trail** (owned) | Yes | **105–140** | snow + spare ✓ | — | **Keep for training** — max **140** + **1 bent** → still buy Combat/Traverse |
+| **Komperdell Speed Trail** (owned) | Yes | **105–140** | snow + spare ✓ | — | **Keep for training** — max **140** + **1 bent** |
 | **Åsnes Ingstad Alloy** | **Fixed** | 130–160 | **125 mm** | **€82** / 110 | Skip — you want adjustable |
 | **Swix Blizzard Mountain Extreme** | **Fixed** | 130–165 | large | **€82** / 110 | Skip — fixed |
 | **Peltonen Metsä** | **Fixed** | 120–155 | ~100 mm | **€55–63** / 64 | Skip — fixed · forest XC |
@@ -65,9 +65,9 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 
 ### Pick for Bandet
 
-1. **Combat V2** ★ — best basket + long EVA for pulk. Order early (often **backorder**).  
-2. **Breidablikk V2** — if Combat OOS / save ~€7; same length range, **105 mm** basket (add **125 mm** spare baskets).  
-3. **Traverse 105–155** — cheapest adjustable that fits; buy large spare baskets.
+1. **Breidablikk V2** — **on order**. Same **110–155** range as Combat; stock basket **105 mm** (spare **125 mm** baskets **on order**).  
+2. **Combat V2** — bigger **125 mm** basket; not ordered.  
+3. **Traverse 105–155** — cheapest adjustable fallback.
 
 **Skip for you:** all **fixed** poles · **Polar / Nansen** (carbon) · **Semnoz** · **Komperdell 105–140 / 110–140** (owned Speed Trail — training only) · BD Expedition (not on this page; Traverse covers it).
 
@@ -85,11 +85,11 @@ With pulk, often **+5 cm** vs free-ski.
 
 | Item | Qty | Est. |
 |------|-----|------|
-| Spare large baskets | 2 | Speed Trail spares ✓ · still buy **125 mm** match for **Combat**/new pair ~€10–20 |
+| Spare large baskets | 2 | **On order** with **Breidablikk** (stock **105 mm**) · Speed Trail spares ✓ |
 
 **Not packing:** flex tip · pole repair sleeve.
 
-**Verdict:** From the [Varuste deep-snow list](https://varuste.net/nl/c3266/wandelstokken-voor-de-sneeuw): **Combat V2**. Next **Breidablikk V2** or **Traverse 105–155**.
+**Verdict:** **Breidablikk V2** + spare **125 mm** baskets **on order** (Varuste).
 
 ## Climbing skins
 
@@ -560,21 +560,23 @@ See [resupply-2027.md](./resupply-2027.md) for shop list.
 
 **Job:** Feb–Apr snow albedo on the fjäll is brutal on clear days; whiteout, forest, and dusk are common on the same trip. You need **wrap + cat 4 when the sun is out**, and a **lighter** tint (or goggles) when it is not.
 
-### Sunglasses — Julbo Explorer 2.0 ★
+### Sunglasses — Julbo Shield Reactiv 0–4
 
-**Frame is right for Bandet.** Glacier wrap, removable side shields, front vent, Grip Tech temples that rotate 360° (hat / hood / no helmet), cord loops, **~44 g**. That is the current Julbo mountaineering flagship — not a summer running glass.
+**On order:** **Julbo Shield** with **Reactiv High Contrast 0–4** (~**32 g**). Wrap + removable side shields, Air Flow, Grip Tech temples. Photochromic **cat 0–4** (~4–86% VLT) covers plateau glare *and* forest / dusk / whiteout in one pair.
 
-**Buy the photochromic, not fixed cat 4.**
+Explorer 2.0 Reactiv **2–4** was the earlier pick — Shield **0–4** is wider range (clears more in flat light). Still glacier wrap, not a summer running glass.
+
+**Photochromic, not fixed cat 4.**
 
 | Lens | Cat / VLT | Bandet? |
 |------|-----------|---------|
-| **Reactiv High Mountain 2–4** (Cameleon) ★ | Photo 2–4 · ~7–20% | **Buy this** — dark enough on the plateau, usable in overcast / forest |
-| Reactiv 2–4 Polarized | Photo 2–4 | Same job · polarize kills some glare, can flatten ice texture a bit — fine for pulk touring |
-| Reactiv 0–4 High Contrast | Photo 0–4 · ~4–86% | Backup pick if you want one pair into deep whiteout / dusk without swapping |
+| **Reactiv High Contrast 0–4** (Shield) | Photo 0–4 · ~4–86% | **On order** — one pair from dusk/whiteout to plateau glare |
+| Reactiv High Mountain 2–4 (Cameleon) | Photo 2–4 · ~7–20% | Explorer 2.0 pick — dark enough on snow, weaker in deep overcast |
+| Reactiv 2–4 Polarized | Photo 2–4 | Polarize kills some glare, can flatten ice texture — fine for pulk touring |
 | **Spectron 4** / Alti Arc cat 4 | Fixed 4 · ~5–7% | **Skip as only pair** — too dark in forest, storm, Feb afternoon |
 | Vermont Classic | Leather side shields | Skip — worse vent, wet leather on a 65-day ski |
 
-**Where:** [Julbo NL Explorer 2.0](https://www.julbo.com/en_nl/sunglasses/explorer-2-0) · [Snowleader Explorer 2.0](https://www.snowleader.nl/en/explorer-2-0-noir-gris-reactiv-2-4-polarized-JULB00478.html) · Bergfreunde. Reactiv **~€150–215** · Spectron 4 cheaper (**~€90–145**) but the wrong only-pair.
+**Where:** [Varuste Shield 0–4 HC](https://varuste.net/en/p127938/julbo-shield-black-blue-white-reactiv-0-4-high-contrast-lens) · Julbo. Spectron 4 cheaper but the wrong only-pair.
 
 **On trip:** wear on the body (leash). Shields **on** in open snow; peel them in forest if they steam. Do **not** GPS-ski in these — they are sun, not nav.
 
@@ -582,13 +584,13 @@ See [resupply-2027.md](./resupply-2027.md) for shop list.
 
 Sunglasses do **not** replace goggles. Spindrift, storm, and hard wind need a **ski goggle** (cat 2–3, or photochromic). Confirm you already own a winter pair; if not, buy a simple alpine goggle — not a second glacier glass.
 
-**Shakedown:** one bright snow day + one grey/whiteout day. If Spectron 4 feels like night in the trees, that is why Reactiv is the pick.
+**Shakedown:** one bright snow day + one grey/whiteout day. Confirm 0–4 clears enough in trees and still goes cat 4 on open snow.
 
 ---
 
 ## Socks & VBL
 
-**Buy 4–5 new heavy merino ski socks** (over-calf, medium–heavy) + **1–2 camp** pairs. Fit-test in **Outback** before Feb — with and without VBL if you trial one.
+**Buy 4–5 new heavy merino ski socks** (over-calf, medium–heavy) + **1–2 camp** pairs. **VBL socks on order** — fit-test in **Outback** before Feb with and without.
 
 ### Ski socks
 
@@ -604,9 +606,9 @@ Sunglasses do **not** replace goggles. Spindrift, storm, and hard wind need a **
 
 ---
 
-## VBL liners (optional)
+## VBL liners
 
-**Status:** **Test** — not a day-1 buy. **0–1 pair** on trip if adopted.
+**Status:** **📦 on order** — **1 pair**. Trial on shakedown before committing every ski day.
 
 **Job:** Keep **boot insulation and liners dry** over multi-day legs by trapping foot sweat *inside* an impermeable layer, instead of wicking it into merino and the boot.
 
@@ -676,7 +678,7 @@ Works best in **steady cold** (−10…−30 °C) when exertion sweat is modest 
 
 **Skip:** buying two pairs (one is enough — wash/dry feet, not the VBL); Gore-Tex “waterproof” hiking socks as primary VBL (too stiff in boot).
 
-**Trial path:** **DIY bag on one foot** for a long shakedown day → if boots stay drier, order **RBH or WM** before Feb. **Do not** commit to VBL for the full trip without a **loaded pulk** test.
+**Trial path:** **DIY bag on one foot** still useful as a control. **Do not** commit to VBL for the full trip without a **loaded pulk** test — ordered pair can stay in the pulk if the stack blisters or runs hot.
 
 ### Camp routine (pairs with booties)
 
@@ -697,7 +699,7 @@ Without VBL: rotate **wet ski sock** to outside jacket or bag foot to thaw; **ne
 3. If testing purchased VBL: **8 h day, −10…−20 °C**, full sock stack — any heel/toe hot spots?  
 4. Confirm **Outback volume** — VBL adds ~1 mm; too tight = cold toes.
 
-**Verdict:** **Do not buy VBL before shakedown.** Default plan: **4–5 merino + booties + aggressive boot drying**. Add **one VBL pair** only if shakedown or week 1 shows **boots not drying on tent legs**. **One pair max** — same VBL every ski day, washed feet nightly. Optional **DIY trial** costs nothing; **RBH / WM** (~**€35–50**) if you adopt.
+**Verdict:** **VBL socks on order** (**1 pair**). Default still **4–5 merino + booties + aggressive boot drying**; use VBL on cold tent legs if the shakedown stack works. Same pair every ski day, washed feet nightly. If it blisters or feet run hot, leave it in the pulk.
 
 ---
 

@@ -14,7 +14,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 |--------|--------|-------|
 | Skis / boots / binding | Ingstad · Outback · Xplore | [details](./gear-considerations-2027.md#ski-system) |
 | Skins | Short ✓ + long after reglue | [skins](./gear-considerations-2027.md#climbing-skins) |
-| Poles | **Combat V2** (own Speed Trail — training) | Varuste VIP |
+| Poles | **Breidablikk V2** 📦 (own Speed Trail — training) | **On order** · Varuste VIP |
 | Pulk | **Jemtlander 14** + **Sleeper 200** + **Sled Pack** ✓ | Sleep kit + tent on sled — [packing](./packing-pulk-2027.md) |
 | Tent | **Nammatj 3 GT** ✓ | [tent](./gear-considerations-2027.md#tent--nammatj-3-gt) · Nallo 3GT spare |
 | Bag | **Lowland K2** ✓ | −35 °C comfort · ~2 kg |
@@ -52,7 +52,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Skins — long | Full-length old | 1 pair | ~400? | ✓ | **Reglue** | Padjelanta / Lappjord |
 | Skin wax | Pomoca bicolor | 1 | | ✓ | | |
 | Skin glue tube | | 1 small | | ✓ | | Field patches only |
-| Poles | **Åsnes Combat 2-Section V2** | 1 pair | **~595** | Speed Trail | **Buy** | Own **Speed Trail** (105–140 · **1 bent** · baskets ✓) — Bandet needs **110–155** · Varuste VIP ~€97 · alt Traverse |
+| Poles | **Åsnes Breidablikk Pole 2-Section V2** | 1 pair | **~240** | 📦 | **On order** | Breidablikk V2 + spare **125 mm** baskets **on order** · stock basket **105 mm** · own **Speed Trail** (105–140 · **1 bent** · baskets ✓) training only · Bandet **110–155** · [poles](./gear-considerations-2027.md#ski-poles) |
 
 ### Pulk & carry
 
@@ -98,7 +98,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Ski socks (heavy merino) | 4–5 | | **Buy** | [socks](./gear-considerations-2027.md#socks--vbl) |
 | Camp socks | 1–2 | | **Buy** | |
 | Down booties | 1 pair | | **Buy** | **Rab Down Hut Slipper** ~€45–65 · [booties](./gear-considerations-2027.md#down-booties-camp) |
-| VBL liners | 0–1 | | **Test** | ~30–80 g · optional · [VBL](./gear-considerations-2027.md#vbl-liners-optional) |
+| VBL liners | 1 | | **On order** | **📦** · trial on shakedown · [VBL](./gear-considerations-2027.md#vbl-liners) |
 
 ### Cooking & fuel
 
@@ -151,7 +151,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | **Leatherman** | 1 | ✓ | | Multitool · repair kit |
 | Ski / binding / fabric repair | 1 kit each | ✓ | | duct tape · sewing · etc. |
 | Duct tape on pole | 1 | | ? | |
-| **Sunglasses** | 1 | | 🛒 | **Julbo Explorer 2.0** ★ **Reactiv 2–4** · ~44 g · [sunglasses](./gear-considerations-2027.md#sunglasses--goggles) |
+| **Sunglasses** | 1 | | 📦 | **Julbo Shield** **Reactiv High Contrast 0–4** · ~32 g · **on order** · [sunglasses](./gear-considerations-2027.md#sunglasses--goggles) |
 | Goggles | 1 | | ? | Storm / spindrift — sunglasses do not replace |
 | Sunscreen + lip SPF | 1 | | ? | |
 
@@ -236,9 +236,9 @@ Measure **g/day** on shakedown at **−15 °C**.
 ## Purchase priority
 
 1. **Long skins** — reglue or replace *(wax + glue tube ✓)*  
-2. **Ski poles** — still **Combat V2** ★ (Speed Trail owned but max **140** + bent) + spare baskets for **new** pair · Varuste VIP  
+2. **Ski poles** — **Breidablikk V2** + spare **125 mm** baskets **📦 on order** (Speed Trail owned but max **140** + bent — training) · Varuste VIP  
 3. **Power / nav** — OsmAnd maps on **Armor 14 Pro** · Topo GPS **tiles** · inReach plan *(**Calazo** ✓ · **Topo GPS** packs ✓ · **Storm 500-R** ✓ · Suunto V2 ✓ · phone ✓ · 1× Zolo on trail ✓ · 100 W wall ✓ · C–C + micro-USB ✓)*  
-4. **New ski socks** (4–5) + **down booties** + **Julbo Explorer 2.0 Reactiv 2–4** *(**Sirex Everest 10** ✓)*  
+4. **New ski socks** (4–5) + **down booties** + **Julbo Shield 0–4** 📦 + **VBL** 📦 *(**Sirex Everest 10** ✓)*  
 5. Fill **2× 1 L** bottles (OmniLite service kit ✓ — in stove kit)  
 6. **Nammatj 3 GT** ✓ — pitch + weigh + 2–3 winter nights · Nallo spare — [tent](./gear-considerations-2027.md#tent--nammatj-3-gt)
 
@@ -256,7 +256,7 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 | Ski’s | **Åsnes Ingstad BC** ✓ |
 | Schoenen | **Alfa Outback + Xplore** ✓ |
 | Vellen | Short **Åsnes** ✓ + long — **reglue** |
-| Stokken | Own **Speed Trail** (bent) · **buy** Combat/Traverse — [poles](./gear-considerations-2027.md#ski-poles) |
+| Stokken | Own **Speed Trail** (bent) · Breidablikk V2 + baskets **📦** — [poles](./gear-considerations-2027.md#ski-poles) |
 | GPS + kaarten | **GPSMAP 66i** ✓ · **OsmAnd+** · **Topo GPS** SE+NO ✓ · **Calazo** 1:100k + 1:50k ✓ |
 | Telefoon | **Armor 14 Pro** + offline maps |
 | Tent | **Nammatj 3 GT** ✓ · Nallo 3GT spare ✓ |
@@ -268,7 +268,7 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 | Base kleding | **2+2** merino ✓ |
 | Skisokken | **Buy 4–5** |
 | Shell | ✅ Own |
-| Zonnebril / ski-bril | **Buy Explorer 2.0 Reactiv 2–4** · goggles confirm |
+| Zonnebril / ski-bril | **Shield Reactiv 0–4** 📦 · goggles confirm |
 | Camp / sloffen | Dry base · **Rab down jacket** ✓ · **Hesta** ×2 ✓ · **down booties** buy |
 
 ---

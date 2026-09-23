@@ -8,10 +8,11 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 ## Buy / fix before departure
 
 - [ ] **Long skins** — reglue or replace; short Åsnes ✓ · skin wax + glue tube ✓
-- [ ] **Ski poles** — **Åsnes Combat 2-Section V2** ★ (alt: Breidablikk V2 / Traverse **105–155**) + 2 spare baskets · own **Speed Trail** = training only · [poles](./gear-considerations-2027.md#ski-poles)
+- [ ] **Ski poles** — **on order** · **Åsnes Breidablikk Pole 2-Section V2** + 2 spare **125 mm** baskets · own **Speed Trail** = training only · [poles](./gear-considerations-2027.md#ski-poles)
 - [ ] **Down booties** — **Rab Down Hut Slipper** (~€45–65) — [booties](./gear-considerations-2027.md#down-booties-camp)
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
-- [ ] **Sunglasses** — **Julbo Explorer 2.0** ★ **Reactiv 2–4** (not Spectron 4 only) — [sunglasses](./gear-considerations-2027.md#sunglasses--goggles)
+- [ ] **VBL liners** — **on order** · trial on shakedown — [VBL](./gear-considerations-2027.md#vbl-liners)
+- [ ] **Sunglasses** — **on order** · **Julbo Shield Reactiv High Contrast 0–4** — [sunglasses](./gear-considerations-2027.md#sunglasses--goggles)
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
 - [x] **USB headlamp** — **BD Storm 500-R** ✓
 - [x] short **micro-USB** cable (Storm + **66i** share) ✓ — [headlamp](./gear-considerations-2027.md#headlamp-usb)
@@ -48,7 +49,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] Boots **Alfa Outback** + **Xplore** + spare laces / insoles
 - [ ] Binding **Xplore** + spare pins/straps
 - [ ] Skins **short Åsnes** ✓ + **long** (after reglue)
-- [ ] Poles **new** (Combat/Traverse — not Speed Trail) + spare baskets for that pair
+- [ ] Poles **new** (**on order** Breidablikk V2 + spare baskets — not Speed Trail)
 - [ ] Pulk **Jemtlander 14** + harness  
 - [ ] **Sleeper 200** on pulk — **bag + pad** in dry bags inside  
 - [ ] **Hilleberg Sled Pack** ✓ — Nammatj strapped on pulk
@@ -102,7 +103,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 | 3 | Underwear merino |
 | 4–5 | **New** ski socks heavy |
 | 1–2 | Camp socks |
-| 0–1 | **VBL liners** (optional — [socks/VBL](./gear-considerations-2027.md#vbl-liners-optional)) |
+| 1 | **VBL liners** (**on order** — [socks/VBL](./gear-considerations-2027.md#vbl-liners)) |
 | 1 pair | **Down booties** (camp/hut) |
 | 2 | Buff |
 | 1 | Mid fleece |
@@ -113,7 +114,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 | 0–1 | Thin glove liners (skins/stove) |
 | 2 | Hat / balaclava |
 | 1 | Sun cap (April) |
-| 1 | **Julbo Explorer 2.0** sunglasses (on body · leash) |
+| 1 | **Julbo Shield 0–4** sunglasses (on body · leash) |
 | 1 | Ski goggles (storm / spindrift) |
 
 **Not bringing:** funnel · cloth · bottle insulator · Crocs · town clothes · hand warmers · avy kit
@@ -125,7 +126,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [x] First aid + Compeed + sport tape
 - [x] **Snow shovel** ✓ — vestibule pit · camp · emergency shelter
 - [x] Repair: ski/base · binding · fabric/zip · **Leatherman** ✓ · duct tape
-- [ ] Sunscreen + lip SPF · **Explorer 2.0** · goggles
+- [ ] Sunscreen + lip SPF · **Shield 0–4** · goggles
 - [x] Toilet kit · soap · TP
 - [ ] Toothbrush/paste · small towel · toothpicks
 - [ ] Earplugs
