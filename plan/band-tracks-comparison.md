@@ -9,7 +9,7 @@ Nine completed Band tracks downloaded from [vgb.vitagronabandet.se](https://vgb.
 |---------|-----------|-----|
 | 1 Grövelsjön → Storlien | **Lotta & Björn** | Single dense track end-to-end: Grövelsjön +0.33 km, Helags +0.04 km, **Blåhammaren +0.18 km**, **Storlien village +0.44 km** — only track that hits every Section 1 milestone within ≤ 0.44 km |
 | 2 Storlien → Gäddede | **Lotta & Björn** | Same source as S1 → clean **0.00 km seam** at Storlien (single continuous track for Sections 1 + 2) |
-| 3 Gäddede → Hemavan | **Kalle** (G→Klimpfjäll) + `lapland-trail-summer.gpx` (Klimpfjäll→Hemavan) | Kalle has 139 dense pts (max gap 1.4 km) G→Klimpfjäll vs Ola's 17 pts (max 13.8 km); marked Lapplandsleden continues to Hemavan |
+| 3 Gäddede → Hemavan | **Kalle** (G→Klimpfjäll) + `lapland-trail-summer.gpx` (Klimpfjäll→Hemavan) | Kalle has 139 dense pts (max gap 1.4 km) G→Klimpfjäll vs Ola's 17 pts (max 13.8 km); marked Lapplandsleden continues to Hemavan. Official **winter** line is `lapland-trail-winter.gpx` (Borgafjäll→Hemavan, ~171 km) — up to ~6 km east of the summer file on the Åtnik–Arevattnet kalfjäll |
 | 4 Hemavan → Kvikkjokk | Mårten | Dense, väster om Jäckvik |
 | 5 Kvikkjokk → Abisko | **`2027-plan-kvikkjokk-abisko.gpx`** (own Garmin plan) | 6 902-pt dense planned route on Padjelanta-west / Ritsem then KL via Sälka. Two internal subsegs (§5 K→Sälka, §5b Sälka→Abisko) — 0 km seam at Sälka |
 | 6 Abisko → Pältsa | **`2027-plan-abisko-paltsa.gpx`** (own Garmin plan, from `2027 nord.GPX`) | 12 123 pts · ~168 km · max gap ~7.7 km near Abisko start |
