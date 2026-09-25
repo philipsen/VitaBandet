@@ -562,7 +562,7 @@ See [resupply-2027.md](./resupply-2027.md) for shop list.
 
 ### Sunglasses — Julbo Shield Reactiv 0–4
 
-**On order:** **Julbo Shield** with **Reactiv High Contrast 0–4** (~**32 g**). Wrap + removable side shields, Air Flow, Grip Tech temples. Photochromic **cat 0–4** (~4–86% VLT) covers plateau glare *and* forest / dusk / whiteout in one pair.
+**Owned:** **Julbo Shield** with **Reactiv High Contrast 0–4** (~**32 g**). Wrap + removable side shields, Air Flow, Grip Tech temples. Photochromic **cat 0–4** (~4–86% VLT) covers plateau glare *and* forest / dusk / whiteout in one pair.
 
 Explorer 2.0 Reactiv **2–4** was the earlier pick — Shield **0–4** is wider range (clears more in flat light). Still glacier wrap, not a summer running glass.
 
@@ -570,7 +570,7 @@ Explorer 2.0 Reactiv **2–4** was the earlier pick — Shield **0–4** is wide
 
 | Lens | Cat / VLT | Bandet? |
 |------|-----------|---------|
-| **Reactiv High Contrast 0–4** (Shield) | Photo 0–4 · ~4–86% | **On order** — one pair from dusk/whiteout to plateau glare |
+| **Reactiv High Contrast 0–4** (Shield) | Photo 0–4 · ~4–86% | **Owned** — one pair from dusk/whiteout to plateau glare |
 | Reactiv High Mountain 2–4 (Cameleon) | Photo 2–4 · ~7–20% | Explorer 2.0 pick — dark enough on snow, weaker in deep overcast |
 | Reactiv 2–4 Polarized | Photo 2–4 | Polarize kills some glare, can flatten ice texture — fine for pulk touring |
 | **Spectron 4** / Alti Arc cat 4 | Fixed 4 · ~5–7% | **Skip as only pair** — too dark in forest, storm, Feb afternoon |

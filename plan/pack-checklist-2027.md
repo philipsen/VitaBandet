@@ -12,7 +12,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Down booties** — **Rab Down Hut Slipper** (~€45–65) — [booties](./gear-considerations-2027.md#down-booties-camp)
 - [ ] **Ski socks** — 4–5 new heavy merino + 1–2 camp
 - [ ] **VBL liners** — **on order** · trial on shakedown — [VBL](./gear-considerations-2027.md#vbl-liners)
-- [ ] **Sunglasses** — **on order** · **Julbo Shield Reactiv High Contrast 0–4** — [sunglasses](./gear-considerations-2027.md#sunglasses--goggles)
+- [x] **Sunglasses** — **Julbo Shield Reactiv High Contrast 0–4** ✓ — [sunglasses](./gear-considerations-2027.md#sunglasses--goggles)
 - [x] **2× 1 L fuel bottles** (no 0.3 L) — max **~2 L** carry
 - [x] **USB headlamp** — **BD Storm 500-R** ✓
 - [x] short **micro-USB** cable (Storm + **66i** share) ✓ — [headlamp](./gear-considerations-2027.md#headlamp-usb)
@@ -33,6 +33,8 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 
 ---
 
+
+
 ## Admin & papers
 
 - [ ] Passport · driving licence · bank card
@@ -42,6 +44,8 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [x] DNT number + **DNT key**
 
 ---
+
+
 
 ## Ski & pulk
 
@@ -56,19 +60,23 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 
 ---
 
+
+
 ## Shelter & sleep
 
-- [ ] Tent **Nammatj 3 GT** ✓ in **Hilleberg Sled Pack** ✓ + stakes **12+** alu snow/sand + guy line + repair kit — Nallo 3GT spare at home
-- [ ] Sleeping bag **Lowland K2** + dry bag + **liner** ✓ → **Sleeper 200**
-- [ ] Pad **Exped Ultra 7R** + pump + repair kit + dry bag → **Sleeper 200** (active)
+- [x] Tent **Nammatj 3 GT** ✓ in **Hilleberg Sled Pack** ✓ + stakes **12+** alu snow/sand + guy line + repair kit — Nallo 3GT spare at home
+- [x] Sleeping bag **Lowland K2** + dry bag + **liner** ✓ → **Sleeper 200**
+- [x] Pad **Exped Ultra 7R** + pump + repair kit + dry bag → **Sleeper 200** (active)
 - [x] Pad **NeoAir XLite** ✓ — **ship to Abisko** (not in pulk · optional switch at D62)
 - [ ] Foam **Sirex Everest 10** → main pulk (backup under Ultra 7R / emergency)
 
 ---
 
+
+
 ## Cook & fuel
 
-- [ ] Stove **OmniLite Ti** + **silencer** + windscreen + **service kit** ✓
+- [x] Stove **OmniLite Ti** + **silencer** + windscreen + **service kit** ✓
 - [ ] **White-gas jet fitted** (only jet until Abisko)
 - [ ] **Alkylate** in **2× 1 L** bottles — **no gas canisters before Abisko**
 - [ ] **Gas jet** (optional — pack/use from **Abisko** onward if you switch to canisters)
@@ -82,44 +90,52 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 
 ---
 
+
+
 ## Nav & comms
 
-- [ ] **Suunto Vertical 2** — **all** routes preloaded at home · charge cable · **no** mid-trip GPX dump to phone
-- [ ] **GPSMAP 66i** + **micro-USB** cable + inReach active — SOS / backup log
-- [ ] **Armor 14 Pro** + **OsmAnd+** maps downloaded — **occasional backup**
-- [ ] **Topo GPS** — SE + NO packs ✓ · **offline tiles** along Band · day’s GPX screenshot (not live GPS)
+- [x] **Suunto Vertical 2** — **all** routes preloaded at home · charge cable · **no** mid-trip GPX dump to phone
+- [x] **GPSMAP 66i** + **micro-USB** cable + inReach active — SOS / backup log
+- [x] **Armor 14 Pro** + **OsmAnd+** maps downloaded — **occasional backup**
+- [x] **Topo GPS** — SE + NO packs ✓ · **offline tiles** along Band · day’s GPX screenshot (not live GPS)
 - [x] Compass
-- [ ] **Calazo 1:100k** maps — carry **current + next** sheet; rest in map pouch / pulk top
+- [x] **Calazo 1:100k** maps — carry **current + next** sheet; rest in map pouch / pulk top
 - [x] **1× power bank** (Anker Zolo 20k) ✓ — **always warm in jacket** while skiing
-- [ ] **USB headlamp** (Storm 500-R) ✓ + **micro-USB** charge cable
+- [x] **USB headlamp** (Storm 500-R) ✓ + **micro-USB** charge cable
 
 ---
 
+
+
 ## Clothes — pack in pulk
 
-| Qty | Item |
-|-----|------|
-| 2+2 | Merino base top + bottom (1 dry set) |
-| 3 | Underwear merino |
-| 4–5 | **New** ski socks heavy |
-| 1–2 | Camp socks |
-| 1 | **VBL liners** (**on order** — [socks/VBL](./gear-considerations-2027.md#vbl-liners)) |
-| 1 pair | **Down booties** (camp/hut) |
-| 2 | Buff |
-| 1 | Mid fleece |
-| 1 | **Rab down jacket** ✓ (insulation) |
-| 1 | Shell jacket + shell pants |
-| 1 | Softshell / touring pants |
-| 2 sets | **Hesta** mittens (rotate) |
-| 0–1 | Thin glove liners (skins/stove) |
-| 2 | Hat / balaclava |
-| 1 | Sun cap (April) |
-| 1 | **Julbo Shield 0–4** sunglasses (on body · leash) |
-| 1 | Ski goggles (storm / spindrift) |
+
+| Qty    | Item                                                                                  |
+| ------ | ------------------------------------------------------------------------------------- |
+| 2+2    | Merino base top + bottom (1 dry set)                                                  |
+| 3      | Underwear merino                                                                      |
+| 4–5    | **New** ski socks heavy                                                               |
+| 1–2    | Camp socks                                                                            |
+| 1      | **VBL liners** (**on order** — [socks/VBL](./gear-considerations-2027.md#vbl-liners)) |
+| 1 pair | **Down booties** (camp/hut)                                                           |
+| 2      | Buff                                                                                  |
+| 1      | Mid fleece                                                                            |
+| 1      | **Rab down jacket** ✓ (insulation)                                                    |
+| 1      | Shell jacket + shell pants                                                            |
+| 1      | Softshell / touring pants                                                             |
+| 2 sets | **Hesta** mittens (rotate)                                                            |
+| 0–1    | Thin glove liners (skins/stove)                                                       |
+| 2      | Hat / balaclava                                                                       |
+| 1      | Sun cap (April)                                                                       |
+| 1      | **Julbo Shield 0–4** sunglasses (on body · leash)                                     |
+| 1      | Ski goggles (storm / spindrift)                                                       |
+
 
 **Not bringing:** funnel · cloth · bottle insulator · Crocs · town clothes · hand warmers · avy kit
 
 ---
+
+
 
 ## Personal & repair
 
@@ -135,6 +151,8 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 
 ---
 
+
+
 ## Food carry (first leg — adjust per resupply)
 
 - [ ] **8–10 days** food (~4,000–5,000 kcal/day) in **2–3 flat clear boxes** — see [packing-pulk-2027.md](./packing-pulk-2027.md#food-boxes-23-flat-clear-containers)
@@ -144,28 +162,34 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 
 ---
 
+
+
 ## Resupply days (food + alkylate)
 
-Full shop/fuel table: [resupply-2027.md](./resupply-2027.md). Day numbers from [dag-for-dag-2027.md](./dag-for-dag-2027.md) / [`2027.GPX`](../tracks/2027.GPX).
+Full shop/fuel table: [resupply-2027.md](./resupply-2027.md). Day numbers from [dag-for-dag-2027.md](./dag-for-dag-2027.md) / `[2027.GPX](../tracks/2027.GPX)`.
 
-| Day | Place |
-|-----|-------|
-| 1 | Grövelsjön (start full) |
-| 10 | Storlien |
-| 24 | Gäddede |
-| **34** | **Hemavan ★** halfway · max fuel |
-| **39** | Ammarnäs (optional · wall / el) |
-| **41** | Vuoggatjålme (optional · H wall) |
-| **42** | Adolfström (optional · cabin/camping) |
+
+| Day    | Place                                  |
+| ------ | -------------------------------------- |
+| 1      | Grövelsjön (start full)                |
+| 10     | Storlien                               |
+| 24     | Gäddede                                |
+| **34** | **Hemavan ★** halfway · max fuel       |
+| **39** | Ammarnäs (optional · wall / el)        |
+| **41** | Vuoggatjålme (optional · H wall)       |
+| **42** | Adolfström (optional · cabin/camping)  |
 | **44** | Jäckvik (optional · Kyrkans Fjällgård) |
-| **47** | **Kvikkjokk ★** max before Ritsem |
-| **55** | **Ritsem ★** |
+| **47** | **Kvikkjokk ★** max before Ritsem      |
+| **55** | **Ritsem ★**                           |
 | **62** | **Abisko ★** 7–8 days food + ~2 L fuel |
-| ~69 | Pältsa (near goal) |
+| ~69    | Pältsa (near goal)                     |
+
 
 **DNT huts (63–68):** no food · no fuel · shelter only
 
 ---
+
+
 
 ## VGB waypoints (väster om)
 
@@ -180,6 +204,8 @@ S→N: each point **east** of track. Wide corridor OK.
 - [ ] Treriksröset
 
 ---
+
+
 
 ## Pre-trip shakedown (tick when done)
 
@@ -196,6 +222,8 @@ S→N: each point **east** of track. Wide corridor OK.
 
 ---
 
+
+
 ## Reference packing lists (other Vita Bandet hikers)
 
 Sanity-check your kit against published lists from prior / planned White Ribbons. **Comparison only** — not requirements. Scraped Jul 2026.
@@ -210,10 +238,12 @@ Sanity-check your kit against published lists from prior / planned White Ribbons
 
 ### B · Paolo Peralta — Start (expedition) → Finish (stripped)
 
-| Phase | Link | Total | Base |
-|-------|------|------:|-----:|
-| **Start** | [lighterpack.com/r/169rsn](https://lighterpack.com/r/169rsn) | **~49.6 kg** | ~28 kg |
-| **Finish** | [lighterpack.com/r/lqy88x](https://lighterpack.com/r/lqy88x) | **~42 kg** | ~20 kg |
+
+| Phase      | Link                                                         | Total        | Base   |
+| ---------- | ------------------------------------------------------------ | ------------ | ------ |
+| **Start**  | [lighterpack.com/r/169rsn](https://lighterpack.com/r/169rsn) | **~49.6 kg** | ~28 kg |
+| **Finish** | [lighterpack.com/r/lqy88x](https://lighterpack.com/r/lqy88x) | **~42 kg**   | ~20 kg |
+
 
 Write-up: [ultralightandcomfortable.com — meet Paolo](https://ultralightandcomfortable.com/2022/04/09/meet-paolo-peralta-a-new-yorker-skiing-the-1300-km-white-ribbon/) · 89 days · 3 h gear video mentioned by Anders.
 
@@ -238,24 +268,30 @@ Blog: [andersnoren.se/white-ribbon-planning](https://andersnoren.se/white-ribbon
 
 ### E · Narrative (no full Lighterpack)
 
-| Who | Link | Notes |
-|-----|------|-------|
-| **Anniina Perätalo** 2024 | [anniinaperatalo.fi/vitabandet](https://www.anniinaperatalo.fi/vitabandet) · [YouTube film](https://www.youtube.com/watch?v=PekMOea_NJo) | Solo · tent · pulk · 73 d · rain/thaw worse than cold |
-| **Jacomina** | [jacomina-ultra-athlete.nl](https://jacomina-ultra-athlete.nl/tag/winterkamperen-2) | Fischer Outback 68 · Alfa Quest · Fjellpulken · thermos in day pouch |
-| **VGB tips** | [vitagronabandet.se tips](https://www.vitagronabandet.se/en/before-the-trip/tips-tricks/) | Grip wax · tent “condom” · strong headlamp early season · dishcloth · chocolate |
+
+| Who                       | Link                                                                                                                                     | Notes                                                                           |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **Anniina Perätalo** 2024 | [anniinaperatalo.fi/vitabandet](https://www.anniinaperatalo.fi/vitabandet) · [YouTube film](https://www.youtube.com/watch?v=PekMOea_NJo) | Solo · tent · pulk · 73 d · rain/thaw worse than cold                           |
+| **Jacomina**              | [jacomina-ultra-athlete.nl](https://jacomina-ultra-athlete.nl/tag/winterkamperen-2)                                                      | Fischer Outback 68 · Alfa Quest · Fjellpulken · thermos in day pouch            |
+| **VGB tips**              | [vitagronabandet.se tips](https://www.vitagronabandet.se/en/before-the-trip/tips-tricks/)                                                | Grip wax · tent “condom” · strong headlamp early season · dishcloth · chocolate |
+
+
+
 
 ### Comparison vs your 2027 plan
 
-| Topic | A light | B Paolo start | C Anders | **Your 2027** |
-|-------|---------|---------------|----------|---------------|
-| Pulk | Rulk hybrid | Acapulka XL 150 | **Jemtlander 17** | **Jemtlander 14** + **Sleeper 200** |
-| Tent | Soulo 1p | Keron 3 | **Nammatj 3 GT** | **Nammatj 3 GT** ✓ |
-| Sleep transport | Stuff sacks | Piteraq | **Exped Dura Bedding** | **Sleeper 200** |
-| Bag | Marmot −10/−18 | WM Puma −25 | Marmot Col −29 | **Lowland K2** |
-| Pad | Tensor + CCF | Xtherm + Z-Lite | XTherm + Z-Lite | **Ultra 7R** · **Sirex** foam · XLite→Abisko |
-| Stove | OmniLite 0.35 L | OmniLite **4 L** | **Trangia alcohol** | OmniLite **2× 1 L** |
-| Skis / boots | Fischer / Alaska | Amundsen / Lundhags | **Nansen / Outback** | **Ingstad / Outback** |
-| Base / total | ~14 / 18 kg | ~28 / 50 kg | ~30 / 35–45 kg | **target ~25–30 kg loaded** |
+
+| Topic           | A light          | B Paolo start       | C Anders               | **Your 2027**                                |
+| --------------- | ---------------- | ------------------- | ---------------------- | -------------------------------------------- |
+| Pulk            | Rulk hybrid      | Acapulka XL 150     | **Jemtlander 17**      | **Jemtlander 14** + **Sleeper 200**          |
+| Tent            | Soulo 1p         | Keron 3             | **Nammatj 3 GT**       | **Nammatj 3 GT** ✓                           |
+| Sleep transport | Stuff sacks      | Piteraq             | **Exped Dura Bedding** | **Sleeper 200**                              |
+| Bag             | Marmot −10/−18   | WM Puma −25         | Marmot Col −29         | **Lowland K2**                               |
+| Pad             | Tensor + CCF     | Xtherm + Z-Lite     | XTherm + Z-Lite        | **Ultra 7R** · **Sirex** foam · XLite→Abisko |
+| Stove           | OmniLite 0.35 L  | OmniLite **4 L**    | **Trangia alcohol**    | OmniLite **2× 1 L**                          |
+| Skis / boots    | Fischer / Alaska | Amundsen / Lundhags | **Nansen / Outback**   | **Ingstad / Outback**                        |
+| Base / total    | ~14 / 18 kg      | ~28 / 50 kg         | ~30 / 35–45 kg         | **target ~25–30 kg loaded**                  |
+
 
 **Take-aways for your 2027 list:**
 

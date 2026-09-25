@@ -151,7 +151,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | **Leatherman** | 1 | ✓ | | Multitool · repair kit |
 | Ski / binding / fabric repair | 1 kit each | ✓ | | duct tape · sewing · etc. |
 | Duct tape on pole | 1 | | ? | |
-| **Sunglasses** | 1 | | 📦 | **Julbo Shield** **Reactiv High Contrast 0–4** · ~32 g · **on order** · [sunglasses](./gear-considerations-2027.md#sunglasses--goggles) |
+| **Sunglasses** | 1 | ✓ | | **Julbo Shield** **Reactiv High Contrast 0–4** · ~32 g · [sunglasses](./gear-considerations-2027.md#sunglasses--goggles) |
 | Goggles | 1 | | ? | Storm / spindrift — sunglasses do not replace |
 | Sunscreen + lip SPF | 1 | | ? | |
 
@@ -238,7 +238,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 1. **Long skins** — reglue or replace *(wax + glue tube ✓)*  
 2. **Ski poles** — **Breidablikk V2** + spare **125 mm** baskets **📦 on order** (Speed Trail owned but max **140** + bent — training) · Varuste VIP  
 3. **Power / nav** — OsmAnd maps on **Armor 14 Pro** · Topo GPS **tiles** · inReach plan *(**Calazo** ✓ · **Topo GPS** packs ✓ · **Storm 500-R** ✓ · Suunto V2 ✓ · phone ✓ · 1× Zolo on trail ✓ · 100 W wall ✓ · C–C + micro-USB ✓)*  
-4. **New ski socks** (4–5) + **down booties** + **Julbo Shield 0–4** 📦 + **VBL** 📦 *(**Sirex Everest 10** ✓)*  
+4. **New ski socks** (4–5) + **down booties** + **VBL** 📦 *(**Julbo Shield 0–4** ✓ · **Sirex Everest 10** ✓)*  
 5. Fill **2× 1 L** bottles (OmniLite service kit ✓ — in stove kit)  
 6. **Nammatj 3 GT** ✓ — pitch + weigh + 2–3 winter nights · Nallo spare — [tent](./gear-considerations-2027.md#tent--nammatj-3-gt)
 
@@ -268,7 +268,7 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 | Base kleding | **2+2** merino ✓ |
 | Skisokken | **Buy 4–5** |
 | Shell | ✅ Own |
-| Zonnebril / ski-bril | **Shield Reactiv 0–4** 📦 · goggles confirm |
+| Zonnebril / ski-bril | **Shield Reactiv 0–4** ✓ · goggles confirm |
 | Camp / sloffen | Dry base · **Rab down jacket** ✓ · **Hesta** ×2 ✓ · **down booties** buy |
 
 ---

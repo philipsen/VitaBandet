@@ -70,7 +70,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | 🛒 | Camp socks | 1–2 | Thin merino | ~€15–30 | Same | For booties |
 | 📦 | **VBL liners** | 1 | Vapor-barrier sock | ~€25–50 | | **On order** · trial on shakedown · [VBL](./gear-considerations-2027.md#vbl-liners) |
 | 🛒 | **Down booties** | 1 pair | **Rab Down Hut Slipper** | ~€46–65 | [Outdoorweb](https://www.outdoorweb.eu/Rab-Down-Hut-Slipper-black) · Rab EU | Size up one · [booties](./gear-considerations-2027.md#down-booties-camp) |
-| 📦 | **Sunglasses** | 1 | **Julbo Shield** **Reactiv High Contrast 0–4** | **~€150–200** | [Varuste](https://varuste.net/en/p127938/julbo-shield-black-blue-white-reactiv-0-4-high-contrast-lens) · Julbo | **On order** · cat **0–4** · goggles still for storm · [sunglasses](./gear-considerations-2027.md#sunglasses--goggles) |
+| ✅ | **Sunglasses** | 1 | **Julbo Shield** **Reactiv High Contrast 0–4** | — | ✓ owned | Cat **0–4** · goggles still for storm · [sunglasses](./gear-considerations-2027.md#sunglasses--goggles) |
 | ✅ | **Foam pad backup** | 1 | **Sirex PE Trekkingmat Everest 10** | — | ✓ owned | Main pulk · [foam](./gear-considerations-2027.md#foam-mat-backup--sirex-everest-10) |
 
 ---
@@ -136,7 +136,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 | ✅ | **Shell jacket + pants** | Owned — hardshell for wind/precip |
 | ❓ | Mid fleece | Inventory shows ? |
 | ❓ | Softshell / touring pants | Inventory shows ? |
-| ❓ | Sunscreen · **goggles** | Sunglasses = **Shield 0–4** 📦 · goggles still needed for storm |
+| ❓ | Sunscreen · **goggles** | Sunglasses = **Shield 0–4** ✓ · goggles still needed for storm |
 | ✅ | Tent repair kit | Included with **Nammatj** (Nallo kit with spare) |
 | ❓ | Duct tape on pole | ? |
 
@@ -178,7 +178,7 @@ Consolidated shopping list from [gear-inventory-2027.md](./gear-inventory-2027.m
 
 | When | Do |
 |------|-----|
-| **Now–autumn 2026** | Poles **📦** · spare baskets **📦** · **VBL** 📦 · **Shield 0–4** 📦 · skin reglue (wax/glue ✓) · **Storm 500-R** ✓ · **Calazo** ✓ · **Topo GPS** packs ✓ · OsmAnd on Armor · sync Vertical 2 · **Nammatj** pitch practice |
+| **Now–autumn 2026** | Poles **📦** · spare baskets **📦** · **VBL** 📦 · **Shield 0–4** ✓ · skin reglue (wax/glue ✓) · **Storm 500-R** ✓ · **Calazo** ✓ · **Topo GPS** packs ✓ · OsmAnd on Armor · sync Vertical 2 · **Nammatj** pitch practice |
 | **Autumn 2026** | Merino ski socks · camp socks · booties · **Sirex** ✓ · shakedowns (incl. VBL + Shield) · Suunto route practice |
 | **Jan 2027** | inReach plan live · OsmAnd `2027.GPX` on Armor · **all** Suunto routes loaded **at home** · Topo GPS tiles + **66i → Topo GPS** shakedown |
 | **Feb 2027** | Alkylate fill · last gaps |
