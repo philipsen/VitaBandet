@@ -206,9 +206,11 @@ Leave Storlien **north** on snowmobile spår past **Norder-Rensjön** — camp *
 
 Fjäll travel toward **Skalstugan** on the Storlien–Kolåsen line — **Kolåsen** is still **~55 km** ahead on the track.
 
+**Skalstugan** guesthouse is on the line, but **1,600 kr**/night for outsiders is too much. Camp **tent** on the corridor. (2027 full board: outsiders **1,600 kr**, SEB **1,230 kr** — [prislista](https://www.skalstugan.se/wp-content/uploads/2026/01/Prislista-2027.pdf).)
+
 | Acc | Notes |
 |-----|-------|
-| **T** | Skalstugan corridor |
+| **T** | On track · Skalstugan corridor |
 
 #### Day 13 · Sat 27 Feb · 19 km (cum 221) · ↑192 m ↓249 m · Hotagen väster om
 
