@@ -1,6 +1,6 @@
 # Vita Bandet 2027 — pack checklist
 
-**Solo · S→N · 15 Feb–19 Apr · ski + pulk · mostly tent**  
+**Solo · S→N · 5 Feb–15 Apr · ski + pulk · mostly tent**  
 Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gear-inventory-2027.md](./gear-inventory-2027.md) · [gear-considerations-2027.md](./gear-considerations-2027.md) · [resupply-2027.md](./resupply-2027.md) · [dag-for-dag-2027.md](./dag-for-dag-2027.md)
 
 ---

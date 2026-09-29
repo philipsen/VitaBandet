@@ -1,6 +1,6 @@
 # Pulk weight — D1 Grövelsjön
 
-**Loaded pulk leaving STF Grövelsjön (15 Feb 2027).** Food menu: [food-section1-2027.md](./food-section1-2027.md). Gear list: [gear-inventory-2027.md](./gear-inventory-2027.md). Packing: [packing-pulk-2027.md](./packing-pulk-2027.md).
+**Loaded pulk leaving STF Grövelsjön (5 Feb 2027).** Food menu: [food-section1-2027.md](./food-section1-2027.md). Gear list: [gear-inventory-2027.md](./gear-inventory-2027.md). Packing: [packing-pulk-2027.md](./packing-pulk-2027.md).
 
 **Sled** = J14 + Sleeper + tent + cargo. **Not** skis, boots, worn clothes, or companion food. **D1 lunch 350 g** on the body. Alkylate **~0.74 kg/L**.
 

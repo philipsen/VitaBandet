@@ -1,6 +1,6 @@
 # Vita Bandet — historical track comparison
 
-Nine completed Band tracks downloaded from [vgb.vitagronabandet.se](https://vgb.vitagronabandet.se) via `ajax/getRouteData.php` and converted to GPX. Factual comparison against the [2027 plan](./dag-for-dag-2027.md) (target **~900 km at Kvikkjokk by ~29 Mar**, start **15 Feb**) — describes range, not pacing prescription.
+Nine completed Band tracks downloaded from [vgb.vitagronabandet.se](https://vgb.vitagronabandet.se) via `ajax/getRouteData.php` and converted to GPX. Factual comparison against the [2027 plan](./dag-for-dag-2027.md) (target **~900 km at Kvikkjokk by ~23 Mar**, start **5 Feb**) — describes range, not pacing prescription.
 
 **Live route (BaseCamp master):** [`2027.GPX`](../tracks/2027.GPX) — day pins D1–D70.  
 **Archive composite (section stitch from historical tracks + plan legs):** [`vita-bandet-2027-composite.gpx`](../tracks/generated/vita-bandet-2027-composite.gpx) — **not** the live itinerary; useful for corridor comparison only.

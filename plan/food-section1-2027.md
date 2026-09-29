@@ -33,16 +33,16 @@
 
 | Day | Date | Camp | Breakfast | Lunch | Dinner |
 |-----|------|------|-----------|-------|--------|
-| **1** | Mon 15 Feb | Hävlingen | STF (not packed) | 350 g on body | Cooked — pasta + bacon ([#2](./trail-meals-2027.md#2-snabb-pasta-aglio-e-olio--skinka-eller-bacon)) |
-| **2** | Tue 16 Feb | STF Rogen tent | Cruesli 120 g + powder | 350 g | Cooked — korv-stroganoff (#7) |
-| **3** | Wed 17 Feb | Skedbrosjön | Cruesli + powder | 350 g | Cooked — köttfärssås / frozen färs (#24) |
-| **4** | Thu 18 Feb | Tänndalen west | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
-| **5** | Fri 19 Feb | Band track | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
-| **6** | Sat 20 Feb | Fältjägaren | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
-| **7** | Sun 21 Feb | Helags west | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
-| **8** | Mon 22 Feb | Sylarna west | Bread + durkorv | 350 g | Freeze-dried + 20 g oil |
-| **9** | Tue 23 Feb | Blåhammaren west | Bread + durkorv | 350 g | Freeze-dried + 20 g oil |
-| **10** | Wed 24 Feb | **Storlien H** | Bread + durkorv | 350 g | Restaurant |
+| **1** | Fri 5 Feb | Hävlingen | STF (not packed) | 350 g on body | Cooked — pasta + bacon ([#2](./trail-meals-2027.md#2-snabb-pasta-aglio-e-olio--skinka-eller-bacon)) |
+| **2** | Sat 6 Feb | STF Rogen tent | Cruesli 120 g + powder | 350 g | Cooked — korv-stroganoff (#7) |
+| **3** | Sun 7 Feb | Skedbrosjön | Cruesli + powder | 350 g | Cooked — köttfärssås / frozen färs (#24) |
+| **4** | Mon 8 Feb | Tänndalen west | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
+| **5** | Tue 9 Feb | Band track | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
+| **6** | Wed 10 Feb | Fältjägaren | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
+| **7** | Thu 11 Feb | Helags west | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
+| **8** | Fri 12 Feb | Sylarna west | Bread + durkorv | 350 g | Freeze-dried + 20 g oil |
+| **9** | Sat 13 Feb | Blåhammaren west | Bread + durkorv | 350 g | Freeze-dried + 20 g oil |
+| **10** | Sun 14 Feb | **Storlien H** | Bread + durkorv | 350 g | Restaurant |
 
 Helags / Sylarna / Blåhammaren are **closed** on these dates — tent + freeze-dried, no hut kitchen.
 

@@ -58,7 +58,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | **1** | **Grövelsjön** | **Ask** | Fjällbua / STF — outdoor section | Often **canisters only** — **ignore**; **3 L from home/car** (§1, two people) |
 | **4** | **Tänndalen** (Hamra Livs) | **Unlikely** | Village livs — small selection | Planned **D** · ~6 km detour **west** · food top-up only |
 | **7–8** | **Helags / Sylarna** (väster om · east detour) | **Rare** | STF butik if you detour to stations — winter **5 Mar – 18 Apr 2027** ([scraped](./stf-openings-2027.md)) | On Band track D7–D8 (21–22 Feb): **closed** — tent only |
-| **9** | **Blåhammaren** (väster om · east detour) | **Rare** | STF butik if you detour — winter **5 Mar – 18 Apr 2027** | D9 (23 Feb): **closed** — tent; optional **H** from D19 (5 Mar) |
+| **9** | **Blåhammaren** (väster om · east detour) | **Rare** | STF butik if you detour — winter **5 Mar – 18 Apr 2027** | D9 (13 Feb): **closed** — tent. Opens **5 Mar** (**D29**, already north) |
 | **10** | **Storlien** | **Ask** | Coop / Fjellhandeln / Sportringen — outdoor | **Liquid alkylate only** (no canisters); ask **alkylbensin / Power Fuel** |
 | **15** | **Kallsedet** | **No** | — | On track · optional **H** Kolåsen (~10 km detour) |
 | **17** | **Olden** (corridor) | **No** | — | On track only — **not** Valsjöbua |
@@ -80,7 +80,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | **56–61** | **KL huts** | **Rare** | Huts sometimes **gas cans** — **do not use** | Snacks only; fuel from **Ritsem** bottles |
 | **62** | **Abisko** ★ | **Yes** | **STF Fjällboden** — **Power Fuel** tins + **canisters OK from here** | **Max liquid fill** (~2 L); optional gas jet + canister for Norway |
 | **63–67** | **DNT huts** | **None** | — | Cook on bottles from Abisko |
-| **68** | **Pältsa** | **No** | Hut **closed** 18 Apr | D69 (24 Apr) after season — no shop |
+| **68** | **Pältsa** | **No** | Hut **open** until 18 Apr | D69 (14 Apr) staffed — not a food stop |
 
 **Summary — plan alkylate buys**
 
@@ -127,7 +127,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | 47 | **STF Kvikkjokk** | Restaurant + café | Book dinner | Last STF restaurant before Padjelanta |
 | 55 | **STF Ritsem** | Restaurant | Walk-in / book | Largest STF restaurant in north |
 | 62 | **STF Abisko Turiststation** | Restaurant | Book dinner | Last full restaurant before Norway |
-| 69 | **STF Pältsa** | **Closed** 18 Apr 2027 | D69 = 24 Apr | Tent / safety room only |
+| 69 | **STF Pältsa** | **Open** until 18 Apr 2027 | D69 = 14 Apr | **H** · tent only after close |
 
 **Off-route restaurants** (storm bail-out or transport rescue): Funäsdalen ICA + Hotell Funäsdalen; Björkliden (Lapporten, Snöbar); Riksgränsen (Lapplandia, Lappis); Kebnekaise (Elsas kök — 3-rätter förboka); Saltoluokta (game + char restaurant). See "Off-route options" below.
 
@@ -247,7 +247,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ### Day 7–8 — Helags / Sylarna (väster om) · STF east detour
 
-*Band track passes **west** of **STF Helags** (D7) and **STF Sylarna** (D8). **2027 winter** (STF site, scraped Sep 2026): cluster opens **5 Mar – 18 Apr** — see [stf-openings-2027.md](./stf-openings-2027.md). Plan days 7–9 (21–23 Feb) are **before** staffed season → **tent** on track; optional **H** detour east only from **5 Mar** (plan D19).*
+*Band track passes **west** of **STF Helags** (D7) and **STF Sylarna** (D8). **2027 winter** (STF site, scraped Sep 2026): cluster opens **5 Mar – 18 Apr** — see [stf-openings-2027.md](./stf-openings-2027.md). Plan days 7–9 (11–13 Feb) are **before** staffed season → **tent** on track. The cluster opens **5 Mar** (**D29**), after you have left Jämtland.*
 
 | Station | Winter 2027 | Restaurant | Butik | Notes |
 |---------|-------------|------------|-------|-------|
@@ -506,7 +506,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | **Altevasshytta** | **None** | **None** | **H** day 66 |
 | **Gaskash / Rostah** | — | — | Off main **Ola** line — only if you detour |
 
-**At Abisko (day 62):** stock **7–8 days food** + **~2 L alkylate** for Abisko → **Treriksröset**. **Pältsa shop is closed** on D69.
+**At Abisko (day 62):** stock **7–8 days food** + **~2 L alkylate** for Abisko → **Treriksröset**. **Pältsa is staffed** on D69 (14 Apr) but is not the finish resupply.
 
 ---
 
@@ -514,7 +514,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 | Where | Food | Fuel | Notes |
 |-------|------|------|--------|
-| **STF Pältsa** | Winter **19 Mar – 18 Apr 2027** — **closed** on D69 (24 Apr) | — | Tent / safety room · **no shop** · load Abisko for the finish · [openings](./stf-openings-2027.md) |
+| **STF Pältsa** | Winter **19 Mar – 18 Apr 2027** — **open** on D69 (14 Apr) | — | **H** · not a shop stop · load Abisko for the finish · [openings](./stf-openings-2027.md) |
 | Treriksröset | **Nothing** | — | Finish line |
 
 ---
