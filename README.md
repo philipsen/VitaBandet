@@ -14,7 +14,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 **Fast dense (~27 km · scraped stitch):** [dag-for-dag-fast-27km-2027.md](plan/dag-for-dag-fast-27km-2027.md) · [`vita-bandet-fast-27km.gpx`](tracks/generated/vita-bandet-fast-27km.gpx)  
 **Master GPX:** [`2027.GPX`](tracks/2027.GPX) — maintained manually in BaseCamp and used as the route source of truth. Detail/context: [band-tracks-comparison.md](plan/band-tracks-comparison.md).  
 **Resupply (local):** [resupply-2027.md](plan/resupply-2027.md) · **§1 food:** [food-section1-2027.md](plan/food-section1-2027.md) · **D1 pulk weight:** [pulk-weight-2027.md](plan/pulk-weight-2027.md)  
-**Transport (start & return):** [transport-considerations-2027.md](plan/transport-considerations-2027.md) · **Companion (§1):** [companion-plan-2027.md](plan/companion-plan-2027.md) · **Klaartje (Hemavan→Kvikkjokk):** [option D](plan/companion-plan-2027.md#d--hemavan--kvikkjokk--klaartje) · [other PT-easy legs](plan/companion-plan-2027.md#other-companion-suited-sections--pt-both-ends)  
+**Transport (start & return):** [transport-considerations-2027.md](plan/transport-considerations-2027.md) · **Companion A:** [companion-plan-2027.md](plan/companion-plan-2027.md) · **B:** [companion-plan-b-2027.md](plan/companion-plan-b-2027.md) · **Klaartje C:** [companion-plan-c-2027.md](plan/companion-plan-c-2027.md) · **D:** [companion-plan-d-2027.md](plan/companion-plan-d-2027.md) · [index](plan/companion-sections-2027.md)  
 **STF hut openings:** [stf-openings-2027.md](plan/stf-openings-2027.md) (scraped from [svenskaturistforeningen.se](https://www.svenskaturistforeningen.se))
 **Gear inventory:** [gear-inventory-2027.md](plan/gear-inventory-2027.md) · **Comparisons & upgrades:** [gear-considerations-2027.md](plan/gear-considerations-2027.md)
 
@@ -57,7 +57,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 - **Planned direction:** Grövelsjön → Treriksröset  
 - **Getting there / home:** [transport-considerations-2027.md](plan/transport-considerations-2027.md) — **drive → Mora (park)** · companion **Grövelsjön→Storlien** may drive car home · you exit **Kilpisjärvi / Tromsø**
-- **Companion trip:** [companion-plan-2027.md](plan/companion-plan-2027.md) — ski **D1–D10** · train Storlien → Mora · drive car NL · **Klaartje** Hemavan→Kvikkjokk ([option D](plan/companion-plan-2027.md#d--hemavan--kvikkjokk--klaartje)) · [other PT-easy legs](plan/companion-plan-2027.md#other-companion-suited-sections--pt-both-ends)
+- **Companion trips:** [A Grövelsjön→Storlien](plan/companion-plan-2027.md) (car home) · [B Lapplandsleden](plan/companion-plan-b-2027.md) · [C Klaartje Hemavan→Kvikkjokk](plan/companion-plan-c-2027.md) · [D Ritsem→Abisko](plan/companion-plan-d-2027.md) · [index](plan/companion-sections-2027.md)
 - **Daily distance target (km):** ramp **10 → 23 km**; cruise **~20–23 km** (~22 km winter average); see [dag-for-dag](plan/dag-for-dag-2027.md)  
 - **Rest / weather buffer:** no fixed **R** days — resupply stops only; **Apr 20–30** = ~11 spare days  
 - **Resupply strategy:** **local shops first** (see [resupply-2027.md](plan/resupply-2027.md)); depots only for special items  

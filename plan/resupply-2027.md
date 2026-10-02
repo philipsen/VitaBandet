@@ -37,7 +37,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 **Your fuel:** **Alkylaatbenzine** (NL) = **alkylbensin / alkylatbensin** (SE) = **chemically clean gasoline** = same class as **Coleman Fuel** / **Primus Power Fuel**. Decant from shop **1 L tins** into your **2× 1 L** bottles.
 
-**Plan rule — no gas canisters until Abisko:** From **Grövelsjön through Ritsem** (days **1–61**) use **liquid alkylate in bottles only** (white-gas jet + silencer). Shops often stock **Primus/ICA gas cylinders** — **do not buy or carry** them on this leg. **From Abisko (day 62)** canisters are OK if you want (pack **gas jet**); liquid Power Fuel tins still work and stay the default.
+**Plan rule — no gas canisters until Abisko:** From **Grövelsjön through Ritsem** (days **1–65**) use **liquid alkylate in bottles only** (white-gas jet + silencer). Shops often stock **Primus/ICA gas cylinders** — **do not buy or carry** them on this leg. **From Abisko (day 66)** canisters are OK if you want (pack **gas jet**); liquid Power Fuel tins still work and stay the default.
 
 | Name you see in shop | Use in OmniLite? | Silencer OK? |
 |----------------------|------------------|--------------|
@@ -57,41 +57,41 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 |-----|------|-----------|---------------------|--------|
 | **1** | **Grövelsjön** | **Ask** | Fjällbua / STF — outdoor section | Often **canisters only** — **ignore**; **3 L from home/car** (§1, two people) |
 | **4** | **Tänndalen** (Hamra Livs) | **Unlikely** | Village livs — small selection | Planned **D** · ~6 km detour **west** · food top-up only |
-| **7–8** | **Helags / Sylarna** (väster om · east detour) | **Rare** | STF butik if you detour to stations — winter **5 Mar – 18 Apr 2027** ([scraped](./stf-openings-2027.md)) | On Band track D7–D8 (21–22 Feb): **closed** — tent only |
-| **9** | **Blåhammaren** (väster om · east detour) | **Rare** | STF butik if you detour — winter **5 Mar – 18 Apr 2027** | D9 (13 Feb): **closed** — tent. Opens **5 Mar** (**D29**, already north) |
+| **7–8** | **Helags / Sylarna** (väster om · east detour) | **Rare** | STF butik if you detour to stations — winter **5 Mar – 18 Apr 2027** ([scraped](./stf-openings-2027.md)) | On Band track D7–D8 (13–14 Feb): **closed** — tent only |
+| **9** | **Blåhammaren** (väster om · east detour) | **Rare** | STF butik if you detour — winter **5 Mar – 18 Apr 2027** | D9 (15 Feb): **closed** — tent. Opens **5 Mar** (**D27**, Vilhelmina fjäll) |
 | **10** | **Storlien** | **Ask** | Coop / Fjellhandeln / Sportringen — outdoor | **Liquid alkylate only** (no canisters); ask **alkylbensin / Power Fuel** |
-| **15** | **Kallsedet** | **No** | — | On track · optional **H** Kolåsen (~10 km detour) |
-| **17** | **Olden** (corridor) | **No** | — | On track only — **not** Valsjöbua |
-| **20** | **Valsjöbyn** (Valsjöbua) ★ | **Maybe** | Lanthandel + Systembolag + post + frystorkad; **"gas" sold** — ask if liquid alkylbensin in stock | Bandet hub · **free Bandare vandrarhem** · jour 072-1933833 |
-| **23–24** | **Gäddede väster om / Gäddede** | **Maybe** | **Frostvikens El** (Gäddede) · **ICA Blåsjöfjäll** optional detour (~35 km off track) | Blåsjö pump ★ if you detour; else Frostvikens at **D24** |
-| **26** | **Borgafjäll** (Hotell, detour ~24 km E) | **No** | Hotel/restaurant only — no village livs of size | **H** option; restaurant 18–21 daily |
-| **26–27** | **Saxnäs** (Marsfjällshandlarn, detour ~24 km E) | **Maybe** | Handlar'n — frystorkad, **gasol**, isdubbar, friluft; **Marsfjäll Mountain Lodge** restaurant | Optional Vildmarksvägen top-up before Klimpfjäll |
-| **28** | **Klimpfjäll** (Handlar'n) | **Unlikely** | Village livs — small selection | Food top-up only; don't count on alkylate |
-| **32** | **Gränssjö** (kiosk, ~1 km off track) | **No** | **[Gränssjöarna](https://granssjoarna.se/)** kiosk — snacks, drinks, hygiene only | Optional mini top-up · **phone 073-068 03 41** in March; not a **D** day |
-| **34** | **Tärna Vilt** (shop only, ~170 m off track) | **No** | **[Tärna Vilt](https://boka.hemavan.nu/tarna-vilt)** — vilt/chark, snacks · **no camp** | Optional early on D34 · **0954-320 00** |
-| **34** | **Hemavan / Tärnaby** ★ | **Maybe** | ICA + **Sportringen / Cykel & Fiske** (call ahead) | **Halfway ★** — **max fill** before Kvikkjokk |
-| **39** | **Ammarnäs** (Handlar'n) | **Unlikely** | ICA Nära / Handlar'n village livs | Kungsleden top-up; **wall / el** (one of several mid-leg charge stops) |
-| **42** | **Adolfström** (Handelsbod) | **No** | Handelsbod — dried foods, bread, reindeer; **by arrangement** outside v.14–15 | Phone-ahead Kungsleden classic |
-| **41** | **Vuoggatjålme** (Fjällhotell) | **Ask** | Hotel + restaurant on Silvervägen — small shop possible | **H** option; restaurant Feb–Apr Wed–Sat 12–20 |
-| **44** | **Jäckvik** (väster om · optional **D**) | **Unlikely** | ICA — canisters only | **Skip fuel** unless emergency; liquid from Hemavan |
-| **47** | **Kvikkjokk** | **⚠️ Often NO** | STF shop lists **T-sprit + Primus gas** — **no canisters** | **Critical:** max **liquid** fill from **Hemavan** for Kvikkjokk → Ritsem |
-| **48–55** | **Kvikkjokk → Ritsem** (Padjelanta-west) | **None** | — | **6–7 days** on trail; carry **2× 1 L** full from Kvikkjokk/Hemavan |
-| **55** | **Ritsem** ★ | **Yes** | **Primus Power Fuel** + sprit | **Best refill** — buy **max** for Ritsem → Abisko KL |
-| **56–61** | **KL huts** | **Rare** | Huts sometimes **gas cans** — **do not use** | Snacks only; fuel from **Ritsem** bottles |
-| **62** | **Abisko** ★ | **Yes** | **STF Fjällboden** — **Power Fuel** tins + **canisters OK from here** | **Max liquid fill** (~2 L); optional gas jet + canister for Norway |
-| **63–67** | **DNT huts** | **None** | — | Cook on bottles from Abisko |
-| **68** | **Pältsa** | **No** | Hut **open** until 18 Apr | D69 (14 Apr) staffed — not a food stop |
+| **16** | **Kallsedet** | **No** | — | On track · optional **H** Kolåsen (~10 km detour) |
+| **18** | **Olden** (corridor) | **No** | — | On track only — **not** Valsjöbua |
+| **21** | **Valsjöbyn** (Valsjöbua) ★ | **Maybe** | Lanthandel + Systembolag + post + frystorkad; **"gas" sold** — ask if liquid alkylbensin in stock | Bandet hub · **free Bandare vandrarhem** · jour 072-1933833 |
+| **24–25** | **Gäddede väster om / Gäddede** | **Maybe** | **Frostvikens El** (Gäddede) · **ICA Blåsjöfjäll** optional detour (~35 km off track) | Blåsjö pump ★ if you detour; else Frostvikens at **D25** |
+| **28** | **Borgafjäll** (Hotell, detour ~24 km E) | **No** | Hotel/restaurant only — no village livs of size | **H** option; restaurant 18–21 daily |
+| **29** | **Saxnäs** (Marsfjällshandlarn, detour ~24 km E) | **Maybe** | Handlar'n — frystorkad, **gasol**, isdubbar, friluft; **Marsfjäll Mountain Lodge** restaurant | Optional Vildmarksvägen top-up before Klimpfjäll |
+| **30** | **Klimpfjäll** (Handlar'n) | **Unlikely** | Village livs — small selection | Food top-up only; don't count on alkylate |
+| **33** | **Gränssjö** (kiosk, ~1 km off track) | **No** | **[Gränssjöarna](https://granssjoarna.se/)** kiosk — snacks, drinks, hygiene only | Optional mini top-up · **phone 073-068 03 41** in March; not a **D** day |
+| **36** | **Tärna Vilt** (shop only, ~170 m off track) | **No** | **[Tärna Vilt](https://boka.hemavan.nu/tarna-vilt)** — vilt/chark, snacks · **no camp** | Optional early on D36 · **0954-320 00** |
+| **37** | **Hemavan / Tärnaby** ★ | **Maybe** | ICA + **Sportringen / Cykel & Fiske** (call ahead) | **Halfway ★** — **max fill** before Kvikkjokk |
+| **43** | **Ammarnäs** (Handlar'n) | **Unlikely** | ICA Nära / Handlar'n village livs | Kungsleden top-up; **wall / el** (one of several mid-leg charge stops) |
+| **46** | **Adolfström** (Handelsbod) | **No** | Handelsbod — dried foods, bread, reindeer; **by arrangement** outside v.14–15 | Phone-ahead Kungsleden classic |
+| **45** | **Vuoggatjålme** (Fjällhotell) | **Ask** | Hotel + restaurant on Silvervägen — small shop possible | **H** option; restaurant Feb–Apr Wed–Sat 12–20 |
+| **48** | **Jäckvik** (väster om · optional **D**) | **Unlikely** | ICA — canisters only | **Skip fuel** unless emergency; liquid from Hemavan |
+| **51** | **Kvikkjokk** | **⚠️ Often NO** | STF shop lists **T-sprit + Primus gas** — **no canisters** | **Critical:** max **liquid** fill from **Hemavan** for Kvikkjokk → Ritsem |
+| **52–58** | **Kvikkjokk → Ritsem** (Padjelanta-west) | **None** | — | **6–7 days** on trail; carry **2× 1 L** full from Kvikkjokk/Hemavan |
+| **59** | **Ritsem** ★ | **Yes** | **Primus Power Fuel** + sprit | **Best refill** — buy **max** for Ritsem → Abisko KL |
+| **60–65** | **KL huts** | **Rare** | Huts sometimes **gas cans** — **do not use** | Snacks only; fuel from **Ritsem** bottles |
+| **66** | **Abisko** ★ | **Yes** | **STF Fjällboden** — **Power Fuel** tins + **canisters OK from here** | **Max liquid fill** (~2 L); optional gas jet + canister for Norway |
+| **67–72** | **DNT huts** | **None** | — | Cook on bottles from Abisko |
+| **73** | **Pältsa** | **No** | Hut **closed** 18 Apr | D73 (20 Apr) **closed** — tent, not a food stop |
 
 **Summary — plan alkylate buys**
 
 | Priority stop | Action |
 |---------------|--------|
 | **Before Day 1** | Fill **both 1 L bottles** at home (hardware/outdoor shop **alkylbensin** 1 L tins) |
-| **Gäddede (24)** | Try **Frostvikens** — top up if found; optional **Blåsjöfjäll** detour (D23–24) |
-| **Hemavan (34)** | **Max fill** both 1 L bottles |
-| **Kvikkjokk (47)** | Confirm alkylate stock; else **Padjelanta on Hemavan fill only** |
-| **Ritsem (55)** | **Largest refill** — Power Fuel tins → your bottles |
-| **Abisko (62)** | **Last big liquid fill** + **canisters allowed from here** if desired |
+| **Gäddede (25)** | Try **Frostvikens** — top up if found; optional **Blåsjöfjäll** detour (D24–25) |
+| **Hemavan (37)** | **Max fill** both 1 L bottles |
+| **Kvikkjokk (51)** | Confirm alkylate stock; else **Padjelanta on Hemavan fill only** |
+| **Ritsem (59)** | **Largest refill** — Power Fuel tins → your bottles |
+| **Abisko (66)** | **Last big liquid fill** + **canisters allowed from here** if desired |
 
 **Practical plan**
 
@@ -116,18 +116,18 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | ~5 | **STF Vålådalen — Olgas Matsal** | Frukost 07:30–09:30 + middag 17–19; café 10–17 (året om butik) | Book dinner | Trad Jämtland cuisine |
 | 7–8 | **STF Helags / Sylarna** (east detour) | Frukost + 2–3 rätters middag | Book ahead | Storm refuge + meal if you leave Band track |
 | 10 | **Storlien Högfjällshotell / Fjällgård** | Hotel restaurants | Walk-in | First major shop town meal |
-| 14 | **Kolåsens Fjällhotell — Ren Mat** | 3-rätters middag 18:00 (förboka senast dagen innan!) | 0647 81017 | Local-sourced fine dining; can be **H** |
-| 20 | **Valsjöbua café** (Valsjöbyn) | Café-del + smörgåsar + korvgrill | Same hours as shop | Stop here always; Bandet legends |
+| 16 | **Kolåsens Fjällhotell — Ren Mat** | 3-rätters middag 18:00 (förboka senast dagen innan!) | 0647 81017 | Local-sourced fine dining; can be **H** |
+| 21 | **Valsjöbua café** (Valsjöbyn) | Café-del + smörgåsar + korvgrill | Same hours as shop | Stop here always; Bandet legends |
 | 22–23 | **Restaurang Fjällripan** (Blåsjö, detour) / **Pizzeria Gäddede** | Blåsjö: ski-slope foot · Gäddede: walk-in | Ring Blåsjö for winter hours | Blåsjö only if you detour off Band track |
 | 25–26 | **Borgafjäll Hotell** / **Marsfjäll Mountain Lodge** (Saxnäs, detour) | À la carte / lunch+middag | 0942-421 00 / 0940 700 03 | Optional **H** + **D** off Vildmarksvägen |
-| 34 | **Hemavan: Anders Bistro, Barobro** + **Tärnaby Fjällhotell Mat&Vänner** (Mon–Sun 17–21) + **Montagna** (Italian) | Multiple restaurants — pizza, French, Nordic, Italian | Mat&Vänner: 0954-10420 | Best **R** day food anywhere on trip |
-| 39 | **STF Ammarnäs Wärdshus** | Restaurant + hut | — | KL village rest |
-| 42 | **Adolfström Handelsbod** | Café + handelsbod meals; bröd, reindeer | **Phone:** 070-617 30 41 (by arrangement outside v.14–15) | Cabin + sauna option |
-| 41 | **Vuoggatjålme Fjällhotell** | Restaurant Wed–Sat 12–20, Sun 12–16 (Feb–Apr) | Reception Mon–Sun 08–17 | Only sit-down between Hemavan and Kvikkjokk |
-| 47 | **STF Kvikkjokk** | Restaurant + café | Book dinner | Last STF restaurant before Padjelanta |
-| 55 | **STF Ritsem** | Restaurant | Walk-in / book | Largest STF restaurant in north |
-| 62 | **STF Abisko Turiststation** | Restaurant | Book dinner | Last full restaurant before Norway |
-| 69 | **STF Pältsa** | **Open** until 18 Apr 2027 | D69 = 14 Apr | **H** · tent only after close |
+| 37 | **Hemavan: Anders Bistro, Barobro** + **Tärnaby Fjällhotell Mat&Vänner** (Mon–Sun 17–21) + **Montagna** (Italian) | Multiple restaurants — pizza, French, Nordic, Italian | Mat&Vänner: 0954-10420 | Best **R** day food anywhere on trip |
+| 43 | **STF Ammarnäs Wärdshus** | Restaurant + hut | — | KL village rest |
+| 46 | **Adolfström Handelsbod** | Café + handelsbod meals; bröd, reindeer | **Phone:** 070-617 30 41 (by arrangement outside v.14–15) | Cabin + sauna option |
+| 45 | **Vuoggatjålme Fjällhotell** | Restaurant Wed–Sat 12–20, Sun 12–16 (Feb–Apr) | Reception Mon–Sun 08–17 | Only sit-down between Hemavan and Kvikkjokk |
+| 51 | **STF Kvikkjokk** | Restaurant + café | Book dinner | Last STF restaurant before Padjelanta |
+| 59 | **STF Ritsem** | Restaurant | Walk-in / book | Largest STF restaurant in north |
+| 66 | **STF Abisko Turiststation** | Restaurant | Book dinner | Last full restaurant before Norway |
+| 73 | **STF Pältsa** | **Open** until 18 Apr 2027 | D73 = 20 Apr | **T** · hut closed 18 Apr |
 
 **Off-route restaurants** (storm bail-out or transport rescue): Funäsdalen ICA + Hotell Funäsdalen; Björkliden (Lapporten, Snöbar); Riksgränsen (Lapplandia, Lappis); Kebnekaise (Elsas kök — 3-rätter förboka); Saltoluokta (game + char restaurant). See "Off-route options" below.
 
@@ -187,7 +187,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Day 15 — Kallsedet (camp) · Kolåsen **H** optional detour
+### Day 16 — Kallsedet (camp) · Kolåsen **H** optional detour
 
 *Camp on the Band track at Kallsedet (~63.701°N, 12.957°E · cum ~251 km). **Kolåsens Fjällhotell** is ~10 km off the line (~63.751°N, 12.957°E).*
 
@@ -204,13 +204,13 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Day 17 — Olden (corridor only)
+### Day 18 — Olden (corridor only)
 
-*Olden ~63.698°N, 13.632°E on the Band track — **not** a shop. **Valsjöbua** is **~60 km further north** (Day 20).*
+*Olden ~63.698°N, 13.632°E on the Band track — **not** a shop. **Valsjöbua** is **~60 km further north** (Day 21).*
 
 ---
 
-### Day 20 — Valsjöbua · **D** ★ Bandet hero stop
+### Day 21 — Valsjöbua · **D** ★ Bandet hero stop
 
 *Valsjöbyn ~64.068°N, 14.139°E — on the Band track (cum ~346 km).*
 
@@ -222,11 +222,11 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 **Hours:** Mon–Fri 10:00–18:00 · Sat 10:00–14:00 · Sun closed (summertime open). **Café-del** + ready sandwiches + frystorkad + outdoor.
 
-**Use it as:** **Primary mid-leg D** between Storlien (D10) and Gäddede (D24) — splits the Storlien→Gäddede leg (~5 days → Valsjöbua + ~3 days → Gäddede). Stay free at **Valen Vandrarhem** (permanently leased by Valsjöbua, free for Bandare when rooms free). "Årets Fjällfararvän 2023" — these people *want* you to stop. Phone 1–2 days ahead.
+**Use it as:** **Primary mid-leg D** between Storlien (D10) and Gäddede (D25) — splits the Storlien→Gäddede leg (~5 days → Valsjöbua + ~3 days → Gäddede). Stay free at **Valen Vandrarhem** (permanently leased by Valsjöbua, free for Bandare when rooms free). "Årets Fjällfararvän 2023" — these people *want* you to stop. Phone 1–2 days ahead.
 
 ---
 
-### Day 23–24 — Gäddede väster om / Gäddede · optional **Blåsjöfjäll** detour
+### Day 24–25 — Gäddede väster om / Gäddede · optional **Blåsjöfjäll** detour
 
 *Gäddede on the Band track ~64.52°N, 14.14°E (cum ~418 km). **ICA Nära Blåsjöfjäll** at Stora Blåsjön (64.836°N, 14.083°E) is **~35 km off the Band track** — not on the daily line.*
 
@@ -241,17 +241,17 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 **Contact ICA:** 0672-21027 · monica.moberg@nara.ica.se · Stora Blåsjön 230, 833 99. Mon–Fri 09:30–17:30 · Sat 10–15 · Sun 11–15.
 
-**Use it as:** **fuel candidate ★** only on a **~35 km detour** off the Band track (D23 camp or D24 morning). If you stocked at **Valsjöbua (D21)**, Frostvikens at Gäddede is usually enough.
+**Use it as:** **fuel candidate ★** only on a **~35 km detour** off the Band track (D24 camp or D25 morning). If you stocked at **Valsjöbua (D21)**, Frostvikens at Gäddede is usually enough.
 
 ---
 
 ### Day 7–8 — Helags / Sylarna (väster om) · STF east detour
 
-*Band track passes **west** of **STF Helags** (D7) and **STF Sylarna** (D8). **2027 winter** (STF site, scraped Sep 2026): cluster opens **5 Mar – 18 Apr** — see [stf-openings-2027.md](./stf-openings-2027.md). Plan days 7–9 (11–13 Feb) are **before** staffed season → **tent** on track. The cluster opens **5 Mar** (**D29**), after you have left Jämtland.*
+*Band track passes **west** of **STF Helags** (D7) and **STF Sylarna** (D8). **2027 winter** (STF site, scraped Sep 2026): cluster opens **5 Mar – 18 Apr** — see [stf-openings-2027.md](./stf-openings-2027.md). Plan days 7–9 (13–15 Feb) are **before** staffed season → **tent** on track. The cluster opens **5 Mar** (**D27**, Vilhelmina fjäll), after you have left Jämtland.*
 
 | Station | Winter 2027 | Restaurant | Butik | Notes |
 |---------|-------------|------------|-------|-------|
-| **STF Storulvån Fjällstation** | **25 Feb – 18 Apr** | **Yes** — frukost + middag | Yes (STF Small/Large) | Opens **day after** D10 (24 Feb) |
+| **STF Storulvån Fjällstation** | **25 Feb – 18 Apr** | **Yes** — frukost + middag | Yes (STF Small/Large) | Opens **25 Feb** (**D19**) — already north of it |
 | **STF Sylarna Fjällstation** | **5 Mar – 18 Apr** | **Yes** — frukost + 2-rätters middag from 18:00 | Yes | Restaurant **closes by 2027** per arrendeavtal — verify nearer the trip |
 | **STF Blåhammaren Fjällstation** | **5 Mar – 18 Apr** | **CLOSED** since Jan 2024 | Yes (basics) | 30 beds · self-catering only · no restaurant |
 | **STF Helags Fjällstation** | **5 Mar – 18 Apr** | **Yes** (closes by 2027) | Yes | Verify restaurant status closer to date |
@@ -260,7 +260,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Day 24 — Gäddede · **D**
+### Day 25 — Gäddede · **D**
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
@@ -272,9 +272,9 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Day 26 — Borgafjäll · **H** (Hotell, optional detour)
+### Day 28 — Borgafjäll · **H** (Hotell, optional detour)
 
-*Borgafjäll ~64.83°N, 15.07°E — Vildmarksvägen, **~24 km east** of Lapplandsleden track (D26 camp is on track west of village).*
+*Borgafjäll ~64.83°N, 15.07°E — Vildmarksvägen, **~24 km east** of Lapplandsleden track (D28 camp is on track west of village).*
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
@@ -283,13 +283,13 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 **Contact:** 0942-421 00 · info@borgafjallhotell.se · Avasjövägen 10, Borgafjäll.
 
-**Use it as:** optional **H** + hot middag mid-Section-3 — detour from D26 camp on track. Skip if budget tight — no village shop of size; food is hotel-only.
+**Use it as:** optional **H** + hot middag mid-Section-3 — detour from D28 camp on track. Skip if budget tight — no village shop of size; food is hotel-only.
 
 ---
 
-### Day 26–27 — Saxnäs · **D** (Marsfjällshandlarn, optional detour) + restaurant
+### Day 29 — Saxnäs · **D** (Marsfjällshandlarn, optional detour) + restaurant
 
-*Saxnäs ~65.05°N, 15.32°E — Vildmarksvägen, **~24 km east** of track between D26 and Slipsikstugan (D27).*
+*Saxnäs ~65.05°N, 15.32°E — Vildmarksvägen, **~24 km east** of track between D28 and Slipsikstugan (D29).*
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
@@ -299,13 +299,13 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 **Contact handlar'n:** 0940 70016 · marsfjallshandlarn@gmail.com · Mon–Fri 09:30–17:30 · Sat 10–15 · Sun closed.
 
-**Use it as:** optional mid-leg **D** on Vildmarksvägen — splits 9–10 days into ~3 + ~6 if you detour from D26/D27 track camps. Marsfjällshandlarn is well-stocked for outdoor needs (frystorkad, isdubbar). Note: lodge closed for renovation **16 Apr – 4 Jun 2026**; our 2027 pass is ~10 Mar so unaffected, but check 2027 status.
+**Use it as:** optional mid-leg **D** on Vildmarksvägen — splits 9–10 days into ~3 + ~6 if you detour from D28/D29 track camps. Marsfjällshandlarn is well-stocked for outdoor needs (frystorkad, isdubbar). Note: lodge closed for renovation **16 Apr – 4 Jun 2026**; our 2027 pass is ~6 Mar so unaffected, but check 2027 status.
 
 ---
 
-### Day 28 — Klimpfjäll · **D** (optional mid-leg top-up)
+### Day 30 — Klimpfjäll · **D** (optional mid-leg top-up)
 
-*Day 28 camp on Lapplandsleden at cum 503 — **Klimpfjäll Handlar'n** village ~633 m east at ~65.067°N, 14.770°E.*
+*Day 30 camp on Lapplandsleden at cum 503 — **Klimpfjäll Handlar'n** village ~633 m east at ~65.067°N, 14.770°E.*
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
@@ -315,9 +315,9 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Day 32 — Gränssjö · optional kiosk (~1 km off track)
+### Day 33 — Gränssjö · optional kiosk (~1 km off track)
 
-*Gränssjö ~65.52°N, 14.53°E — by **Vapstälven**, ~**1 km** from **Arevattnet stuga** (Day 32). One of two small shops between Klimpfjäll and Hemavan (see **Tärna Vilt** shop, optional Day 34 — no camp).*
+*Gränssjö ~65.52°N, 14.53°E — by **Vapstälven**, ~**1 km** from **Arevattnet stuga** (Day 34). One of two small shops between Klimpfjäll and Hemavan (see **Tärna Vilt** shop, optional Day 36 — no camp).*
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
@@ -331,9 +331,9 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Day 34 (en route) — Tärna Vilt · optional shop (no camp)
+### Day 36 (en route) — Tärna Vilt · optional shop (no camp)
 
-*[Tärna Vilt](https://boka.hemavan.nu/tarna-vilt)* at **65.711°N, 14.614°E** — **Boxfjäll, Joesjö** on **AC 1116**. **~170 m** off Lapplandsleden · early on Day 34 leg from **Atostugan** toward **Goeblejaevrie**. **Shop only — do not camp here.**
+*[Tärna Vilt](https://boka.hemavan.nu/tarna-vilt)* at **65.711°N, 14.614°E** — **Boxfjäll, Joesjö** on **AC 1116**. **~170 m** off Lapplandsleden · early on Day 36 leg from **Atostugan** toward **Goeblejaevrie**. **Shop only — do not camp here.**
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
@@ -341,11 +341,11 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 **Contact:** **0954-320 00** · Joesjö, 925 91 Tärnaby.
 
-**Use it as:** optional snack/vilt top-up en route on the long **Atostugan → Hemavan** day — **Hemavan ICA** is the same **Day 34**.
+**Use it as:** optional snack/vilt top-up en route on the **Atostugan → Goeblejaevrie** day — **Hemavan ICA** is **Day 37**.
 
 ---
 
-### Day 34 — Hemavan / Tärnaby · **D** ★ halfway
+### Day 37 — Hemavan / Tärnaby · **D** ★ halfway
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
@@ -357,15 +357,15 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | **Restaurang Montagna** (Tärnaby) | Italian — pizza, pasta, à la carte | — | New Tärnaby option |
 | **Café Tärningen** (Ingemarliften foot) | 10–16 daily during Sportlov 2026 | — | Day-time fika |
 
-**Halfway resupply** — carry through **Kungsleden west + Hornavan** (Padjelanta fuel from here if Kvikkjokk has no alkylate). Optional mid-leg top-up at **Ammarnäs Handlar'n** (day 39) splits the 12-day carry.
+**Halfway resupply** — carry through **Kungsleden west + Hornavan** (Padjelanta fuel from here if Kvikkjokk has no alkylate). Optional mid-leg top-up at **Ammarnäs Handlar'n** (day 43) splits the 12-day carry.
 
-**Eat well:** longest sit-down menu options of the whole trip in the Hemavan/Tärnaby cluster — schedule a rest day if pace allows.
+**Eat well:** longest sit-down menu options of the whole trip. **D38** is a rest day in Hemavan before Viterskalet.
 
 ---
 
-### Day 39 — Ammarnäs · **D** (mid-leg top-up — **power + food**)
+### Day 43 — Ammarnäs · **D** (mid-leg top-up — **power + food**)
 
-*Kungsleden village ~65.96°N, 16.21°E — between Tärnasjön (day 37) and Adolfström.*
+*Kungsleden village ~65.96°N, 16.21°E — between Tärnasjön (day 41) and Adolfström.*
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
@@ -373,11 +373,11 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | **STF Ammarnäs Wärdshus** | Restaurant, hut beds | — | **H** option · wall outlet for **Zolo + phone** |
 | **Ammarnäs Fritidscenter** | — | — | Tent **150 kr** / pitch **300 kr** **incl. el** — [power plan](./power-plan-2027.md) mid-leg options |
 
-**Use it as:** food top-up between **Hemavan (D34)** and **Kvikkjokk (D47)** — splits 12 days into ~5 + ~7. **One of several wall stops** on this leg (also Vuoggatjålme · Adolfström · Jäckvik) — [power plan](./power-plan-2027.md). Bandet classic; sits right on the Kungsleden corridor. Phone for winter hours.
+**Use it as:** food top-up between **Hemavan (D37)** and **Kvikkjokk (D51)** — splits 12 days into ~5 + ~7. **One of several wall stops** on this leg (also Vuoggatjålme · Adolfström · Jäckvik) — [power plan](./power-plan-2027.md). Bandet classic; sits right on the Kungsleden corridor. Phone for winter hours.
 
 ---
 
-### Day 42 — Adolfström · **D** (optional, **call ahead**)
+### Day 46 — Adolfström · **D** (optional, **call ahead**)
 
 *Kungsleden village ~66.10°N, 16.34°E — ~30 km north of Ammarnäs via Aigertstugan / Rävfallet, just before Pieljekaise NP.*
 
@@ -394,7 +394,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | Handelsbod / Fjällgård | **070-617 30 41** · 0961-230 41 · [info@adolfstrom.com](mailto:info@adolfstrom.com) | Adolfström **16** (VGB also lists **168**), 938 93 Laisvall |
 | Camping | **070-236 75 10** · [adolfstromcampingab@gmail.com](mailto:adolfstromcampingab@gmail.com) | Adolfström **110**, 938 93 Laisvall |
 
-**Opening (Handelsbod):** **Posted hours only v.14–15** (Mon–Lör 11–18, Sön 14–18 around Påsk). All other times *"ring eller maila så öppnar vi"*. Your pass-through is ~**week 12–13** — **by-arrangement only**; phone **1–2 weeks** ahead from Hemavan if you want food/cabin.
+**Opening (Handelsbod):** **Posted hours only v.14–16** (Mon–Lör 11–18, Sön 14–18 around Påsk). All other times *"ring eller maila så öppnar vi"*. Your pass-through is ~**week 12–14** — **by-arrangement only**; phone **1–2 weeks** ahead from Hemavan if you want food/cabin.
 
 **Shipping verdict for Adolfström:** **Prefer buy-on-arrival** (call Handelsbod open). **Do not count on a depot box** — Fjällgård currently refuses depots. If you must send gear for a **camping stay**, phone Adolfström Camping first; otherwise use **Hemavan / Ammarnäs / Vuoggatjålme / Kvikkjokk**. Bus out: Länstrafiken **linje 900** Adolfström → Arjeplog (Mon/Wed/Fri — **book by 17:00 day before**).
 
@@ -402,9 +402,9 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Day 41 — Vuoggatjålme · **H** / restaurant (Silvervägen)
+### Day 45 — Vuoggatjålme · **H** / restaurant (Silvervägen)
 
-*Vuoggatjålme ~66.49°N, 16.55°E — on Polcirkeln (Day 41, cum ~755).*
+*Vuoggatjålme ~66.49°N, 16.55°E — on Polcirkeln (Day 47, cum ~755).*
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
@@ -412,11 +412,11 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 **Contact:** [vuoggatjalme.se](https://vuoggatjalme.se) — reception Mon–Sun 08–17 · 0961-107 15 · info@vuoggatjalme.se
 
-**Use it as:** scheduled **H** + hot meal on the otherwise empty Kungsleden west days (~D40–46). Restaurant is the **only sit-down meal between Hemavan (D34) and Kvikkjokk (D47)** — well worth a night. **Pre-book** middag — small kitchen. Can order ICA Jäckvik / Camp Polcirkeln goods for **+100 kr**.
+**Use it as:** scheduled **H** + hot meal on the otherwise empty Kungsleden west days (~D43–D50). Restaurant is the **only sit-down meal between Hemavan (D37) and Kvikkjokk (D51)** — well worth a night. **Pre-book** middag — small kitchen. Can order ICA Jäckvik / Camp Polcirkeln goods for **+100 kr**.
 
 ---
 
-### Day 44 — Jäckvik · **W** (optional **D**)
+### Day 48 — Jäckvik · **W** (optional **D**)
 
 *Village ~66.38°N, 16.97°E — Band track passes **väster om**; ICA is an east detour.*
 
@@ -447,7 +447,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Day 47 — Kvikkjokk · **D**
+### Day 51 — Kvikkjokk · **D**
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
@@ -457,7 +457,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Days 46–53 — Kvikkjokk → Ritsem (Padjelanta-west)
+### Days 52–58 — Kvikkjokk → Ritsem (Padjelanta-west)
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
@@ -466,7 +466,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Day 55 — Ritsem · **D** ★ best shop
+### Day 59 — Ritsem · **D** ★ best shop
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
@@ -476,7 +476,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Days 54–60 — Ritsem → Abisko (Kungsleden)
+### Days 60–65 — Ritsem → Abisko (Kungsleden)
 
 | Hut | Food | Fuel | Notes |
 |-----|------|------|--------|
@@ -485,7 +485,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Day 62 — Abisko · **D** ★ last full shop before Pältsa
+### Day 66 — Abisko · **D** ★ last full shop before Pältsa
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
@@ -496,25 +496,25 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Days 62–66 — Abisko → Treriksröset (Ola line · DNT huts)
+### Days 67–74 — Abisko → Treriksröset (Ola line · DNT huts)
 
 **No pantry** on trail. **Ola GPX** uses **Lappjord → Altevass → Treriksröset** — may **skip** Gaskash/Rostah hut stops.
 
 | Where | Food | Fuel | Notes |
 |-------|------|------|-------|
-| **Lappjordhytta** | **None** | **None** | DNT key · **H** day 65 |
-| **Altevasshytta** | **None** | **None** | **H** day 66 |
+| **Lappjordhytta** | **None** | **None** | DNT key · **H** day 67 |
+| **Altevasshytta** | **None** | **None** | **H** day 68 |
 | **Gaskash / Rostah** | — | — | Off main **Ola** line — only if you detour |
 
-**At Abisko (day 62):** stock **7–8 days food** + **~2 L alkylate** for Abisko → **Treriksröset**. **Pältsa is staffed** on D69 (14 Apr) but is not the finish resupply.
+**At Abisko (day 66):** stock **7–8 days food** + **~2 L alkylate** for Abisko → **Treriksröset**. **Pältsa is closed** on D73 (20 Apr) but is not the finish resupply.
 
 ---
 
-### Day 67–68 — Pältsa → Treriksröset
+### Day 73–74 — Pältsa → Treriksröset
 
 | Where | Food | Fuel | Notes |
 |-------|------|------|--------|
-| **STF Pältsa** | Winter **19 Mar – 18 Apr 2027** — **open** on D69 (14 Apr) | — | **H** · not a shop stop · load Abisko for the finish · [openings](./stf-openings-2027.md) |
+| **STF Pältsa** | Winter **19 Mar – 18 Apr 2027** — **closed** on D73 (20 Apr) | — | **T** · not a shop stop · load Abisko for the finish · [openings](./stf-openings-2027.md) |
 | Treriksröset | **Nothing** | — | Finish line |
 
 ---
@@ -526,7 +526,7 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 | Place | Status (2026 → assume similar 2027) | Why off-route | When to use |
 |-------|-------------------------------------|----------------|-------------|
 | **Funäsdalen** (ICA Supermarket Coop) | Year-round full village — Rörosvägen 13A · 0684 21007 | ~15 km east of Tänndalen / Day 4–5 line | Storm hold; resupply for both food + bus rescue |
-| **Skalstugan** (border guesthouse, Day 12) | **2027:** outsiders **1,600 kr**/night full board — too much for one night. [Prislista 2027](https://www.skalstugan.se/wp-content/uploads/2026/01/Prislista-2027.pdf) | On Storlien–Kolåsen line | **Tent** on the corridor |
+| **Skalstugan** (border guesthouse, Day 14) | **2027:** outsiders **1,600 kr**/night full board — too much for one night. [Prislista 2027](https://www.skalstugan.se/wp-content/uploads/2026/01/Prislista-2027.pdf) | On Storlien–Kolåsen line | **Tent** on the corridor |
 | **Laisvall / Laisdalen** | Eastern corridor — small services | Long detour east | Only if weather forces lower route |
 | **STF Saltoluokta Fjällstation** | **26 Feb – 18 Apr 2027** · restaurant (frukost+middag) + butik · 25–27 Jun music festival | **East of plan line — VGB rule: väster om only** | Emergency H + meal; loses VGB compliance for Saltoluokta |
 | **STF Vakkotavare Fjällstuga** | 27 Feb – 19 Apr · self-service only · roadside Gällivare–Ritsem | Roadside hut — bail-out node | Bus to Gällivare / Ritsem · no pantry |
@@ -559,11 +559,11 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 |-----|------|---------------|-----------------|----------------------|
 | Grövelsjön → Storlien | 10 | Day 1 · **Fjällbua** / NL | **[§1 menu](./food-section1-2027.md)** · **~7.0 kg** on pulk (your food only) · Hamra **backup** | [pulk-weight](./pulk-weight-2027.md) **~30.8 kg** loaded |
 | → Gäddede | 14 | Day 10 Storlien | **10–12 d** · **~13–18 kg** (or split **Valsjöbua D21**) | Heaviest early load |
-| → Hemavan | 10 | Day 24 Gäddede | **9–10 d** · **~12–15 kg** (or **~5 d / ~7 kg** if Klimpfjäll D28) | |
-| → Kvikkjokk | 12 | Day 34 Hemavan ★ | **11–12 d** · **~14–18 kg** (or **~5 d / ~7 kg** + **Ammarnäs D39 ~7 d / ~9–11 kg**) | Heaviest with full alkylate |
-| → Ritsem | 6–7 | Day 47 | **7–8 d** · **~9–12 kg** | Max leg (no shops) |
-| → Abisko | 7 | Day 55 Ritsem ★ | **6–7 d** · **~8–11 kg** | |
-| → Treriksröset | 6 | Day 62 Abisko ★ | **7–8 d** · **~9–12 kg** | DNT huts sell **no** food |
+| → Hemavan | 11 | Day 25 Gäddede | **10–11 d** · **~12–15 kg** (or **~5 d / ~7 kg** if Klimpfjäll D30) | |
+| → Kvikkjokk | 12 | Day 37 Hemavan ★ | **11–12 d** · **~14–18 kg** (or **~5 d / ~7 kg** + **Ammarnäs D43 ~7 d / ~9–11 kg**) | Heaviest with full alkylate |
+| → Ritsem | 6–7 | Day 51 | **7–8 d** · **~9–12 kg** | Max leg (no shops) |
+| → Abisko | 7 | Day 59 Ritsem ★ | **6–7 d** · **~8–11 kg** | |
+| → Treriksröset | 6 | Day 66 Abisko ★ | **7–8 d** · **~9–12 kg** | DNT huts sell **no** food |
 
 **Trip total (buy on the way):** **~65–70 days** × **1.3–1.5 kg** ≈ **~85–105 kg** of groceries, bought in those chunks — never all at once. Restaurant nights (Hemavan, STF) shave a kilo or two.
 

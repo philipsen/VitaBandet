@@ -1,6 +1,6 @@
 # Vita Bandet 2027 — pack checklist
 
-**Solo · S→N · 5 Feb–15 Apr · ski + pulk · mostly tent**  
+**Solo · S→N · 7 Feb–21 Apr · ski + pulk · mostly tent**  
 Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: [packing-pulk-2027.md](./packing-pulk-2027.md) · [gear-inventory-2027.md](./gear-inventory-2027.md) · [gear-considerations-2027.md](./gear-considerations-2027.md) · [resupply-2027.md](./resupply-2027.md) · [dag-for-dag-2027.md](./dag-for-dag-2027.md)
 
 ---
@@ -67,7 +67,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [x] Tent **Nammatj 3 GT** ✓ in **Hilleberg Sled Pack** ✓ + stakes **12+** alu snow/sand + guy line + repair kit — Nallo 3GT spare at home
 - [x] Sleeping bag **Lowland K2** + dry bag + **liner** ✓ → **Sleeper 200**
 - [x] Pad **Exped Ultra 7R** + pump + repair kit + dry bag → **Sleeper 200** (active)
-- [x] Pad **NeoAir XLite** ✓ — **ship to Abisko** (not in pulk · optional switch at D62)
+- [x] Pad **NeoAir XLite** ✓ — **ship to Abisko** (not in pulk · optional switch at D66)
 - [ ] Foam **Sirex Everest 10** → main pulk (backup under Ultra 7R / emergency)
 
 ---
@@ -197,7 +197,7 @@ S→N: each point **east** of track. Wide corridor OK.
 
 - [ ] Undersåker (väster om — day ~12)
 - [ ] Håkafot (väster om)
-- [ ] Jäckvik (väster om — **D44**; ICA optional **D**)
+- [ ] Jäckvik (väster om — **D48**; ICA optional **D**)
 - [ ] Saltoluokta (väster om)
 - [ ] Nikkaluokta (väster om)
 - [ ] Torneträsk östra spetsen (väster om — tip east of track)

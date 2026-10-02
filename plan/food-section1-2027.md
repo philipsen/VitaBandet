@@ -1,12 +1,12 @@
 # Section 1 food — Grövelsjön → Storlien
 
-**You only** (companion food on their pulk). **15–24 Feb 2027** · D1–D10 · **162 km**.  
+**You only** (companion food on their pulk). **7–16 Feb 2027** · D1–D10 · **162 km**.  
 **Pulk grams:** [pulk-weight-2027.md](./pulk-weight-2027.md). Recipes: [trail-meals-2027.md](./trail-meals-2027.md). Days: [dag-for-dag-2027.md](./dag-for-dag-2027.md).
 
 **Locked**
 
 - **Full carry** from Grövelsjön. **Hamra Livs (D4) = backup** if you eat faster or want fresh food — not required for D1 weight.
-- **Source:** home (**NL**) and/or **Fjällbua**, Storsätern (Grövelsjön livs). Shop **13–14 Feb**. STF kiosk = top-up only.
+- **Source:** home (**NL**) and/or **Fjällbua**, Storsätern (Grövelsjön livs). Shop **5–6 Feb**. STF kiosk = top-up only.
 - **Lunch:** **4 bars = 200 g** + **150 g** nötter / torkad frukt (**350 g**).
 - **Breakfast packed:** **6× Cruesli 120 g + mjölkpulver** (powder mixed **cold**) · **3× bread + dried sausage**. Morning stove: **coffee + warm water** — not a milk boil.
 - **Dinner:** **3 cooked** (D1–D3) + **6 freeze-dried** (D4–D9). D10 = Storlien restaurant.
@@ -33,16 +33,16 @@
 
 | Day | Date | Camp | Breakfast | Lunch | Dinner |
 |-----|------|------|-----------|-------|--------|
-| **1** | Fri 5 Feb | Hävlingen | STF (not packed) | 350 g on body | Cooked — pasta + bacon ([#2](./trail-meals-2027.md#2-snabb-pasta-aglio-e-olio--skinka-eller-bacon)) |
-| **2** | Sat 6 Feb | STF Rogen tent | Cruesli 120 g + powder | 350 g | Cooked — korv-stroganoff (#7) |
-| **3** | Sun 7 Feb | Skedbrosjön | Cruesli + powder | 350 g | Cooked — köttfärssås / frozen färs (#24) |
-| **4** | Mon 8 Feb | Tänndalen west | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
-| **5** | Tue 9 Feb | Band track | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
-| **6** | Wed 10 Feb | Fältjägaren | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
-| **7** | Thu 11 Feb | Helags west | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
-| **8** | Fri 12 Feb | Sylarna west | Bread + durkorv | 350 g | Freeze-dried + 20 g oil |
-| **9** | Sat 13 Feb | Blåhammaren west | Bread + durkorv | 350 g | Freeze-dried + 20 g oil |
-| **10** | Sun 14 Feb | **Storlien H** | Bread + durkorv | 350 g | Restaurant |
+| **1** | Sun 7 Feb | Hävlingen | STF (not packed) | 350 g on body | Cooked — pasta + bacon ([#2](./trail-meals-2027.md#2-snabb-pasta-aglio-e-olio--skinka-eller-bacon)) |
+| **2** | Mon 8 Feb | STF Rogen tent | Cruesli 120 g + powder | 350 g | Cooked — korv-stroganoff (#7) |
+| **3** | Tue 9 Feb | Skedbrosjön | Cruesli + powder | 350 g | Cooked — köttfärssås / frozen färs (#24) |
+| **4** | Wed 10 Feb | Tänndalen west | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
+| **5** | Thu 11 Feb | Band track | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
+| **6** | Fri 12 Feb | Fältjägaren | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
+| **7** | Sat 13 Feb | Helags west | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
+| **8** | Sun 14 Feb | Sylarna west | Bread + durkorv | 350 g | Freeze-dried + 20 g oil |
+| **9** | Mon 15 Feb | Blåhammaren west | Bread + durkorv | 350 g | Freeze-dried + 20 g oil |
+| **10** | Tue 16 Feb | **Storlien H** | Bread + durkorv | 350 g | Restaurant |
 
 Helags / Sylarna / Blåhammaren are **closed** on these dates — tent + freeze-dried, no hut kitchen.
 

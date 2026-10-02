@@ -1,0 +1,144 @@
+# Companion plan B — Lapplandsleden · Gäddede → Hemavan · Mar 2027
+
+Trip for a **section-3 companion**: ski **~10 days** with you (shared tent + stove) from **Gäddede** to **Hemavan**, then bus or plane out. Train/bus only. Does **not** recover the Mora car.
+
+**Index:** [companion-sections-2027.md](./companion-sections-2027.md)  
+**A (working · car home):** [companion-plan-2027.md](./companion-plan-2027.md)  
+**C (Klaartje):** [companion-plan-c-2027.md](./companion-plan-c-2027.md) · **D:** [companion-plan-d-2027.md](./companion-plan-d-2027.md)  
+**Day camps:** [dag-for-dag-2027.md](./dag-for-dag-2027.md) §3  
+**Route:** [Lapplandsleden](https://www.lansstyrelsen.se/vasterbotten/besoksmal/vandringsleder/lapplandsleden.html) — red winter crosses west of Borgafjäll / Saxnäs
+
+---
+
+## Snapshot
+
+| | |
+|--|--|
+| **Role** | Companion · **not** full Bandet |
+| **Ski** | **Gäddede → Hemavan** · **~237 km** · **D25–D34** |
+| **Dates** | Ski **~11–20 Mar** |
+| **Mode** | Ski + **own pulk** · **one shared tent** · **one shared stove** |
+| **After Hemavan** | Bus **31** toward Umeå · or **Hemavan Tärnaby Airport** |
+| **You** | Continue Bandet solo (keep tent + stove) |
+
+```text
+NL ──(train/bus)──► Strömsund ──425──► Gäddede
+                                          │
+                                          └── ski D25–D34 ──► Hemavan
+                                                                  │
+                                           companion ◄── bus 31 / airport
+```
+
+**PT in:** Länstrafiken Jämtland **425** Gäddede ↔ Strömsund (~2 h) — typically **1× weekday**, poor/none Sat. Then Strömsund → Östersund train/bus. Night in Gäddede (camping / Pilgrimshotellet) before D25. [ltr.se](https://ltr.se/).  
+**PT out:** Hemavan — daily **31** toward Umeå · airport · same buses as [C](./companion-plan-c-2027.md).
+
+---
+
+## Day-by-day (companion view)
+
+**Default: shared tent.** Länsstyrelsen stugor are unlocked emergency/backup (pay **200 kr**/person if used) — **carry the tent anyway**.
+
+| Night | Place | Sleep |
+|-------|-------|-------|
+| Before D25 | Gäddede | **H** Pilgrimshotellet · or Gäddede Camping (year-round) |
+| D25 | Vilhelmina fjäll | **Tent** on track |
+| D26 | Borgafjäll west | **Tent** · optional **H** Borgafjäll Hotell (~**24 km E** — skip unless storm) |
+| D27 | Slipsikstugan | **Tent default** · unlocked Länsstyrelsen 4–6 bunks (often cold/occupied) |
+| D28 | Klimpfjäll | **Tent** · Handlar'n **D** · no staffed hut |
+| D29 | Tjåkkelestugan | **Tent default** · unlocked 6+2 beds |
+| D30 | Åtnikstugan | **Tent default** · unlocked · vedspis / madrasser |
+| D31 | Between Åtnik and Arevattnet | **Tent** — long kalfjäll gap, no hut |
+| D32 | Arevattnet | **Tent** at stuga · optional **H** [Gränssjöarna](https://granssjoarna.se/) (~1 km · 6 cabins · shower/sauna · phone **073-068 03 41**) |
+| D33 | Atostugan | **Tent default** · unlocked · last Länsstyrelsen before Hemavan |
+| D34 | Hemavan | **STF Hemavan** / Fjällcenter |
+
+**Hard days:** **D32** (big climb) · **D34** (long into Hemavan). Exposed kalfjäll D31–D33 — stick together. Vildmarksvägen / Stekenjokk is **winter-closed** — **no** bus Gäddede → Klimpfjäll.
+
+---
+
+## Gear — companion kit
+
+**Shared (your Bandet kit stays with you after Hemavan):** **one tent** · **one stove** · alkylate bottles · nav / inReach.
+
+Companion brings personal ski/pulk/sleep/clothes — **not** a second tent or stove.
+
+| Must | Notes |
+|------|-------|
+| Skis + boots + bindings | BC / touring · tested |
+| **Pulk** | Shared pace on a marked winter trail |
+| Sleep system | Own bag + mat · fits **shared tent** |
+| Food | **Own food** on **their** pulk · cook on **shared stove** |
+| Warm layers · mittens · goggles | March kalfjäll |
+| Headlamp · first aid · repair | Personal |
+| Phone + power | Offline maps |
+| Cash/card | SE · **200 kr** if a Länsstyrelsen stuga is used |
+
+**Do not pack:** second tent · second stove · duplicate cookset (unless tiny mug/bowl only).
+
+**Shared with you:** tent pitch · one stove / cook nights · nav lead · emergency (inReach on your body).
+
+---
+
+## Food & fuel
+
+| Leg | Carry |
+|-----|-------|
+| Gäddede → Klimpfjäll (D28) | **~4–5 days** |
+| Klimpfjäll → Hemavan | **~4–5 days** |
+| Fuel | **Alkylate** from Gäddede Frostvikens if stocked · one shared stove |
+
+Optional Gränssjö kiosk (snacks only). Handlar'n at Klimpfjäll is the mid-leg shop.
+
+---
+
+## Exit — Hemavan
+
+- Book **H**: **STF Hemavan** / Fjällcenter  
+- Shower · dry kit · pack pulk for the bus or airport  
+- **31** Hemavan → Umeå (daily) · or fly **Hemavan Tärnaby Airport**
+
+You keep the **shared tent and stove**. Companion leaves with personal kit only.
+
+**Bail:** no winter bus along Vildmarksvägen / Stekenjokk. Once past Gäddede the exit is Hemavan.
+
+---
+
+## Money & admin (companion)
+
+- [ ] Emergency contacts (yours + theirs)  
+- [ ] Agree weather turnaround · who leads · pitch / cook order on shared kit  
+- [ ] Visa/passport if needed · SEK card  
+- [ ] **425** booked toward Gäddede (weekday) · night in Gäddede booked  
+- [ ] Hemavan bus or flight home booked, with slack if D34 slips  
+- [ ] They do **not** collect the Mora car — see [index](./companion-sections-2027.md)
+
+---
+
+## Packing checklist — companion
+
+### Travel (to Gäddede)
+
+- [ ] Ski bag · pulk packed for train/bus  
+- [ ] **No fuel on the bus** — alkylate from Gäddede if stocked  
+- [ ] Night in Gäddede booked  
+
+### On trail (D25–D34)
+
+- [ ] Personal winter kit **without** tent/stove  
+- [ ] Food for **~4–5 days** to Klimpfjäll, cash for Handlar'n  
+- [ ] Bowl/mug/spoon only — cook on shared stove  
+- [ ] Shared emergency plan (your inReach)  
+
+### Exit
+
+- [ ] Ticket Hemavan → Umeå (or flight)  
+- [ ] Drive-home or onward clothes if not carried  
+
+---
+
+## Notes
+
+| Date | Note |
+|------|------|
+| 2026-08-20 | Lapplandsleden Gäddede→Hemavan added as a camp leg (then letter **H**) |
+| 2026-10-02 | Renamed **B**. Split out of [companion-sections](./companion-sections-2027.md) into this plan |

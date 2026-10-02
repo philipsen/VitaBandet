@@ -4,7 +4,7 @@
 **Route:** [`2027-alt-25km-camps.gpx`](../tracks/2027-alt-25km-camps.gpx) — `2027.GPX` + **Mika Tänndalen shortcut** (old km 56–73, ~5 km shorter).  
 **Season:** 10 Feb 2027 → 15 Apr 2027 (**65 days** · **~1299 km** · 6 rest).  
 **Baseline plan:** [dag-for-dag-2027.md](./dag-for-dag-2027.md) (~70 days · ~18–22 km).  
-**Companion:** Klaartje **Hemavan → Kvikkjokk** (meet D34 · ski D35–D44 · 15–25 Mar) — [companion-plan D](./companion-plan-2027.md#d--hemavan--kvikkjokk--klaartje).  
+**Companion:** Klaartje **Hemavan → Kvikkjokk** (meet D34 · ski D35–D44 · 15–25 Mar) — [companion C](./companion-plan-c-2027.md).  
 
 **Camps:** existing alt-plan pins kept; km recomputed on the shortened track.  
 **★ Resupply:** land overnight at shop; budget **4 hours** for food/fuel/repack (Storlien · Valsjöbua · Gäddede · Klimpfjäll · Hemavan · Jäckvik · Kvikkjokk · Ritsem · Abisko).
@@ -95,7 +95,7 @@
 | 41 | Mon 22 Mar | 25 | 815 | 359 | 195 | 613 | Vuonatjluokta · 815 km | snap to named pin |
 | 42 | Tue 23 Mar | 21.4 | 836.4 | 213 | 376 | 450 | Suddumsuolo · 836.4 km | snap to named pin |
 | 43 | Wed 24 Mar | 24.6 | 861 | 487 | 319 | 618 | Tsielekjäkkstugan · 861 km | snap to named pin |
-| 44 | Thu 25 Mar | 22 | 883 | 184 | 485 | 311 | Kvikkjokk · 883 km | **D** ★ · 4 h resupply · overnight · **Klaartje out** (bus 47 Fri 26 Mar 05:25) |
+| 44 | Thu 25 Mar | 22 | 883 | 184 | 485 | 311 | Kvikkjokk · 883 km | **D** ★ · 4 h resupply · overnight · **Klaartje stays** through påsk · bus 47 **Tue 30 Mar 05:25** |
 | 45 | Fri 26 Mar | 25 | 908 | 218 | 25 | 504 | Camp · 908 km | solo again · low elev ~504 m |
 | 46 | Sat 27 Mar | 25 | 933 | 232 | 24 | 712 | Camp · 933 km | low elev ~712 m |
 | 47 | Sun 28 Mar | 25 | 958 | 305 | 282 | 734 | Camp · 958 km | low elev ~735 m |

@@ -5,7 +5,7 @@ How to get **to Grövelsjön** and **home from Treriksröset**. Trip dates: **15
 **Assumptions:** solo after **Storlien** · ski + **pulk** · travel from **NL** · passport/ID for **SE / NO / FI**.  
 **Working plan:** **drive to Mora** · leave car · bus to start · **companion Grövelsjön → Storlien** may drive car home.
 
-**Related:** [companion plan](./companion-plan-2027.md) (§1 working · [other PT-easy legs](./companion-plan-2027.md#other-companion-suited-sections--pt-both-ends)) · [resupply](./resupply-2027.md) · [pack-checklist](./pack-checklist-2027.md) · [vita-bandet](../README.md)
+**Related:** [companion A](./companion-plan-2027.md) · [B](./companion-plan-b-2027.md) · [C](./companion-plan-c-2027.md) · [D](./companion-plan-d-2027.md) · [index](./companion-sections-2027.md) · [resupply](./resupply-2027.md) · [pack-checklist](./pack-checklist-2027.md) · [vita-bandet](../README.md)
 
 ---
 
