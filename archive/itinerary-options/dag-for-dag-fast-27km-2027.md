@@ -1,10 +1,10 @@
 # Vita Bandet 2027 — fast dense composite (~27 km/day)
 
 **Pacing:** ~**27 km/day** · **47 days** · **~1217 km** · 2027-02-15 → 2027-04-02.  
-**GPX:** [`vita-bandet-fast-27km.gpx`](../tracks/generated/vita-bandet-fast-27km.gpx).  
+**GPX:** [`vita-bandet-fast-27km.gpx`](./vita-bandet-fast-27km.gpx).  
 **Method:** stitch densest short/fast scraped Band legs (avg gap ≤800 m).  
 
-> Not the BaseCamp master ([`2027.GPX`](../tracks/2027.GPX)). Uses **normal Band** corridors (east of Lapplandsleden · Kungsleden/Saltoluokta · traditional SE finish) — not Padjelanta-west / Norway DNT.
+> Not the BaseCamp master ([`2027.GPX`](../../tracks/2027.GPX)). Uses **normal Band** corridors (east of Lapplandsleden · Kungsleden/Saltoluokta · traditional SE finish) — not Padjelanta-west / Norway DNT.
 
 ## Source legs
 

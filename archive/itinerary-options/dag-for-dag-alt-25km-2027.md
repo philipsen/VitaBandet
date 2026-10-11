@@ -1,15 +1,15 @@
 # Vita Bandet 2027 — alternative day plan (~25 km cruise)
 
 **Pacing:** Day 1 **15 km** · Day 2 **20.5 km** · then **~25 km/day** · **rest D9 Storlien, D18 Valsjöbua, D22 Gäddede, D27 Klimpfjäll, D50 Ritsem, D58 Abisko**.  
-**Route:** [`2027-alt-25km-camps.gpx`](../tracks/2027-alt-25km-camps.gpx) — `2027.GPX` + **Mika Tänndalen shortcut** (old km 56–73, ~5 km shorter).  
+**Route:** [`2027-alt-25km-camps.gpx`](./2027-alt-25km-camps.gpx) — [`2027.GPX`](../../tracks/2027.GPX) + **Mika Tänndalen shortcut** (old km 56–73, ~5 km shorter).  
 **Season:** 10 Feb 2027 → 15 Apr 2027 (**65 days** · **~1299 km** · 6 rest).  
-**Baseline plan:** [dag-for-dag-2027.md](./dag-for-dag-2027.md) (~70 days · ~18–22 km).  
-**Companion:** Klaartje **Hemavan → Kvikkjokk** (meet D34 · ski D35–D44 · 15–25 Mar) — [companion C](./companion-plan-c-2027.md).  
+**Baseline plan:** [dag-for-dag-2027.md](../../plan/dag-for-dag-2027.md) (~70 days · ~18–22 km).  
+**Companion:** Klaartje **Hemavan → Kvikkjokk** (meet D34 · ski D35–D44 · 15–25 Mar) — [companion C](../../plan/companion-plan-c-2027.md).  
 
 **Camps:** existing alt-plan pins kept; km recomputed on the shortened track.  
 **★ Resupply:** land overnight at shop; budget **4 hours** for food/fuel/repack (Storlien · Valsjöbua · Gäddede · Klimpfjäll · Hemavan · Jäckvik · Kvikkjokk · Ritsem · Abisko).
 
-> Alternative pacing only — VGB väster om waypoints and fuel strategy still follow the main plan / [resupply-2027.md](./resupply-2027.md).
+> Alternative pacing only — VGB väster om waypoints and fuel strategy still follow the main plan / [resupply-2027.md](../../plan/resupply-2027.md).
 
 ## Summary
 
@@ -142,4 +142,4 @@ Storlien, Valsjöbua, Gäddede, Klimpfjäll, Ritsem, and Abisko are **two nights
 
 ---
 
-*Edited from `tracks/2027-alt-25km-camps.gpx` · KL huts incl. Tjäktja · 2026-09-13*
+*Edited from `2027-alt-25km-camps.gpx` · KL huts incl. Tjäktja · 2026-09-13*

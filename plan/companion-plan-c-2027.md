@@ -6,7 +6,7 @@
 
 **Index:** [companion-sections-2027.md](./companion-sections-2027.md)  
 **A:** [companion-plan-2027.md](./companion-plan-2027.md) · **B:** [companion-plan-b-2027.md](./companion-plan-b-2027.md) · **D:** [companion-plan-d-2027.md](./companion-plan-d-2027.md)  
-**Dates:** [alt ~25 km plan](./dag-for-dag-alt-25km-2027.md). Baseline [dag-for-dag](./dag-for-dag-2027.md) is ~20 Mar–2 Apr / D35–D47 (~12 ski days).
+**Dates:** [alt ~25 km plan](../archive/itinerary-options/dag-for-dag-alt-25km-2027.md). Baseline [dag-for-dag](./dag-for-dag-2027.md) is ~20 Mar–2 Apr / D35–D47 (~12 ski days).
 
 ---
 

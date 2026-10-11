@@ -8,7 +8,7 @@
 
 **g** = manufacturer / inventory gram. **g ~est** = typical winter kit, replace on a scale.
 
-**Working total: ~30.8 kg** (25.4 kg spec + 5.4 kg ~est).
+**Working total: ~30.1 kg** (24.7 kg spec + 5.4 kg ~est).
 
 ---
 
@@ -34,10 +34,10 @@
 | USB-C cables ×3 + micro-USB + Suunto cable | 80 |
 | Calazo maps (pulk) | 400 |
 | **Sirex Everest 10** foam | 275 |
-| Food on pulk ([§1 menu](./food-section1-2027.md) − D1 lunch) | 6,980 |
-| **Spec subtotal** | **25,420** (~25.4 kg) |
+| Food on pulk ([§1 menu](./food-section1-2027.md) − D1 lunch) | 6,282 |
+| **Spec subtotal** | **24,722** (~24.7 kg) |
 
-Food pack is **7,330 g**; **350 g** lunch rides on the body so the pulk carries **6,980 g**.
+Food pack is **6,632 g**; **350 g** lunch rides on the body so the pulk carries **6,282 g**.
 
 ---
 
@@ -72,9 +72,9 @@ Food pack is **7,330 g**; **350 g** lunch rides on the body so the pulk carries 
 
 | | kg |
 |--|-----|
-| Spec (incl. **66i** + **Sirex**) | **25.4** |
+| Spec (incl. **66i** + **Sirex**) | **24.7** |
 | ~Est (clothes, toiletries, first aid, rest) | **5.4** |
-| **Loaded pulk** | **~30.8** |
+| **Loaded pulk** | **~30.1** |
 | Weighed on snow (pulk + Sleeper) | |
 | On body electronics (Suunto 87 + Armor 358 + Zolo 353 + Storm 120 + compass 33) | 0.95 |
 | On body D1 lunch | 0.35 |

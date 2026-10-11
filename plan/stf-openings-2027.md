@@ -27,7 +27,7 @@ STF has now published **2027** winter windows on most route fjällstugor (was 20
 | Issue | Huts | Plan days | Detail |
 |-------|------|-----------|--------|
 | **No STF cooked meals at start** | Grövelsjön | **D1** (7 Feb) + nights 5–6 Feb | Station open; **restaurant closed**. Village / self-cater. Shop may be reduced — **Fjällbua** remains the livs. |
-| **Late Jämtland open** | Helags, Sylarna, Blåhammaren | **D7–D9** (13–15 Feb) | Staffed **5 Mar – 18 Apr 2027**. Plan **tent**. **5 Mar** is **D27** (Vilhelmina fjäll) — already past these huts. |
+| **Late Jämtland open** | Helags, Sylarna, Blåhammaren | **D7–D8** tent; Blåhammaren is a pass on the Storlien day | Staffed **5 Mar – 18 Apr 2027**. **No camp at Blåhammaren.** **5 Mar** is **D29** (Klimpfjäll) — already past these huts. |
 | **Storulvån** | Storulvån | **D10** (16 Feb) | Opens **25 Feb 2027** (**D19**). Storlien **D** is before that. |
 | **Rogen before open** | Rogen fjällstuga | **D2** (8 Feb) | Opens **19 Feb 2027**. Tent as planned; **H** from D13. |
 | **Pältsa open** | Pältsa | **D73** (20 Apr) | Winter **19 Mar – 18 Apr 2027**. Arrival **2 days after close** — **T**. Finish food from Abisko. |
@@ -44,7 +44,7 @@ STF has now published **2027** winter windows on most route fjällstugor (was 20
 | **Rogen** | D2 | 8 Feb | **19 Feb – 18 Apr** | 27 Feb – 19 Apr | **Closed** → tent (opens D13) |
 | **Helags** | D7 | 13 Feb | **5 Mar – 18 Apr** | 20 Feb – 19 Apr | **Closed** → tent |
 | **Sylarna** | D8 | 14 Feb | **5 Mar – 18 Apr** | 20 Feb – 19 Apr | **Closed** → tent |
-| **Blåhammaren** | D9 | 15 Feb | **5 Mar – 18 Apr** | 20 Feb – 19 Apr | **Closed** → tent |
+| **Blåhammaren** | pass on the Storlien day | — | **5 Mar – 18 Apr** | 20 Feb – 19 Apr | **Closed** — ski past, no camp |
 | **Storulvån** | D10 | 16 Feb | **25 Feb – 18 Apr** | 19 Feb – 19 Apr | **Closed** (opens D19) |
 | **Kvikkjokk** | D51 | 29 Mar | *(no öppettider block)* | — | Likely open — phone ahead |
 | **Saltoluokta** | D55 | 2 Apr | **26 Feb – 18 Apr** | 27 Feb – 19 Apr | OK (väster om; emergency only) |
@@ -79,7 +79,7 @@ STF has now published **2027** winter windows on most route fjällstugor (was 20
 
 **2026 → 2027 shift:** Jämtland triangle huts open **~2 weeks later** in 2027. Storulvån only **one day** later (25 vs 19 Feb). Unchanged vs July scrape.
 
-**Alignment with plan:** **5 Mar** is **D27** (Vilhelmina fjäll), not a Jämtland day. Days 7–9 (13–15 Feb) are **tent-only** unless STF revises dates. You are past Helags, Sylarna, and Blåhammaren before they open.
+**Alignment with plan:** **5 Mar** is **D29** (Klimpfjäll), not a Jämtland day. **D7–D8** are tent-only. Blåhammaren is passed on the Storlien day with no camp. You are past Helags, Sylarna, and Blåhammaren before they open.
 
 ---
 

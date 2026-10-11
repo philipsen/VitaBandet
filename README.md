@@ -2,16 +2,15 @@
 
 Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https://www.vitagronabandet.se/en/white-green-ribbon/) (The White Ribbon): human-powered travel along Sweden’s mountain chain, typically **Grövelsjön ↔ Treriksröset** (~1,400 km), in one continuous winter journey.
 
-**Target season:** **15 Feb – 25 Apr 2027** (70-day plan · **~5 days slack** to 30 Apr)  
+**Target season:** **5 Feb – 19 Apr 2027** (74 days · slack to 30 Apr)  
 **Mode:** ski + **pulk**, **mostly tent**  
 **Direction:** **S → N** — Grövelsjön → Treriksröset  
 **Party:** **solo**  
 **Status:** day-by-day draft ready
 
 **Public trip blog:** [https://vitabandet.maak-t.com](https://vitabandet.maak-t.com) · source [`philipsen/vitabandet-site`](https://github.com/philipsen/vitabandet-site)  
-**Day-by-day itinerary:** [dag-for-dag-2027.md](plan/dag-for-dag-2027.md)  
-**Alt pacing (15 → 20.5 → ~25 km · 65 days · ~1299 km · 6 rest):** [dag-for-dag-alt-25km-2027.md](plan/dag-for-dag-alt-25km-2027.md) · camps [`2027-alt-25km-camps.gpx`](tracks/2027-alt-25km-camps.gpx)  
-**Fast dense (~27 km · scraped stitch):** [dag-for-dag-fast-27km-2027.md](plan/dag-for-dag-fast-27km-2027.md) · [`vita-bandet-fast-27km.gpx`](tracks/generated/vita-bandet-fast-27km.gpx)  
+**Day-by-day itinerary:** [dag-for-dag-2027.md](plan/dag-for-dag-2027.md) — the working schedule.  
+**Archived pacing options:** [archive/itinerary-options/](archive/itinerary-options/) (~25 km cruise and ~27 km stitch). Not the working calendar.  
 **Master GPX:** [`2027.GPX`](tracks/2027.GPX) — maintained manually in BaseCamp and used as the route source of truth. Detail/context: [band-tracks-comparison.md](plan/band-tracks-comparison.md).  
 **Resupply (local):** [resupply-2027.md](plan/resupply-2027.md) · **§1 food:** [food-section1-2027.md](plan/food-section1-2027.md) · **D1 pulk weight:** [pulk-weight-2027.md](plan/pulk-weight-2027.md)  
 **Transport (start & return):** [transport-considerations-2027.md](plan/transport-considerations-2027.md) · **Companion A:** [companion-plan-2027.md](plan/companion-plan-2027.md) · **B:** [companion-plan-b-2027.md](plan/companion-plan-b-2027.md) · **Klaartje C:** [companion-plan-c-2027.md](plan/companion-plan-c-2027.md) · **D:** [companion-plan-d-2027.md](plan/companion-plan-d-2027.md) · [index](plan/companion-sections-2027.md)  
@@ -26,8 +25,8 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 |------|--------|
 | Direction | **South → north** (Grövelsjön → Treriksröset) |
 | Variant | Full continuous |
-| Start window | **15 Feb 2027** |
-| End deadline (if any) | **~25 Apr 2027** goal (70 days); **30 Apr** latest weather slack |
+| Start window | **5 Feb 2027** |
+| End deadline (if any) | **~19 Apr 2027** goal (74 days); **30 Apr** latest weather slack |
 | Pace | **Easy start** (10–17 km) → **~22 km/day** cruise (typical winter Bandet) |
 | Travel | Ski + **pulk** |
 | Accommodation | **Mostly tent** (~75–85%); hut at resupply / weather (~12–15 nights) |
@@ -49,7 +48,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 | 2025–2026 | Confirm route variant (direction: **S → N** ✓) · gear trials · training |
 | **Autumn 2026** | Long skins reglue / ski fixes · shakedowns · sync Vertical 2 routes |
 | **Jan–Feb 2027** | Register route; notify contacts; last equipment check |
-| **Expedition** | **15 Feb – ~25 Apr 2027** |
+| **Expedition** | **5 Feb – 19 Apr 2027** |
 
 ---
 

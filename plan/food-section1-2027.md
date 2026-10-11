@@ -1,15 +1,15 @@
 # Section 1 food — Grövelsjön → Storlien
 
-**You only** (companion food on their pulk). **7–16 Feb 2027** · D1–D10 · **162 km**.  
+**You only** (companion food on their pulk). **5–13 Feb 2027** · D1–D9 · **156 km**.  
 **Pulk grams:** [pulk-weight-2027.md](./pulk-weight-2027.md). Recipes: [trail-meals-2027.md](./trail-meals-2027.md). Days: [dag-for-dag-2027.md](./dag-for-dag-2027.md).
 
 **Locked**
 
 - **Full carry** from Grövelsjön. **Hamra Livs (D4) = backup** if you eat faster or want fresh food — not required for D1 weight.
-- **Source:** home (**NL**) and/or **Fjällbua**, Storsätern (Grövelsjön livs). Shop **5–6 Feb**. STF kiosk = top-up only.
+- **Source:** home (**NL**) and/or **Fjällbua**, Storsätern (Grövelsjön livs). Shop **3–4 Feb**. STF kiosk = top-up only.
 - **Lunch:** **4 bars = 200 g** + **150 g** nötter / torkad frukt (**350 g**).
-- **Breakfast packed:** **6× Cruesli 120 g + mjölkpulver** (powder mixed **cold**) · **3× bread + dried sausage**. Morning stove: **coffee + warm water** — not a milk boil.
-- **Dinner:** **3 cooked** (D1–D3) + **6 freeze-dried** (D4–D9). D10 = Storlien restaurant.
+- **Breakfast packed:** **6× Cruesli 120 g + mjölkpulver** (powder mixed **cold**) · **2× bread + dried sausage**. Morning stove: **coffee + warm water** — not a milk boil.
+- **Dinner:** **3 cooked** (D1–D3) + **5 freeze-dried** (D4–D8). D9 = Storlien restaurant.
 - **Fuel:** **3 L alkylate** for **two people** on the shared stove — [companion-plan](./companion-plan-2027.md).
 
 ---
@@ -20,11 +20,11 @@
 |------|-------|-------|
 | D1 breakfast | Village / self-cater (**STF restaurant closed** 2027) | Not on pulk |
 | Cruesli + mjölkpulver | **6** | D2–D7 mornings · **cold** mix · coffee on stove |
-| Bread + dried sausage | **3** | D8–D10 mornings · coffee on stove |
-| Lunch | **10** | D1–D10 ski days. **Today’s 350 g** on body (Box 3 / pockets) |
+| Bread + dried sausage | **2** | D8–D9 mornings · coffee on stove |
+| Lunch | **9** | D1–D9 ski days. **Today’s 350 g** on body (Box 3 / pockets) |
 | Cooked dinner | **3** | D1–D3 tent · frozen/shop while pulk is a freezer |
-| Freeze-dried dinner | **6** | D4–D9 · + **20 g** olivolja each |
-| D10 dinner | Storlien **H** | Not packed |
+| Freeze-dried dinner | **5** | D4–D8 · + **20 g** olivolja each |
+| D9 dinner | Storlien **H** | Not packed |
 | Storm buffer | **+1** freeze-dried | In the D1 pack |
 
 ---
@@ -33,16 +33,15 @@
 
 | Day | Date | Camp | Breakfast | Lunch | Dinner |
 |-----|------|------|-----------|-------|--------|
-| **1** | Sun 7 Feb | Hävlingen | STF (not packed) | 350 g on body | Cooked — pasta + bacon ([#2](./trail-meals-2027.md#2-snabb-pasta-aglio-e-olio--skinka-eller-bacon)) |
-| **2** | Mon 8 Feb | STF Rogen tent | Cruesli 120 g + powder | 350 g | Cooked — korv-stroganoff (#7) |
-| **3** | Tue 9 Feb | Skedbrosjön | Cruesli + powder | 350 g | Cooked — köttfärssås / frozen färs (#24) |
-| **4** | Wed 10 Feb | Tänndalen west | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
-| **5** | Thu 11 Feb | Band track | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
-| **6** | Fri 12 Feb | Fältjägaren | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
-| **7** | Sat 13 Feb | Helags west | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
-| **8** | Sun 14 Feb | Sylarna west | Bread + durkorv | 350 g | Freeze-dried + 20 g oil |
-| **9** | Mon 15 Feb | Blåhammaren west | Bread + durkorv | 350 g | Freeze-dried + 20 g oil |
-| **10** | Tue 16 Feb | **Storlien H** | Bread + durkorv | 350 g | Restaurant |
+| **1** | Fri 5 Feb | Hävlingen | STF (not packed) | 350 g on body | Cooked — pasta + bacon ([#2](./trail-meals-2027.md#2-snabb-pasta-aglio-e-olio--skinka-eller-bacon)) |
+| **2** | Sat 6 Feb | STF Rogen tent | Cruesli 120 g + powder | 350 g | Cooked — korv-stroganoff (#7) |
+| **3** | Sun 7 Feb | Broktjärnskojan | Cruesli + powder | 350 g | Cooked — köttfärssås / frozen färs (#24) |
+| **4** | Mon 8 Feb | Trailangel · Tänndalen | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
+| **5** | Tue 9 Feb | Band track | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
+| **6** | Wed 10 Feb | 4 km past Fältjägaren | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
+| **7** | Thu 11 Feb | 10 km past Helags | Cruesli + powder | 350 g | Freeze-dried + 20 g oil |
+| **8** | Fri 12 Feb | Enkälen rastskydd | Bread + durkorv | 350 g | Freeze-dried + 20 g oil |
+| **9** | Sat 13 Feb | **Storlien H** | Bread + durkorv | 350 g | Restaurant |
 
 Helags / Sylarna / Blåhammaren are **closed** on these dates — tent + freeze-dried, no hut kitchen.
 
@@ -58,38 +57,38 @@ Lunch **~1,550 kcal** (200 g bars ~880 + 150 g mix ~670). Cruesli breakfast **~7
 
 | Block | Qty | g | On pulk D1 |
 |-------|-----|---|------------|
-| Lunch bars + mix | 10 × 350 | 3,500 | 3,150 (D1 lunch on body) |
+| Lunch bars + mix | 9 × 350 | 3,150 | 2,800 (D1 lunch on body) |
 | Cruesli | 6 × 120 | 720 | 720 |
 | Mjölkpulver | 6 × 25 | 150 | 150 |
-| Bread | 3 × 100 | 300 | 300 |
-| Dried sausage | 3 × 80 | 240 | 240 |
+| Bread | 2 × 100 | 200 | 200 |
+| Dried sausage | 2 × 80 | 160 | 160 |
 | Cooked dinners | 3 × 380 | 1,140 | 1,140 |
-| Freeze-dried pouches | 6 × 140 | 840 | 840 |
-| Olivolja on FD | 6 × 20 | 120 | 120 |
-| Coffee | 9 mornings | 70 | 70 |
+| Freeze-dried pouches | 5 × 140 | 700 | 700 |
+| Olivolja on FD | 5 × 20 | 100 | 100 |
+| Coffee | 8 mornings | 62 | 62 |
 | Tea / drink mix | — | 100 | 100 |
 | Storm +1 FD | 1 | 150 | 150 |
-| **Pack total** | | **7,330** | |
-| **On pulk** (minus D1 lunch) | | | **6,980 (~7.0 kg)** |
+| **Pack total** | | **6,632** | |
+| **On pulk** (minus D1 lunch) | | | **6,282 (~6.3 kg)** |
 
 ---
 
 ## Buy list — NL vs Fjällbua
 
-Shop **13–14 Feb** at **Fjällbua** (Grövelsjövägen 378, Storsätern). If driving, bring the NL column in the car. If the pulk ships: still pack **Cruesli** in the bag; buy the rest at Fjällbua.
+Shop **3–4 Feb** at **Fjällbua** (Grövelsjövägen 378, Storsätern). If driving, bring the NL column in the car. If the pulk ships: still pack **Cruesli** in the bag; buy the rest at Fjällbua.
 
 | Item | Amount | NL | Fjällbua |
 |------|--------|----|----------|
 | **Cruesli** (Quaker or similar) | **720 g** (6 × 120 g bagged) | **Yes** — Swedish shops usually don’t stock it | Granola only if you skip Cruesli |
 | **Mjölkpulver** | ~150 g (or one small tin) | Yes | Yes (Nido / Semper) |
-| **Chokladbars** | **20** (~100 g = 2/day × 10) | Yes | Yes |
-| **Müslibars / granola bars** | **20** | Yes | Yes |
-| **Nötter + torkad frukt** | **1.5 kg** | Yes | Yes |
+| **Chokladbars** | **18** (~100 g = 2/day × 9) | Yes | Yes |
+| **Müslibars / granola bars** | **18** | Yes | Yes |
+| **Nötter + torkad frukt** | **1.35 kg** | Yes | Yes |
 | **Coffee** | ~70 g (instant or bags) | Yes | Yes |
-| **Freeze-dried dinners** | **6 + 1 storm** | Yes | Yes (Real Turmat / Blå Band) |
-| **Olivolja** | ≥120 g for FD (small bottle) | Yes | Yes |
-| **Dried sausage** | ~240 g | Yes | Yes (durkorv) |
-| Polarbröd or knäcke | ~300 g | Optional | **Yes** — buy last so it is soft |
+| **Freeze-dried dinners** | **5 + 1 storm** | Yes | Yes (Real Turmat / Blå Band) |
+| **Olivolja** | ≥100 g for FD (small bottle) | Yes | Yes |
+| **Dried sausage** | ~160 g | Yes | Yes (durkorv) |
+| Polarbröd or knäcke | ~200 g | Optional | **Yes** — buy last so it is soft |
 | D1–D3 cooked: pasta ~270 g, bacon/korv/färs, lök | ~1.1 kg | Optional | **Yes** — frozen meat here |
 | Tea | handful | Yes | Yes |
 | **Alkylate 3 L** | 2× 1 L bottles + **1 L tin** | **Home / car** | Unlikely liquid — ignore canisters |
@@ -102,8 +101,8 @@ Shop **13–14 Feb** at **Fjällbua** (Grövelsjövägen 378, Storsätern). If d
 
 | Box | Contents |
 |-----|----------|
-| **1 — dinners** | 3 cooked (flat frozen first) · 7 freeze-dried · oil |
-| **2 — breakfast + bulk lunch** | Cruesli bags · powder · bread/sausage · spare bars · 1.5 kg mix |
+| **1 — dinners** | 3 cooked (flat frozen first) · 6 freeze-dried · oil |
+| **2 — breakfast + bulk lunch** | Cruesli bags · powder · bread/sausage · spare bars · 1.35 kg mix |
 | **3 — today** | **350 g** lunch · coffee for morning · tea |
 
 Fuel bottles **not** in food boxes. **3 L** shared — see [pulk-weight](./pulk-weight-2027.md).
@@ -112,4 +111,4 @@ Fuel bottles **not** in food boxes. **3 L** shared — see [pulk-weight](./pulk-
 
 ## After Storlien
 
-D10 night **H**. Buy the **next** leg at Coop / Eurocash in the village — that food is **not** in the D1 7 kg. Leftover alkylate stays with you (companion leaves).
+D9 night **H**. Buy the **next** leg at Coop / Eurocash in the village — that food is **not** in the D1 6.3 kg. Leftover alkylate stays with you (companion leaves).

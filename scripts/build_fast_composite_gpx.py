@@ -6,9 +6,9 @@ Selection (avg gap ≤800 m, hit milestones ≤3 km):
   S3–S5  Christian Kämmer 2023   — short+fast Gäddede→Abisko (one continuous tour)
   S6     Noah Bovin              — shortest dense traditional Abisko→Trerik
 
-Outputs:
-  tracks/generated/vita-bandet-fast-27km.gpx
-  plan/dag-for-dag-fast-27km-2027.md
+Outputs (archived — not the working itinerary):
+  archive/itinerary-options/vita-bandet-fast-27km.gpx
+  archive/itinerary-options/dag-for-dag-fast-27km-2027.md
 
 Usage:
   python3 scripts/build_fast_composite_gpx.py
@@ -25,8 +25,8 @@ from xml.dom import minidom
 
 ROOT = Path(__file__).resolve().parent.parent
 SCRAPE = ROOT / "tracks" / "scrape"
-OUT_GPX = ROOT / "tracks" / "generated" / "vita-bandet-fast-27km.gpx"
-OUT_MD = ROOT / "plan" / "dag-for-dag-fast-27km-2027.md"
+OUT_GPX = ROOT / "archive" / "itinerary-options" / "vita-bandet-fast-27km.gpx"
+OUT_MD = ROOT / "archive" / "itinerary-options" / "dag-for-dag-fast-27km-2027.md"
 
 NS = {"g": "http://www.topografix.com/GPX/1/1"}
 START_DATE = date(2027, 2, 15)
@@ -287,10 +287,10 @@ def write_md(camps: list[Camp], meta: list[dict], total_km: float) -> None:
         "",
         f"**Pacing:** ~**{DAY_KM:.0f} km/day** · **{n} days** · **~{total_km:.0f} km** · "
         f"{START_DATE.isoformat()} → {end.isoformat()}.  ",
-        f"**GPX:** [`vita-bandet-fast-27km.gpx`](../tracks/generated/vita-bandet-fast-27km.gpx).  ",
+        f"**GPX:** [`vita-bandet-fast-27km.gpx`](./vita-bandet-fast-27km.gpx).  ",
         "**Method:** stitch densest short/fast scraped Band legs (avg gap ≤800 m).  ",
         "",
-        "> Not the BaseCamp master ([`2027.GPX`](../tracks/2027.GPX)). Uses **normal Band** "
+        "> Not the BaseCamp master ([`2027.GPX`](../../tracks/2027.GPX)). Uses **normal Band** "
         "corridors (east of Lapplandsleden · Kungsleden/Saltoluokta · traditional SE finish) — "
         "not Padjelanta-west / Norway DNT.",
         "",

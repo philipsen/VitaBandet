@@ -5,9 +5,9 @@ Pacing: day 1 = 11 km, day 2 = 17 km, then ~25 km/day.
 Hard land on major ★ resupply towns (4 h shop time; camp there).
 Prefer lower-elevation camps within a search window of the target distance.
 
-Outputs:
-  plan/dag-for-dag-alt-25km-2027.md
-  tracks/2027-alt-25km-camps.gpx
+Outputs (archived — not the working itinerary):
+  archive/itinerary-options/dag-for-dag-alt-25km-2027.md
+  archive/itinerary-options/2027-alt-25km-camps.gpx
 
 Usage:
   python3 scripts/build_alt_day_plan.py
@@ -32,8 +32,8 @@ from xml.dom import minidom
 
 ROOT = Path(__file__).resolve().parent.parent
 GPX_IN = ROOT / "tracks" / "2027.GPX"
-MD_OUT = ROOT / "plan" / "dag-for-dag-alt-25km-2027.md"
-GPX_OUT = ROOT / "tracks" / "2027-alt-25km-camps.gpx"
+MD_OUT = ROOT / "archive" / "itinerary-options" / "dag-for-dag-alt-25km-2027.md"
+GPX_OUT = ROOT / "archive" / "itinerary-options" / "2027-alt-25km-camps.gpx"
 
 NS = {"g": "http://www.topografix.com/GPX/1/1"}
 TRACK_ORDER = ["Section1", "Section 2", "Section 3", "Section 4", "Section 5", "Section 6"]
@@ -542,9 +542,9 @@ def write_markdown(camps: list[Camp]) -> None:
         "# Vita Bandet 2027 — alternative day plan (~25 km cruise)",
         "",
         f"**Pacing:** Day 1 **{DAY1_KM:.0f} km** · Day 2 **{DAY2_KM:.0f} km** · then **~{CRUISE_KM:.0f} km/day**.  ",
-        f"**Route:** [`2027.GPX`](../tracks/2027.GPX) · camps GPX: [`2027-alt-25km-camps.gpx`](../tracks/2027-alt-25km-camps.gpx).  ",
+        f"**Route:** [`2027.GPX`](../../tracks/2027.GPX) · camps GPX: [`2027-alt-25km-camps.gpx`](./2027-alt-25km-camps.gpx).  ",
         f"**Season:** {START_DATE.strftime('%d %b %Y').lstrip('0')} → {end.strftime('%d %b %Y').lstrip('0')} (**{n} days** · **~{total:.0f} km**).  ",
-        f"**Baseline plan:** [dag-for-dag-2027.md](./dag-for-dag-2027.md) (~70 days · ~18–22 km).  ",
+        f"**Baseline plan:** [dag-for-dag-2027.md](../../plan/dag-for-dag-2027.md) (~70 days · ~18–22 km).  ",
         "",
         "**Camps:** snapped to named pins when nearby; otherwise lowest elevation within "
         f"±{SEARCH_WINDOW_KM:.0f} km of target.  ",
@@ -552,7 +552,7 @@ def write_markdown(camps: list[Camp]) -> None:
         "(Storlien · Valsjöbua · Gäddede · Hemavan · Kvikkjokk · Ritsem · Abisko).",
         "",
         "> Alternative pacing only — VGB väster om waypoints and fuel strategy still follow "
-        "the main plan / [resupply-2027.md](./resupply-2027.md).",
+        "the main plan / [resupply-2027.md](../../plan/resupply-2027.md).",
         "",
         "## Summary",
         "",

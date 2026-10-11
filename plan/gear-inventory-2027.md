@@ -202,7 +202,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 
 ## Weight budget (fill in on shakedown)
 
-**D1 detail:** [pulk-weight-2027.md](./pulk-weight-2027.md) — **~30.8 kg** loaded.
+**D1 detail:** [pulk-weight-2027.md](./pulk-weight-2027.md) — **~30.1 kg** loaded.
 
 | Zone | Target | Your weigh-in |
 |------|--------|---------------|
@@ -212,7 +212,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 | Tent (Nammatj 3 GT + pack) | 4.3 kg | |
 | Sleep (bag + Ultra 7R in Sleeper) | 2.85 kg spec | XLite **not in pulk** |
 | Clothing spare + toiletries + first aid + misc | ~est in pulk-weight | |
-| **Cargo + rig D1** | **~30.8 kg** | |
+| **Cargo + rig D1** | **~30.1 kg** | |
 | On body | electronics **0.95 kg** + lunch 0.35 kg | |
 
 ---
