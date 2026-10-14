@@ -405,7 +405,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ---
 
-### Day 47 — Jäckvik · **W** (optional **D**)
+### Day 46 — Jäckvik · **W** (optional **D**)
 
 *Village ~66.38°N, 16.97°E — Band track passes **väster om**; ICA is an east detour.*
 
