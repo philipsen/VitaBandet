@@ -7,41 +7,7 @@
     <time>2026-06-03T18:57:48Z</time>
     <bounds maxlat="69.060499481856823" maxlon="20.547313196584582" minlat="62.098249979317188" minlon="12.109499964863062"/>
   </metadata>
-  <wpt lat="68.349999999627471" lon="18.830000041052699">
-    <time>2026-06-02T11:50:48Z</time>
-    <name>Abisko</name>
-    <sym>Flag, Blue</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-06-02T11:50:48Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="66.27749003469944" lon="16.665674960240722">
-    <time>2026-06-02T11:50:48Z</time>
-    <name>Adolfström Camping</name>
-    <sym>Flag, Blue</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-06-02T11:50:48Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="62.185000581666827" lon="12.390258433297276">
+    <wpt lat="62.185000581666827" lon="12.390258433297276">
     <ele>789.756472170679444</ele>
     <time>2026-05-28T09:37:36Z</time>
     <name>D1 · Hävlingestugorna</name>
@@ -1340,24 +1306,7 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="63.189225252717733" lon="12.174619557335973">
-    <time>2026-05-28T09:37:36Z</time>
-    <name>Blåhammaren (pass)</name>
-    <sym>Flag, Blue</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="63.287335596978664" lon="12.11939069442451">
+    <wpt lat="63.287335596978664" lon="12.11939069442451">
     <time>2026-05-28T09:37:36Z</time>
     <name>D9 · Storlien</name>
     <sym>Lodging</sym>
@@ -1374,24 +1323,7 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="62.100000036880374" lon="12.310000034049153">
-    <time>2026-05-28T09:37:36Z</time>
-    <name>Grövelsjön</name>
-    <sym>Flag, Blue</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-05-28T09:37:36Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="62.574269995093346" lon="12.226189970970154">
+    <wpt lat="62.574269995093346" lon="12.226189970970154">
     <time>2026-05-28T09:37:36Z</time>
     <name>Hamra Livs (Tänndalen)</name>
     <sym>Flag, Blue</sym>
@@ -1408,41 +1340,7 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="65.830000005662441" lon="15.080000013113022">
-    <time>2026-05-31T15:07:09Z</time>
-    <name>Hemavan1</name>
-    <sym>Flag, Blue</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-05-31T15:07:09Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="66.38175705447793" lon="16.963829314336181">
-    <time>2026-05-31T15:07:09Z</time>
-    <name>Jäckvik</name>
-    <sym>Flag, Blue</sym>
-    <type>user</type>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
-      </wptx1:WaypointExtension>
-      <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-05-31T15:07:09Z</ctx:CreationTime>
-      </ctx:CreationTimeExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="62.539317961782217" lon="12.408265024423599">
+      <wpt lat="62.539317961782217" lon="12.408265024423599">
     <time>2026-05-28T09:37:36Z</time>
     <name>STF Skarvruet vandrarhem</name>
     <sym>Flag, Blue</sym>

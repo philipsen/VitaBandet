@@ -3,7 +3,7 @@
 How to get **to Grövelsjön** and **home from Treriksröset**. Trip dates: **15 Feb → ~25 Apr 2027** (see [dag-for-dag-2027.md](./dag-for-dag-2027.md)).
 
 **Assumptions:** solo after **Storlien** · ski + **pulk** · travel from **NL** · passport/ID for **SE / NO / FI**.  
-**Working plan:** **drive to Mora** · leave car · bus to start · **companion Grövelsjön → Storlien** may drive car home.
+**Working plan:** **car via the Copenhagen–Oslo ferry** · leave the car at **Grövelsjön** · companion returns to that car by train and bus after Storlien. All-road, Hirtshals–Larvik, and train via Mora stay as alternatives below.
 
 **Related:** [companion A](./companion-plan-2027.md) · [B](./companion-plan-b-2027.md) · [C](./companion-plan-c-2027.md) · [D](./companion-plan-d-2027.md) · [index](./companion-sections-2027.md) · [resupply](./resupply-2027.md) · [pack-checklist](./pack-checklist-2027.md) · [vita-bandet](../README.md)
 
@@ -13,8 +13,8 @@ How to get **to Grövelsjön** and **home from Treriksröset**. Trip dates: **15
 
 | Leg | Gate | Likely path | Book when |
 |-----|------|-------------|-----------|
-| **Start** | **STF Grövelsjön** | **Drive → Mora** (park) → bus **~3.5 h** · companion shares outbound | Confirm **parking** + companion · **Jan 2027** |
-| **Companion exit** | **Storlien** (~D10 · **24 Feb**) | Train → **Mora** → **drive car home** | Train seats when companion confirmed |
+| **Start** | **STF Grövelsjön** | **★ Car · Copenhagen–Oslo ferry** · leave the car at the start | Book the sailing · **Jan 2027** |
+| **Companion exit** | **Storlien** (~D10 · **24 Feb**) | Train and bus back to the car at **Grövelsjön**, then drive home via Oslo–Copenhagen | Train seats when companion confirmed |
 | **Your finish** | **Treriksröset** (~**25 Apr**) | Ski out → **Kilpisjärvi** or **Tromsø** → south (see [From finish](#from-finish--treriksröset--25-apr)) | Flexible tickets · confirm **Apr 2027** |
 | **Home — car already NL** ★ | Companion drove from Mora ~**25–27 Feb** | Finish → **Kiruna / Tromsø** → **train/bus → NL** (no Mora detour) | Book ±1 week around finish |
 | **Home — car still Mora** | Companion failed / no companion / long park | Finish → **Mora** → **drive NL** (or pay retrieval) | Parking must allow **~Feb–end Apr** |
@@ -23,7 +23,28 @@ How to get **to Grövelsjön** and **home from Treriksröset**. Trip dates: **15
 
 ---
 
-## Preferred start — car to Mora + companion to Storlien
+## Preferred start — Copenhagen–Oslo ferry, then car to Grövelsjön
+
+Leave the car at **Grövelsjön**. Home after Storlien is public transport back to that car, then the same road in reverse (Oslo **16:30** → Copenhagen **10:00**).
+
+| Leg | Notes |
+|-----|-------|
+| NL → Copenhagen | About **800 km**, **9 h**, through Germany and Denmark. A morning start can make the same day’s sailing. |
+| Ferry | [Go Nordic Cruiseline](https://www.gonordiccruiseline.com/ferry-to-norway/one-way-journey/) Copenhagen → Oslo, daily **16:30 → 10:00**, **17.5 h**. One way for two people and a VW bus, cabin included, about **€150–190**. Passport. February times: [sailing schedule](https://www.gonordiccruiseline.com/preparing-for-your-trip/sailing-schedule/). |
+| Oslo → Grövelsjön | About **330 km**, **4.5–5 h**, via Elverum, Trysil, and Drevsjø. Slower in February snow. Winter tyres. [vegvesen.no](https://www.vegvesen.no/). |
+| Driving total | About **1,130 km** and **14 h**, plus the night on the boat. Grövelsjön the afternoon after the sailing. |
+
+**Companion back to the car:** Norrtåg Storlien **09:27 → Östersund 11:27**, then Länstrafiken **46** to Mora (about **5 h**). That misses the last **396**. Night in Mora (or Östersund if Sunday **14 Feb** has no connection). Next morning Dalatrafik **396** to Grövelsjön (**~3 h 20**, **60 SEK**), then drive home. Tickets about **450–600 SEK** per person, **2 changes**. Hotel extra.
+
+## Alternative — other ways to Grövelsjön
+
+**All road, via Denmark and Mora.** Mora → Grövelsjön about **190 km**, **2.5 h**. Netherlands → Grövelsjön about **1,800–2,000 km**, **21–25 h** of driving, **2 nights** on the road.
+
+**Hirtshals–Larvik (Color Line), then Oslo.** Skips Sweden and the bridge tolls. Crossing about **3 h 45**, in a seat. NL → Hirtshals about **970 km**, **10 h**. [Color Line](https://www.colorline.com/denmark-norway/ferry-hirtshals-larvik): winter often one or two sailings; a current sheet has a midday departure and a late one into Larvik around **03:00**. From about **€53 per person** when four share one car; two people pay more. Return **10%** off if booked together. Passport. Larvik → Oslo about **130 km**, **1.5 h**. Oslo → Grövelsjön the same **330 km**, **4.5–5 h**. Driving about **1,430 km** and **16–17 h**, plus the crossing.
+
+**Train via Mora, then bus 396.** About a day and a night, **3 changes**. One way about **€110–180** per person. The car, if you drove only as far as Mora, waits there. Detail is the Mora section below.
+
+## Alternative — car to Mora + companion to Storlien
 
 ### Flow
 
