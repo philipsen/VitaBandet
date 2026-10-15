@@ -55,14 +55,14 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 | Day | Stop | Alkylate? | Where / what to buy | Notes |
 |-----|------|-----------|---------------------|--------|
-| **1** | **Grövelsjön** | **Ask** | Fjällbua / STF — outdoor section | Often **canisters only** — **ignore**; **3 L from home/car** (§1, two people) |
+| **1** | **Grövelsjön** | **Ask** | Fjällbua / STF — outdoor section | Often **canisters only** — **ignore**; **3 L from NL** (§1, two people) |
 | **4** | **Tänndalen** (Hamra Livs) | **Unlikely** | Village livs — small selection | Off the route · ~5 km west of Trailangel · backup only |
 | **7–8** | **Helags / Sylarna** (väster om · east detour) | **Rare** | STF butik if you detour to stations — winter **5 Mar – 18 Apr 2027** ([scraped](./stf-openings-2027.md)) | On Band track D7–D8 (13–14 Feb): **closed** — tent only |
-| **9** | **Storlien** (pass Blåhammaren the same day) | **Ask** | Coop / Fjellhandeln / Sportringen — outdoor | **Liquid alkylate only** (no canisters); ask **alkylbensin / Power Fuel**. Blåhammaren closed, no camp |
+| **9** | **Storlien** (pass Blåhammaren the same day) | **Buy 2 L** | Coop / Fjellhandeln / Sportringen — outdoor | **2 L** alkylate for §2. Liquid only — ask **alkylbensin / Power Fuel**. No canisters. Blåhammaren closed, no camp |
 | **15** | **Kallsedet** | **No** | — | On track · optional **H** Kolåsen (~10 km detour) |
 | **17** | **Olden** (corridor) | **No** | — | On track only — **not** Valsjöbua |
 | **20** | **Valsjöbyn** (Valsjöbua) ★ | **Maybe** | Lanthandel + Systembolag + post + frystorkad; **"gas" sold** — ask if liquid alkylbensin in stock | Bandet hub · **free Bandare vandrarhem** · jour 072-1933833 |
-| **23–24** | **Gäddede väster om / Gäddede** | **Maybe** | **Frostvikens El** (Gäddede) · **ICA Blåsjöfjäll** optional detour (~35 km off track) | Blåsjö pump ★ if you detour; else Frostvikens at **D24** |
+| **23–24** | **Gäddede väster om / Gäddede** | **Buy 2 L if needed** | **Frostvikens El** (Gäddede) · **ICA Blåsjöfjäll** only if Frostvikens has none | Same **2 L** buy as Storlien, only if you need it. Blåsjö is a ~35 km detour |
 | **27** | **Borgafjäll** (Hotell, detour ~24 km E) | **No** | Hotel/restaurant only — no village livs of size | **H** option; restaurant 18–21 daily |
 | **28** | **Saxnäs** (Marsfjällshandlarn, detour ~24 km E) | **Maybe** | Handlar'n — frystorkad, **gasol**, isdubbar, friluft; **Marsfjäll Mountain Lodge** restaurant | Optional Vildmarksvägen top-up before Klimpfjäll |
 | **29** | **Klimpfjäll** (Handlar'n) | **Unlikely** | Village livs — small selection | Food top-up only; don't count on alkylate |
@@ -75,8 +75,8 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | **47** | **Jäckvik** (väster om · optional **D**) | **Unlikely** | ICA — canisters only | **Skip fuel** unless emergency; liquid from Hemavan |
 | **50** | **Kvikkjokk** | **⚠️ Often NO** | STF shop lists **T-sprit + Primus gas** — **no canisters** | **Critical:** max **liquid** fill from **Hemavan** for Kvikkjokk → Ritsem |
 | **51–57** | **Kvikkjokk → Ritsem** (Padjelanta-west) | **None** | — | **6–7 days** on trail; carry **2× 1 L** full from Kvikkjokk/Hemavan |
-| **58** | **Ritsem** ★ | **Yes** | **Primus Power Fuel** + sprit | **Best refill** — buy **max** for Ritsem → Abisko KL |
-| **59–64** | **KL huts** | **Rare** | Huts sometimes **gas cans** — **do not use** | Snacks only; fuel from **Ritsem** bottles |
+| **58** | **Ritsem** ★ | **Yes** | **Primus Power Fuel** + sprit | Shop has it. **Buy very little** — Ritsem → Abisko cooking is in the hut kitchens |
+| **59–64** | **KL huts** | **Rare** | Huts sometimes **gas cans** — **do not use** | **Cook in the hut kitchens.** Stove fuel for this stretch is only a backup |
 | **65** | **Abisko** ★ | **Yes** | **STF Fjällboden** — **Power Fuel** tins + **canisters OK from here** | **Max liquid fill** (~2 L); optional gas jet + canister for Norway |
 | **66–71** | **DNT huts** | **None** | — | Cook on bottles from Abisko |
 | **72** | **Pältsa** | **No** | Hut **closed** 18 Apr | D72 (17 Apr) **closed** — tent, not a food stop |
@@ -85,11 +85,12 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 | Priority stop | Action |
 |---------------|--------|
-| **Before Day 1** | Fill **both 1 L bottles** at home (hardware/outdoor shop **alkylbensin** 1 L tins) |
-| **Gäddede (24)** | Try **Frostvikens** — top up if found; optional **Blåsjöfjäll** detour (D23–24) |
+| **Before Day 1** | **3 L from NL** — 2× 1 L bottles + 1 L tin (hardware/outdoor **alkylaatbenzine**) |
+| **Storlien (9)** | **Buy 2 L** alkylate for §2 |
+| **Gäddede (24)** | **Buy 2 L** at Frostvikens **if needed**. Blåsjöfjäll only if Frostvikens has no alkylate |
 | **Hemavan (36)** | **Max fill** both 1 L bottles |
 | **Kvikkjokk (50)** | Confirm alkylate stock; else **Padjelanta on Hemavan fill only** |
-| **Ritsem (58)** | **Largest refill** — Power Fuel tins → your bottles |
+| **Ritsem (58)** | Power Fuel is in the shop. **Buy very little** — cooking to Abisko is in the huts |
 | **Abisko (65)** | **Last big liquid fill** + **canisters allowed from here** if desired |
 
 **Practical plan**
@@ -114,7 +115,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | 1 | **Sjöstugan / Storsätern / Fjällbageri** | Sit-down (STF Grövelsjön **restaurant closed** winter 2027) | Walk-in / book village | Last meals before fjäll · [openings](./stf-openings-2027.md) |
 | ~5 | **STF Vålådalen — Olgas Matsal** | Frukost 07:30–09:30 + middag 17–19; café 10–17 (året om butik) | Book dinner | Trad Jämtland cuisine |
 | 7–8 | **STF Helags / Sylarna** (east detour) | Frukost + 2–3 rätters middag | Book ahead | Storm refuge + meal if you leave Band track |
-| 9 | **Storlien Högfjällshotell / Fjällgård** | Hotel restaurants | Walk-in | First major shop town meal |
+| 9 | **Storlien Högfjällshotell** | Hotel restaurant | Walk-in | First major shop town meal · STF fjällgård is the hostel alternative |
 | 15 | **Kolåsens Fjällhotell — Ren Mat** | 3-rätters middag 18:00 (förboka senast dagen innan!) | 0647 81017 | Local-sourced fine dining; can be **H** |
 | 20 | **Valsjöbua café** (Valsjöbyn) | Café-del + smörgåsar + korvgrill | Same hours as shop | Stop here always; Bandet legends |
 | 21–22 | **Restaurang Fjällripan** (Blåsjö, detour) / **Pizzeria Gäddede** | Blåsjö: ski-slope foot · Gäddede: walk-in | Ring Blåsjö for winter hours | Blåsjö only if you detour off Band track |
@@ -138,12 +139,12 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **Fjällbua** (Storsätern · Grövelsjövägen 378) | **The village livs** — groceries, frozen, bars, freeze-dried when stocked, Systembolag/apotek ombud | **Unlikely** liquid alkylate — **3 L from home/car** · **no canisters** | — |
+| **Fjällbua** (Storsätern · Grövelsjövägen 378) | **The village livs** — groceries, frozen, bars, freeze-dried when stocked, Systembolag/apotek ombud | **Unlikely** liquid alkylate — **3 L from NL** · **no canisters** | — |
 | **STF Grövelsjön** shop | Frystorkat / basics if Fjällbua is thin | Same — ignore canisters | — |
 
-**§1 food:** [food-section1-2027.md](./food-section1-2027.md) — **your** food from **NL and/or Fjällbua** · full carry to Storlien · **~7 kg** on pulk. Companion food is separate. **Eat:** village (Sjöstugan / Storsätern) — STF Grövelsjön **restaurant closed** winter 2027 (renovation). Do **not** count Hamra for D1 weight.
+**§1 food:** [food-section1-2027.md](./food-section1-2027.md) — **all from NL** · full carry to Storlien · **~5.9 kg** on your pulk. Companion packs their own Cruesli, bars, nuts, and three cooked dinners. **Eat:** village (Sjöstugan / Storsätern) the night before — STF Grövelsjön **restaurant closed** winter 2027 (renovation). Do **not** count Fjällbua or Hamra for this load.
 
-**Fuel:** **3 L alkylate** for **two people** on the shared stove (2× 1 L bottles + 1 L tin). Fill before the bus.
+**Fuel:** **3 L alkylate from NL** for **two people** on the shared stove (2× 1 L bottles + 1 L tin). In Storlien buy **2 L** for §2. In Gäddede buy **2 L** if you need it.
 
 ---
 
@@ -168,9 +169,9 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **Coop / Eurocash / Fjellhandeln** | Large supermarket + pharmacy | **Liquid alkylate only** — ask **alkylbensin / Power Fuel** tins (**no canisters**) | Optional **depot → Kolåsen** (Bussgods — confirm address with station) |
-| **STF Storliens fjällgård** | — | — | **H** |
-| **Storlien Högfjällshotell** | Restaurant | Via shops | **H** |
+| **Coop / Eurocash / Fjellhandeln** | Large supermarket + pharmacy. **Buy the §2 meals the NL box does not cover.** Collect the box at the PostNord ombud | **Buy 2 L** alkylate — **alkylbensin / Power Fuel** (**no canisters**) | **§2 box** posted from Grövelsjön — [food-section2](./food-section2-2027.md) |
+| **Storlien Högfjällshotell** ★ | Restaurant | Via shops | **H** — preferred |
+| **STF Storliens fjällgård** | — | — | **H** — hostel alternative |
 
 **Notes:** Much better selection than ICA Undersåker. **No gas canisters** on this plan until Abisko — decant **liquid** tins into bottles only.
 
@@ -230,7 +231,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 **Contact ICA:** 0672-21027 · monica.moberg@nara.ica.se · Stora Blåsjön 230, 833 99. Mon–Fri 09:30–17:30 · Sat 10–15 · Sun 11–15.
 
-**Use it as:** **fuel candidate ★** only on a **~35 km detour** off the Band track (D23 camp or D24 morning). If you stocked at **Valsjöbua (D20)**, Frostvikens at Gäddede is usually enough.
+**Use it as:** backup if **Frostvikens** in Gäddede has no alkylate. The detour is **~35 km** off the Band track (D23 camp or D24 morning). The planned top-up is Frostvikens.
 
 ---
 
@@ -254,8 +255,8 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
 | **ICA Gäddede** | Full village supermarket | **No canisters** — try Frostvikens for **liquid** | PostNord OK — **prefer shop** |
-| **Frostvikens El & Bygghandel** (opposite Gäddede Camping) | Hardware, proviant | **Alkylbensin / camping fuel** ★ try here | — |
-| Pilgrimshotellet | Restaurant, can shop via ICA | Via ICA | Free depot at hotel if needed |
+| **Frostvikens El & Bygghandel** (opposite Gäddede Camping) | Hardware, proviant | **Buy 2 L** alkylbensin **if needed** | — |
+| **Pilgrimshotellet** ★ | Restaurant, can shop via ICA | Via ICA | **H** — preferred · free depot · hold the **§3 box** and any Storlien surplus |
 
 **Bandet hub** — stock for **Lapplandsleden → Hemavan** (~10 days); next shop day **34** (or split via **Saxnäs / Marsfjällshandlarn** detour d~26 or **Klimpfjäll Handlar'n** d~28).
 
@@ -338,7 +339,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **ICA Nära Fjällboden Hemavan** · Blå Vägen 35 · 0954 30003 | **Full sortiment** — main shop · apoteksombud, postombud, bageri | **Liquid alkylate** — Sportringen / Cykel & Fiske (call ahead); **no canisters** | PostNord to STF Hemavan free — **prefer ICA** |
+| **ICA Nära Fjällboden Hemavan** · Blå Vägen 35 · 0954 30003 | **Freeze-dried, breakfast, and lunch** for Hemavan → Abisko — [food-hemavan-abisko](./food-hemavan-abisko-2027.md) | **Liquid alkylate** — Sportringen / Cykel & Fiske (call ahead); **no canisters** | Post some of that food to **STF Kvikkjokk** and **STF Ritsem** |
 | **STF Hemavan** shop | Basics: maps, Compeed, myggmedel | **Liquid only** if stocked (small shop) | Depot accepted free |
 | **Anders Bistro** (Hemavan centrum) | French classics; vinter + sommar | — | Sit-down dinner |
 | **Barobro** (centrumbacken Hemavan) | Grilled mackor + warm food; vintersäsong | — | Lighter food |
@@ -346,7 +347,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | **Restaurang Montagna** (Tärnaby) | Italian — pizza, pasta, à la carte | — | New Tärnaby option |
 | **Café Tärningen** (Ingemarliften foot) | 10–16 daily during Sportlov 2026 | — | Day-time fika |
 
-**Halfway resupply** — carry through **Kungsleden west + Hornavan** (Padjelanta fuel from here if Kvikkjokk has no alkylate). Optional mid-leg top-up at **Ammarnäs Handlar'n** (day 43) splits the 12-day carry.
+**Halfway food buy** — freeze-dried meals, breakfast, and lunch through **Abisko**. Carry the share to Kvikkjokk. The rest is posted to **Kvikkjokk** and **Ritsem**. Padjelanta fuel from here if Kvikkjokk has no alkylate. Optional food top-up at **Ammarnäs Handlar'n** (day 43).
 
 **Eat well:** longest sit-down menu options of the whole trip. **D38** is a rest day in Hemavan before Viterskalet.
 
@@ -459,9 +460,9 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **STF Ritsem** (Large+) | Chilled: eggs, butter, korv, pizza, frozen meals; tins, pasta, snacks, fruit (season); outdoor gear | **Primus Power Fuel** ★ **liquid alkylate** — decant into bottles (**no canisters**) | **Best liquid refill** before KL |
+| **STF Ritsem** (Large+) | Chilled: eggs, butter, korv, pizza, frozen meals; tins, pasta, snacks, fruit (season); outdoor gear | **Primus Power Fuel** is stocked. **Buy very little** — hut kitchens do the cooking to Abisko | **Not** a max fill |
 
-**10 % Bandet discount** in shop. WiFi / Telia. **Top-up everything** before Ritsem → Abisko KL.
+**10 % Bandet discount** in shop. WiFi / Telia. **Ritsem → Abisko food is the Hemavan parcel**, not a Ritsem shop. **Very little alkylate**: every night has a hut kitchen.
 
 ---
 
@@ -530,10 +531,12 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 
 | Send depot to | Only if you need |
 |---------------|------------------|
-| Kolåsen (via Storlien leg) | Optional depot — 4-day carry after Storlien if you don’t want 13 days on pulk |
-| Gäddede / Pilgrims | Extra cache before long Vilhelmina leg (usually **no**) |
-| STF Kvikkjokk | Extra Padjelanta food (shop is decent — try local first) |
-| STF Ritsem | Rare — shop is Large+ |
+| **Grövelsjön → Storlien** | **§2 food box** from NL — [food-section2-2027.md](./food-section2-2027.md). Post before the ski. Collect 13–14 Feb |
+| Kolåsen (via Storlien leg) | Optional extra depot — not the §2 box |
+| **Storlien → Gäddede** | Surplus **§2 food** if the pulk is too heavy — [food-section2](./food-section2-2027.md). Collect **28 Feb** |
+| **Grövelsjön → Gäddede** | **§3 food box** from NL — [food-section3-2027.md](./food-section3-2027.md). Post before the ski. Collect **28 Feb–1 Mar** |
+| **Hemavan → STF Kvikkjokk** | Part of the Hemavan → Abisko food. Collect **26–27 Mar** |
+| **Hemavan → STF Ritsem** | **All food for Ritsem → Abisko.** Posted from Hemavan. Collect **3 Apr** |
 | STF Abisko | Catch-up before Norway leg if running low · **NeoAir XLite** pad (optional late-leg switch) |
 
 **vitagronabandet advice:** prefer buying locally; depots stress small businesses’ storage.
@@ -542,21 +545,21 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 
 ## Suggested carry between shops (solo pulk)
 
-**Rate (later legs):** **~1.3–1.5 kg food/day** shop mix. **§1** is denser: **~0.73 kg/day** ([food-section1](./food-section1-2027.md)). Packing **10-day max 12–16 kg** still applies after Storlien.
+**Rate (later legs):** **~1.3–1.5 kg food/day** shop mix. **§1** is **~0.69 kg/day**, all from NL ([food-section1](./food-section1-2027.md)). Packing **10-day max 12–16 kg** still applies after Storlien.
 
 | Leg | Days | Shop at start | Food to **buy** | On pulk leaving shop |
 |-----|------|---------------|-----------------|----------------------|
-| Grövelsjön → Storlien | 9 | Day 1 · **Fjällbua** / NL | **[§1 menu](./food-section1-2027.md)** · **~6.3 kg** on pulk (your food only) · Hamra **backup** | [pulk-weight](./pulk-weight-2027.md) **~30.1 kg** loaded |
-| → Gäddede | 14 | Day 10 Storlien | **10–12 d** · **~13–18 kg** (or split **Valsjöbua D21**) | Heaviest early load |
-| → Hemavan | 11 | Day 25 Gäddede | **10–11 d** · **~12–15 kg** (or **~5 d / ~7 kg** if Klimpfjäll D30) | |
-| → Kvikkjokk | 12 | Day 37 Hemavan ★ | **11–12 d** · **~14–18 kg** (or **~5 d / ~7 kg** + **Ammarnäs D43 ~7 d / ~9–11 kg**) | Heaviest with full alkylate |
-| → Ritsem | 6–7 | Day 51 | **7–8 d** · **~9–12 kg** | Max leg (no shops) |
-| → Abisko | 7 | Day 59 Ritsem ★ | **6–7 d** · **~8–11 kg** | |
+| Grövelsjön → Storlien | 9 | **NL** before Day 1 | **[§1 menu](./food-section1-2027.md)** · **~5.9 kg** on pulk (your food only) · Hamra **backup** | [pulk-weight](./pulk-weight-2027.md) **~29.7 kg** loaded |
+| → Gäddede | 14 | NL box + **Storlien** shop + companion leftovers | [§2](./food-section2-2027.md) · box **~7.2 kg** plus the shop | Heaviest early load |
+| → Hemavan | 11 | NL box at **Gäddede** + ICA **5 fresh meals** and extra breakfast and lunch | [§3](./food-section3-2027.md) · companion brings more only if two people need it | |
+| → Kvikkjokk | 12 | **Hemavan** ICA | Freeze-dried, breakfast, lunch to Abisko · carry only to Kvikkjokk · [plan](./food-hemavan-abisko-2027.md) | Parcels take the rest |
+| → Ritsem | 6–7 | Hemavan parcel at Kvikkjokk | Collect **26–27 Mar** | |
+| → Abisko | 7 | Hemavan parcel at Ritsem | Collect **3 Apr** | |
 | → Treriksröset | 6 | Day 66 Abisko ★ | **7–8 d** · **~9–12 kg** | DNT huts sell **no** food |
 
 **Trip total (buy on the way):** **~65–70 days** × **1.3–1.5 kg** ≈ **~85–105 kg** of groceries, bought in those chunks — never all at once. Restaurant nights (Hemavan, STF) shave a kilo or two.
 
-**If the J14 ships with ~25 kg packed:** hull ~5.3 kg leaves **~20 kg** for tent/sleep/clothes **and** start food. Typical gear in the bag is **~14–18 kg**, so shipped food is only **~2–6 kg**. **§1 food** is **NL bag and/or Fjällbua** ([food-section1](./food-section1-2027.md)) — not a depot from home in the pulk parcel.
+**If the J14 ships with ~25 kg packed:** hull ~5.3 kg leaves **~20 kg** for tent/sleep/clothes **and** start food. Typical gear in the bag is **~14–18 kg**, so shipped food is only **~2–6 kg**. **§1 food** is packed from **NL** ([food-section1](./food-section1-2027.md)) — not a depot and not a Fjällbua shop.
 
 Adjust for your kcal (~4,000–5,000/day pulk). **Where it goes on the sled:** [packing-pulk-2027.md](./packing-pulk-2027.md).
 

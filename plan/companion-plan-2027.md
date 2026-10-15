@@ -6,7 +6,7 @@ Trip for the **section-1 companion**: ski **~9 days** with you (shared tent + st
 **Transport / car / bus:** [transport-considerations-2027.md](./transport-considerations-2027.md)  
 **Resupply:** [resupply-2027.md](./resupply-2027.md)  
 **GPX:** [`tracks/2027.GPX`](../tracks/2027.GPX) (section Grövelsjön → Storlien)  
-**Your food (solo pack):** [food-section1-2027.md](./food-section1-2027.md) — companion food is **not** on that list or on your pulk.  
+**Food:** [food-section1-2027.md](./food-section1-2027.md) — all from **NL**. Companion’s breakfast, lunch, and three cooked dinners are on **their** pulk.  
 **D1 pulk weight:** [pulk-weight-2027.md](./pulk-weight-2027.md)  
 **Other legs:** [B](./companion-plan-b-2027.md) · [C Klaartje](./companion-plan-c-2027.md) · [D](./companion-plan-d-2027.md) · [index](./companion-sections-2027.md)  
 **Official Ribbon:** [White & Green Ribbon](https://www.vitagronabandet.se/en/white-green-ribbon/) (companion is **not** a registered Section unless they sign up separately)
@@ -82,7 +82,7 @@ Same camps as main plan. Distances from [dag-for-dag](./dag-for-dag-2027.md).
 | D4 | Trailangel · Tänndalen | On the direct line (Rörosvägen, Tänndalsvallen) · Hamra is ~5 km west, off the route |
 | D5–D6 | Band track · 4 km past Fältjägaren | Tent (Fältjägaren is a waypoint, not a staffed stay) |
 | D7–D8 | past Helags · **Enkälen** | **STF closed until 5 Mar 2027** — tent. Enkälen rastskydd is emergency rest only. Blåhammaren is passed on D9, still closed |
-| D9 | Storlien | **STF Storliens fjällgård** / Högfjällshotell |
+| D9 | Storlien | **Högfjällshotell** ★ · STF Storliens fjällgård alternative |
 
 ---
 
@@ -97,7 +97,7 @@ Companion brings personal ski/pulk/sleep/clothes — **not** a second tent or st
 | Skis + boots + bindings | BC / touring · tested |
 | **Pulk** or heavy pack | Pulk preferred with shared pace |
 | Sleep system | Own bag + mat · rated for **−20 °C** nights possible mid-Feb · fits **shared tent** |
-| Food | **Own food** on **their** pulk · cook on **shared stove** · full carry to Storlien (Hamra = backup) |
+| Food | **Own** Cruesli breakfasts, bar-and-nut lunches, and **3 cooked** dinners on **their** pulk · shared stove · all from **NL** (Hamra = backup) |
 | Warm layers · mittens · goggles | Mid-Feb fjäll |
 | Headlamp · first aid · repair | Personal |
 | Phone + power | Offline maps · your GPX segment |
@@ -107,20 +107,20 @@ Companion brings personal ski/pulk/sleep/clothes — **not** a second tent or st
 
 **Shared with you:** tent pitch · one stove / cook nights · nav lead (Suunto / GPX) · emergency (inReach on your body).
 
-**Leave in Mora car:** clean clothes for drive home · spare shoes · anything not needed on trail. **Alkylate:** **3 L** from **home/car** (not on the bus) — **2× 1 L bottles + 1 L tin** with the **shared stove** on your pulk.
+**Leave in the car at Grövelsjön:** clean clothes for the drive home · spare shoes · anything not needed on trail. **Alkylate:** **3 L from NL** (not on a bus) — **2× 1 L bottles + 1 L tin** with the **shared stove** on your pulk.
 
 ---
 
 ## Food & fuel (short trip)
 
-**Your** §1 menu is [food-section1-2027.md](./food-section1-2027.md) (solo). Companion packs **their own** food.
+**Your** §1 menu is [food-section1-2027.md](./food-section1-2027.md). Companion packs the same breakfast and lunch, and their own three cooked dinners. All of it from **NL**.
 
 | Leg | Carry |
 |-----|-------|
-| D1 → D9 | **Full carry** each · Hamra Livs **backup** only |
-| Fuel | **One stove** · **3 L alkylate** for **two people** (coffee + warm water mornings, dinner, snowmelt) |
+| D1 → D9 | **Each:** 9× Cruesli + mjölkpulver · 9× bars, nuts, dried fruit · **3 cooked** (D1–D3) · **3 freeze-dried** (D4–D6). Hamra Livs **backup** only |
+| Fuel | **One stove** · **3 L alkylate from NL** for **two people** (coffee + warm water mornings, dinner, snowmelt) |
 
-Companion does **not** need Abisko-leg fuel. After D9 you keep stove + leftover alkylate for solo.
+Companion does **not** need Abisko-leg fuel. In Storlien, buy **2 L** alkylate for §2. You keep the stove. Uneaten companion food stays with you for §2 — [food-section2-2027.md](./food-section2-2027.md).
 
 ---
 
@@ -130,7 +130,7 @@ Companion does **not** need Abisko-leg fuel. After D9 you keep stove + leftover 
 
 Night in Storlien after the ski day. Morning train the next day toward Mora.
 
-- Book **H**: STF Storliens fjällgård / hotel · or Högfjällshotell  
+- Book **H**: **Högfjällshotell** · STF Storliens fjällgård is the hostel alternative  
 - Shower · dry kit · pack pulk for **train** (soft bag)  
 - Confirm **morning SJ / Norrtåg** Storlien → Östersund → Mora  
 - **Vasalopps** week starts ~**20 Feb** — Mora busy **after** you ski; companion return **24–26 Feb** may hit crowds — book train early

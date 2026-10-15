@@ -60,7 +60,7 @@ Default **daily** breakfast; **pannkakor** as a treat **1–2 mornings per resup
 
 **Pack:** cereal + mjölkpulver in **Box 2**; keep powder dry. One **480 g Semper** or **400 g Nido** pack lasts several legs after §1.
 
-**Per §1:** **6 × 120 g Cruesli** + ~150 g powder · **3** bread + sausage mornings — [food-section1](./food-section1-2027.md).
+**Per §1:** **9 × 120 g Cruesli** + **225 g** powder, from **NL**, each person — [food-section1](./food-section1-2027.md).
 
 ### Treat — pannkakor i TOAKS-panna
 
@@ -574,12 +574,12 @@ Rotate **protein** (**frozen/fresh meat** / meat tin / beans / egg / frystorkat 
 
 | Item | Weight |
 |------|--------|
-| Breakfast §1 (Cruesli + powder **or** bread + sausage) | ~145–180 g |
-| Lunch — 4 bars + mix | **350 g** |
+| Breakfast §1 (Cruesli + powder) | **145 g** |
+| Lunch — 4 bars + nuts + dried fruit | **350 g** |
 | Dinner — cooked | ~350–400 g |
 | Dinner — freeze-dried + 20 g oil | ~160 g |
 | Coffee | ~8 g |
-| **§1 average** | **~730 g/day** packed · see [food-section1](./food-section1-2027.md) (**7.3 kg** / 10 days) |
+| **§1 pack** | **6.2 kg** for 9 days, from NL · see [food-section1](./food-section1-2027.md) |
 
 At each **D** shop after Storlien: buy **frozen/fresh meat** for the first half of the leg; **tins and dry** for the rest. **ägg**, **lök**, **smör**, **grädde** keep in **Feb–Mar** cold.
 

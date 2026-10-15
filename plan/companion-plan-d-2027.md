@@ -60,7 +60,7 @@ Staffed huts are the plan. A tent is only the Tjäktja bail (below the pass) or 
 | Skis + boots + bindings | BC / touring · tested |
 | **Pulk** or pack | Food and sleep kit for the hut chain |
 | Sleep system | Own bag + mat · STF bunk |
-| Food | From the **Ritsem** shop for the leg to Abisko |
+| Food | **Ritsem → Abisko** meals are posted from **Hemavan**. The Ritsem shop is not that leg |
 | Warm layers · mittens · goggles | April, still fjäll |
 | Headlamp · first aid · repair | Personal |
 | Phone + power | Offline maps |
@@ -72,7 +72,7 @@ Staffed huts are the plan. A tent is only the Tjäktja bail (below the pass) or 
 
 ## Food & fuel
 
-Shop at **STF Ritsem** on the meet day (restaurant · shop · Power Fuel). Hut shops along the KL are top-ups, not the plan. Abisko is the exit, not a trail resupply for them.
+The food for this leg is already at **STF Ritsem**, posted from **Hemavan**. Cooking to Abisko is in the hut kitchens, so this leg needs **very little** fuel. Abisko is the exit, not a trail resupply for them.
 
 ---
 

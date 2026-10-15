@@ -86,7 +86,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [x] Lighters ×2 + waterproof matches ✓
 - [x] **Thermos 1 L** ✓ (blue)
 
-**Fuel resupply:** liquid alkylate only until Abisko — Gäddede Frostvikens · **Hemavan max** · Kvikkjokk call · **Ritsem ★** · **Abisko ★** (canisters OK from here)
+**Fuel resupply:** **3 L from NL** · **buy 2 L in Storlien** · **buy 2 L in Gäddede if needed** · then liquid alkylate only until Abisko — **Hemavan max** · Kvikkjokk call · **Ritsem** only a little (hut kitchens to Abisko) · **Abisko ★** (canisters OK from here)
 
 ---
 
@@ -158,7 +158,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **8–10 days** food (~4,000–5,000 kcal/day) in **2–3 flat clear boxes** — see [packing-pulk-2027.md](./packing-pulk-2027.md#food-boxes-23-flat-clear-containers)
 - [ ] **Today’s lunch** — **4 bars = 200 g** + **150 g** nötter/torkad frukt ([§1](./food-section1-2027.md))
 - [ ] Tea/coffee small supply
-- [ ] **Alkylate** full bottles from home
+- [ ] **Alkylate 3 L from NL** (2× 1 L bottles + 1 L tin) · **buy 2 L in Storlien** · **buy 2 L in Gäddede if needed**
 
 ---
 

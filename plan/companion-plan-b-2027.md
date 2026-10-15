@@ -29,7 +29,7 @@ NL ──(train/bus)──► Strömsund ──425──► Gäddede
                                            companion ◄── bus 31 / airport
 ```
 
-**PT in:** Länstrafiken Jämtland **425** Gäddede ↔ Strömsund (~2 h) — typically **1× weekday**, poor/none Sat. Then Strömsund → Östersund train/bus. Night in Gäddede (camping / Pilgrimshotellet) before D25. [ltr.se](https://ltr.se/).  
+**PT in:** Länstrafiken Jämtland **425** Gäddede ↔ Strömsund (~2 h) — typically **1× weekday**, poor/none Sat. Then Strömsund → Östersund train/bus. Night at **Pilgrimshotellet** before D25. Gäddede Camping is the pitch alternative. [ltr.se](https://ltr.se/).  
 **PT out:** Hemavan — daily **31** toward Umeå · airport · same buses as [C](./companion-plan-c-2027.md).
 
 ---
@@ -40,7 +40,7 @@ NL ──(train/bus)──► Strömsund ──425──► Gäddede
 
 | Night | Place | Sleep |
 |-------|-------|-------|
-| Before D25 | Gäddede | **H** Pilgrimshotellet · or Gäddede Camping (year-round) |
+| Before D25 | Gäddede | **H** Pilgrimshotellet ★ · Gäddede Camping alternative (year-round) |
 | D25 | Vilhelmina fjäll | **Tent** on track |
 | D26 | Borgafjäll west | **Tent** · optional **H** Borgafjäll Hotell (~**24 km E** — skip unless storm) |
 | D27 | Slipsikstugan | **Tent default** · unlocked Länsstyrelsen 4–6 bunks (often cold/occupied) |
@@ -83,9 +83,9 @@ Companion brings personal ski/pulk/sleep/clothes — **not** a second tent or st
 
 | Leg | Carry |
 |-----|-------|
-| Gäddede → Klimpfjäll (D28) | **~4–5 days** |
-| Klimpfjäll → Hemavan | **~4–5 days** |
-| Fuel | **Alkylate** from Gäddede Frostvikens if stocked · one shared stove |
+| Your food | [§3](./food-section3-2027.md) — NL box + **5 fresh meals** and extra breakfast and lunch from ICA |
+| Companion | Bring more **only if** that is not enough for two. Their food stays on their pulk |
+| Fuel | At Frostvikens, buy **2 L** alkylate **if needed** |
 
 Optional Gränssjö kiosk (snacks only). Handlar'n at Klimpfjäll is the mid-leg shop.
 
@@ -119,13 +119,13 @@ You keep the **shared tent and stove**. Companion leaves with personal kit only.
 ### Travel (to Gäddede)
 
 - [ ] Ski bag · pulk packed for train/bus  
-- [ ] **No fuel on the bus** — alkylate from Gäddede if stocked  
+- [ ] **No fuel on the bus** — buy **2 L** at Frostvikens if the fuel you have is not enough  
 - [ ] Night in Gäddede booked  
 
 ### On trail (D25–D34)
 
 - [ ] Personal winter kit **without** tent/stove  
-- [ ] Food for **~4–5 days** to Klimpfjäll, cash for Handlar'n  
+- [ ] Extra food **only if** the Gäddede shop and the NL box are not enough for two · cash for Handlar'n  
 - [ ] Bowl/mug/spoon only — cook on shared stove  
 - [ ] Shared emergency plan (your inReach)  
 

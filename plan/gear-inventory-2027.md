@@ -21,7 +21,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ (ship to Abisko) · **Sirex Everest 10** foam backup ✓ | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
 | Stove / pot | **OmniLite** + silencer · **TOAKS 1600 ml** ✓ | **2 L** max alkylate · [cooking](./gear-considerations-2027.md#cooking--toaks-ti-1600-ml) |
 | Nav / comms | **Suunto V2** · **66i** · **OsmAnd+** · **Topo GPS** SE+NO ✓ · **Calazo 1:100k** | [comms](./gear-considerations-2027.md#navigation-comms--power) · [power plan](./power-plan-2027.md) |
-| Food | Buy on trail ~**8–10 days** | §1: [food-section1-2027.md](./food-section1-2027.md) · **~7 kg** · [pulk-weight](./pulk-weight-2027.md) |
+| Food | Buy on trail ~**8–10 days** | §1 from **NL**: [food-section1-2027.md](./food-section1-2027.md) · **~5.9 kg** · [pulk-weight](./pulk-weight-2027.md) |
 
 **Columns in master list below:** **Own** · **Need** · **Test**
 
@@ -188,12 +188,12 @@ Liquid **alkylate in bottles only** until Abisko — [resupply](./resupply-2027.
 
 | Leg | Days | Carry |
 |-----|------|-------|
-| Grövelsjön → Storlien | 10 | **3 L** (two people · shared stove) |
-| → Gäddede | 13 | ~2 L |
-| → Hemavan | 9 | **2 L** max fill |
+| Grövelsjön → Storlien | 10 | **3 L from NL** (two people · shared stove) |
+| → Gäddede | 13 | **Buy 2 L** alkylate in Storlien |
+| → Hemavan | 9 | **Buy 2 L** in Gäddede **if needed** |
 | → Kvikkjokk | 12 | **2 L** |
 | → Ritsem | 6–7 | **2–2.5 L** (tightest leg) |
-| → Abisko | 7 | refill **2 L** |
+| → Abisko | 7 | **Very little** — cooking is in the hut kitchens |
 | → Treriksröset | 6 | **2 L** + 7–8 days food |
 
 Measure **g/day** on shakedown at **−15 °C**.
@@ -202,17 +202,17 @@ Measure **g/day** on shakedown at **−15 °C**.
 
 ## Weight budget (fill in on shakedown)
 
-**D1 detail:** [pulk-weight-2027.md](./pulk-weight-2027.md) — **~30.1 kg** loaded.
+**D1 detail:** [pulk-weight-2027.md](./pulk-weight-2027.md) — **~29.7 kg** loaded.
 
 | Zone | Target | Your weigh-in |
 |------|--------|---------------|
 | Pulk rig (J14 + harness + bag) | 5.3 kg | |
-| Food §1 on pulk | **7.0 kg** | |
+| Food §1 on pulk | **5.9 kg** | |
 | Fuel 3 L + bottles | **~2.8 kg** | |
 | Tent (Nammatj 3 GT + pack) | 4.3 kg | |
 | Sleep (bag + Ultra 7R in Sleeper) | 2.85 kg spec | XLite **not in pulk** |
 | Clothing spare + toiletries + first aid + misc | ~est in pulk-weight | |
-| **Cargo + rig D1** | **~30.1 kg** | |
+| **Cargo + rig D1** | **~29.7 kg** | |
 | On body | electronics **0.95 kg** + lunch 0.35 kg | |
 
 ---

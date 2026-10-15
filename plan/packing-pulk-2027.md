@@ -125,18 +125,18 @@ Buy on trail — **8–10 days food** typical after Storlien; **§1** is [food-s
 
 | Leave | Days to next shop | Food carry | Fuel note |
 |-------|-------------------|------------|-----------|
-| **Grövelsjön** (D1) | 10 → Storlien | **~7 kg** your food · [§1](./food-section1-2027.md) | **3 L** alkylate (two people) from home/car — no canisters |
-| **Storlien** (D10) | 14 → Gäddede | 10–12 days | **Liquid tins only** — decant into bottles |
-| **Gäddede** (D25) | 11 → Hemavan | 10–11 days | Try Frostvikens El · optional Blåsjö detour D23–24 |
-| **Hemavan** (D37) ★ | 12 → Kvikkjokk | 11–12 days | **Max fill** before long leg |
-| **Kvikkjokk** (D51) ★ | 7–8 → Ritsem | **Max leg** — Padjelanta-west | **Call for alkylate**; else **2× 1 L** full from Hemavan |
-| **Ritsem** (D59) ★ | 7 → Abisko | 6–7 days | **Power Fuel** — decant |
+| **Grövelsjön** (D1) | 10 → Storlien | **~5.9 kg** your food from **NL** · [§1](./food-section1-2027.md) | **3 L** alkylate from **NL** (two people) — no canisters |
+| **Storlien** (D10) | 14 → Gäddede | NL box + Storlien shop + companion leftovers · [§2](./food-section2-2027.md) | **Buy 2 L** alkylate |
+| **Gäddede** (D25) | 11 → Hemavan | NL box posted from Grövelsjön · [§3](./food-section3-2027.md) | **Buy 2 L** alkylate **if needed** |
+| **Hemavan** (D37) ★ | to Abisko, split | Freeze-dried, breakfast, lunch · some posted to Kvikkjokk and Ritsem · [Hemavan→Abisko](./food-hemavan-abisko-2027.md) | **Max fill** before long leg |
+| **Kvikkjokk** (D51) ★ | 7–8 → Ritsem | Collect the Hemavan parcel | **Call for alkylate**; else **2× 1 L** full from Hemavan |
+| **Ritsem** (D59) ★ | 7 → Abisko | **Ritsem → Abisko food**, posted from Hemavan | **Very little** alkylate — cooking is in the hut kitchens |
 | **Abisko** (D66) ★ | 6 → Treriksröset | **7–8 days** | **~2 L liquid alkylate**; **canisters OK from here** if desired · Pältsa is **T** on D73, not a shop |
 | **Pältsa** (D73) | — | **No shop stop** | Closed 18 Apr 2027 · **T** on 20 Apr |
 
 **Heaviest pulk days:** leaving **Storlien**, **Hemavan**, and **Kvikkjokk** (food + fuel together). Lightest: **2–3 days after** a big shop.
 
-**Optional:** [Kolåsen depot](./resupply-2027.md) after Storlien — drops ~4 days food from the sled early (admin cost).
+**§2 box:** posted Grövelsjön → Storlien — [food-section2-2027.md](./food-section2-2027.md). **§3 box:** posted Grövelsjön → Gäddede — [food-section3-2027.md](./food-section3-2027.md). **Hemavan → Abisko** food is bought there, with parcels to Kvikkjokk and Ritsem — [food-hemavan-abisko-2027.md](./food-hemavan-abisko-2027.md). **Optional:** [Kolåsen depot](./resupply-2027.md) after Storlien, if you still want food off the sled early.
 
 ---
 
@@ -154,12 +154,12 @@ Buy on trail — **8–10 days food** typical after Storlien; **§1** is [food-s
 
 | Section | Packing focus |
 |---------|----------------|
-| **§1 Grövelsjön → Storlien** | [§1 food](./food-section1-2027.md) · [D1 pulk weight](./pulk-weight-2027.md) **~30.1 kg** · Hamra backup |
+| **§1 Grövelsjön → Storlien** | [§1 food](./food-section1-2027.md) from **NL** · [D1 pulk weight](./pulk-weight-2027.md) **~29.7 kg** · Hamra backup |
 | **§2 → Gäddede** | Long food carry; depot option |
 | **§3 Lapplandsleden** | Steady rhythm; fuel at Gäddede/Hemavan |
 | **§4 → Kvikkjokk** | Heavy + **fuel critical** |
 | **§5 Kvikkjokk → Ritsem** | **All fuel** for shop-less days; dense food |
-| **§5b KL → Abisko** | Refuel Ritsem; moderate food |
+| **§5b KL → Abisko** | Hut kitchens · **very little** stove fuel |
 | **§6 Abisko → Pältsa** | **Max shop load**; DNT huts = **no food, no fuel** |
 
 Steep days (Padjelanta, Lappjord): lower profile helps more than a bigger sled — expect kick-turns and short carries.
@@ -168,7 +168,7 @@ Steep days (Padjelanta, Lappjord): lower profile helps more than a bigger sled �
 
 ## Weight budget (fill on shakedown)
 
-**D1 line items:** [pulk-weight-2027.md](./pulk-weight-2027.md) — spec **24.7 kg** + ~est **5.4 kg** = **~30.1 kg** loaded.
+**D1 line items:** [pulk-weight-2027.md](./pulk-weight-2027.md) — spec **24.3 kg** + ~est **5.4 kg** = **~29.7 kg** loaded.
 
 | Zone | Target | Weighed |
 |------|--------|---------|
@@ -176,10 +176,10 @@ Steep days (Padjelanta, Lappjord): lower profile helps more than a bigger sled �
 | Sleeper 200 (empty) | 1.4 kg | |
 | Sleep kit (bag + pad in Sleeper) | 2.85 kg spec | |
 | Tent Nammatj 3 GT + Sled Pack | 4.3 kg | |
-| Food §1 (on pulk) | **7.0 kg** | |
+| Food §1 (on pulk) | **5.9 kg** | |
 | Fuel 3 L + bottles | **~2.8 kg** | |
 | Clothes + toiletries + first aid + kitchen + misc | ~est in pulk-weight | |
-| **Loaded pulk D1** | **~30.1 kg** | **____ kg** |
+| **Loaded pulk D1** | **~29.7 kg** | **____ kg** |
 | On body (skiing) | electronics **0.95 kg** + lunch 0.35 kg + worn | |
 
 Weigh **loaded pulk + Sleeper** before D1. Later legs (Storlien 10-day shop) will be heavier in **food** — re-weigh there.
@@ -216,7 +216,7 @@ If the tent is unusable: bag + pad already in Sleeper → zip up as wind shell. 
 | [gear-inventory-2027.md](./gear-inventory-2027.md) | Master list, fuel legs, weight budget |
 | [gear-considerations-2027.md](./gear-considerations-2027.md) | Poles, skins, tent/pad upgrades, nav, VBL |
 | [pulk-weight-2027.md](./pulk-weight-2027.md) | **D1 loaded pulk** — gram table |
-| [food-section1-2027.md](./food-section1-2027.md) | §1 menu · NL / Fjällbua |
+| [food-section1-2027.md](./food-section1-2027.md) | §1 menu · all from NL |
 | [resupply-2027.md](./resupply-2027.md) | Shops, alkylate, carry table |
 | [trail-meals-2027.md](./trail-meals-2027.md) | Breakfast + dinner recipes, protein guide |
 | [dag-for-dag-2027.md](./dag-for-dag-2027.md) | Daily km and resupply days |
