@@ -82,6 +82,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 - [ ] **Gas jet** (optional — pack/use from **Abisko** onward if you switch to canisters)
 - [x] Pot **TOAKS Ti 1600 ml Pot with Pan** ✓
 - [x] **Spoon / cup / utensils** ✓
+- [x] **Reusable coffee filter** ✓ — no papers · ground coffee
 - [x] **CO detector** ✓ — portable 3-in-1 (CO + temp + RH) · USB-C · magnetic · vestibule cook only — [power plan](./power-plan-2027.md#portable-co-detector)
 - [x] Lighters ×2 + waterproof matches ✓
 - [x] **Thermos 1 L** ✓ (blue)
@@ -157,7 +158,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 
 - [ ] **8–10 days** food (~4,000–5,000 kcal/day) in **2–3 flat clear boxes** — see [packing-pulk-2027.md](./packing-pulk-2027.md#food-boxes-23-flat-clear-containers)
 - [ ] **Today’s lunch** — **4 bars = 200 g** + **150 g** nötter/torkad frukt ([§1](./food-section1-2027.md))
-- [ ] Tea/coffee small supply
+- [ ] **Drinks** — **250 g** coffee · **20+** tea bags · lemonade or blåbärstoddy · [shopping list](./food-shopping-2027.md)
 - [ ] **Alkylate 3 L from NL** (2× 1 L bottles + 1 L tin) · **buy 2 L in Storlien** · **buy 2 L in Gäddede if needed**
 
 ---

@@ -142,7 +142,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | **Fjällbua** (Storsätern · Grövelsjövägen 378) | **The village livs** — groceries, frozen, bars, freeze-dried when stocked, Systembolag/apotek ombud | **Unlikely** liquid alkylate — **3 L from NL** · **no canisters** | — |
 | **STF Grövelsjön** shop | Frystorkat / basics if Fjällbua is thin | Same — ignore canisters | — |
 
-**§1 food:** [food-section1-2027.md](./food-section1-2027.md) — **all from NL** · full carry to Storlien · **~5.9 kg** on your pulk. Companion packs their own Cruesli, bars, nuts, and three cooked dinners. **Eat:** village (Sjöstugan / Storsätern) the night before — STF Grövelsjön **restaurant closed** winter 2027 (renovation). Do **not** count Fjällbua or Hamra for this load.
+**§1 food:** [food-section1-2027.md](./food-section1-2027.md) — **all from NL** · full carry to Storlien · **~6.1 kg** on your pulk. Companion packs their own Cruesli, bars, nuts, and three cooked dinners. **Eat:** village (Sjöstugan / Storsätern) the night before — STF Grövelsjön **restaurant closed** winter 2027 (renovation). Do **not** count Fjällbua or Hamra for this load.
 
 **Fuel:** **3 L alkylate from NL** for **two people** on the shared stove (2× 1 L bottles + 1 L tin). In Storlien buy **2 L** for §2. In Gäddede buy **2 L** if you need it.
 
@@ -339,7 +339,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
-| **ICA Nära Fjällboden Hemavan** · Blå Vägen 35 · 0954 30003 | **Freeze-dried, breakfast, and lunch** for Hemavan → Abisko — [food-hemavan-abisko](./food-hemavan-abisko-2027.md) | **Liquid alkylate** — Sportringen / Cykel & Fiske (call ahead); **no canisters** | Post some of that food to **STF Kvikkjokk** and **STF Ritsem** |
+| **ICA Nära Fjällboden Hemavan** · Blå Vägen 35 · 0954 30003 | **Freeze-dried, breakfast, and lunch** for Hemavan → Abisko — [food-hemavan-abisko](./food-hemavan-abisko-2027.md). **250 g** coffee on the pulk. **Post 250 g coffee** with the Kvikkjokk food | **Liquid alkylate** — Sportringen / Cykel & Fiske (call ahead); **no canisters** | Post some of that food to **STF Kvikkjokk** (includes **250 g** coffee) and **STF Ritsem** |
 | **STF Hemavan** shop | Basics: maps, Compeed, myggmedel | **Liquid only** if stocked (small shop) | Depot accepted free |
 | **Anders Bistro** (Hemavan centrum) | French classics; vinter + sommar | — | Sit-down dinner |
 | **Barobro** (centrumbacken Hemavan) | Grilled mackor + warm food; vintersäsong | — | Lighter food |
@@ -535,7 +535,7 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 | Kolåsen (via Storlien leg) | Optional extra depot — not the §2 box |
 | **Storlien → Gäddede** | Surplus **§2 food** if the pulk is too heavy — [food-section2](./food-section2-2027.md). Collect **28 Feb** |
 | **Grövelsjön → Gäddede** | **§3 food box** from NL — [food-section3-2027.md](./food-section3-2027.md). Post before the ski. Collect **28 Feb–1 Mar** |
-| **Hemavan → STF Kvikkjokk** | Part of the Hemavan → Abisko food. Collect **26–27 Mar** |
+| **Hemavan → STF Kvikkjokk** | Part of the Hemavan → Abisko food, plus **250 g** coffee. Collect **26–27 Mar** |
 | **Hemavan → STF Ritsem** | **All food for Ritsem → Abisko.** Posted from Hemavan. Collect **3 Apr** |
 | STF Abisko | Catch-up before Norway leg if running low · **NeoAir XLite** pad (optional late-leg switch) |
 
@@ -545,12 +545,12 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 
 ## Suggested carry between shops (solo pulk)
 
-**Rate (later legs):** **~1.3–1.5 kg food/day** shop mix. **§1** is **~0.69 kg/day**, all from NL ([food-section1](./food-section1-2027.md)). Packing **10-day max 12–16 kg** still applies after Storlien.
+**Rate (later legs):** **~1.3–1.5 kg food/day** shop mix. **§1** is **~0.72 kg/day**, all from NL ([food-section1](./food-section1-2027.md)). Packing **10-day max 12–16 kg** still applies after Storlien.
 
 | Leg | Days | Shop at start | Food to **buy** | On pulk leaving shop |
 |-----|------|---------------|-----------------|----------------------|
-| Grövelsjön → Storlien | 9 | **NL** before Day 1 | **[§1 menu](./food-section1-2027.md)** · **~5.9 kg** on pulk (your food only) · Hamra **backup** | [pulk-weight](./pulk-weight-2027.md) **~29.7 kg** loaded |
-| → Gäddede | 14 | NL box + **Storlien** shop + companion leftovers | [§2](./food-section2-2027.md) · box **~7.2 kg** plus the shop | Heaviest early load |
+| Grövelsjön → Storlien | 9 | **NL** before Day 1 | **[§1 menu](./food-section1-2027.md)** · **~6.1 kg** on pulk (your food only) · Hamra **backup** | [pulk-weight](./pulk-weight-2027.md) **~29.9 kg** loaded |
+| → Gäddede | 14 | NL box + **Storlien** shop + companion leftovers | [§2](./food-section2-2027.md) · box **~7.7 kg** plus the shop | Heaviest early load |
 | → Hemavan | 11 | NL box at **Gäddede** + ICA **5 fresh meals** and extra breakfast and lunch | [§3](./food-section3-2027.md) · companion brings more only if two people need it | |
 | → Kvikkjokk | 12 | **Hemavan** ICA | Freeze-dried, breakfast, lunch to Abisko · carry only to Kvikkjokk · [plan](./food-hemavan-abisko-2027.md) | Parcels take the rest |
 | → Ritsem | 6–7 | Hemavan parcel at Kvikkjokk | Collect **26–27 Mar** | |

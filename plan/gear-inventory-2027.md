@@ -21,7 +21,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ (ship to Abisko) · **Sirex Everest 10** foam backup ✓ | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
 | Stove / pot | **OmniLite** + silencer · **TOAKS 1600 ml** ✓ | **2 L** max alkylate · [cooking](./gear-considerations-2027.md#cooking--toaks-ti-1600-ml) |
 | Nav / comms | **Suunto V2** · **66i** · **OsmAnd+** · **Topo GPS** SE+NO ✓ · **Calazo 1:100k** | [comms](./gear-considerations-2027.md#navigation-comms--power) · [power plan](./power-plan-2027.md) |
-| Food | Buy on trail ~**8–10 days** | §1 from **NL**: [food-section1-2027.md](./food-section1-2027.md) · **~5.9 kg** · [pulk-weight](./pulk-weight-2027.md) |
+| Food | Buy on trail ~**8–10 days** | §1 from **NL**: [food-section1-2027.md](./food-section1-2027.md) · **~6.1 kg** · [shopping](./food-shopping-2027.md) · [pulk-weight](./pulk-weight-2027.md) |
 
 **Columns in master list below:** **Own** · **Need** · **Test**
 
@@ -112,6 +112,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | **CO detector** | Portable 3-in-1 · CO + temp + RH · magnetic | 1 | **~58** | ✓ | | USB-C · vestibule cook only · [bol.com](https://www.bol.com/nl/nl/p/gasdetector-koolmonoxidedetector-draagbare-koolmonoxidemelder-temperatuurweergave-vochtigheidsweergave-magnetische-adsorptie/9300000256771676/) · [power](./power-plan-2027.md#portable-co-detector) |
 | Lighter + matches | | 2+2 | | ✓ | | |
 | Spoon / cup / utensils | | 1 set | | ✓ | | |
+| **Coffee filter** | Reusable · no papers | 1 | | ✓ | | Ground coffee · **250 g** at each section start |
 | Thermos | **1 L** blue | 1 | | ✓ | | Day drink / warm water |
 
 ### Navigation & comms
@@ -202,17 +203,17 @@ Measure **g/day** on shakedown at **−15 °C**.
 
 ## Weight budget (fill in on shakedown)
 
-**D1 detail:** [pulk-weight-2027.md](./pulk-weight-2027.md) — **~29.7 kg** loaded.
+**D1 detail:** [pulk-weight-2027.md](./pulk-weight-2027.md) — **~29.9 kg** loaded.
 
 | Zone | Target | Your weigh-in |
 |------|--------|---------------|
 | Pulk rig (J14 + harness + bag) | 5.3 kg | |
-| Food §1 on pulk | **5.9 kg** | |
+| Food §1 on pulk | **6.1 kg** | |
 | Fuel 3 L + bottles | **~2.8 kg** | |
 | Tent (Nammatj 3 GT + pack) | 4.3 kg | |
 | Sleep (bag + Ultra 7R in Sleeper) | 2.85 kg spec | XLite **not in pulk** |
 | Clothing spare + toiletries + first aid + misc | ~est in pulk-weight | |
-| **Cargo + rig D1** | **~29.7 kg** | |
+| **Cargo + rig D1** | **~29.9 kg** | |
 | On body | electronics **0.95 kg** + lunch 0.35 kg | |
 
 ---

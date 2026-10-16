@@ -1,7 +1,7 @@
 # Section 1 food — Grövelsjön → Storlien
 
 **Your food on your pulk.** Companion packs the same breakfast, lunch, and three cooked dinners on **their** pulk. **5–13 Feb 2027** · D1–D9 · **156 km**.  
-**Pulk grams:** [pulk-weight-2027.md](./pulk-weight-2027.md). Recipes: [trail-meals-2027.md](./trail-meals-2027.md). Days: [dag-for-dag-2027.md](./dag-for-dag-2027.md).
+**Pulk grams:** [pulk-weight-2027.md](./pulk-weight-2027.md). Recipes: [trail-meals-2027.md](./trail-meals-2027.md). Days: [dag-for-dag-2027.md](./dag-for-dag-2027.md). Shopping: [food-shopping-2027.md](./food-shopping-2027.md).
 
 **Locked**
 
@@ -61,10 +61,11 @@ Your pulk only. The companion’s matching breakfast, lunch, and three cooked di
 | Cooked dinners | 3 × 380 | 1,140 | 1,140 |
 | Freeze-dried pouches | 3 × 140 | 420 | 420 |
 | Olivolja on FD | 3 × 20 | 60 | 60 |
-| Coffee | 9 mornings | 70 | 70 |
-| Tea / drink mix | — | 100 | 100 |
-| **Pack total** | | **6,245** | |
-| **On pulk** (minus D1 lunch) | | | **5,895 (~5.9 kg)** |
+| Coffee | **250 g** at the start | 250 | 250 |
+| Tea bags | **20+** | ~50 | ~50 |
+| Lemonade or blåbärstoddy | 1 pouch | ~100 | ~100 |
+| **Pack total** | | **6,475** | |
+| **On pulk** (minus D1 lunch) | | | **6,125 (~6.1 kg)** |
 
 ---
 
@@ -78,11 +79,12 @@ Buy at home. Pack it in the car. Do not shop this list at Fjällbua.
 | **Mjölkpulver** | **225 g** | Same |
 | **Bars** | **36** (4/day × 9) | Same |
 | **Nötter + torkad frukt** | **1.35 kg** (9 × 150 g) | Same |
-| **Coffee** | ~70 g | Same, if they drink it |
+| **Coffee** | **250 g** | Theirs, if they drink it |
+| **Tea bags** | **20+** | Theirs |
+| **Lemonade or blåbärstoddy** | 1 pouch | Theirs |
 | **Freeze-dried dinners** | **3** | **3** |
 | **Olivolja** | **60 g** (3 × 20 g) | **60 g** |
 | **Cooked D1–D3** (pasta, bacon / korv / färs, lök) | **3** meals · ~1.1 kg | **3** meals · their own |
-| Tea | handful | Theirs |
 | **Alkylate 3 L** | 2× 1 L bottles + **1 L tin** — shared, on your pulk | — |
 
 **Do not** count on STF Grövelsjön, Fjällbua, or Hamra for this load.
@@ -94,8 +96,8 @@ Buy at home. Pack it in the car. Do not shop this list at Fjällbua.
 | Box | Contents |
 |-----|----------|
 | **1 — dinners** | 3 cooked (flat frozen first) · 3 freeze-dried · oil |
-| **2 — breakfast + bulk lunch** | 9 Cruesli bags · powder · spare bars · 1.35 kg mix |
-| **3 — today** | **350 g** lunch · coffee for morning · tea |
+| **2 — breakfast + bulk lunch** | 9 Cruesli bags · powder · spare bars · 1.35 kg mix · **250 g** coffee · tea bags · drink pouch |
+| **3 — today** | **350 g** lunch · coffee for morning · a tea bag |
 
 Fuel bottles **not** in food boxes. **3 L** shared — see [pulk-weight](./pulk-weight-2027.md).
 

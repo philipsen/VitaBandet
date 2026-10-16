@@ -12,7 +12,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 **Day-by-day itinerary:** [dag-for-dag-2027.md](plan/dag-for-dag-2027.md) — the working schedule.  
 **Archived pacing options:** [archive/itinerary-options/](archive/itinerary-options/) (~25 km cruise and ~27 km stitch). Not the working calendar.  
 **Master GPX:** [`2027.GPX`](tracks/2027.GPX) — maintained manually in BaseCamp and used as the route source of truth. Detail/context: [band-tracks-comparison.md](plan/band-tracks-comparison.md).  
-**Resupply (local):** [resupply-2027.md](plan/resupply-2027.md) · **§1 food:** [food-section1-2027.md](plan/food-section1-2027.md) · **D1 pulk weight:** [pulk-weight-2027.md](plan/pulk-weight-2027.md)  
+**Resupply (local):** [resupply-2027.md](plan/resupply-2027.md) · **§1 food:** [food-section1-2027.md](plan/food-section1-2027.md) · **Food shopping:** [food-shopping-2027.md](plan/food-shopping-2027.md) · **D1 pulk weight:** [pulk-weight-2027.md](plan/pulk-weight-2027.md)  
 **Transport (start & return):** [transport-considerations-2027.md](plan/transport-considerations-2027.md) · **Companion A:** [companion-plan-2027.md](plan/companion-plan-2027.md) · **B:** [companion-plan-b-2027.md](plan/companion-plan-b-2027.md) · **Klaartje C:** [companion-plan-c-2027.md](plan/companion-plan-c-2027.md) · **D:** [companion-plan-d-2027.md](plan/companion-plan-d-2027.md) · [index](plan/companion-sections-2027.md)  
 **STF hut openings:** [stf-openings-2027.md](plan/stf-openings-2027.md) (scraped from [svenskaturistforeningen.se](https://www.svenskaturistforeningen.se))
 **Gear inventory:** [gear-inventory-2027.md](plan/gear-inventory-2027.md) · **Comparisons & upgrades:** [gear-considerations-2027.md](plan/gear-considerations-2027.md)
@@ -138,7 +138,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 - **Calories per day (target):** ~3,500–4,000 on §1 dinner days ([food-section1-2027.md](plan/food-section1-2027.md)) · ~4,000–5,000 later legs  
 - **Water strategy:** snow melt · morning stove = **coffee + warm water** (milk powder mixed **cold**)  
 - **Resupply detail:** [resupply-2027.md](plan/resupply-2027.md) — **§1 all from NL**; **§2** NL box shipped Grövelsjön → Storlien, rest bought there, plus companion leftovers; **§3** NL box shipped Grövelsjön → Gäddede; **Hemavan** buys freeze-dried, breakfast, and lunch through Abisko and posts some to Kvikkjokk and Ritsem; Hamra backup  
-- **D1 loaded pulk:** **~29.7 kg** — [pulk-weight-2027.md](plan/pulk-weight-2027.md)  
+- **D1 loaded pulk:** **~29.9 kg** — [pulk-weight-2027.md](plan/pulk-weight-2027.md)  
 - **Fuel:** **3 L** alkylate from **NL** (§1, two people); **buy 2 L in Storlien** for §2; **buy 2 L in Gäddede if needed**; **no canisters** until Abisko  
 
 ---

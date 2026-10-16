@@ -125,7 +125,7 @@ Buy on trail — **8–10 days food** typical after Storlien; **§1** is [food-s
 
 | Leave | Days to next shop | Food carry | Fuel note |
 |-------|-------------------|------------|-----------|
-| **Grövelsjön** (D1) | 10 → Storlien | **~5.9 kg** your food from **NL** · [§1](./food-section1-2027.md) | **3 L** alkylate from **NL** (two people) — no canisters |
+| **Grövelsjön** (D1) | 10 → Storlien | **~6.1 kg** your food from **NL** · [§1](./food-section1-2027.md) | **3 L** alkylate from **NL** (two people) — no canisters |
 | **Storlien** (D10) | 14 → Gäddede | NL box + Storlien shop + companion leftovers · [§2](./food-section2-2027.md) | **Buy 2 L** alkylate |
 | **Gäddede** (D25) | 11 → Hemavan | NL box posted from Grövelsjön · [§3](./food-section3-2027.md) | **Buy 2 L** alkylate **if needed** |
 | **Hemavan** (D37) ★ | to Abisko, split | Freeze-dried, breakfast, lunch · some posted to Kvikkjokk and Ritsem · [Hemavan→Abisko](./food-hemavan-abisko-2027.md) | **Max fill** before long leg |
@@ -154,7 +154,7 @@ Buy on trail — **8–10 days food** typical after Storlien; **§1** is [food-s
 
 | Section | Packing focus |
 |---------|----------------|
-| **§1 Grövelsjön → Storlien** | [§1 food](./food-section1-2027.md) from **NL** · [D1 pulk weight](./pulk-weight-2027.md) **~29.7 kg** · Hamra backup |
+| **§1 Grövelsjön → Storlien** | [§1 food](./food-section1-2027.md) from **NL** · [D1 pulk weight](./pulk-weight-2027.md) **~29.9 kg** · Hamra backup |
 | **§2 → Gäddede** | Long food carry; depot option |
 | **§3 Lapplandsleden** | Steady rhythm; fuel at Gäddede/Hemavan |
 | **§4 → Kvikkjokk** | Heavy + **fuel critical** |
@@ -168,7 +168,7 @@ Steep days (Padjelanta, Lappjord): lower profile helps more than a bigger sled �
 
 ## Weight budget (fill on shakedown)
 
-**D1 line items:** [pulk-weight-2027.md](./pulk-weight-2027.md) — spec **24.3 kg** + ~est **5.4 kg** = **~29.7 kg** loaded.
+**D1 line items:** [pulk-weight-2027.md](./pulk-weight-2027.md) — spec **24.6 kg** + ~est **5.4 kg** = **~29.9 kg** loaded.
 
 | Zone | Target | Weighed |
 |------|--------|---------|
@@ -176,10 +176,10 @@ Steep days (Padjelanta, Lappjord): lower profile helps more than a bigger sled �
 | Sleeper 200 (empty) | 1.4 kg | |
 | Sleep kit (bag + pad in Sleeper) | 2.85 kg spec | |
 | Tent Nammatj 3 GT + Sled Pack | 4.3 kg | |
-| Food §1 (on pulk) | **5.9 kg** | |
+| Food §1 (on pulk) | **6.1 kg** | |
 | Fuel 3 L + bottles | **~2.8 kg** | |
 | Clothes + toiletries + first aid + kitchen + misc | ~est in pulk-weight | |
-| **Loaded pulk D1** | **~29.7 kg** | **____ kg** |
+| **Loaded pulk D1** | **~29.9 kg** | **____ kg** |
 | On body (skiing) | electronics **0.95 kg** + lunch 0.35 kg + worn | |
 
 Weigh **loaded pulk + Sleeper** before D1. Later legs (Storlien 10-day shop) will be heavier in **food** — re-weigh there.

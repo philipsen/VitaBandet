@@ -1,7 +1,7 @@
 # Section 2 food — Storlien → Gäddede
 
 **You only.** Companion stops in Storlien. **15–28 Feb 2027** · D11–D24 · **14 ski days**.  
-Days: [dag-for-dag-2027.md](./dag-for-dag-2027.md). §1 menu: [food-section1-2027.md](./food-section1-2027.md).
+Days: [dag-for-dag-2027.md](./dag-for-dag-2027.md). §1 menu: [food-section1-2027.md](./food-section1-2027.md). Shopping: [food-shopping-2027.md](./food-shopping-2027.md).
 
 **Locked**
 
@@ -26,8 +26,12 @@ Lunch is the §1 lunch: **4 bars = 200 g** + **150 g** nötter / torkad frukt.
 | Nötter + torkad frukt | **14 × 150 g** | Lunches D11–D24 |
 | Cruesli | **1 kg** | ~8 breakfasts at 120 g |
 | Mjölkpulver | **~210 g** | §1 mix, 25 g per 120 g Cruesli |
+| Ground coffee | **250 g** | Start of §2 |
+| Tea bags | **20+** | |
+| Lemonade or blåbärstoddy | 1 pouch | |
+| Olivolja | **100 g** | **20 g** on each of the 5 freeze-dried dinners |
 
-Box is about **7.2 kg** (freeze-dried counted at 140 g a pouch). Fuel stays out of it.
+Box is about **7.7 kg** with the drinks and the oil (freeze-dried counted at 140 g a pouch, tea ~50 g, pouch ~100 g). Fuel stays out of it.
 
 ---
 

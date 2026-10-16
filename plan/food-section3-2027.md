@@ -1,7 +1,7 @@
 # Section 3 food — Gäddede → Hemavan
 
 **Your food.** A companion may join at Gäddede — [companion-plan-b-2027.md](./companion-plan-b-2027.md). **2–12 Mar 2027** · D26–D35 · **10 ski days** before the Hemavan shop.  
-Days: [dag-for-dag-2027.md](./dag-for-dag-2027.md).
+Days: [dag-for-dag-2027.md](./dag-for-dag-2027.md). Shopping: [food-shopping-2027.md](./food-shopping-2027.md).
 
 **Locked**
 
@@ -21,8 +21,12 @@ Days: [dag-for-dag-2027.md](./dag-for-dag-2027.md).
 | Mjölkpulver | **~210 g** | §1 mix, 25 g per 120 g Cruesli |
 | Bars | **10 × 200 g** | Lunches D26–D35 |
 | Dried fruit | **10 days** | Lunches D26–D35 |
+| Ground coffee | **250 g** | Start of §3 |
+| Tea bags | **20+** | |
+| Lemonade or blåbärstoddy | 1 pouch | |
+| Olivolja | **100 g** | **20 g** on each of the 5 freeze-dried dinners |
 
-Without the dried fruit the box is about **3.9 kg** (freeze-dried counted at 140 g a pouch). Fuel stays out of it.
+Without the dried fruit the box is about **4.4 kg** with the drinks and the oil (freeze-dried counted at 140 g a pouch, tea ~50 g, pouch ~100 g). Fuel stays out of it.
 
 ---
 

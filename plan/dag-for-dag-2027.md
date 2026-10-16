@@ -147,7 +147,7 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 ## Section 1 — Grövelsjön → Storlien (156 km · days 1–10)
 
 *Härjedalen → Jämtland alpine (Helags / Sylarna väster om — Band track does not pass STF Vålådalen).*
-**Fri 5 Feb – Sun 14 Feb** · **156 km** · full carry from **NL** to Storlien — [food-section1-2027.md](./food-section1-2027.md) · pulk **~29.7 kg** — [pulk-weight-2027.md](./pulk-weight-2027.md).
+**Fri 5 Feb – Sun 14 Feb** · **156 km** · full carry from **NL** to Storlien — [food-section1-2027.md](./food-section1-2027.md) · pulk **~29.9 kg** — [pulk-weight-2027.md](./pulk-weight-2027.md).
 **Camp waypoints (D1–D9):** pins in [`2027.GPX`](../tracks/2027.GPX). D10 is the Storlien rest, same place as D9.
 
 **Crux:** D3 ends at **Broktjärnskojan** (21 km, ↑181 m). D4 descends into Tänndalen (10 km, ↓443 m). D5 climbs past Svalåtjärn (20 km, ↑555 m). **D7–D8** are alpine. Blåhammaren is passed on **D9** (no camp) and is **closed until 5 Mar**. No kitchen.
@@ -161,7 +161,7 @@ These days are 11–21 km. At about 3.5 km/h they fit February daylight. Exposur
 **D** at **STF Grövelsjön** (register Vita Bandet, final pulk check) — then leave on **Södra Kungsleden** north toward **Långfjället** and **Hävlingen**. **Winter 2027:** station **open**, **restaurant + sauna closed** (renovation) — eat **Sjöstugan / Storsätern**; shop **Fjällbua**. See [stf-openings-2027.md](./stf-openings-2027.md).  
 **Camping (night before / after):** **Sjöstugan** or STF Grövelsjön tent + service fee — see [camping reference](#camping-near-huts--resupply-reference).
 
-Camp near **Hävlingestugorna** (**62.185°N, 12.390°E** · Länsstyrelsen · five 4-bed cabins + one 6-bed · stugvärd mid-Feb–end Apr · sauna · book via Länsstyrelsen). **Your food:** full carry from **NL** to Storlien — [food-section1-2027.md](./food-section1-2027.md) · pulk **~29.7 kg** — [pulk-weight-2027.md](./pulk-weight-2027.md). Companion food is the same breakfast and lunch, plus their three cooked dinners, on their sled.
+Camp near **Hävlingestugorna** (**62.185°N, 12.390°E** · Länsstyrelsen · five 4-bed cabins + one 6-bed · stugvärd mid-Feb–end Apr · sauna · book via Länsstyrelsen). **Your food:** full carry from **NL** to Storlien — [food-section1-2027.md](./food-section1-2027.md) · pulk **~29.9 kg** — [pulk-weight-2027.md](./pulk-weight-2027.md). Companion food is the same breakfast and lunch, plus their three cooked dinners, on their sled.
 
 | Acc | Notes |
 |-----|-------|
@@ -493,7 +493,7 @@ From **Atostugan** over **Joesjöfjället** / road section — optional early **
 
 #### Day 36 · Fri 12 Mar · 23 km (cum 646) · ↑527 m ↓467 m · Hemavan · **D**
 
-Into **Hemavan** — **halfway** sign (~65.815°N, 15.085°E). **ICA Nära Fjällboden** (Blå Vägen 35, 0954 30003) + STF shop. Buy **freeze-dried meals, breakfast, and lunch** through **Abisko**, and post some to **Kvikkjokk** and **Ritsem** — [food-hemavan-abisko-2027.md](./food-hemavan-abisko-2027.md). Ask alkylate.  
+Into **Hemavan** — **halfway** sign (~65.815°N, 15.085°E). **ICA Nära Fjällboden** (Blå Vägen 35, 0954 30003) + STF shop. Buy **freeze-dried meals, breakfast, and lunch** through **Abisko**. Carry **250 g** coffee to Kvikkjokk, and post another **250 g** with the food to **Kvikkjokk**. Post the Ritsem food to **Ritsem** — [food-hemavan-abisko-2027.md](./food-hemavan-abisko-2027.md). Ask alkylate.  
 **Camping:** **Hemavan Fjällcenter** ställplatser · **Umfors Camping** (~15 km) · **STF Hemavan**. Restaurant cluster: **Anders Bistro**, **Barobro**, **Tärnaby Fjällhotell** (~15 km W). Rest tomorrow. See [resupply](./resupply-2027.md).
 
 | Acc | Notes |
@@ -621,7 +621,7 @@ Prepare depot sorting list mentally.
 
 #### Day 50 · Fri 26 Mar · 24 km (cum 882) · ↑446 m ↓756 m · Kvikkjokk · **D**
 
-Arrive **STF Kvikkjokk**. Collect the food posted from Hemavan — [food-hemavan-abisko-2027.md](./food-hemavan-abisko-2027.md). **Liquid alkylate if in stock** (often sprit only — see resupply doc). **Liquid alkylate in bottles** until Abisko (see [resupply](./resupply-2027.md)).  
+Arrive **STF Kvikkjokk**. Collect the food posted from Hemavan, including **250 g** coffee — [food-hemavan-abisko-2027.md](./food-hemavan-abisko-2027.md). **Liquid alkylate if in stock** (often sprit only — see resupply doc). **Liquid alkylate in bottles** until Abisko (see [resupply](./resupply-2027.md)).  
 **Camping:** **no STF tent field** — wild **T** nearby; shower **~70 kr** (reception). Load pulk for **Padjelanta-west** to Ritsem (~6–7 days on trail) then **KL** to Sälka — see Section 5.
 
 | Acc | Notes |
