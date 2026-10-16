@@ -2,13 +2,15 @@
 
 **Loaded pulk leaving STF Grövelsjön (7 Feb 2027).** Food menu: [food-section1-2027.md](./food-section1-2027.md). Gear list: [gear-inventory-2027.md](./gear-inventory-2027.md). Packing: [packing-pulk-2027.md](./packing-pulk-2027.md).
 
-**Sled** = J14 + Sleeper + tent + cargo. **Not** skis, boots, worn clothes, or companion food. **D1 lunch 350 g** on the body. Alkylate **~0.74 kg/L**.
+**Sled** = J14 + Sleeper + my share of the shared kit + cargo. **Not** skis, boots, worn clothes, or the companion’s half. Alkylate **~0.74 kg/L**.
 
-**On this pulk (named):** spare **clothes**, **toiletries**, **first aid**, **GPSMAP 66i** (bag **top** — not the bottom). Worn shell / mittens / hat stay on you.
+**§1 split, half the weight on each pulk:** tent, stove (OmniLite + silencer + pot), **3 L** fuel, and the evening meals. The other pulk carries the matching half. After Storlien the full kit is on this pulk.
+
+**On this pulk (named):** spare **clothes**, **toiletries**, **first aid**, **short skins** (on the skis only when in use), and at the bag **top**: **phone**, **Zolo**, **headlamp**, **GPSMAP 66i**, **compass**, and **D1 lunch**. Worn shell / mittens / hat stay on you. **Suunto** stays on the wrist.
 
 **g** = manufacturer / inventory gram. **g ~est** = typical winter kit, replace on a scale.
 
-**Working total: ~29.9 kg** (24.6 kg spec + 5.4 kg ~est).
+**Working total: ~27.4 kg** (22.2 kg spec + 5.3 kg ~est).
 
 ---
 
@@ -18,26 +20,27 @@
 |------|---|
 | Jemtlander 14 + harness + bag | 5,300 |
 | Sleeper 200 empty | 1,400 |
-| Nammatj 3 GT (packed) | 4,100 |
-| Hilleberg Sled Pack | 200 |
+| Nammatj 3 GT, my half of **4,100** | 2,050 |
+| Hilleberg Sled Pack, my half of **200** | 100 |
 | Lowland K2 | 1,995 |
 | Exped Ultra 7R | 855 |
-| OmniLite Ti | 230 |
-| OmniLite silencer | 58 |
-| TOAKS 1600 ml pot + pan | 231 |
+| Stove share (OmniLite **230** + silencer **58** + pot **231**, half) | 260 |
 | CO detector | 58 |
-| Fuel bottles 2× 1 L empty | 400 |
-| Third litre (tin or bottle) empty | 150 |
-| Alkylate **3 L** (two people, shared stove) | 2,220 |
+| Fuel share, **1.5 L** of **3 L** (bottles **400** + tin **150** + alkylate **2,220**, half) | 1,385 |
+| Short skins, Åsnes (on the skis only when in use) | ~200 |
 | **GPSMAP 66i** (pulk **top**) | 241 |
+| Phone, Armor 14 Pro (pulk **top**) | 358 |
+| Power bank, Zolo (pulk **top**) | 353 |
+| Headlamp, Storm 500-R (pulk **top**) | 120 |
+| Compass (pulk **top**) | 33 |
 | Anker 100 W wall + 1.5 m cable | 247 |
 | USB-C cables ×3 + micro-USB + Suunto cable | 80 |
 | Calazo maps (pulk) | 400 |
 | **Sirex Everest 10** foam | 275 |
-| Food on pulk ([§1 menu](./food-section1-2027.md) − D1 lunch) | 6,125 |
-| **Spec subtotal** | **24,565** (~24.6 kg) |
+| Food on pulk ([§1 menu](./food-section1-2027.md), including D1 lunch) | 6,475 |
+| **Spec subtotal** | **22,185** (~22.2 kg) |
 
-Food pack is **6,475 g**; **350 g** lunch rides on the body so the pulk carries **6,125 g**. Coffee is **250 g**. Tea bags **~50 g** and the drink pouch **~100 g** until weighed.
+Food pack is **6,475 g**, all on this pulk, including the **350 g** day-1 lunch and my evening meals (**1,620 g**). The companion’s matching dinners are the other half. Coffee is **250 g**. Tea bags **~50 g** and the drink pouch **~100 g** until weighed. Tent half is **2,050 g** until fly, inner, and poles are weighed apart.
 
 ---
 
@@ -58,13 +61,13 @@ Food pack is **6,475 g**; **350 g** lunch rides on the body so the pulk carries 
 | Dry bags (6) | 360 |
 | Food boxes (3) | 540 |
 | Snow shovel | 500 |
-| Tent stakes (12 alu snow/sand) | 240 |
+| Tent stakes, my half of 12 | 120 |
 | Thermos 1 L empty | 400 |
 | Leatherman | 230 |
 | Ski / tent repair (tape, sewing) | 250 |
 | Sleep liner | 150 |
 | Ultra 7R pump + utensils + lighters | 150 |
-| **~Est subtotal** (incl. clothes / toiletries / first aid) | **5,370** (~5.4 kg) |
+| **~Est subtotal** (incl. clothes / toiletries / first aid) | **5,250** (~5.3 kg) |
 
 ---
 
@@ -72,15 +75,14 @@ Food pack is **6,475 g**; **350 g** lunch rides on the body so the pulk carries 
 
 | | kg |
 |--|-----|
-| Spec (incl. **66i** + **Sirex**) | **24.6** |
-| ~Est (clothes, toiletries, first aid, rest) | **5.4** |
-| **Loaded pulk** | **~29.9** |
+| Spec (incl. **66i** + **Sirex** + pulk-top electronics + short skins + shared half) | **22.2** |
+| ~Est (clothes, toiletries, first aid, rest) | **5.3** |
+| **Loaded pulk** | **~27.4** |
 | Weighed on snow (pulk + Sleeper) | |
-| On body electronics (Suunto 87 + Armor 358 + Zolo 353 + Storm 120 + compass 33) | 0.95 |
-| On body D1 lunch | 0.35 |
+| On body (Suunto 87) | 0.09 |
 | Skis / boots / poles / worn clothes | weigh on you — not sled |
 
-Companion food stays on **their** pulk: same Cruesli breakfasts, same bar-and-nut lunches, and their own **3** cooked dinners. **3 L** alkylate from **NL** is shared (your bottles + one tin). Grövelsjön is often canisters only. In Storlien, buy **2 L** for §2.
+Companion’s pulk carries the other half of the tent, stove, **1.5 L** fuel, stakes, and their evening meals (~**5.5 kg** of that shared kit), plus their own breakfast and lunch. **3 L** alkylate from **NL** is the shared total. Grövelsjön is often canisters only. In Storlien, buy **2 L** for §2. After Storlien this pulk carries the full tent, stove, and fuel.
 
 **66i:** pulk **top** so SOS is one unzip, not a dig. Do not bury it under food.
 

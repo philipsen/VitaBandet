@@ -10,7 +10,7 @@
 - **Breakfast (each):** **Cruesli 120 g + mjölkpulver**, powder mixed **cold**. **9** mornings, D1–D9. Morning stove: **coffee + warm water** — not a milk boil.
 - **Lunch (each):** **4 bars = 200 g** + **150 g** nötter / torkad frukt (**350 g**). **9** ski days.
 - **Dinner (each):** **3 cooked** (D1–D3) + **3 freeze-dried** (D4–D6). D9 dinner = Storlien restaurant. D7 and D8 have no packed dinner.
-- **Fuel:** **3 L alkylate from NL** for **two people** on the shared stove. In Storlien buy **2 L** for §2 — [companion-plan](./companion-plan-2027.md).
+- **Fuel:** **3 L alkylate from NL** for **two people**, **1.5 L on each pulk** with the shared stove. In Storlien buy **2 L** for §2 — [companion-plan](./companion-plan-2027.md). Tent, stove, and evening meals are split the same way on §1.
 
 ---
 
@@ -85,7 +85,7 @@ Buy at home. Pack it in the car. Do not shop this list at Fjällbua.
 | **Freeze-dried dinners** | **3** | **3** |
 | **Olivolja** | **60 g** (3 × 20 g) | **60 g** |
 | **Cooked D1–D3** (pasta, bacon / korv / färs, lök) | **3** meals · ~1.1 kg | **3** meals · their own |
-| **Alkylate 3 L** | 2× 1 L bottles + **1 L tin** — shared, on your pulk | — |
+| **Alkylate 3 L** | 2× 1 L bottles + **1 L tin** — **1.5 L on each pulk** | Their half of the fuel |
 
 **Do not** count on STF Grövelsjön, Fjällbua, or Hamra for this load.
 

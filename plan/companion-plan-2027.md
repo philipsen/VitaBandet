@@ -107,7 +107,7 @@ Companion brings personal ski/pulk/sleep/clothes — **not** a second tent or st
 
 **Shared with you:** tent pitch · one stove / cook nights · nav lead (Suunto / GPX) · emergency (inReach on your body).
 
-**Leave in the car at Grövelsjön:** clean clothes for the drive home · spare shoes · anything not needed on trail. **Alkylate:** **3 L from NL** (not on a bus) — **2× 1 L bottles + 1 L tin** with the **shared stove** on your pulk.
+**Leave in the car at Grövelsjön:** clean clothes for the drive home · spare shoes · anything not needed on trail. **Alkylate:** **3 L from NL** (not on a bus) — **2× 1 L bottles + 1 L tin**, **1.5 L on each pulk** with the shared tent and stove. Evening meals are split the same way. After Storlien the full kit stays on your pulk.
 
 ---
 
