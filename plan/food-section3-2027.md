@@ -1,6 +1,6 @@
 # Section 3 food — Gäddede → Hemavan
 
-**Your food.** A companion may join at Gäddede — [companion-plan-b-2027.md](./companion-plan-b-2027.md). **2–12 Mar 2027** · D26–D35 · **10 ski days** before the Hemavan shop.  
+**Your food.** A companion may join at Gäddede — [companion-plan-b-2027.md](./companion-plan-b-2027.md). **2–13 Mar 2027** · **10 ski days** (D26–D29 and D31–D36) before the Hemavan shop, plus a rest day in Klimpfjäll (**D30**). That rest day is village food from Handlar'n, not this box.  
 Days: [dag-for-dag-2027.md](./dag-for-dag-2027.md). Shopping: [food-shopping-2027.md](./food-shopping-2027.md).
 
 **Locked**
@@ -37,7 +37,7 @@ At **ICA**, on top of the box:
 - **5 fresh meals**
 - **Extra breakfast and lunch** — more than the 1 kg Cruesli and the 10 days of bars and dried fruit
 
-**Klimpfjäll Handlar'n** (day 29) can still top up on the way.
+**Klimpfjäll Handlar'n** (day 29) can still top up on the way. Buy the rest-day meals there; the next day (**D30**) is 0 km.
 
 A §2 surplus posted from Storlien is a second parcel. Keep the two boxes separate.
 

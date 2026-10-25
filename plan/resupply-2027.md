@@ -295,13 +295,13 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 ### Day 29 — Klimpfjäll · **D** (optional mid-leg top-up)
 
-*Day 30 camp on Lapplandsleden at cum 503 — **Klimpfjäll Handlar'n** village ~633 m east at ~65.067°N, 14.770°E.*
+*The next ski camp is on Lapplandsleden — **Klimpfjäll Handlar'n** is in the village, ~65.067°N, 14.770°E. The day after the shop is a rest (**0 km**, dag-for-dag **D30**), then ski to Tjåkkelestugan.*
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
 | **Klimpfjäll Handlar'n** | Village livs — bread, dairy, pasta, snacks, fresh produce when stocked | **Unlikely** alkylbensin — ask for camping fuel, otherwise skip | PostNord village pickup possible — ask shop |
 
-**Use it as:** mid-leg food top-up so you don't carry 9–10 days from Gäddede. Carry **~5 days** Gäddede → Klimpfjäll, then **~4 days** Klimpfjäll → Hemavan. Short detour east from track camp; phone before relying on opening hours in March.
+**Use it as:** mid-leg food top-up so you don't carry 9–10 days from Gäddede. Carry **~5 days** Gäddede → Klimpfjäll, then **~4 days** Klimpfjäll → Hemavan. The rest day is eaten in the village. Short detour east from track camp; phone before relying on opening hours in March.
 
 ---
 
@@ -349,13 +349,13 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 **Halfway food buy** — freeze-dried meals, breakfast, and lunch through **Abisko**. Carry the share to Kvikkjokk. The rest is posted to **Kvikkjokk** and **Ritsem**. Padjelanta fuel from here if Kvikkjokk has no alkylate. Optional food top-up at **Ammarnäs Handlar'n** (day 43).
 
-**Eat well:** longest sit-down menu options of the whole trip. **D38** is a rest day in Hemavan before Viterskalet.
+**Eat well:** longest sit-down menu options of the whole trip. No rest day. The next afternoon is the ski to Viterskalet.
 
 ---
 
 ### Day 42 — Ammarnäs · **D** (mid-leg top-up — **power + food**)
 
-*Kungsleden village ~65.96°N, 16.21°E — between Tärnasjön (day 41) and Adolfström.*
+*Kungsleden village ~65.96°N, 16.21°E — between Tärnasjö (day 40) and Adolfström.*
 
 | Where | Food | Fuel | Depot? |
 |-------|------|------|--------|
