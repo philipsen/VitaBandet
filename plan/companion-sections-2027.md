@@ -5,9 +5,9 @@ Index of companion legs with **public transport at start and finish**. Each leg 
 | Option | Plan | Leg | Days | km | Sleep |
 |--------|------|-----|------|----|-------|
 | **A ★ working** | [companion-plan-2027.md](./companion-plan-2027.md) | Grövelsjön → Storlien | D1–D10 · 15–24 Feb | ~162 | **Tent** (Jämtland STF closed) · recovers the **Mora car** |
-| **B ★ camp** | [companion-plan-b-2027.md](./companion-plan-b-2027.md) | Lapplandsleden · Gäddede → Hemavan | D25–D34 · ~11–20 Mar | ~237 | **Tent** · unlocked Länsstyrelsen backup |
-| **C ★ Klaartje** | [companion-plan-c-2027.md](./companion-plan-c-2027.md) | Hemavan → Kvikkjokk | D35–D44 · **16–25 Mar** | ~237 (~70 to Ammarnäs) | Huts first ~5 d, then **tent** |
-| **D ★ hut** | [companion-plan-d-2027.md](./companion-plan-d-2027.md) | Ritsem → Abisko | D55–D62 · ~10–17 Apr | ~121 | **Staffed KL huts** |
+| **B ★ camp** | [companion-plan-b-2027.md](./companion-plan-b-2027.md) | Lapplandsleden · Gäddede → Hemavan | D24–D38 · **28 Feb–14 Mar** | ~237 | **Tent** · unlocked Länsstyrelsen backup · rests at Klimpfjäll and Hemavan |
+| **C ★ Klaartje** | [companion-plan-c-2027.md](./companion-plan-c-2027.md) | Hemavan → Kvikkjokk | D38–D51 · **14–27 Mar** | ~237 (~70 to Ammarnäs) | Huts to Ammarnäs, then **tent** |
+| **D ★ hut** | [companion-plan-d-2027.md](./companion-plan-d-2027.md) | Ritsem → Abisko | D59–D66 · **4–11 Apr** | ~121 | **Staffed KL huts** |
 
 **PT ease:** ★★★ train or daily coach · ★★ regular winter bus · ★ thin (weekday / 1× day).
 
@@ -41,3 +41,4 @@ Hut openings: [stf-openings-2027.md](./stf-openings-2027.md) · day camps: [dag-
 | 2026-10-02 | Letters: Lapplandsleden **B** · Klaartje **C** · Ritsem→Abisko **D** |
 | 2026-10-02 | **B**, **C**, and **D** split into their own plans. This file is the index. **A** stays in [companion-plan-2027.md](./companion-plan-2027.md) |
 | 2026-10-02 | **C** exit is påsk · no bus **47** Fri 26–Mon 29 Mar · first bus **Tue 30 Mar 05:25** |
+| 2026-10-26 | **B** Hemavan **13–14 Mar**. **C** rest **14 Mar**, Serve **18 Mar**, Ammarnäs **19 Mar**, Kvikkjokk **27 Mar**. **D** Ritsem **4 Apr**, Abisko **11 Apr** |

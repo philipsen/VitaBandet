@@ -567,10 +567,29 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
+  <wpt lat="65.830000005662441" lon="15.080000013113022">
+    <time>2026-05-31T15:07:09Z</time>
+    <name>D38 · Hemavan · R</name>
+    <cmt>Section 3 · 2027-03-14 · cum 646 km · R · same place as D37</cmt>
+    <desc>Section 3 · 2027-03-14 · cum 646 km · R · same place as D37</desc>
+    <sym>Lodging</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2026-05-31T15:07:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
   <wpt lat="65.885822391137481" lon="15.159844178706408">
     <ele>840</ele>
     <time>2026-06-03T07:16:21Z</time>
-    <name>D38 - Viterskalet Fjallstuga</name>
+    <name>D39 - Viterskalet Fjallstuga</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -587,7 +606,7 @@
   </wpt>
   <wpt lat="65.892892107367516" lon="15.396140171214938">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D39 · Syterstuga</name>
+    <name>D40 · Syterstuga</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -604,9 +623,9 @@
   </wpt>
   <wpt lat="65.98857999779284" lon="15.497760018333793">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D40 · Tärnasjö · H</name>
-    <cmt>Section 4 · 2027-03-16 · cum 684 km · H · STF Tärnasjö</cmt>
-    <desc>Section 4 · 2027-03-16 · cum 684 km · H · STF Tärnasjö</desc>
+    <name>D41 · Tärnasjö · H</name>
+    <cmt>Section 4 · 2027-03-17 · cum 684 km · H · STF Tärnasjö</cmt>
+    <desc>Section 4 · 2027-03-17 · cum 684 km · H · STF Tärnasjö</desc>
     <sym>Lodging</sym>
     <type>user</type>
     <extensions>
@@ -621,12 +640,12 @@
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
-  <wpt lat="65.96373997628689" lon="15.992980040609837">
-    <time>2026-06-02T11:50:48Z</time>
-    <name>D41 · 10 km before Ammarnäs</name>
-    <cmt>Section 4 · 2027-03-17 · cum 706 km · T · Serve passed</cmt>
-    <desc>Section 4 · 2027-03-17 · cum 706 km · T · Serve passed</desc>
-    <sym>Campground</sym>
+  <wpt lat="65.97210997715592" lon="15.762569988146424">
+    <time>2026-05-31T15:07:09Z</time>
+    <name>D42 · Serve · H</name>
+    <cmt>Section 4 · 2027-03-18 · cum 695 km · H · STF Serve</cmt>
+    <desc>Section 4 · 2027-03-18 · cum 695 km · H · STF Serve</desc>
+    <sym>Lodging</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -636,15 +655,34 @@
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2026-06-02T11:50:48Z</ctx:CreationTime>
+        <ctx:CreationTime>2026-05-31T15:07:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="65.95620003528893" lon="16.209159968420863">
+    <time>2026-05-31T15:07:09Z</time>
+    <name>D43 · Ammarnäs · D</name>
+    <cmt>Section 4 · 2027-03-19 · cum 716 km · D · village</cmt>
+    <desc>Section 4 · 2027-03-19 · cum 716 km · D · village</desc>
+    <sym>Lodging</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2026-05-31T15:07:09Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
   <wpt lat="66.03928" lon="16.21013">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D42 · past Vindelåforsen</name>
-    <cmt>Section 4 · 2027-03-18 · cum 727 km · T · 8 km past Vindelåforsen · Ammarnäs skipped</cmt>
-    <desc>Section 4 · 2027-03-18 · cum 727 km · T · 8 km past Vindelåforsen · Ammarnäs skipped</desc>
+    <name>D44 · past Vindelåforsen</name>
+    <cmt>Section 4 · 2027-03-20 · cum 727 km · T · 8 km past Vindelåforsen</cmt>
+    <desc>Section 4 · 2027-03-20 · cum 727 km · T · 8 km past Vindelåforsen</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -679,9 +717,9 @@
   </wpt>
   <wpt lat="66.19349003769457" lon="16.379730021581054">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D43 · past Hobacken</name>
-    <cmt>Section 4 · 2027-03-19 · cum 748 km · T · 12 km past Hobacken</cmt>
-    <desc>Section 4 · 2027-03-19 · cum 748 km · T · 12 km past Hobacken</desc>
+    <name>D45 · past Hobacken</name>
+    <cmt>Section 4 · 2027-03-21 · cum 748 km · T · 12 km past Hobacken</cmt>
+    <desc>Section 4 · 2027-03-21 · cum 748 km · T · 12 km past Hobacken</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -698,9 +736,9 @@
   </wpt>
   <wpt lat="66.27874" lon="16.66072">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D44 · Adolfström</name>
-    <cmt>Section 4 · 2027-03-20 · cum 769 km · D · village · phone ahead</cmt>
-    <desc>Section 4 · 2027-03-20 · cum 769 km · D · village · phone ahead</desc>
+    <name>D46 · Adolfström</name>
+    <cmt>Section 4 · 2027-03-22 · cum 769 km · D · village · phone ahead</cmt>
+    <desc>Section 4 · 2027-03-22 · cum 769 km · D · village · phone ahead</desc>
     <sym>Lodging</sym>
     <type>user</type>
     <extensions>
@@ -736,9 +774,9 @@
   </wpt>
   <wpt lat="66.505975099280477" lon="17.239124374464154">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D46 · Rapadalen west</name>
-    <cmt>Section 4 · 2027-03-29 · cum 819 km · T · Sarek views</cmt>
-    <desc>Section 4 · 2027-03-29 · cum 819 km · T · Sarek views</desc>
+    <name>D48 · Rapadalen west</name>
+    <cmt>Section 4 · 2027-03-24 · cum 814 km · T · Sarek views</cmt>
+    <desc>Section 4 · 2027-03-24 · cum 814 km · T · Sarek views</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -755,9 +793,9 @@
   </wpt>
   <wpt lat="66.376098431646824" lon="16.98278222233057">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D45 · Jäckvik</name>
-    <cmt>Section 4 · 2027-03-21 · cum 790 km · W · pass väster om · Pieljekaise not a night</cmt>
-    <desc>Section 4 · 2027-03-21 · cum 790 km · W · pass väster om · Pieljekaise not a night</desc>
+    <name>D47 · Jäckvik</name>
+    <cmt>Section 4 · 2027-03-23 · cum 790 km · W · pass väster om · Pieljekaise not a night</cmt>
+    <desc>Section 4 · 2027-03-23 · cum 790 km · W · pass väster om · Pieljekaise not a night</desc>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -774,7 +812,7 @@
   </wpt>
   <wpt lat="66.623589377850294" lon="17.377637000754476">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D47 · Approach Kvikjock</name>
+    <name>D49 · Approach Kvikjock</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -791,7 +829,7 @@
   </wpt>
   <wpt lat="66.779846157878637" lon="17.544413739815354">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D48 · Barkajahka</name>
+    <name>D50 · Barkajahka</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -808,7 +846,7 @@
   </wpt>
   <wpt lat="66.953101018443704" lon="17.719626696780324">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D49 · Kvikkjokk</name>
+    <name>D51 · Kvikkjokk</name>
     <cmt>Section 4 · 2027-04-02 · cum 905 km · D · STF max stock · wild T + paid shower</cmt>
     <desc>Section 4 · 2027-04-02 · cum 905 km · D · STF max stock · wild T + paid shower</desc>
     <sym>Campground</sym>
@@ -827,7 +865,7 @@
   </wpt>
   <wpt lat="66.953101018443704" lon="17.719626696780324">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D50 · Kvikkjokk</name>
+    <name>D52 · Kvikkjokk</name>
     <sym>Lodging</sym>
     <type>user</type>
     <extensions>
@@ -844,7 +882,7 @@
   </wpt>
   <wpt lat="66.960715390741825" lon="17.41162427701056">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D51 · Njunjes</name>
+    <name>D53 · Njunjes</name>
     <cmt>Section 5 · 2027-04-03 · cum 922 km · T · 6–7 days food + all alkylate to Ritsem</cmt>
     <desc>Section 5 · 2027-04-03 · cum 922 km · T · 6–7 days food + all alkylate to Ritsem</desc>
     <sym>Campground</sym>
@@ -863,7 +901,7 @@
   </wpt>
   <wpt lat="67.069142265245318" lon="17.153623597696424">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D52 · Sämerlappa</name>
+    <name>D54 · Sämerlappa</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -897,7 +935,7 @@
   </wpt>
   <wpt lat="67.26368254981935" lon="17.033517714589834">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D53 - Duottarstuga</name>
+    <name>D55 - Duottarstuga</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -914,7 +952,7 @@
   </wpt>
   <wpt lat="67.400207328991399" lon="17.151953120306459">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D54 · Saltoluokta side</name>
+    <name>D56 · Saltoluokta side</name>
     <cmt>Section 5 · 2027-04-06 · cum 976 km · T · W corridor · STF tent if east detour</cmt>
     <desc>Section 5 · 2027-04-06 · cum 976 km · T · W corridor · STF tent if east detour</desc>
     <sym>Campground</sym>
@@ -933,7 +971,7 @@
   </wpt>
   <wpt lat="67.559540932998061" lon="17.204995779320598">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D55 · Kisurgis</name>
+    <name>D57 · Kisurgis</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -950,7 +988,7 @@
   </wpt>
   <wpt lat="67.721217619255185" lon="17.465247334912419">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D56 · Ritsem approach</name>
+    <name>D58 · Ritsem approach</name>
     <cmt>Section 5 · 2027-04-09 · cum 1029 km · T</cmt>
     <desc>Section 5 · 2027-04-09 · cum 1029 km · T</desc>
     <sym>Campground</sym>
@@ -969,7 +1007,7 @@
   </wpt>
   <wpt lat="67.721752636134624" lon="17.46988981962204">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D57 · Ritsem</name>
+    <name>D59 · Ritsem</name>
     <cmt>Section 5 · 2027-04-10 · cum 1045 km · D · Power Fuel alkylate · STF H</cmt>
     <desc>Section 5 · 2027-04-10 · cum 1045 km · D · Power Fuel alkylate · STF H</desc>
     <sym>Campground</sym>
@@ -988,7 +1026,7 @@
   </wpt>
   <wpt lat="67.858195602893829" lon="17.626322535797954">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D58 · Sitojaure</name>
+    <name>D60 · Sitojaure</name>
     <cmt>Section 5 · 2027-04-11 · cum 1063 km · H · KL · optional hut top-up</cmt>
     <desc>Section 5 · 2027-04-11 · cum 1063 km · H · KL · optional hut top-up</desc>
     <sym>Campground</sym>
@@ -1007,7 +1045,7 @@
   </wpt>
   <wpt lat="67.934050066396594" lon="17.96728209592402">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D59 · Hukejaure</name>
+    <name>D61 · Hukejaure</name>
     <cmt>Section 5 · 2027-04-12 · cum 1081 km · H · STF Hukejaure · W Nikkaluokta</cmt>
     <desc>Section 5 · 2027-04-12 · cum 1081 km · H · STF Hukejaure · W Nikkaluokta</desc>
     <sym>Campground</sym>
@@ -1026,7 +1064,7 @@
   </wpt>
   <wpt lat="67.946375990286469" lon="18.281701030209661">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D60 · Sälka</name>
+    <name>D62 · Sälka</name>
     <cmt>Section 5 · 2027-04-13 · cum 1098 km · H · STF Sälka · tent if full</cmt>
     <desc>Section 5 · 2027-04-13 · cum 1098 km · H · STF Sälka · tent if full</desc>
     <sym>Campground</sym>
@@ -1045,7 +1083,7 @@
   </wpt>
   <wpt lat="68.053885968402028" lon="18.245254755020142">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D61 · Tjäktja</name>
+    <name>D63 · Tjäktja</name>
     <cmt>Section 5 · 2027-04-14 · cum 1116 km · T · Steep pass</cmt>
     <desc>Section 5 · 2027-04-14 · cum 1116 km · T · Steep pass</desc>
     <sym>Campground</sym>
@@ -1082,7 +1120,7 @@
   </wpt>
   <wpt lat="68.135853353887796" lon="18.414128394797444">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D62 · Alesjaure</name>
+    <name>D64 · Alesjaure</name>
     <cmt>Section 5 · 2027-04-15 · cum 1134 km · T · STF tält at hut</cmt>
     <desc>Section 5 · 2027-04-15 · cum 1134 km · T · STF tält at hut</desc>
     <sym>Campground</sym>
@@ -1101,7 +1139,7 @@
   </wpt>
   <wpt lat="68.286531222984195" lon="18.595369029790163">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D63 · Abiskojaure</name>
+    <name>D65 · Abiskojaure</name>
     <cmt>Section 5 · 2027-04-16 · cum 1152 km · T · Last hut before Abisko village</cmt>
     <desc>Section 5 · 2027-04-16 · cum 1152 km · T · Last hut before Abisko village</desc>
     <sym>Campground</sym>
@@ -1120,7 +1158,7 @@
   </wpt>
   <wpt lat="68.358392026314" lon="18.783634440475">
     <time>2026-06-02T11:50:48Z</time>
-    <name>D64 · Abisko turiststation</name>
+    <name>D66 · Abisko turiststation</name>
     <cmt>STF Abisko Turiststation · shop · stay at the station</cmt>
     <desc>STF Abisko Turiststation · shop · stay at the station</desc>
     <sym>Lodging</sym>
@@ -1139,7 +1177,7 @@
   </wpt>
   <wpt lat="68.514168793335557" lon="18.634692477062345">
     <time>2026-06-02T11:50:49Z</time>
-    <name>D65 · Lappjordhytta</name>
+    <name>D67 · Lappjordhytta</name>
     <cmt>Section 6 · 2027-04-20 · cum 1234 km · H · DNT · no pantry</cmt>
     <desc>Section 6 · 2027-04-20 · cum 1234 km · H · DNT · no pantry</desc>
     <sym>Lodging</sym>
@@ -1158,7 +1196,7 @@
   </wpt>
   <wpt lat="68.663718122988939" lon="18.891386166214943">
     <time>2026-06-02T11:50:49Z</time>
-    <name>D66 · Altevasshytta</name>
+    <name>D68 · Altevasshytta</name>
     <cmt>Section 6 · 2027-04-21 · cum 1256 km · H · DNT · no pantry</cmt>
     <desc>Section 6 · 2027-04-21 · cum 1256 km · H · DNT · no pantry</desc>
     <sym>Lodging</sym>
@@ -1177,7 +1215,7 @@
   </wpt>
   <wpt lat="68.658861732110381" lon="19.120499538257718">
     <time>2026-06-03T17:46:05Z</time>
-    <name>D67 - Gaskashytta</name>
+    <name>D69 - Gaskashytta</name>
     <sym>Lodging</sym>
     <type>user</type>
     <extensions>
@@ -1194,7 +1232,7 @@
   </wpt>
   <wpt lat="68.671947475522757" lon="19.488167697563767">
     <time>2026-06-03T17:51:13Z</time>
-    <name>D68 - Vuomahytta</name>
+    <name>D70 - Vuomahytta</name>
     <cmt>Trail</cmt>
     <desc>Trail</desc>
     <sym>Lodging</sym>
@@ -1213,7 +1251,7 @@
   </wpt>
   <wpt lat="68.675325717777014" lon="19.823760911822319">
     <time>2026-06-03T17:52:54Z</time>
-    <name>D69 - Dividalshytta</name>
+    <name>D71 - Dividalshytta</name>
     <sym>Lodging</sym>
     <type>user</type>
     <extensions>
@@ -1230,7 +1268,7 @@
   </wpt>
   <wpt lat="68.818399356678128" lon="20.112512027844787">
     <time>2026-06-03T17:55:29Z</time>
-    <name>D70 - Daertahytta</name>
+    <name>D72 - Daertahytta</name>
     <sym>Lodging</sym>
     <type>user</type>
     <extensions>
@@ -1247,7 +1285,7 @@
   </wpt>
   <wpt lat="68.974603246897459" lon="20.368612362071872">
     <time>2026-06-03T17:57:03Z</time>
-    <name>D71 - Pältastugan</name>
+    <name>D73 - Pältastugan</name>
     <sym>Lodging</sym>
     <type>user</type>
     <extensions>
@@ -1282,7 +1320,7 @@
   </wpt>
   <wpt lat="69.060499481856823" lon="20.547313196584582">
     <time>2026-06-02T11:50:49Z</time>
-    <name>D72 · Treriksröset</name>
+    <name>D74 · Treriksröset</name>
     <sym>Flag, Red</sym>
     <type>user</type>
     <extensions>

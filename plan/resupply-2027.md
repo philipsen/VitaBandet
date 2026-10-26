@@ -349,7 +349,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 
 **Halfway food buy** — freeze-dried meals, breakfast, and lunch through **Abisko**. Carry the share to Kvikkjokk. The rest is posted to **Kvikkjokk** and **Ritsem**. Padjelanta fuel from here if Kvikkjokk has no alkylate. Optional food top-up at **Ammarnäs Handlar'n** (day 43).
 
-**Eat well:** longest sit-down menu options of the whole trip. No rest day. The next afternoon is the ski to Viterskalet.
+**Eat well:** longest sit-down menu options of the whole trip. **D38** is a rest day in Hemavan before Viterskalet.
 
 ---
 

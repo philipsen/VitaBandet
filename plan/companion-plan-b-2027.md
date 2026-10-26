@@ -1,6 +1,6 @@
 # Companion plan B — Lapplandsleden · Gäddede → Hemavan · Mar 2027
 
-Trip for a **section-3 companion**: ski **~10 days** with you (shared tent + stove) from **Gäddede** to **Hemavan**, then bus or plane out. Train/bus only. Does **not** recover the Mora car.
+Trip for a **section-3 companion**: ski **11 days** with you (shared tent + stove) from **Gäddede** to **Hemavan**, then bus or plane out. Train/bus only. Does **not** recover the Mora car.
 
 **Index:** [companion-sections-2027.md](./companion-sections-2027.md)  
 **A (working · car home):** [companion-plan-2027.md](./companion-plan-2027.md)  
@@ -15,8 +15,8 @@ Trip for a **section-3 companion**: ski **~10 days** with you (shared tent + sto
 | | |
 |--|--|
 | **Role** | Companion · **not** full Bandet |
-| **Ski** | **Gäddede → Hemavan** · **~237 km** · **D25–D34** |
-| **Dates** | Ski **~11–20 Mar** |
+| **Ski** | **Gäddede → Hemavan** · **~237 km** · **D26–D37**, rests **D30** and **D38** |
+| **Dates** | Shop **28 Feb** · ski **2–13 Mar** · Hemavan rest **14 Mar** |
 | **Mode** | Ski + **own pulk** · **one shared tent** · **one shared stove** |
 | **After Hemavan** | Bus **31** toward Umeå · or **Hemavan Tärnaby Airport** |
 | **You** | Continue Bandet solo (keep tent + stove) |
@@ -24,12 +24,12 @@ Trip for a **section-3 companion**: ski **~10 days** with you (shared tent + sto
 ```text
 NL ──(train/bus)──► Strömsund ──425──► Gäddede
                                           │
-                                          └── ski D25–D34 ──► Hemavan
+                                          └── ski D26–D37 ──► Hemavan (13 Mar, rest 14 Mar)
                                                                   │
                                            companion ◄── bus 31 / airport
 ```
 
-**PT in:** Länstrafiken Jämtland **425** Gäddede ↔ Strömsund (~2 h) — typically **1× weekday**, poor/none Sat. Then Strömsund → Östersund train/bus. Night at **Pilgrimshotellet** before D25. Gäddede Camping is the pitch alternative. [ltr.se](https://ltr.se/).  
+**PT in:** Länstrafiken Jämtland **425** Gäddede ↔ Strömsund (~2 h) — typically **1× weekday**, poor/none Sat. Then Strömsund → Östersund train/bus. Night at **Pilgrimshotellet** on **D24–D25** (28 Feb–1 Mar). Gäddede Camping is the pitch alternative. [ltr.se](https://ltr.se/).  
 **PT out:** Hemavan — daily **31** toward Umeå · airport · same buses as [C](./companion-plan-c-2027.md).
 
 ---
@@ -38,21 +38,25 @@ NL ──(train/bus)──► Strömsund ──425──► Gäddede
 
 **Default: shared tent.** Länsstyrelsen stugor are unlocked emergency/backup (pay **200 kr**/person if used) — **carry the tent anyway**.
 
-| Night | Place | Sleep |
-|-------|-------|-------|
-| Before D25 | Gäddede | **H** Pilgrimshotellet ★ · Gäddede Camping alternative (year-round) |
-| D25 | Vilhelmina fjäll | **Tent** on track |
-| D26 | Borgafjäll west | **Tent** · optional **H** Borgafjäll Hotell (~**24 km E** — skip unless storm) |
-| D27 | Slipsikstugan | **Tent default** · unlocked Länsstyrelsen 4–6 bunks (often cold/occupied) |
-| D28 | Klimpfjäll | **Tent** · Handlar'n **D** · no staffed hut |
-| D29 | Tjåkkelestugan | **Tent default** · unlocked 6+2 beds |
-| D30 | Åtnikstugan | **Tent default** · unlocked · vedspis / madrasser |
-| D31 | Between Åtnik and Arevattnet | **Tent** — long kalfjäll gap, no hut |
-| D32 | Arevattnet | **Tent** at stuga · optional **H** [Gränssjöarna](https://granssjoarna.se/) (~1 km · 6 cabins · shower/sauna · phone **073-068 03 41**) |
-| D33 | Atostugan | **Tent default** · unlocked · last Länsstyrelsen before Hemavan |
-| D34 | Hemavan | **STF Hemavan** / Fjällcenter |
+| Night | Date | Place | Sleep |
+|-------|------|-------|-------|
+| D24 | 28 Feb | Gäddede · shop | **H** Pilgrimshotellet ★ · Gäddede Camping alternative (year-round) |
+| D25 | 1 Mar | Gäddede · rest | Same place |
+| D26 | 2 Mar | Vilhelmina fjäll | **Tent** on track |
+| D27 | 3 Mar | Borgafjäll west | **Tent** · optional **H** Borgafjäll Hotell (~**24 km E** — skip unless storm) |
+| D28 | 4 Mar | Slipsikstugan | **Tent default** · unlocked Länsstyrelsen 4–6 bunks (often cold/occupied) |
+| D29 | 5 Mar | Klimpfjäll · shop | **Tent** · Handlar'n **D** · no staffed hut |
+| D30 | 6 Mar | Klimpfjäll · rest | Same camp · village food |
+| D31 | 7 Mar | Tjåkkelestugan | **Tent default** · unlocked 6+2 beds |
+| D32 | 8 Mar | Åtnikstugan | **Tent default** · unlocked · vedspis / madrasser |
+| D33 | 9 Mar | Gränssjö | **Tent** — long kalfjäll gap, no hut |
+| D34 | 10 Mar | Arevattnet | **Tent** at stuga · optional **H** [Gränssjöarna](https://granssjoarna.se/) (~1 km · 6 cabins · shower/sauna · phone **073-068 03 41**) |
+| D35 | 11 Mar | Atostugan | **Tent default** · unlocked · last Länsstyrelsen before Hemavan |
+| D36 | 12 Mar | Goeblejaevrie | **Tent** on track |
+| D37 | 13 Mar | Hemavan · shop | **STF Hemavan** / Fjällcenter |
+| D38 | 14 Mar | Hemavan · rest | Same place · bus or plane out Sunday or Monday |
 
-**Hard days:** **D32** (big climb) · **D34** (long into Hemavan). Exposed kalfjäll D31–D33 — stick together. Vildmarksvägen / Stekenjokk is **winter-closed** — **no** bus Gäddede → Klimpfjäll.
+**Hard days:** **D34** (big climb) · **D37** (long into Hemavan). Exposed kalfjäll D33–D35 — stick together. Vildmarksvägen / Stekenjokk is **winter-closed** — **no** bus Gäddede → Klimpfjäll.
 
 ---
 
@@ -109,7 +113,7 @@ You keep the **shared tent and stove**. Companion leaves with personal kit only.
 - [ ] Agree weather turnaround · who leads · pitch / cook order on shared kit  
 - [ ] Visa/passport if needed · SEK card  
 - [ ] **425** booked toward Gäddede (weekday) · night in Gäddede booked  
-- [ ] Hemavan bus or flight home booked, with slack if D34 slips  
+- [ ] Hemavan bus or flight home booked, with slack if D37 slips  
 - [ ] They do **not** collect the Mora car — see [index](./companion-sections-2027.md)
 
 ---
@@ -122,7 +126,7 @@ You keep the **shared tent and stove**. Companion leaves with personal kit only.
 - [ ] **No fuel on the bus** — buy **2 L** at Frostvikens if the fuel you have is not enough  
 - [ ] Night in Gäddede booked  
 
-### On trail (D25–D34)
+### On trail (D26–D37)
 
 - [ ] Personal winter kit **without** tent/stove  
 - [ ] Extra food **only if** the Gäddede shop and the NL box are not enough for two · cash for Handlar'n  
