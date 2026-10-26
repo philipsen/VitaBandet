@@ -85,20 +85,20 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 
 ### Clothing
 
-| Item | Qty | Own | Need | Notes |
-|------|-----|-----|------|-------|
-| Merino base top / bottom | 2+2 | ✓ | | |
-| Underwear merino | 3 | ✓ | | |
-| Mid fleece | 1 | | ? | |
-| Insulation jacket | 1 | ✓ | | **Rab down jacket** · pulk · breaks + camp |
-| Shell jacket + pants | 1+1 | ✓ | | |
-| Softshell / touring pants | 1 | | ? | |
-| Mittens **Hesta** | 2 sets | ✓ | | |
-| Hat / balaclava / buff | 2+2 | ✓ | | |
-| Ski socks (heavy merino) | 4–5 | | **Buy** | [socks](./gear-considerations-2027.md#socks--vbl) |
-| Camp socks | 1–2 | | **Buy** | |
-| Down booties | 1 pair | | **Buy** | **Rab Down Hut Slipper** ~€45–65 · [booties](./gear-considerations-2027.md#down-booties-camp) |
-| VBL liners | 1 | | **On order** | **📦** · trial on shakedown · [VBL](./gear-considerations-2027.md#vbl-liners) |
+| Item | Worn | Pulk | Own | Need | Notes |
+|------|------|------|-----|------|-------|
+| Merino base top / bottom | 1+1 | 1+1 | ✓ | | Dry set on the pulk |
+| Underwear merino | 1 | 2 | ✓ | | |
+| Mid fleece | — | 1 | | ? | |
+| Insulation jacket | — | 1 | ✓ | | **Rab down jacket** · breaks + camp |
+| Shell jacket + pants | 1+1 | — | ✓ | | |
+| Softshell / touring pants | — | 1 | | ? | |
+| Mittens **Hesta** | 1 set | 1 set | ✓ | | Spare set on the pulk |
+| Hat / balaclava / buff | 1+1 | 1+1 | ✓ | | |
+| Ski socks (heavy merino) | 1 | 3–4 | | **Buy** | [socks](./gear-considerations-2027.md#socks--vbl) |
+| Camp socks | — | 1–2 | | **Buy** | |
+| Down booties | — | 1 pair | | **Buy** | **Rab Down Hut Slipper** ~€45–65 · [booties](./gear-considerations-2027.md#down-booties-camp) |
+| VBL liners | 1 | — | | **On order** | **📦** · in the boot · [VBL](./gear-considerations-2027.md#vbl-liners) |
 
 ### Cooking & fuel
 
