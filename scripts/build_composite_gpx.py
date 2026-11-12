@@ -81,12 +81,12 @@ MILESTONES = {
     "NORDER_RENSJON": (63.416652, 12.225886),  # Norder-Rensjön — track leaves lake N end
     "STOR_RENSJON": (63.676520, 12.545700),    # Stor-Rensjön — track leaves lake N end (Hotagen)
     "KALLSEDEt": (63.701400, 12.957100),       # Kallsedet — on Band track (road 336 corridor)
-    "MOT_OLDEN": (63.683147, 13.326991),       # Mot Olden (sec 2 GPX D16)
+    "MOT_OLDEN": (63.683147, 13.326991),       # Bottnen (sec 2 GPX D16)
     "OLDEN": (63.697961, 13.631669),           # Olden corridor (sec 2 GPX D17)
     "JANSMHOLEN": (63.779824, 13.824772),      # Jänsmässholen (sec 2 GPX D18)
-    "ANSATT_APP": (63.948245, 13.924003),      # Ansättfjällen approach (sec 2 GPX D19)
-    "NORTH_OF_VALS": (64.217959, 14.283445),   # North of Valsjöbyn (sec 2 GPX D21)
-    "BJORKVATTNET": (64.373607, 14.369230),   # Björkvattnet (sec 2 GPX D22)
+    "ANSATT_APP": (63.948245, 13.924003),      # Flatrun (sec 2 GPX D19)
+    "NORTH_OF_VALS": (64.217959, 14.283445),   # Hotagsfjällen (sec 2 GPX D21)
+    "BJORKVATTNET": (64.373607, 14.369230),   # Munsvattnet (sec 2 GPX D22)
     "GADDEDE_W": (64.507363, 14.155243),       # Gäddede väster om (sec 2 GPX D23)
     "VALSJO": (64.068, 14.139),         # Valsjöbua Lanthandel
     "BLASJOFJALL": (64.836, 14.083),     # ICA Nära Blåsjöfjäll — ~35 km off Band track
@@ -146,25 +146,25 @@ SECTION1_CAMPS = [
 SECTION2_CAMPS = [
     (11, "2027-02-25", 183, "Norder Rensjön",        "T", "Track leaves north end of lake · carry 10–12 days food", None),
     (12, "2027-02-26", 201, "Skalstugan", "T", "Depot optional", None),
-    (13, "2027-02-27", 221, "Stor-Rensjön N", "T", "Track leaves north end of lake · Hotagen fringe", "STOR_RENSJON"),
-    (14, "2027-02-28", 239, "Mot Kolåsen", "T", "Remote · no scooter spår", None),
-    (15, "2027-02-29", 250, "Kallsedet", "T", "On band track · road 336 corridor", "KALLSEDEt"),
-    (16, "2027-03-01", 271, "Mot Olden", "T", "On track · toward Olden", "MOT_OLDEN"),
+    (13, "2027-02-27", 221, "Stor-Rensjön Noord", "T", "Track leaves north end of lake · Hotagen fringe", "STOR_RENSJON"),
+    (14, "2027-02-28", 239, "Rutsvallen", "T", "Remote · no scooter spår", None),
+    (15, "2027-02-29", 250, "Ängsnâset", "T", "On band track · road 336 corridor", "KALLSEDEt"),
+    (16, "2027-03-01", 271, "Bottnen", "T", "On track · toward Olden", "MOT_OLDEN"),
     (17, "2027-03-02", 286, "Olden", "T", "On track — not Valsjöbua (that is D20)", "OLDEN"),
     (18, "2027-03-03", 305, "Jänsmässholen", "T", "Undersåker väster om corridor (bridge ~55 km E)", "JANSMHOLEN"),
-    (19, "2027-03-04", 326, "Ansättfjällen approach", "T", "", "ANSATT_APP"),
-    (20, "2027-03-05", 346, "Valsjöbua", "D", "Valsjöbua ★ · Bandare vandrarhem", "VALSJO"),
-    (21, "2027-03-06", 366, "North of Vals", "T", "North of Valsjöbyn · after resupply", "NORTH_OF_VALS"),
-    (22, "2027-03-07", 390, "Björkvattnet", "T", "After Valsjöbua resupply", "BJORKVATTNET"),
+    (19, "2027-03-04", 326, "Flatrun", "T", "", "ANSATT_APP"),
+    (20, "2027-03-05", 346, "Skogberget", "D", "Valsjöbua ★ · Bandare vandrarhem", "VALSJO"),
+    (21, "2027-03-06", 366, "Hotagsfjällen", "T", "North of Valsjöbyn · after resupply", "NORTH_OF_VALS"),
+    (22, "2027-03-07", 390, "Munsvattnet", "T", "After Valsjöbua resupply", "BJORKVATTNET"),
     (23, "2027-03-08", 414, "Gäddede väster om", "T", "Optional Blåsjö detour (~35 km off track)", "GADDEDE_W"),
     (24, "2027-03-09", 416, "Gäddede", "D", "ICA · Frostvikens", "GADDEDE"),
 ]
 
 SECTION3_CAMPS = [
     (25, "2027-03-10", 435, "Vilhelmina fjäll", "T", "Wild camp · carry food for Lapplandsleden leg", None),
-    (26, "2027-03-11", 466, "Borgafjäll väster om", "T", "On track · optional H detour Borgafjäll Hotell (~24 km E)", None),
-    (27, "2027-03-12", 489, "Slipsikstugan", "T", "Länsstyrelsen stuga · 4–6 bunks · unlocked · tent in Mar", "SLIPSIKSTUGAN"),
-    (28, "2027-03-13", 503, "Klimpfjäll", "T", "Optional D Handlar'n (~633 m E) · Lapplandsleden northbound", None),
+    (26, "2027-03-11", 466, "Lill-Väktaren", "T", "On track · optional H detour Borgafjäll Hotell (~24 km E)", None),
+    (27, "2027-03-12", 489, "Ankarede", "T", "Länsstyrelsen stuga · 4–6 bunks · unlocked · tent in Mar", "SLIPSIKSTUGAN"),
+    (28, "2027-03-13", 503, "Raukasjo", "T", "Optional D Handlar'n (~633 m E) · Lapplandsleden northbound", None),
     (29, "2027-03-14", 521, "Tjåkkelestugan", "T", "Länsstyrelsen stuga · 6+2 bunks · unlocked", "TJAKKELESTUGAN"),
     (30, "2027-03-15", 538, "Åtnikstugan", "T", "Länsstyrelsen stuga · unlocked · 200 kr/n if used", "ATNIKSTUGAN"),
     (31, "2027-03-16", 563, "Mot Arevattnet", "T", "On track between huts · long leg split · tent", None),

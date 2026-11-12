@@ -42,15 +42,15 @@ NL ──(train/bus)──► Strömsund ──425──► Gäddede
 |-------|------|-------|-------|
 | D24 | 28 Feb | Gäddede · shop | **H** Pilgrimshotellet ★ · Gäddede Camping alternative (year-round) |
 | D25 | 1 Mar | Gäddede · rest | Same place |
-| D26 | 2 Mar | Vilhelmina fjäll | **Tent** on track |
-| D27 | 3 Mar | Borgafjäll west | **Tent** · optional **H** Borgafjäll Hotell (~**24 km E** — skip unless storm) |
-| D28 | 4 Mar | Slipsikstugan | **Tent default** · unlocked Länsstyrelsen 4–6 bunks (often cold/occupied) |
+| D26 | 2 Mar | Lill-Väktaren | **Tent** on track |
+| D27 | 3 Mar | Ankarede | **Tent** · optional **H** Borgafjäll Hotell (~**24 km E** — skip unless storm) |
+| D28 | 4 Mar | Raukasjo | **Tent default** · unlocked Länsstyrelsen 4–6 bunks (often cold/occupied) |
 | D29 | 5 Mar | Klimpfjäll · shop | **Tent** · Handlar'n **D** · no staffed hut |
 | D30 | 6 Mar | Klimpfjäll · rest | Same camp · village food |
 | D31 | 7 Mar | Tjåkkelestugan | **Tent default** · unlocked 6+2 beds |
 | D32 | 8 Mar | Åtnikstugan | **Tent default** · unlocked · vedspis / madrasser |
-| D33 | 9 Mar | Gränssjö | **Tent** — long kalfjäll gap, no hut |
-| D34 | 10 Mar | Arevattnet | **Tent** at stuga · optional **H** [Gränssjöarna](https://granssjoarna.se/) (~1 km · 6 cabins · shower/sauna · phone **073-068 03 41**) |
+| D33 | 9 Mar | Gränssjö Camping | **Tent pitch** at [Gränssjöarnas Camping](https://granssjoarna.se/camping) · **200 kr**/n · shower/kitchen · phone **073-068 03 41** |
+| D34 | 10 Mar | Arevattnet | **Hut** · Länsstyrelsen stuga on track · tent if full |
 | D35 | 11 Mar | Atostugan | **Tent default** · unlocked · last Länsstyrelsen before Hemavan |
 | D36 | 12 Mar | Goeblejaevrie | **Tent** on track |
 | D37 | 13 Mar | Hemavan · shop | **STF Hemavan** / Fjällcenter |

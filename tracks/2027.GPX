@@ -63,7 +63,7 @@
   </wpt>
   <wpt lat="63.571176007390022" lon="12.266488987952471">
     <time>2026-05-31T08:58:23Z</time>
-    <name>D12 · Anjan</name>
+    <name>D12 · Skalstugan</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -80,7 +80,7 @@
   </wpt>
   <wpt lat="63.667616844177246" lon="12.534105889499187">
     <time>2026-05-31T08:58:23Z</time>
-    <name>D13 · Hotagen väster om</name>
+    <name>D13 · Stor-Rensjön Noord</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -97,7 +97,7 @@
   </wpt>
   <wpt lat="63.702225554734468" lon="12.778601059690118">
     <time>2026-05-31T08:58:23Z</time>
-    <name>D14 · Mot Kolåsen</name>
+    <name>D14 · Rutsvallen</name>
     <cmt>Section 2 · 2027-02-28 · cum 239 km · T · Remote · no scooter spår</cmt>
     <desc>Section 2 · 2027-02-28 · cum 239 km · T · Remote · no scooter spår</desc>
     <sym>Campground</sym>
@@ -116,7 +116,7 @@
   </wpt>
   <wpt lat="63.711564419791102" lon="13.078777128830552">
     <time>2026-05-31T08:58:23Z</time>
-    <name>D15 · Kolåsen</name>
+    <name>D15 · Ängsnâset</name>
     <cmt>Section 2 · 2027-03-01 · cum 257 km · T · H optional · depot · restaurant prebook</cmt>
     <desc>Section 2 · 2027-03-01 · cum 257 km · T · H optional · depot · restaurant prebook</desc>
     <sym>Campground</sym>
@@ -135,7 +135,7 @@
   </wpt>
   <wpt lat="63.687373409047723" lon="13.383292006328702">
     <time>2026-05-31T08:58:23Z</time>
-    <name>D16 · Olden Approach</name>
+    <name>D16 · Bottnen</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -173,7 +173,7 @@
   </wpt>
   <wpt lat="63.769472641870379" lon="13.811713457107544">
     <time>2026-05-31T08:58:23Z</time>
-    <name>D18 · Ansättfjällen approach</name>
+    <name>D18 · Jänsmässholmen</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -190,7 +190,7 @@
   </wpt>
   <wpt lat="63.913057995960116" lon="13.867456214502454">
     <time>2026-05-31T08:58:23Z</time>
-    <name>D19 · Ansättfjällen väster om</name>
+    <name>D19 · Flatrun</name>
     <cmt>Section 2 · 2027-03-05 · cum 321 km · T</cmt>
     <desc>Section 2 · 2027-03-05 · cum 321 km · T</desc>
     <sym>Campground</sym>
@@ -228,7 +228,7 @@
   </wpt>
   <wpt lat="64.025184977799654" lon="14.055748293176293">
     <time>2026-05-31T08:58:23Z</time>
-    <name>D20 · Regnfallet</name>
+    <name>D20 · Skogberget</name>
     <cmt>Section 2 · 2027-03-06 · cum 339 km · T</cmt>
     <desc>Section 2 · 2027-03-06 · cum 339 km · T</desc>
     <sym>Campground</sym>
@@ -247,7 +247,7 @@
   </wpt>
   <wpt lat="64.155536647886038" lon="14.243709286674857">
     <time>2026-06-02T15:44:50Z</time>
-    <name>D21 · North of Valsjöbua</name>
+    <name>D21 · Hotagsfjällen</name>
     <cmt>Land</cmt>
     <desc>Land</desc>
     <sym>Campground</sym>
@@ -266,7 +266,7 @@
   </wpt>
   <wpt lat="64.293850958347321" lon="14.405649416148663">
     <time>2026-05-31T08:58:23Z</time>
-    <name>D22 · Björkvattnet</name>
+    <name>D22 · Munsvattnet</name>
     <cmt>Section 2 · 2027-03-08 · cum 380 km · T · After Valsjöbua resupply</cmt>
     <desc>Section 2 · 2027-03-08 · cum 380 km · T · After Valsjöbua resupply</desc>
     <sym>Campground</sym>
@@ -338,7 +338,7 @@
   </wpt>
   <wpt lat="64.673076253384352" lon="14.181722681969404">
     <time>2026-05-31T15:07:09Z</time>
-    <name>D26 · Vilhelmina fjäll</name>
+    <name>D26 · Lill-Väktaren</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -355,7 +355,7 @@
   </wpt>
   <wpt lat="64.837643187493086" lon="14.271402172744274">
     <time>2026-05-31T15:07:09Z</time>
-    <name>D27 · Borgafjäll</name>
+    <name>D27 · Ankarede</name>
     <cmt>Section 3 · 2027-03-12 · cum 465 km · T · Optional H Borgafjäll Hotell</cmt>
     <desc>Section 3 · 2027-03-12 · cum 465 km · T · Optional H Borgafjäll Hotell</desc>
     <sym>Campground</sym>
@@ -374,7 +374,7 @@
   </wpt>
   <wpt lat="64.923108760267496" lon="14.559687925502658">
     <time>2026-05-31T15:07:09Z</time>
-    <name>D28 · Saxnäs</name>
+    <name>D28 · Raukasjo</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>
@@ -482,7 +482,7 @@
   </wpt>
   <wpt lat="65.42130402289331" lon="14.812664827331901">
     <time>2026-06-03T07:11:32Z</time>
-    <name>D33 - Gränssjö</name>
+    <name>D33 · Gränssjö Camping</name>
     <cmt>Land</cmt>
     <desc>Land</desc>
     <sym>Campground</sym>
@@ -501,7 +501,7 @@
   </wpt>
   <wpt lat="65.517085706815124" lon="14.552707141265273">
     <time>2026-05-31T15:07:09Z</time>
-    <name>D34 · Tärnaby west</name>
+    <name>D34 · Arevattnet</name>
     <sym>Campground</sym>
     <type>user</type>
     <extensions>

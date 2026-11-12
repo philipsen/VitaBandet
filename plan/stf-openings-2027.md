@@ -15,9 +15,9 @@ STF has now published **2027** winter windows on most route fjällstugor (was 20
 |--------|--------|
 | **Grövelsjön restaurant closed** | Station **open 14 Jan – 18 Apr 2027**, but **no restaurant / no sauna** (kitchen+shop renovation from Oct 2026). Self-cater kitchen + a shop remain. Eat **Sjöstugan / Storsätern / Fjällbageri**. D1 frukost is **not** STF. |
 | **Rogen 2027 published** | **19 Feb – 18 Apr** (2026 was **27 Feb**). D2 (8 Feb) still **closed**; staffed from **D13**. |
-| **Pältsa 2027 published** | **19 Mar – 18 Apr**. D73 (20 Apr) is **after** the window — **T**. The hut closes **18 Apr**. |
+| **Pältsa 2027 published** | **19 Mar – 18 Apr**. D73 (18 Apr) is the closing day — **T**. The hut closes **18 Apr**. |
 | **KL stugor 2027 published** | Abiskojaure · Alesjaure · Tjäktja · Sälka **19 Feb – 18 Apr**. Sitojaure / Vakkotavare **26 Feb – 18 Apr**. **Hukejaure 26 Feb – 25 Apr**. Your D60–D65 dates sit **inside**. |
-| **Winter close 18 Apr** | Most fjällstugor close **one day earlier** than 2026 (19 Apr). Abiskojaure D65 = **12 Apr** — inside the window. Finish is **21 Apr**. |
+| **Winter close 18 Apr** | Most fjällstugor close **one day earlier** than 2026 (19 Apr). Abiskojaure D65 = **10 Apr** — inside the window. Finish is **19 Apr**. |
 | **Unchanged** | Helags / Sylarna / Blåhammaren **5 Mar – 18 Apr** · Storulvån **25 Feb – 18 Apr** · Ritsem **26 Feb – 25 Apr** · Saltoluokta **26 Feb – 18 Apr** · Abisko year-round. |
 
 ---
@@ -30,9 +30,9 @@ STF has now published **2027** winter windows on most route fjällstugor (was 20
 | **Late Jämtland open** | Helags, Sylarna, Blåhammaren | **D7–D8** tent; Blåhammaren is a pass on the Storlien day | Staffed **5 Mar – 18 Apr 2027**. **No camp at Blåhammaren.** **5 Mar** is **D29** (Klimpfjäll) — already past these huts. |
 | **Storulvån** | Storulvån | **D10** (16 Feb) | Opens **25 Feb 2027** (**D19**). Storlien **D** is before that. |
 | **Rogen before open** | Rogen fjällstuga | **D2** (8 Feb) | Opens **19 Feb 2027**. Tent as planned; **H** from D13. |
-| **Pältsa open** | Pältsa | **D73** (20 Apr) | Winter **19 Mar – 18 Apr 2027**. Arrival **2 days after close** — **T**. Finish food from Abisko. |
-| **KL huts OK** | Ritsem, Sitojaure, Hukejaure, Sälka, Tjäktja, Alesjaure, Abiskojaure | D59–D65 (6–12 Apr) | Inside winter window. Close **18 Apr** except Ritsem / **Hukejaure 25 Apr**. |
-| **Abisko** | Turiststation | **D66** (13 Apr) | **Year-round**. |
+| **Pältsa open** | Pältsa | **D73** (18 Apr) | Winter **19 Mar – 18 Apr 2027**. Arrival on the closing day — **T**. Finish food from Abisko. |
+| **KL huts OK** | Ritsem, Sitojaure, Hukejaure, Sälka, Tjäktja, Alesjaure, Abiskojaure | D59–D65 (4–10 Apr) | Inside winter window. Close **18 Apr** except Ritsem / **Hukejaure 25 Apr**. |
+| **Abisko** | Turiststation | **D66** (11 Apr) | **Year-round**. |
 
 ---
 
@@ -48,15 +48,15 @@ STF has now published **2027** winter windows on most route fjällstugor (was 20
 | **Storulvån** | D10 | 16 Feb | **25 Feb – 18 Apr** | 19 Feb – 19 Apr | **Closed** (opens D19) |
 | **Kvikkjokk** | D51 | 29 Mar | *(no öppettider block)* | — | Likely open — phone ahead |
 | **Saltoluokta** | D55 | 2 Apr | **26 Feb – 18 Apr** | 27 Feb – 19 Apr | OK (väster om; emergency only) |
-| **Ritsem** | D59 | 6 Apr | **26 Feb – 25 Apr** | 27 Feb – 26 Apr | OK ★ shop |
-| **Sitojaure** | D60 | 7 Apr | **26 Feb – 18 Apr** | 27 Feb – 19 Apr | OK |
-| **Hukejaure** | D61 | 8 Apr | **26 Feb – 25 Apr** | 27 Feb – 26 Apr | OK |
-| **Sälka** | D62 | 9 Apr | **19 Feb – 18 Apr** | 20 Feb – 19 Apr | OK |
-| **Tjäktja** | D63 | 10 Apr | **19 Feb – 18 Apr** | 20 Feb – 19 Apr | OK |
-| **Alesjaure** | D64 | 11 Apr | **19 Feb – 18 Apr** | 20 Feb – 19 Apr | OK |
-| **Abiskojaure** | D65 | 12 Apr | **19 Feb – 18 Apr** | 20 Feb – 19 Apr | OK (closes 18 Apr) |
-| **Abisko** | D66 | 13 Apr | **Year-round** | — | OK ★ shop |
-| **Pältsa** | D73 | 20 Apr | **19 Mar – 18 Apr** | 20 Mar – 19 Apr | **Closed** → **T** |
+| **Ritsem** | D59 | 4 Apr | **26 Feb – 25 Apr** | 27 Feb – 26 Apr | OK ★ shop |
+| **Sitojaure** | D60 | 5 Apr | **26 Feb – 18 Apr** | 27 Feb – 19 Apr | OK |
+| **Hukejaure** | D61 | 6 Apr | **26 Feb – 25 Apr** | 27 Feb – 26 Apr | OK |
+| **Sälka** | D62 | 7 Apr | **19 Feb – 18 Apr** | 20 Feb – 19 Apr | OK |
+| **Tjäktja** | D63 | 8 Apr | **19 Feb – 18 Apr** | 20 Feb – 19 Apr | OK |
+| **Alesjaure** | D64 | 9 Apr | **19 Feb – 18 Apr** | 20 Feb – 19 Apr | OK |
+| **Abiskojaure** | D65 | 10 Apr | **19 Feb – 18 Apr** | 20 Feb – 19 Apr | OK (closes 18 Apr) |
+| **Abisko** | D66 | 11 Apr | **Year-round** | — | OK ★ shop |
+| **Pältsa** | D73 | 18 Apr | **19 Mar – 18 Apr** | 20 Mar – 19 Apr | Closing day → **T** |
 
 ### Bail-out / nearby (not on Band track)
 
