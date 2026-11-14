@@ -65,6 +65,7 @@ Print this page. **Buy list:** [buy-list-2027.md](./buy-list-2027.md). Details: 
 ## Shelter & sleep
 
 - [x] Tent **Nammatj 3 GT** ✓ in **Hilleberg Sled Pack** ✓ + stakes **12+** alu snow/sand + guy line + repair kit — Nallo 3GT spare at home
+- [ ] **Snow brush** — soft, wide (**50–75 mm** paint brush, handle cut short) — vestibule · clothes + boots before the inner tent — [brush](./gear-considerations-2027.md#snow-brush)
 - [x] Sleeping bag **Lowland K2** + dry bag + **liner** ✓ → **Sleeper 200**
 - [x] Pad **Exped Ultra 7R** + pump + repair kit + dry bag → **Sleeper 200** (active)
 - [x] Pad **NeoAir XLite** ✓ — **ship to Abisko** (not in pulk · optional switch at D66)

@@ -437,6 +437,16 @@ Indicative — check retailer before buying; sales move fast.
 
 Stuff sack stays at home for travel; **Sled Pack is the trail bag**.
 
+### Snow brush
+
+**Job:** brush loose snow off jacket, pants, and boots in the vestibule before you crawl in. Snow that comes inside melts into the bag and the pad.
+
+**Pick:** one **soft, wide brush**. [Svenska Fjällklubben’s winter list](https://fjallklubben.se/images/Fjalledarutbildningen/PVFK/Packlista_Vinter_PVFK.pdf) asks for a snöborste with **softer bristles, like a car snow brush**, shared in the tent, so snow stays out of the pack. A **50–75 mm flat paint brush** with the handle cut to glove length is the same brush and lies flat. ~**20–40 g**. Hardware store, Clas Ohlson, or Biltema. ~**€3–8**.
+
+**Skip a ski brush for this.** Stiff bristles (Pomoca ski brush, Swix or Toko wax brush) drive snow into the shell. The [MSR Alpine Dish Brush/Scraper](https://www.bergfreunde.eu/msr-alpine-dish-brush-scraper/) (~**22 g**, ~**€10**) is what ski tourers use on **pots, bindings, and caked soles** ([Yama-Kei](https://en.yamakei-online.com/yama-ya/detail.php?id=4609)). Too stiff for clothing. The soft brush covers clothes and the loose snow on the boots. A packed sole comes off with a pole basket.
+
+**Where:** vestibule, with the shovel. Brush, sit, then boots off. Leave it in the vestibule.
+
 ### Other Black Label (not buying)
 
 | Tent | Packed | vs Nammatj 3 GT | Comment |
