@@ -42,7 +42,7 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 | Pole | Adj? | Length | Basket | € camp. | Bandet? |
 |------|------|--------|--------|---------|---------|
 | **Åsnes Combat 2-Section V2** | Yes | **110–155** | **125 mm** | **€97** / 130 | Same platform · bigger basket — not ordered |
-| **Åsnes Breidablikk Pole 2-Section V2** | Yes | **110–155** | **105 mm** | **€90** / 120 | **On order** — same length as Combat · add spare **125 mm** baskets |
+| **Åsnes Breidablikk Pole 2-Section V2** | Yes | **110–155** | **105 mm** | **€90** / 120 | **Owned** — same length as Combat · spare **125 mm** baskets ✓ |
 | **BD Traverse** | Yes | **105–155** | **100 mm** | **€69** / 95 | **Value fallback** — FlickLock · PH3 · in stock |
 | **Åsnes Breidablikk BC 2-Section** (older) | Yes | **110–150** | **105 mm** | **€82** / 105 | OK if max **150** is enough for you |
 | **Åsnes Nansen Alloy/Carbon** | Yes | **110–155** | ~100–125 | **€107** / 139 | Skip — carbon upper, pulk risk |
@@ -65,7 +65,7 @@ Research, comparisons, and upgrade paths. **Chosen kit and master list:** [gear-
 
 ### Pick for Bandet
 
-1. **Breidablikk V2** — **on order**. Same **110–155** range as Combat; stock basket **105 mm** (spare **125 mm** baskets **on order**).  
+1. **Breidablikk V2** — **owned**. Same **110–155** range as Combat; stock basket **105 mm** (spare **125 mm** baskets ✓).  
 2. **Combat V2** — bigger **125 mm** basket; not ordered.  
 3. **Traverse 105–155** — cheapest adjustable fallback.
 
@@ -85,11 +85,11 @@ With pulk, often **+5 cm** vs free-ski.
 
 | Item | Qty | Est. |
 |------|-----|------|
-| Spare large baskets | 2 | **On order** with **Breidablikk** (stock **105 mm**) · Speed Trail spares ✓ |
+| Spare large baskets | 2 | **Owned** with **Breidablikk** (stock **105 mm**) · Speed Trail spares ✓ |
 
 **Not packing:** flex tip · pole repair sleeve.
 
-**Verdict:** **Breidablikk V2** + spare **125 mm** baskets **on order** (Varuste).
+**Verdict:** **Breidablikk V2** + spare **125 mm** baskets **owned** (Varuste).
 
 ## Climbing skins
 
@@ -608,7 +608,7 @@ Sunglasses do **not** replace goggles. Spindrift, storm, and hard wind need a **
 
 ## VBL liners
 
-**Status:** **📦 on order** — **1 pair**. Trial on shakedown before committing every ski day.
+**Status:** **✓ owned** — **1 pair**. Trial on shakedown before committing every ski day.
 
 **Job:** Keep **boot insulation and liners dry** over multi-day legs by trapping foot sweat *inside* an impermeable layer, instead of wicking it into merino and the boot.
 

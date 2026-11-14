@@ -14,7 +14,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 |--------|--------|-------|
 | Skis / boots / binding | Ingstad · Outback · Xplore | [details](./gear-considerations-2027.md#ski-system) |
 | Skins | Short ✓ + long after reglue | [skins](./gear-considerations-2027.md#climbing-skins) |
-| Poles | **Breidablikk V2** 📦 (own Speed Trail — training) | **On order** · Varuste VIP |
+| Poles | **Breidablikk V2** ✓ (own Speed Trail — training) | Arrived · spare **125 mm** baskets ✓ |
 | Pulk | **Jemtlander 14** + **Sleeper 200** + **Sled Pack** ✓ | Sleep kit + tent on sled — [packing](./packing-pulk-2027.md) |
 | Tent | **Nammatj 3 GT** ✓ | [tent](./gear-considerations-2027.md#tent--nammatj-3-gt) · Nallo 3GT spare |
 | Bag | **Lowland K2** ✓ | −35 °C comfort · ~2 kg |
@@ -52,7 +52,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Skins — long | Full-length old | 1 pair | ~400? | ✓ | **Reglue** | Padjelanta / Lappjord |
 | Skin wax | Pomoca bicolor | 1 | | ✓ | | |
 | Skin glue tube | | 1 small | | ✓ | | Field patches only |
-| Poles | **Åsnes Breidablikk Pole 2-Section V2** | 1 pair | **~240** | 📦 | **On order** | Breidablikk V2 + spare **125 mm** baskets **on order** · stock basket **105 mm** · own **Speed Trail** (105–140 · **1 bent** · baskets ✓) training only · Bandet **110–155** · [poles](./gear-considerations-2027.md#ski-poles) |
+| Poles | **Åsnes Breidablikk Pole 2-Section V2** | 1 pair | **~240** | ✓ | | Breidablikk V2 + spare **125 mm** baskets ✓ · stock basket **105 mm** · own **Speed Trail** (105–140 · **1 bent** · baskets ✓) training only · Bandet **110–155** · [poles](./gear-considerations-2027.md#ski-poles) |
 
 ### Pulk & carry
 
@@ -98,7 +98,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Ski socks (heavy merino) | 1 | 3–4 | | **Buy** | [socks](./gear-considerations-2027.md#socks--vbl) |
 | Camp socks | — | 1–2 | | **Buy** | |
 | Down booties | — | 1 pair | | **Buy** | **Rab Down Hut Slipper** ~€45–65 · [booties](./gear-considerations-2027.md#down-booties-camp) |
-| VBL liners | 1 | — | | **On order** | **📦** · in the boot · [VBL](./gear-considerations-2027.md#vbl-liners) |
+| VBL liners | 1 | — | ✓ | | in the boot · [VBL](./gear-considerations-2027.md#vbl-liners) |
 
 ### Cooking & fuel
 
@@ -237,9 +237,9 @@ Measure **g/day** on shakedown at **−15 °C**.
 ## Purchase priority
 
 1. **Long skins** — reglue or replace *(wax + glue tube ✓)*  
-2. **Ski poles** — **Breidablikk V2** + spare **125 mm** baskets **📦 on order** (Speed Trail owned but max **140** + bent — training) · Varuste VIP  
+2. **Ski poles** — **Breidablikk V2** ✓ + spare **125 mm** baskets ✓ (Speed Trail owned but max **140** + bent — training)  
 3. **Power / nav** — OsmAnd maps on **Armor 14 Pro** · Topo GPS **tiles** · inReach plan *(**Calazo** ✓ · **Topo GPS** packs ✓ · **Storm 500-R** ✓ · Suunto V2 ✓ · phone ✓ · 1× Zolo on trail ✓ · 100 W wall ✓ · C–C + micro-USB ✓)*  
-4. **New ski socks** (4–5) + **down booties** + **VBL** 📦 *(**Julbo Shield 0–4** ✓ · **Sirex Everest 10** ✓)*  
+4. **New ski socks** (4–5) + **down booties** *(**VBL** ✓ · **Julbo Shield 0–4** ✓ · **Sirex Everest 10** ✓)*  
 5. Fill **2× 1 L** bottles (OmniLite service kit ✓ — in stove kit)  
 6. **Nammatj 3 GT** ✓ — pitch + weigh + 2–3 winter nights · Nallo spare — [tent](./gear-considerations-2027.md#tent--nammatj-3-gt)
 
@@ -257,7 +257,7 @@ Maps your usual Dutch winter kit to Bandet choices. Primary list is **Master inv
 | Ski’s | **Åsnes Ingstad BC** ✓ |
 | Schoenen | **Alfa Outback + Xplore** ✓ |
 | Vellen | Short **Åsnes** ✓ + long — **reglue** |
-| Stokken | Own **Speed Trail** (bent) · Breidablikk V2 + baskets **📦** — [poles](./gear-considerations-2027.md#ski-poles) |
+| Stokken | Own **Speed Trail** (bent) · Breidablikk V2 + baskets ✓ — [poles](./gear-considerations-2027.md#ski-poles) |
 | GPS + kaarten | **GPSMAP 66i** ✓ · **OsmAnd+** · **Topo GPS** SE+NO ✓ · **Calazo** 1:100k + 1:50k ✓ |
 | Telefoon | **Armor 14 Pro** + offline maps |
 | Tent | **Nammatj 3 GT** ✓ · Nallo 3GT spare ✓ |
