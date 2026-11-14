@@ -43,10 +43,10 @@ Commercial **campings / ställplatser** and **STF tält + serviceavgift** (membe
 | **46** | **Adolfström** · **D** | **[Adolfström Camping](https://adolfstromcamping.se/)** — phone first | **Handelsbod & Fjällgård** · cabin or tent · call ahead |
 | **51** | **STF Kvikkjokk** · **D** | **No campsite** — wild **T** only | Paid shower **~70 kr**/30 min in external building; restaurant/café/shop |
 | **56** | **Saltoluokta** **W** (east) | Optional **east detour** only: **STF Saltoluokta** tent ≥100 m + service fee; nearest **husvagn** often **Stora Sjöfallet** (STF FAQ) | Plan passes **väster om** — do not need to visit |
-| **59** | **STF Ritsem** · **D** | — (rooms + self-catering; parking for cars) | No tent field — book **H** or **T** outside |
-| **60–62** | **Sitojaure**, **Hukejaure**, **Sälka** | — | **STF H** at all three (Hukejaure 20 beds, Nordkalottleden) · **STF tält + serviceavgift** at open huts |
-| **63–65** | **Tjäktja**, **Alesjaure**, **Abiskojaure** | — | STF tält at huts when stugvärd season open |
-| **66** | **Abisko** · **D** | **STF Abisko** designated **tent site** in nationalpark (pay service fee; winter showers at **Vandrarhem Keron** ~400 m) | **No RV** in park — nearest **[Björkliden Camping](https://bjorkliden.com/)** ~**10 km** (pre-book winter day pitches) |
+| **58** | **STF Ritsem** · **D** | — (rooms + self-catering; parking for cars) | Arrive **3 Apr** · leave **4 Apr** · no tent field |
+| **59–61** | **Sitojaure**, **Hukejaure**, **Sälka** | — | **STF H** at all three (Hukejaure 20 beds, Nordkalottleden) |
+| **62–64** | **Tjäktja**, **Alesjaure**, **Abiskojaure** | — | STF huts. The spare day, if used here, shifts the nights after it |
+| **65–66** | **Abisko** · **D** then **R** | **STF Abisko** designated **tent site** in nationalpark (pay service fee; winter showers at **Vandrarhem Keron** ~400 m) | Arrive **10 Apr** · rest **11 Apr** if the spare is still unused · **No RV** — nearest **[Björkliden Camping](https://bjorkliden.com/)** ~**10 km** |
 | **60, 68** | **Nikkaluokta** **W** (village east) | **[Nikkaluokta Sarri](https://nikkaluokta.com/boende/camping)** — tent **150 kr**/person; RV with/without el; service house (kitchen, shower, sauna) · **no** latrine/grey-water dump | Optional detour if you need **H**/shop — pass **väster om** on Bandet |
 | **73** | **STF Pältastugan** | — | Night of **18 Apr** · hut season ends **18 Apr** — **T** |
 
@@ -129,14 +129,14 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 | 56 | 1 Apr | Saltoluokta side | 20 | 961 | 194 | 305 |
 | 57 | 2 Apr | Kisurgis | 20 | 981 | 108 | 308 |
 | 58 | 3 Apr | Ritsem approach | 26 | 1007 | 78 | 296 |
-| 59 | 4 Apr | Ritsem · D | 0 | 1007 | 0 | 0 |
-| 60 | 5 Apr | Sitojaure | 22 | 1029 | 338 | 157 |
-| 61 | 6 Apr | Hukejaure · H · W | 19 | 1048 | 412 | 159 |
-| 62 | 7 Apr | Sälka · H | 20 | 1068 | 289 | 356 |
-| 63 | 8 Apr | Tjäktja | 13 | 1081 | 365 | 49 |
-| 64 | 9 Apr | Alesjaure | 12 | 1093 | 51 | 332 |
-| 65 | 10 Apr | Abiskojaure | 22 | 1115 | 117 | 432 |
-| 66 | 11 Apr | Abisko turiststation · D | 13 | 1128 | 24 | 144 |
+| 59 | 4 Apr | Sitojaure | 22 | 1029 | 338 | 157 |
+| 60 | 5 Apr | Hukejaure · H · W | 19 | 1048 | 412 | 159 |
+| 61 | 6 Apr | Sälka · H | 20 | 1068 | 289 | 356 |
+| 62 | 7 Apr | Tjäktja | 13 | 1081 | 365 | 49 |
+| 63 | 8 Apr | Alesjaure | 12 | 1093 | 51 | 332 |
+| 64 | 9 Apr | Abiskojaure | 22 | 1115 | 117 | 432 |
+| 65 | 10 Apr | Abisko turiststation · D | 13 | 1128 | 24 | 144 |
+| 66 | 11 Apr | Abisko · R | 0 | 1128 | 0 | 0 |
 | 67 | 12 Apr | Lappjordhytta · H | 20 | 1148 | 27 | 92 |
 | 68 | 13 Apr | Altevasshytta · H | 25 | 1173 | 767 | 515 |
 | 69 | 14 Apr | Gaskashytta · H | 11 | 1184 | 89 | 176 |
@@ -638,10 +638,10 @@ Arrive **STF Kvikkjokk**. Collect the food posted from Hemavan, including **250 
 
 ---
 
-## Section 5 — Kvikkjokk → Sälka · Padjelanta-west (186 km · days 52–62)
+## Section 5 — Kvikkjokk → Sälka · Padjelanta-west (186 km · days 52–61)
 
 *Direct **Laponia / Áhkká** line via **Ritsem**. **Section 5 + 5b GPX:** [`2027.GPX`](../tracks/2027.GPX).  
-**Camp waypoints (D52–D66):** on the plan GPX. D52 is the Kvikkjokk rest, same place as D51. **D**/**H** pins at Ritsem, Hukejaure, Sälka, Abisko; optional Nikkaluokta Sarri (D61).
+**Camp waypoints (D52–D66):** on the plan GPX. D52 is the Kvikkjokk rest, same place as D51. **D**/**H** pins at Ritsem, Hukejaure, Sälka, Abisko; optional Nikkaluokta Sarri (D60). D66 is the Abisko rest, same place as D65.
 
 #### Day 52 · Sun 28 Mar · 0 km (cum 882) · ↑0 m ↓0 m · Kvikkjokk · **R**
 
@@ -697,32 +697,24 @@ First hint of Ritsem infrastructure.
 
 #### Day 58 · Sat 03 Apr · 26 km (cum 1007) · ↑78 m ↓296 m · Ritsem approach
 
-Descend toward **Ritsem** village / STF. Sort food list for shop tomorrow.  
-Camp near road if late — no night skiing on dam.
+Descend toward **Ritsem** village / STF. Collect the **Ritsem → Abisko** food at the station. Leave for Sitojaure in the morning.  
+Camp near the road only if late — no night skiing on the dam.
 
 | Acc | Notes |
 |-----|-------|
 | **T** | |
 
-#### Day 59 · Sun 04 Apr · 0 km (cum 1007) · ↑0 m ↓0 m · Ritsem · **D**
+#### Day 59 · Sun 04 Apr · 22 km (cum 1029) · ↑338 m ↓157 m · Sitojaure
 
-**STF Ritsem** — **D** ★ collect the **Ritsem → Abisko** food posted from Hemavan. Do not shop that leg here. **H** + laundry; 10 % Bandet discount.  
-Cooking on that stretch is in the hut kitchens, so buy **very little** alkylate even though the shop has Power Fuel.
-
-| Acc | Notes |
-|-----|-------|
-| **H** | **D** ★ |
-
-#### Day 60 · Mon 05 Apr · 22 km (cum 1029) · ↑338 m ↓157 m · Sitojaure
-
-**Ritsem → Sitojaure** on **Kungsleden** winter route.  
+Leave **STF Ritsem** for **Sitojaure** on the **Kungsleden** winter route. The food for this leg was collected at Ritsem.  
+One rest day can be taken on this stretch. If it is still unused, it is **11 Apr** in Abisko. A stop here moves every later night by one day.  
 **H** Sitojaure — optional hut food top-up.
 
 | Acc | Notes |
 |-----|-------|
 | **H** | |
 
-#### Day 61 · Tue 06 Apr · 19 km (cum 1048) · ↑412 m ↓159 m · Hukejaure · **H** · **W**
+#### Day 60 · Mon 05 Apr · 19 km (cum 1048) · ↑412 m ↓159 m · Hukejaure · **H** · **W**
 
 **STF Hukejaure** — Nordkalottleden, west of Sälka / Kungsleden. Pass **väster om Nikkaluokta** — village **to your east**.  
 Corridor OK; no village required. Winter 2027 **26 Feb – 25 Apr**. **Camping (optional detour east):** **[Nikkaluokta Sarri](https://nikkaluokta.com/boende/camping)** — tent **150 kr**/person, RV + service house — see camping table.
@@ -731,58 +723,66 @@ Corridor OK; no village required. Winter 2027 **26 Feb – 25 Apr**. **Camping (
 |-----|-------|
 | **H** | **Hukejaure fjällstuga** · **W** Nikkaluokta · optional Sarri camping |
 
-#### Day 62 · Wed 07 Apr · 20 km (cum 1068) · ↑289 m ↓356 m · Sälka · **H**
+#### Day 61 · Tue 06 Apr · 20 km (cum 1068) · ↑289 m ↓356 m · Sälka · **H**
 
-**STF Sälka** — end of Section 5. Exposed pass nearby; **H** book if possible. **Camping:** STF **tent + serviceavgift** when hut open — see camping table.  
+**STF Sälka** — end of Section 5. Exposed pass nearby; **H** book if possible.  
 Next: **Tjäktja → Abisko** (Section 5b).
 
 | Acc | Notes |
 |-----|-------|
-| **H** | **Sälka fjällstuga** · or STF tent |
+| **H** | **Sälka fjällstuga** |
 
 ---
 
-## Section 5b — Sälka → Abisko · Kungsleden (60 km · days 63–66)
+## Section 5b — Sälka → Abisko · Kungsleden (60 km · days 62–66)
 
-*KL continuation · Tjäktja · Alesjaure · Abiskojaure.*
+*KL continuation · Tjäktja · Alesjaure · Abiskojaure · Abisko. The spare day is **D66** unless it was used earlier.*
 
-#### Day 63 · Thu 08 Apr · 13 km (cum 1081) · ↑365 m ↓49 m · Tjäktja
+#### Day 62 · Wed 07 Apr · 13 km (cum 1081) · ↑365 m ↓49 m · Tjäktja
 
 **Tjäktja** pass area — steep pulk section. Often slow km despite distance.  
-Camp below pass if late.
+**H** at the hut. A late arrival still sleeps there; the spare day is for a full stop, not a shortfall on this stage.
 
 | Acc | Notes |
 |-----|-------|
-| **T** | Steep |
+| **H** | Steep |
 
-#### Day 64 · Fri 09 Apr · 12 km (cum 1093) · ↑51 m ↓332 m · Alesjaure
+#### Day 63 · Thu 08 Apr · 12 km (cum 1093) · ↑51 m ↓332 m · Alesjaure
 
 Descent to **Alesjaure** — long lake **Álesjaure**. Open Arctic birch zone.  
 Beautiful if clear; disorienting in fog.
 
 | Acc | Notes |
 |-----|-------|
-| **T** | |
+| **H** | |
 
-#### Day 65 · Sat 10 Apr · 22 km (cum 1115) · ↑117 m ↓432 m · Abiskojaure
+#### Day 64 · Fri 09 Apr · 22 km (cum 1115) · ↑117 m ↓432 m · Abiskojaure
 
 **Abiskojaure** last big hut before Abisko village. Shop top-up if open.  
 Almost through the mountains.
 
 | Acc | Notes |
 |-----|-------|
-| **T** | |
+| **H** | |
 
-#### Day 66 · Sun 11 Apr · 13 km (cum 1128) · ↑24 m ↓144 m · Abisko turiststation · **D**
+#### Day 65 · Sat 10 Apr · 13 km (cum 1128) · ↑24 m ↓144 m · Abisko turiststation · **D**
 
 Ski into **Abisko** turiststation. **Fjällboden** + **Godisfabriken** (2 km). **Major resupply:** pack **7–8 days food** + fuel for Abisko → Pältsa — DNT huts have **no pantry**.  
-**Pad (optional):** **XLite** shipped ahead to Abisko — not in pulk. At D66 swap **Exped Ultra 7R → NeoAir XLite** in Sleeper for final ~8 days (~450 g lighter) if April ground is warm enough — ship Ultra home via post/Bussgods or keep as backup. See [gear-inventory](./gear-inventory-2027.md).  
-**Stay** at **STF Abisko Turiststation**. Tent site in the national park is the backup (service fee; winter showers **Keron** ~400 m). **No RV** — **[Björkliden Camping](https://bjorkliden.com/)** ~10 km (pre-book winter).  
-Prepare for **Section 6** Abisko → Pältsa — **Nordkalottleden** via **Lappjord** and **Altevass**.
+**Pad (optional):** **XLite** shipped ahead to Abisko — not in pulk. At Abisko swap **Exped Ultra 7R → NeoAir XLite** in Sleeper for final ~8 days (~450 g lighter) if April ground is warm enough — ship Ultra home via post/Bussgods or keep as backup. See [gear-inventory](./gear-inventory-2027.md).  
+**Stay** at **STF Abisko Turiststation**. Tent site in the national park is the backup (service fee; winter showers **Keron** ~400 m). **No RV** — **[Björkliden Camping](https://bjorkliden.com/)** ~10 km (pre-book winter).
 
 | Acc | Notes |
 |-----|-------|
-| **H** | Stay at **STF Abisko Turiststation** · **7–8 days food** + fuel |
+| **H** | **STF Abisko Turiststation** · **7–8 days food** + fuel |
+
+#### Day 66 · Sun 11 Apr · 0 km (cum 1128) · ↑0 m ↓0 m · Abisko · **R**
+
+Rest at **STF Abisko**, if the spare day was not used between Ritsem and here.  
+Prepare for **Section 6** Abisko → Pältsa — **Nordkalottleden** via **Lappjord** and **Altevass**. Leave **Mon 12 Apr**.
+
+| Acc | Notes |
+|-----|-------|
+| **H** | Spare day · latest place is Abisko |
 
 ---
 

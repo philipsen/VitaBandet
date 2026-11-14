@@ -7,7 +7,7 @@ Index of companion legs with **public transport at start and finish**. Each leg 
 | **A ★ working** | [companion-plan-2027.md](./companion-plan-2027.md) | Grövelsjön → Storlien | D1–D10 · 15–24 Feb | ~162 | **Tent** (Jämtland STF closed) · recovers the **Mora car** |
 | **B ★ camp** | [companion-plan-b-2027.md](./companion-plan-b-2027.md) | Lapplandsleden · Gäddede → Hemavan | D24–D38 · **28 Feb–14 Mar** | ~237 | **Tent** · unlocked Länsstyrelsen backup · rests at Klimpfjäll and Hemavan |
 | **C ★ Klaartje** | [companion-plan-c-2027.md](./companion-plan-c-2027.md) | Hemavan → Kvikkjokk | D38–D51 · **14–27 Mar** | ~237 (~70 to Ammarnäs) | Huts to Ammarnäs, then **tent** |
-| **D ★ hut** | [companion-plan-d-2027.md](./companion-plan-d-2027.md) | Ritsem → Abisko | arrive **3 Apr** · ski **5–11 Apr** | ~121 | **Staffed KL huts** · two people · **4 Apr** weather spare |
+| **D ★ hut** | [companion-plan-d-2027.md](./companion-plan-d-2027.md) | Ritsem → Abisko | leave **4 Apr** · rest latest **11 Apr** | ~121 | **Staffed KL huts** · two people · spare day floats |
 
 **PT ease:** ★★★ train or daily coach · ★★ regular winter bus · ★ thin (weekday / 1× day).
 
@@ -43,3 +43,4 @@ Hut openings: [stf-openings-2027.md](./stf-openings-2027.md) · day camps: [dag-
 | 2026-10-02 | **C** exit is påsk · no bus **47** Fri 26–Mon 29 Mar · first bus **Tue 30 Mar 05:25** |
 | 2026-10-26 | **B** Hemavan **13–14 Mar**. **C** rest **14 Mar**, Serve **18 Mar**, Ammarnäs **19 Mar**, Kvikkjokk **27 Mar**. **D** Ritsem **4 Apr**, Abisko **11 Apr** |
 | 2026-11-12 | **D:** two companions arrive **Sat 3 Apr**. **Sun 4 Apr** is the weather spare. Book six fjällstuga nights, **5–10 Apr** |
+| 2026-11-14 | **D:** leave Ritsem **4 Apr**. Rest day where needed, latest **Abisko 11 Apr**. Six huts booked **4–9 Apr** |

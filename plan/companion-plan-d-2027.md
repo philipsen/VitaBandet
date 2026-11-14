@@ -1,8 +1,6 @@
 # Companion plan D — Ritsem → Abisko · Apr 2027
 
-Two companions. They are at **STF Ritsem on Saturday 3 April**, ski the staffed hut chain to **Abisko** (~121 km), and take the night train south.
-
-**Sunday 4 April** is the spare day. It absorbs a weather delay on the approach. When the approach is on time, that day is the shop and the rest, and the ski north starts **Monday 5 April**.
+Two companions. They are at **STF Ritsem on Saturday 3 April**. Everyone leaves on **Sunday 4 April** and skis the staffed hut chain to **Abisko** (~121 km). One rest day is taken where it is needed. The latest place for it is **Abisko**. Then the night train south.
 
 **Index:** [companion-sections-2027.md](./companion-sections-2027.md)  
 **A:** [companion-plan-2027.md](./companion-plan-2027.md) · **B:** [companion-plan-b-2027.md](./companion-plan-b-2027.md) · **C:** [companion-plan-c-2027.md](./companion-plan-c-2027.md)  
@@ -16,9 +14,10 @@ Two companions. They are at **STF Ritsem on Saturday 3 April**, ski the staffed 
 |--|--|
 | **Who** | **Two** companions · **not** full Bandet |
 | **Arrive** | **Sat 3 Apr** · STF Ritsem |
-| **Spare** | **Sun 4 Apr** · weather delay on the approach |
-| **Ski** | **Mon 5 Apr – Sun 11 Apr** · **~121 km** · **D60–D66** |
-| **Book** | **6 nights, 2 beds** · fjällstugor only · **5–10 Apr** |
+| **Leave** | **Sun 4 Apr** · ski to Sitojaure |
+| **Spare** | One day, where it is needed · **latest Abisko 11 Apr** |
+| **Ski** | **4–10 Apr** if the rest is saved · **~121 km** · **D59–D65** |
+| **Book** | **6 nights, 2 beds** · fjällstugor only · **4–9 Apr** |
 | **Mode** | Own skis · staffed STF huts · their food |
 | **After Abisko** | SJ night train south (Kiruna / Stockholm) |
 | **You** | Continue north **Mon 12 Apr** on Nordkalottleden |
@@ -26,9 +25,11 @@ Two companions. They are at **STF Ritsem on Saturday 3 April**, ski the staffed 
 ```text
 NL ──(night train)──► Gällivare ──Falcks 09:00──► Ritsem (Sat 3 Apr)
                                                     │
-                         Sun 4 Apr spare (weather) ─┤
-                                                    └── ski 5–11 Apr ──► Abisko (11 Apr)
-                                                                           │
+                                                    └── leave Sun 4 Apr ──► Abisko (10 Apr)
+                                                           │                    │
+                                                           │                    └── rest 11 Apr if still unused
+                                                           └── or rest earlier, arrive Abisko 11 Apr
+                                                                                                    │
                                                     companions ◄── SJ night train
 ```
 
@@ -36,7 +37,7 @@ NL ──(night train)──► Gällivare ──Falcks 09:00──► Ritsem (S
 
 To be at Ritsem on **Saturday 3 April**, the useful pattern is the night train into Gällivare that morning, or Friday night in Gällivare and the Saturday bus. Spring buses run from late February to early May.
 
-**PT out:** **Abisko Östra / Abisko Turiststation** — SJ night train south. Leave a day of slack after **11 Apr**.
+**PT out:** **Abisko Östra / Abisko Turiststation** — SJ night train south. On the straight line Abisko is **10 Apr** and the rest is **11 Apr**. Leave a day of slack after that.
 
 The six hut nights sit inside the 2027 winter windows (Sitojaure **26 Feb – 18 Apr**, Hukejaure **26 Feb – 25 Apr**, Sälka · Tjäktja · Alesjaure · Abiskojaure **19 Feb – 18 Apr**).
 
@@ -50,14 +51,14 @@ Fjällstugor refund in full until **18:00 the day before** arrival. Cancel in **
 
 | Night | Date | Hut |
 |------:|------|-----|
-| 1 | Mon 5 Apr | **STF Sitojaure** |
-| 2 | Tue 6 Apr | **STF Hukejaure** |
-| 3 | Wed 7 Apr | **STF Sälka** |
-| 4 | Thu 8 Apr | **STF Tjäktja** |
-| 5 | Fri 9 Apr | **STF Alesjaure** |
-| 6 | Sat 10 Apr | **STF Abiskojaure** |
+| 1 | Sun 4 Apr | **STF Sitojaure** |
+| 2 | Mon 5 Apr | **STF Hukejaure** |
+| 3 | Tue 6 Apr | **STF Sälka** |
+| 4 | Wed 7 Apr | **STF Tjäktja** |
+| 5 | Thu 8 Apr | **STF Alesjaure** |
+| 6 | Fri 9 Apr | **STF Abiskojaure** |
 
-Your own bunk is a separate booking. If the approach uses the spare day, these six nights still hold. If a later storm slips a night, cancel that hut before 18:00 the day before. STF also moves a fjällstuga bed to another hut during the trip when weather changes the line.
+Your own bunk is a separate booking. These six nights are the line with the rest saved for Abisko. A rest on the trail means cancel the later huts before 18:00 the day before and move them one day later. STF also moves a fjällstuga bed to another hut during the trip when weather changes the line.
 
 ---
 
@@ -65,15 +66,15 @@ Your own bunk is a separate booking. If the approach uses the spare day, these s
 
 | Day | Date | km | ↑ | ↓ | Night | Notes |
 |-----|------|---:|--:|--:|-------|-------|
-| — | Sat 3 Apr | — | — | — | **STF Ritsem** | Arrive. You may still be on the approach (tent) |
-| 59 | Sun 4 Apr | — | — | — | **STF Ritsem** | **Spare.** Shop and rest when you are in |
-| 60 | Mon 5 Apr | 22 | 338 | 157 | **Sitojaure** | First booked night |
-| 61 | Tue 6 Apr | 19 | 412 | 159 | **Hukejaure** | West of Nikkaluokta |
-| 62 | Wed 7 Apr | 20 | 289 | 356 | **Sälka** | |
-| 63 | Thu 8 Apr | 13 | 365 | 49 | **Tjäktja** | Short, steep with a pulk |
-| 64 | Fri 9 Apr | 12 | 51 | 332 | **Alesjaure** | |
-| 65 | Sat 10 Apr | 22 | 117 | 432 | **Abiskojaure** | Last booked night |
-| 66 | Sun 11 Apr | 13 | 24 | 144 | **Abisko** | Turiststation · train south |
+| 58 | Sat 3 Apr | — | — | — | **STF Ritsem** | Arrive. You may still be on the approach |
+| 59 | Sun 4 Apr | 22 | 338 | 157 | **Sitojaure** | Leave Ritsem · first booked night |
+| 60 | Mon 5 Apr | 19 | 412 | 159 | **Hukejaure** | West of Nikkaluokta |
+| 61 | Tue 6 Apr | 20 | 289 | 356 | **Sälka** | |
+| 62 | Wed 7 Apr | 13 | 365 | 49 | **Tjäktja** | Short, steep with a pulk |
+| 63 | Thu 8 Apr | 12 | 51 | 332 | **Alesjaure** | |
+| 64 | Fri 9 Apr | 22 | 117 | 432 | **Abiskojaure** | Last booked night |
+| 65 | Sat 10 Apr | 13 | 24 | 144 | **Abisko** | Turiststation · shop |
+| 66 | Sun 11 Apr | — | — | — | **Abisko** | Rest, if it was not used earlier |
 
 Huts have mattresses and duvets, and a kitchen. Hut shops are snacks and staples. Ritsem has a café and a shop. Abisko has a restaurant and a grocery.
 
@@ -175,13 +176,13 @@ Cook in the hut kitchens. This is their food. The Hemavan parcel at Ritsem is yo
 
 **Shared with you:** nav lead · inReach on your body. Fuel for this leg is tiny; the kitchens do the cooking.
 
-**Rental, if they drop the own-kit list:** [Laponia Adventures](https://laponiaadventures.com/outdoor-equipment/) delivers to Gällivare station and collects there on the way south. Shop-to-shop one-way is Jokkmokk ↔ Gällivare. Ask them to write the station loop into the booking. Email [info@laponiaadventures.com](mailto:info@laponiaadventures.com) for two people.
+**Rental, if they drop the own-kit list:** [Laponia Adventures](https://laponiaadventures.com/outdoor-equipment/) rents skis, boots, poles, skins, and a pulk. They also rent Hilleberg tents, winter sleeping bags, mats, and a multifuel stove. Those are not needed — you already have them. They deliver to Gällivare station and collect there on the way south. Shop-to-shop one-way is Jokkmokk ↔ Gällivare. Ask them to write the station loop into the booking. Email [info@laponiaadventures.com](mailto:info@laponiaadventures.com) for two people.
 
 ---
 
 ## Exit — Abisko
 
-- **STF Abisko** on **Sun 11 Apr** · shower at Keron
+- **STF Abisko** on **Sat 10 Apr** when the rest is still unused · rest **Sun 11 Apr** · shower at Keron
 - Train south from **Abisko Östra / Abisko Turiststation**
 - Pack for the train
 
@@ -199,7 +200,7 @@ Once over Tjäktja, Abisko is the simpler way out.
 
 - [ ] Emergency contacts
 - [ ] Night train + Falcks booked together, arriving **Ritsem Sat 3 Apr**
-- [ ] **Six** fjällstuga nights, **two beds**: Sitojaure, Hukejaure, Sälka, Tjäktja, Alesjaure, Abiskojaure (**5–10 Apr**)
+- [ ] **Six** fjällstuga nights, **two beds**: Sitojaure, Hukejaure, Sälka, Tjäktja, Alesjaure, Abiskojaure (**4–9 Apr**)
 - [ ] Ritsem and Abisko turiststation left out of that booking
 - [ ] Return train Abisko → south, with a day of slack
 - [ ] They do **not** collect the Mora car — see [index](./companion-sections-2027.md)
@@ -211,3 +212,4 @@ Once over Tjäktja, Abisko is the simpler way out.
 | Date | Note |
 |------|------|
 | 2026-11-12 | Two companions. Arrive **Sat 3 Apr**. **Sun 4 Apr** is the weather spare. Book six fjällstuga nights for two, **5–10 Apr**. Packing list from the translated sheet |
+| 2026-11-14 | Leave Ritsem **Sun 4 Apr**. The rest day is taken where needed, at the latest in Abisko (**11 Apr**). Book the six huts for **4–9 Apr** |
