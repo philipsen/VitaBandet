@@ -1,0 +1,3395 @@
+{
+  "radius_km": 3.0,
+  "count": 189,
+  "shelters": [
+    {
+      "id": "way/249593904",
+      "lat": 62.09852,
+      "lon": 12.31205,
+      "name": "Grövelsjöns Fjällstation",
+      "tags": {
+        "tourism": "alpine_hut",
+        "building": "yes",
+        "brand": "STF",
+        "website": "https://www.svenskaturistforeningen.se/grovelsjon"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.16,
+          "along_km": 0.0
+        }
+      }
+    },
+    {
+      "id": "node/3915183173",
+      "lat": 62.10085,
+      "lon": 12.31361,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to",
+        "ele": "829.27783199999999"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.3,
+          "along_km": 0.0
+        }
+      }
+    },
+    {
+      "id": "node/8568788440",
+      "lat": 62.0969,
+      "lon": 12.30245,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to",
+        "access": "private",
+        "ele": "758.14361599999995"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.67,
+          "along_km": 0.0
+        }
+      }
+    },
+    {
+      "id": "node/3616199260",
+      "lat": 62.09519,
+      "lon": 12.29656,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter",
+        "ele": "750.79516599999999"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.02,
+          "along_km": 0.0
+        }
+      }
+    },
+    {
+      "id": "node/2600196279",
+      "lat": 62.10636,
+      "lon": 12.29269,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to",
+        "ele": "765.72283900000002"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.47,
+          "along_km": 0.0
+        }
+      }
+    },
+    {
+      "id": "node/12595277905",
+      "lat": 62.07897,
+      "lon": 12.30734,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.18,
+          "along_km": 0.0
+        }
+      }
+    },
+    {
+      "id": "node/4986921275",
+      "lat": 62.08618,
+      "lon": 12.27582,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.44,
+          "along_km": 0.0
+        }
+      }
+    },
+    {
+      "id": "node/4986921276",
+      "lat": 62.09293,
+      "lon": 12.26564,
+      "name": "Olåns Vindskydd",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to",
+        "access": "yes"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.64,
+          "along_km": 0.0
+        }
+      }
+    },
+    {
+      "id": "node/4986921289",
+      "lat": 62.09174,
+      "lon": 12.26635,
+      "name": "Olåns Raststuga",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "access": "yes"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.64,
+          "along_km": 0.0
+        }
+      }
+    },
+    {
+      "id": "node/501819719",
+      "lat": 62.15784,
+      "lon": 12.37388,
+      "name": "Särsjöbäcken",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "access": "yes",
+        "fee": "no",
+        "reservation": "no",
+        "capacity": "4",
+        "operator": "Länsstyrelsen Dalarnas Län",
+        "ele": "932.94",
+        "description": "Sauna hut with wood in the nearby hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.12,
+          "along_km": 7.6
+        }
+      }
+    },
+    {
+      "id": "way/764437612",
+      "lat": 62.16808,
+      "lon": 12.4159,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "building": "yes"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.86,
+          "along_km": 8.6
+        }
+      }
+    },
+    {
+      "id": "node/7141513540",
+      "lat": 62.16695,
+      "lon": 12.41636,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.87,
+          "along_km": 8.6
+        }
+      }
+    },
+    {
+      "id": "node/1440553965",
+      "lat": 62.15867,
+      "lon": 12.43438,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.91,
+          "along_km": 8.6
+        }
+      }
+    },
+    {
+      "id": "node/7141513541",
+      "lat": 62.15891,
+      "lon": 12.43489,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.92,
+          "along_km": 8.6
+        }
+      }
+    },
+    {
+      "id": "node/1440521355",
+      "lat": 62.18618,
+      "lon": 12.39081,
+      "name": "Hävlingestugorna",
+      "tags": {
+        "tourism": "alpine_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.04,
+          "along_km": 11.0
+        }
+      }
+    },
+    {
+      "id": "node/4077358411",
+      "lat": 62.18616,
+      "lon": 12.39044,
+      "name": "Vandrarstugan",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "ele": "780.86"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.04,
+          "along_km": 11.0
+        }
+      }
+    },
+    {
+      "id": "node/4077358390",
+      "lat": 62.18569,
+      "lon": 12.39115,
+      "name": "Raststuga",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "shelter_type": "basic_hut",
+        "access": "yes",
+        "fee": "no",
+        "capacity": "3",
+        "ele": "780.36",
+        "description": "Just a basic hut with oven, 3 side bench. And wood outside to burn."
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.1,
+          "along_km": 11.0
+        }
+      }
+    },
+    {
+      "id": "node/501819717",
+      "lat": 62.18327,
+      "lon": 12.41091,
+      "name": "Hävlingen",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to",
+        "access": "yes",
+        "description": "À cute place to sleep outside (it miss a wall). But hopefully BBQ, will help you to not be eaten alive by mosquitoes. Mosquitoes own the full area and are very hungry..."
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.13,
+          "along_km": 11.0
+        }
+      }
+    },
+    {
+      "id": "node/7141533296",
+      "lat": 62.21752,
+      "lon": 12.35846,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.26,
+          "along_km": 15.0
+        }
+      }
+    },
+    {
+      "id": "node/7141533295",
+      "lat": 62.21422,
+      "lon": 12.35166,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.31,
+          "along_km": 15.0
+        }
+      }
+    },
+    {
+      "id": "node/7141533294",
+      "lat": 62.22299,
+      "lon": 12.35026,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.09,
+          "along_km": 15.8
+        }
+      }
+    },
+    {
+      "id": "node/7141533289",
+      "lat": 62.23624,
+      "lon": 12.35243,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.15,
+          "along_km": 17.1
+        }
+      }
+    },
+    {
+      "id": "node/7141533288",
+      "lat": 62.24337,
+      "lon": 12.3442,
+      "name": "Våndsjöstugorna",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.35,
+          "along_km": 17.8
+        }
+      }
+    },
+    {
+      "id": "node/7141533287",
+      "lat": 62.28037,
+      "lon": 12.39702,
+      "name": "Bredåsjön",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "shelter_type": "basic_hut",
+        "access": "yes",
+        "fee": "no"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.03,
+          "along_km": 23.6
+        }
+      }
+    },
+    {
+      "id": "node/1911133674",
+      "lat": 62.29809,
+      "lon": 12.4145,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.62,
+          "along_km": 25.5
+        }
+      }
+    },
+    {
+      "id": "node/501125368",
+      "lat": 62.31689,
+      "lon": 12.45036,
+      "name": "Rogenstugan",
+      "tags": {
+        "tourism": "alpine_hut",
+        "capacity": "12",
+        "operator": "STF",
+        "website": "https://www.svenskaturistforeningen.se/sv/upptack/Omraden/Harjedalen/Fjallstugor/STF-Fjallstuga-Rogen/"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.38,
+          "along_km": 28.4
+        }
+      }
+    },
+    {
+      "id": "node/1609215012",
+      "lat": 62.31484,
+      "lon": 12.45269,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.44,
+          "along_km": 28.4
+        }
+      }
+    },
+    {
+      "id": "node/1911133711",
+      "lat": 62.3213,
+      "lon": 12.48395,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.17,
+          "along_km": 28.4
+        }
+      }
+    },
+    {
+      "id": "node/1911259369",
+      "lat": 62.35188,
+      "lon": 12.4183,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.39,
+          "along_km": 31.5
+        }
+      }
+    },
+    {
+      "id": "node/501132554",
+      "lat": 62.35525,
+      "lon": 12.35086,
+      "name": "Rödviken",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.27,
+          "along_km": 35.3
+        }
+      }
+    },
+    {
+      "id": "node/339314761",
+      "lat": 62.38792,
+      "lon": 12.28823,
+      "name": "Fjällstuga Skedbro",
+      "tags": {
+        "tourism": "alpine_hut",
+        "operator": "STF",
+        "website": "https://www.svenskaturistforeningen.se/upptack/Omraden/Harjedalen/Fjallstugor/STF-Fjallstuga-Skedbro/"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.08,
+          "along_km": 40.1
+        }
+      }
+    },
+    {
+      "id": "node/1493270445",
+      "lat": 62.46755,
+      "lon": 12.28439,
+      "name": "Broktjärnskojan",
+      "tags": {
+        "tourism": "cabin",
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "access": "yes"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.02,
+          "along_km": 49.8
+        }
+      }
+    },
+    {
+      "id": "way/1546901456",
+      "lat": 62.53478,
+      "lon": 12.30131,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.5,
+          "along_km": 58.3
+        }
+      }
+    },
+    {
+      "id": "way/1546991202",
+      "lat": 62.53359,
+      "lon": 12.29958,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.58,
+          "along_km": 58.3
+        }
+      }
+    },
+    {
+      "id": "node/6616667442",
+      "lat": 62.55598,
+      "lon": 12.34544,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.12,
+          "along_km": 63.6
+        }
+      }
+    },
+    {
+      "id": "way/1319571975",
+      "lat": 62.61439,
+      "lon": 12.32613,
+      "name": "Svalåtjärn",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter",
+        "building": "hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.01,
+          "along_km": 70.4
+        }
+      }
+    },
+    {
+      "id": "node/6434296563",
+      "lat": 62.72193,
+      "lon": 12.30186,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.01,
+          "along_km": 83.7
+        }
+      }
+    },
+    {
+      "id": "node/7151582348",
+      "lat": 62.7217,
+      "lon": 12.32728,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.26,
+          "along_km": 84.9
+        }
+      }
+    },
+    {
+      "id": "node/1885624483",
+      "lat": 62.72461,
+      "lon": 12.36924,
+      "name": "Sveån",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.3,
+          "along_km": 84.9
+        }
+      }
+    },
+    {
+      "id": "node/500856407",
+      "lat": 62.76655,
+      "lon": 12.35174,
+      "name": "Svaletjakke",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.03,
+          "along_km": 90.0
+        }
+      }
+    },
+    {
+      "id": "node/339314753",
+      "lat": 62.81817,
+      "lon": 12.44596,
+      "name": "Fjällstuga Fältjägaren",
+      "tags": {
+        "tourism": "alpine_hut",
+        "capacity": "20",
+        "operator": "STF",
+        "website": "https://www.svenskaturistforeningen.se/sv/upptack/Omraden/Harjedalen/Fjallstugor/STF-Fjallstuga-Faltjagaren/"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.02,
+          "along_km": 97.6
+        }
+      }
+    },
+    {
+      "id": "node/1356401891",
+      "lat": 62.91706,
+      "lon": 12.50594,
+      "name": "Helags Fjällstation",
+      "tags": {
+        "tourism": "alpine_hut",
+        "fee": "yes",
+        "capacity": "80",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/sv/upptack/Omraden/Harjedalen/Fjallstationer/STF-Helags-Fjallstation/"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.01,
+          "along_km": 109.3
+        },
+        "undersaker": {
+          "km_off": 1.61,
+          "along_km": 0.0
+        }
+      }
+    },
+    {
+      "id": "node/500434445",
+      "lat": 62.98372,
+      "lon": 12.36165,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "operator": "Länsstyrelsen in Jämtlands Län"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.01,
+          "along_km": 120.2
+        }
+      }
+    },
+    {
+      "id": "node/12846813984",
+      "lat": 63.04264,
+      "lon": 12.27356,
+      "name": "Sylarnas Fjällstation",
+      "tags": {
+        "tourism": "alpine_hut",
+        "operator": "Svenska Turistföreningen (STF)",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-sylarna-fjallstation/",
+        "phone": "+46101902420",
+        "ele": "1035"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.09,
+          "along_km": 129.4
+        }
+      }
+    },
+    {
+      "id": "way/1192500692",
+      "lat": 63.05983,
+      "lon": 12.27777,
+      "name": "Gamla Sylen",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter",
+        "building": "yes",
+        "locked": "no",
+        "operator": "Länsstyrelsen Jämtlands Län",
+        "description": "This is an emergency shelter only and the wood stored there is only for emergency use. Overnight stays are not permitted. Short breaks are ok. The stove may be used if you bring your own wood."
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.47,
+          "along_km": 130.8
+        }
+      }
+    },
+    {
+      "id": "way/360406163",
+      "lat": 63.10551,
+      "lon": 12.32218,
+      "name": "Spåime",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "building": "yes"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.89,
+          "along_km": 135.9
+        }
+      }
+    },
+    {
+      "id": "node/500382674",
+      "lat": 63.12203,
+      "lon": 12.24189,
+      "name": "Enkälen Rastskydd",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.08,
+          "along_km": 138.6
+        }
+      }
+    },
+    {
+      "id": "node/1356401342",
+      "lat": 63.18568,
+      "lon": 12.17484,
+      "name": "Blåhammarens Fjällstation",
+      "tags": {
+        "tourism": "alpine_hut",
+        "fee": "no",
+        "reservation": "recommended",
+        "capacity": "56",
+        "operator": "Svenska Turistföreningen (STF)",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-blahammaren-fjallstation/",
+        "ele": "1086"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.22,
+          "along_km": 146.4
+        }
+      }
+    },
+    {
+      "id": "node/500018090",
+      "lat": 63.20695,
+      "lon": 12.16392,
+      "name": "Gräslidfjället",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.11,
+          "along_km": 149.0
+        }
+      }
+    },
+    {
+      "id": "node/500018027",
+      "lat": 63.2326,
+      "lon": 12.16075,
+      "name": "Vindskydd",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.11,
+          "along_km": 151.9
+        }
+      }
+    },
+    {
+      "id": "node/12149991697",
+      "lat": 63.27163,
+      "lon": 12.12294,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.02,
+          "along_km": 156.9
+        }
+      }
+    },
+    {
+      "id": "node/7125723361",
+      "lat": 63.31114,
+      "lon": 12.08158,
+      "name": "Sönner-Sandtjärnen",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.21,
+          "along_km": 161.2
+        }
+      }
+    },
+    {
+      "id": "node/12682390080",
+      "lat": 63.31701,
+      "lon": 12.10599,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter",
+        "description": "Bench and table."
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.37,
+          "along_km": 163.9
+        }
+      }
+    },
+    {
+      "id": "node/13128973815",
+      "lat": 63.31788,
+      "lon": 12.0809,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "picnic_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.49,
+          "along_km": 163.9
+        }
+      }
+    },
+    {
+      "id": "node/13128973823",
+      "lat": 63.32245,
+      "lon": 12.10228,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.53,
+          "along_km": 164.8
+        }
+      }
+    },
+    {
+      "id": "node/821049387",
+      "lat": 63.32738,
+      "lon": 12.07639,
+      "name": "Ernstkumlet",
+      "tags": {
+        "amenity": "shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.92,
+          "along_km": 164.8
+        }
+      }
+    },
+    {
+      "id": "node/821049596",
+      "lat": 63.33685,
+      "lon": 12.0945,
+      "name": "Vindarnas tempel",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.4,
+          "along_km": 165.7
+        }
+      }
+    },
+    {
+      "id": "node/12682390086",
+      "lat": 63.32306,
+      "lon": 12.14856,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter",
+        "description": "Bench and table."
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.71,
+          "along_km": 165.7
+        }
+      }
+    },
+    {
+      "id": "node/12797363217",
+      "lat": 63.35631,
+      "lon": 12.08417,
+      "name": "Skurdalsporten",
+      "tags": {
+        "tourism": "alpine_hut",
+        "website": "https://www.skurdalsporten.com/"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.9,
+          "along_km": 167.4
+        }
+      }
+    },
+    {
+      "id": "node/3741522792",
+      "lat": 63.98079,
+      "lon": 13.97108,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "picnic_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.19,
+          "along_km": 330.4
+        }
+      }
+    },
+    {
+      "id": "node/12147667655",
+      "lat": 63.96834,
+      "lon": 13.98945,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.49,
+          "along_km": 330.4
+        }
+      }
+    },
+    {
+      "id": "node/2737974514",
+      "lat": 64.02322,
+      "lon": 14.09778,
+      "name": "vindskydd",
+      "tags": {
+        "amenity": "shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.96,
+          "along_km": 340.4
+        }
+      }
+    },
+    {
+      "id": "node/12182831114",
+      "lat": 64.04168,
+      "lon": 14.11698,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.95,
+          "along_km": 342.5
+        }
+      }
+    },
+    {
+      "id": "node/12145931284",
+      "lat": 64.0612,
+      "lon": 14.11602,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.87,
+          "along_km": 344.2
+        }
+      }
+    },
+    {
+      "id": "node/12145952221",
+      "lat": 64.06211,
+      "lon": 14.11672,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.91,
+          "along_km": 344.2
+        }
+      }
+    },
+    {
+      "id": "node/12182831395",
+      "lat": 64.06445,
+      "lon": 14.11379,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.12,
+          "along_km": 345.0
+        }
+      }
+    },
+    {
+      "id": "node/12182831394",
+      "lat": 64.0648,
+      "lon": 14.11312,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.16,
+          "along_km": 345.0
+        }
+      }
+    },
+    {
+      "id": "node/11164501544",
+      "lat": 64.34878,
+      "lon": 14.38232,
+      "name": "",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.88,
+          "along_km": 386.3
+        }
+      }
+    },
+    {
+      "id": "node/12739036613",
+      "lat": 64.3493,
+      "lon": 14.38015,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.0,
+          "along_km": 386.3
+        }
+      }
+    },
+    {
+      "id": "way/1193779022",
+      "lat": 64.36324,
+      "lon": 14.37953,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to",
+        "building": "yes"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.82,
+          "along_km": 388.6
+        }
+      }
+    },
+    {
+      "id": "node/8995727504",
+      "lat": 64.64565,
+      "lon": 14.14177,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.42,
+          "along_km": 430.3
+        }
+      }
+    },
+    {
+      "id": "node/13358249055",
+      "lat": 64.68079,
+      "lon": 14.16516,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.04,
+          "along_km": 433.7
+        }
+      }
+    },
+    {
+      "id": "node/1905865883",
+      "lat": 64.69974,
+      "lon": 14.13089,
+      "name": "Klumplidklumpen",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.88,
+          "along_km": 439.1
+        }
+      }
+    },
+    {
+      "id": "node/1899098471",
+      "lat": 64.81861,
+      "lon": 14.23502,
+      "name": "Vindskydd",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.01,
+          "along_km": 453.2
+        }
+      }
+    },
+    {
+      "id": "node/1932870262",
+      "lat": 64.8828,
+      "lon": 14.39877,
+      "name": "Tjärnbäcken",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "picnic_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.62,
+          "along_km": 465.6
+        }
+      }
+    },
+    {
+      "id": "node/1855802314",
+      "lat": 64.984,
+      "lon": 14.71797,
+      "name": "Slipsikstugan",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "fee": "yes",
+        "reservation": "no",
+        "capacity": "6",
+        "operator": "Länsstyrelsen Västerbotten"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.0,
+          "along_km": 488.2
+        }
+      }
+    },
+    {
+      "id": "node/1934243820",
+      "lat": 65.06182,
+      "lon": 14.78078,
+      "name": "Toppstugan (K2)",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "picnic_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.73,
+          "along_km": 500.3
+        },
+        "hemavan-village": {
+          "km_off": 0.64,
+          "along_km": 0.0
+        }
+      }
+    },
+    {
+      "id": "way/967475052",
+      "lat": 65.11847,
+      "lon": 14.72112,
+      "name": "Durrenstugan",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter",
+        "building": "yes",
+        "operator": "Länsstyrelsen",
+        "description": "Emergency shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.03,
+          "along_km": 508.8
+        }
+      }
+    },
+    {
+      "id": "node/2973805193",
+      "lat": 65.18248,
+      "lon": 14.56701,
+      "name": "Tjåkkelestugan",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "fee": "yes",
+        "reservation": "no",
+        "capacity": "6",
+        "operator": "Länsstyrelsen Västerbotten",
+        "description": "Two rooms (4+2 beds)"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.02,
+          "along_km": 520.1
+        }
+      }
+    },
+    {
+      "id": "node/10781987842",
+      "lat": 65.18273,
+      "lon": 14.56643,
+      "name": "Tjåkkelestugan - barn house",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "fee": "yes",
+        "reservation": "no",
+        "capacity": "4",
+        "operator": "Länsstyrelsen Västerbotten",
+        "description": "Old hut with open fireplace."
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.02,
+          "along_km": 520.1
+        }
+      }
+    },
+    {
+      "id": "node/6342986487",
+      "lat": 65.30594,
+      "lon": 14.60705,
+      "name": "Åtnikstugan",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "fee": "yes",
+        "capacity": "18",
+        "operator": "Länsstyrelsen i Västerbotten"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.04,
+          "along_km": 537.6
+        }
+      }
+    },
+    {
+      "id": "way/696150229",
+      "lat": 65.51669,
+      "lon": 14.5528,
+      "name": "Arevattnet",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "building": "yes",
+        "fee": "yes",
+        "reservation": "no",
+        "capacity": "6",
+        "operator": "Länsstyrelsen Västerbotten"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.01,
+          "along_km": 586.6
+        }
+      }
+    },
+    {
+      "id": "node/12109063994",
+      "lat": 65.58564,
+      "lon": 14.60445,
+      "name": "Deavna rastskydd",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "operator": "Länsstyrelsen Västerbotten"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.1,
+          "along_km": 595.5
+        }
+      }
+    },
+    {
+      "id": "node/923512333",
+      "lat": 65.6802,
+      "lon": 14.59321,
+      "name": "Atostugan",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "amenity": "shelter",
+        "building": "yes"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.02,
+          "along_km": 606.8
+        }
+      }
+    },
+    {
+      "id": "node/1871241956",
+      "lat": 65.72032,
+      "lon": 14.6127,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "picnic_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.07,
+          "along_km": 611.8
+        }
+      }
+    },
+    {
+      "id": "node/12106479776",
+      "lat": 65.72638,
+      "lon": 14.6132,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.1,
+          "along_km": 612.5
+        }
+      }
+    },
+    {
+      "id": "node/7125728290",
+      "lat": 65.76906,
+      "lon": 14.98995,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.04,
+          "along_km": 637.2
+        }
+      }
+    },
+    {
+      "id": "node/7133836505",
+      "lat": 65.78123,
+      "lon": 15.11313,
+      "name": "Portbron",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.73,
+          "along_km": 644.0
+        },
+        "hemavan-village": {
+          "km_off": 0.42,
+          "along_km": 110.2
+        }
+      }
+    },
+    {
+      "id": "way/1205576572",
+      "lat": 65.82283,
+      "lon": 15.12183,
+      "name": "Fjällfinakåtan",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "picnic_shelter",
+        "building": "yes",
+        "website": "https://www.naturkartan.se/sv/vasterbottens-lan/fjallfinakatan"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.61,
+          "along_km": 648.7
+        },
+        "hemavan-village": {
+          "km_off": 0.55,
+          "along_km": 116.7
+        }
+      }
+    },
+    {
+      "id": "way/1205576571",
+      "lat": 65.82159,
+      "lon": 15.11256,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter",
+        "building": "yes",
+        "operator": "Friluftsfrämjandet Västerbotten"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.26,
+          "along_km": 649.5
+        },
+        "hemavan-village": {
+          "km_off": 0.2,
+          "along_km": 117.4
+        }
+      }
+    },
+    {
+      "id": "node/12772144393",
+      "lat": 65.885,
+      "lon": 15.15855,
+      "name": "Viterskalet Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "capacity": "25",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/anlaggningar/stf-viterskalet-fjallstuga/",
+        "ele": "860"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.14,
+          "along_km": 657.8
+        }
+      }
+    },
+    {
+      "id": "node/1919777682",
+      "lat": 65.87376,
+      "lon": 15.2892,
+      "name": "Syterskal Rastskydd",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "operator": "Länsstyrelsen Västerbotten",
+        "website": "https://www.vindelfjallen.se/besokare/stugor-kojor-och-rastskyddmankeforsstugan/syterskalet",
+        "ele": "870"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.01,
+          "along_km": 664.3
+        }
+      }
+    },
+    {
+      "id": "node/339309788",
+      "lat": 65.89278,
+      "lon": 15.39667,
+      "name": "Syter Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "capacity": "50",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/anlaggningar/stf-syter-fjallstuga/",
+        "ele": "720"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.0,
+          "along_km": 669.9
+        }
+      }
+    },
+    {
+      "id": "node/12100215136",
+      "lat": 65.91318,
+      "lon": 15.46873,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.91,
+          "along_km": 673.3
+        }
+      }
+    },
+    {
+      "id": "node/12772144392",
+      "lat": 65.98882,
+      "lon": 15.49726,
+      "name": "Tärnasjö Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "capacity": "50",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/anlaggningar/stf-tarnasjo-fjallstuga/",
+        "ele": "610"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.04,
+          "along_km": 682.5
+        }
+      }
+    },
+    {
+      "id": "node/12772144391",
+      "lat": 65.97234,
+      "lon": 15.76432,
+      "name": "Serve Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "capacity": "25",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/anlaggningar/stf-serve-fjallstuga/",
+        "ele": "610"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.08,
+          "along_km": 699.9
+        }
+      }
+    },
+    {
+      "id": "node/1919809749",
+      "lat": 65.95491,
+      "lon": 15.89126,
+      "name": "Vuometjakke Rastskydd",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "operator": "Länsstyrelsen Västerbotten",
+        "ele": "900"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.28,
+          "along_km": 706.6
+        }
+      }
+    },
+    {
+      "id": "node/12093547170",
+      "lat": 65.96461,
+      "lon": 16.04567,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.36,
+          "along_km": 713.3
+        }
+      }
+    },
+    {
+      "id": "node/12772144390",
+      "lat": 65.94136,
+      "lon": 16.09472,
+      "name": "Aigert Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "fee": "yes",
+        "reservation": "yes",
+        "capacity": "50",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/anlaggningar/stf-aigert-fjallstuga/",
+        "ele": "790"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.41,
+          "along_km": 716.1
+        }
+      }
+    },
+    {
+      "id": "node/7707575175",
+      "lat": 65.96324,
+      "lon": 16.11386,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.44,
+          "along_km": 717.1
+        }
+      }
+    },
+    {
+      "id": "node/7125241099",
+      "lat": 65.95778,
+      "lon": 16.14132,
+      "name": "Tjulån Vindskydd",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "description": "Cirka tre km väst om Ammarnäs. Ligger väldigt vackert men kanske inte det mest bekväma för övernattning. Men till nöds duger det. Inget dass och ingen ved men gott om dricksvatten."
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.07,
+          "along_km": 718.1
+        }
+      }
+    },
+    {
+      "id": "node/7185668830",
+      "lat": 65.96929,
+      "lon": 16.17523,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.59,
+          "along_km": 719.8
+        }
+      }
+    },
+    {
+      "id": "node/7707545728",
+      "lat": 65.93807,
+      "lon": 16.23825,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.38,
+          "along_km": 721.8
+        }
+      }
+    },
+    {
+      "id": "node/1922432837",
+      "lat": 65.98125,
+      "lon": 16.15762,
+      "name": "Näsbergtjärn",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter",
+        "ele": "690"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.14,
+          "along_km": 725.7
+        }
+      }
+    },
+    {
+      "id": "way/729674710",
+      "lat": 65.99707,
+      "lon": 16.19135,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "building": "yes"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.2,
+          "along_km": 726.8
+        }
+      }
+    },
+    {
+      "id": "node/7709662850",
+      "lat": 66.02639,
+      "lon": 16.19025,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.34,
+          "along_km": 729.7
+        }
+      }
+    },
+    {
+      "id": "node/1931912654",
+      "lat": 66.20995,
+      "lon": 16.37716,
+      "name": "Sjnultje Rastskydd",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "ele": "750"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.08,
+          "along_km": 754.7
+        }
+      }
+    },
+    {
+      "id": "node/1931923493",
+      "lat": 66.28067,
+      "lon": 16.4893,
+      "name": "Badasjåkkå Rastskydd",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "ele": "500"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.38,
+          "along_km": 766.3
+        }
+      }
+    },
+    {
+      "id": "node/12783870283",
+      "lat": 66.28384,
+      "lon": 16.53851,
+      "name": "Vindskydd Bäverholmen",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.18,
+          "along_km": 768.2
+        }
+      }
+    },
+    {
+      "id": "node/12783880850",
+      "lat": 66.29391,
+      "lon": 16.6004,
+      "name": "Vindskydd Yraf",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.76,
+          "along_km": 771.0
+        }
+      }
+    },
+    {
+      "id": "node/12783957573",
+      "lat": 66.28264,
+      "lon": 16.65735,
+      "name": "Vindskydd Lomtjärn",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.33,
+          "along_km": 775.0
+        }
+      }
+    },
+    {
+      "id": "node/1931961879",
+      "lat": 66.35104,
+      "lon": 16.83405,
+      "name": "Pieljekaisestugan",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "amenity": "shelter",
+        "capacity": "6",
+        "operator": "Länsstyrelsen Norrbotten",
+        "website": "https://www.lansstyrelsen.se/Norrbotten/Sv/djur-och-natur/skyddad-natur/nationalparker/pieljekaise/Pages/default.aspx",
+        "ele": "720",
+        "description": "Key in Adolfström or Jäkkvik"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.2,
+          "along_km": 786.5
+        }
+      }
+    },
+    {
+      "id": "node/1967191335",
+      "lat": 66.36722,
+      "lon": 16.91835,
+      "name": "Raststuga Pieljekaise",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "capacity": "0",
+        "ele": "725",
+        "description": "Kitchen, gas"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.94,
+          "along_km": 790.6
+        }
+      }
+    },
+    {
+      "id": "node/12784004268",
+      "lat": 66.37858,
+      "lon": 16.92934,
+      "name": "Vindskydd Jäckvik",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.15,
+          "along_km": 790.6
+        }
+      }
+    },
+    {
+      "id": "node/1750214495",
+      "lat": 66.84494,
+      "lon": 17.58924,
+      "name": "Tsielejåkkastuga",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "locked": "no",
+        "reservation": "no",
+        "capacity": "4",
+        "operator": "STF"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.0,
+          "along_km": 871.1
+        }
+      }
+    },
+    {
+      "id": "node/1750213660",
+      "lat": 66.92532,
+      "lon": 17.71894,
+      "name": "Mallenjarka Rastskydd",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "operator": "Svenska Turistföreningen",
+        "phone": "yes",
+        "ele": "300",
+        "description": "Här finns det en telefon för att beställa båttransport."
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.29,
+          "along_km": 884.5
+        },
+        "kungsleden": {
+          "km_off": 2.84,
+          "along_km": 0.0
+        }
+      }
+    },
+    {
+      "id": "node/1356458317",
+      "lat": 66.95373,
+      "lon": 17.71961,
+      "name": "Kvikkjokk Fjällstation",
+      "tags": {
+        "tourism": "alpine_hut",
+        "capacity": "75",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/anlaggningar/stf-kvikkjokk-fjallstation/",
+        "ele": "320"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.02,
+          "along_km": 887.5
+        },
+        "kungsleden": {
+          "km_off": 0.02,
+          "along_km": 0.3
+        }
+      }
+    },
+    {
+      "id": "node/4383870670",
+      "lat": 66.95518,
+      "lon": 17.75495,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.53,
+          "along_km": 887.5
+        },
+        "kungsleden": {
+          "km_off": 1.32,
+          "along_km": 1.7
+        }
+      }
+    },
+    {
+      "id": "node/4383875097",
+      "lat": 66.95377,
+      "lon": 17.78643,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.9,
+          "along_km": 887.7
+        },
+        "kungsleden": {
+          "km_off": 2.42,
+          "along_km": 2.2
+        }
+      }
+    },
+    {
+      "id": "way/291141562",
+      "lat": 66.96029,
+      "lon": 17.41137,
+      "name": "Njunjes Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "amenity": "shelter",
+        "building": "cabin",
+        "capacity": "20",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-njunjes-fjallstuga/"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.06,
+          "along_km": 903.0
+        }
+      }
+    },
+    {
+      "id": "node/1356403665",
+      "lat": 66.99025,
+      "lon": 17.29156,
+      "name": "Tarrekaise Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "capacity": "26",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-tarrekaise-fjallstuga/"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.01,
+          "along_km": 910.6
+        }
+      }
+    },
+    {
+      "id": "way/754817948",
+      "lat": 67.06797,
+      "lon": 17.15814,
+      "name": "Såmmarlappa fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "building": "yes",
+        "fee": "yes",
+        "capacity": "18",
+        "beds": "18",
+        "operator": "Svenska Turistföreningen"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.02,
+          "along_km": 922.4
+        }
+      }
+    },
+    {
+      "id": "node/1896395800",
+      "lat": 67.19287,
+      "lon": 17.12209,
+      "name": "Darreluoppal Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "beds": "36",
+        "operator": "Badjelánnda Laponia Turism ek. för.",
+        "website": "http://padjelanta.com/stugor/darreluoppal/"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.1,
+          "along_km": 937.5
+        }
+      }
+    },
+    {
+      "id": "way/622411598",
+      "lat": 67.26928,
+      "lon": 17.03281,
+      "name": "",
+      "tags": {
+        "tourism": "alpine_hut",
+        "building": "yes",
+        "operator": "Badjelánnda Laponia Turism",
+        "opening_hours": "Jun 30-Sep 07"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.09,
+          "along_km": 947.1
+        }
+      }
+    },
+    {
+      "id": "way/622411605",
+      "lat": 67.26838,
+      "lon": 17.03354,
+      "name": "Duottar Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "building": "yes",
+        "beds": "32",
+        "operator": "Badjelánnda Laponia Turism ek. för."
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.09,
+          "along_km": 947.1
+        }
+      }
+    },
+    {
+      "id": "node/1356458236",
+      "lat": 67.55959,
+      "lon": 17.19921,
+      "name": "Kisuris Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "beds": "34",
+        "operator": "Badjelánnda Laponia Turism ek. för.",
+        "website": "http://padjelanta.com/stugor/gisuris/",
+        "description": "En stuga med fem 4-bäddsrum och ett 2-bäddsrum samt dagrum med självhushållning. Två stugor med sex bäddar i vardera, en är öppen året runt. Sammanlagt 34 bäddar."
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.12,
+          "along_km": 987.3
+        }
+      }
+    },
+    {
+      "id": "node/339299835",
+      "lat": 67.63464,
+      "lon": 17.3608,
+      "name": "Akka Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "capacity": "30",
+        "operator": "Svenska Turistförening",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-akka-fjallstuga/"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.06,
+          "along_km": 1002.0
+        }
+      }
+    },
+    {
+      "id": "node/1356403016",
+      "lat": 67.85778,
+      "lon": 17.62491,
+      "name": "Sitasjaure Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "reservation": "yes",
+        "capacity": "28",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-sitasjaure-fjallstuga/"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.03,
+          "along_km": 1037.2
+        }
+      }
+    },
+    {
+      "id": "node/13661387918",
+      "lat": 67.86519,
+      "lon": 17.80681,
+      "name": "Renvaktarstuga",
+      "tags": {
+        "amenity": "shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.21,
+          "along_km": 1046.5
+        }
+      }
+    },
+    {
+      "id": "node/1356401961",
+      "lat": 67.9356,
+      "lon": 17.96764,
+      "name": "Hukejaure Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "capacity": "20",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-hukejaure-fjallstugor/",
+        "ele": "872",
+        "description": "cabin host, safety room when not opened, emergency phone, no food"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.0,
+          "along_km": 1056.7
+        }
+      }
+    },
+    {
+      "id": "node/342300361",
+      "lat": 67.89178,
+      "lon": 18.32287,
+      "name": "Kuoperjåkka Rastskydd",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "operator": "Länsstyrelsen Norrbotten",
+        "phone": "no",
+        "ele": "780"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.59,
+          "along_km": 1074.8
+        },
+        "kungsleden": {
+          "km_off": 0.9,
+          "along_km": 142.3
+        }
+      }
+    },
+    {
+      "id": "node/1356403616",
+      "lat": 67.94616,
+      "lon": 18.28205,
+      "name": "Sälka Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "reservation": "yes",
+        "capacity": "54",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-salka-fjallstuga/",
+        "ele": "790",
+        "description": "sauna, accept creditcard,cabin host, safety room when not opened, emergency phone"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.01,
+          "along_km": 1078.9
+        },
+        "kungsleden": {
+          "km_off": 0.02,
+          "along_km": 148.4
+        }
+      }
+    },
+    {
+      "id": "way/840320845",
+      "lat": 68.01968,
+      "lon": 18.24713,
+      "name": "Tjäktapasset Rastskydd",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "building": "yes",
+        "operator": "Länsstyrelsen Norbotten",
+        "ele": "1120"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.01,
+          "along_km": 1088.0
+        }
+      }
+    },
+    {
+      "id": "node/1356403681",
+      "lat": 68.05155,
+      "lon": 18.24161,
+      "name": "Tjäktja Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "reservation": "yes",
+        "capacity": "33",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-tjaktja-fjallstuga/",
+        "ele": "1000"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.01,
+          "along_km": 1092.6
+        }
+      }
+    },
+    {
+      "id": "node/289257081",
+      "lat": 68.13649,
+      "lon": 18.41547,
+      "name": "Alesjaure Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "reservation": "yes",
+        "capacity": "78",
+        "operator": "Svenska Turistföreningen",
+        "opening_hours": "Feb 14-May 3,Jun 15-Sep 20",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-alesjaure-fjallstuga/",
+        "ele": "790",
+        "description": "sauna, accept creditcard,cabin host, safety room when not opened, emergency phone"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.05,
+          "along_km": 1105.0
+        }
+      }
+    },
+    {
+      "id": "node/2399590109",
+      "lat": 68.19434,
+      "lon": 18.50558,
+      "name": "Rádunjárga",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "website": "https://www.naturkartan.se/en/norrbottens-lan/raststuga-radunjarga-kungens-vindskydd",
+        "ele": "795",
+        "description": "The cabin is intended for temporary stopovers and has room for 10 people. In the cabin you find a stove, firewood and latrine. You may only spend the night and use any firewood in an emergency."
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.11,
+          "along_km": 1120.8
+        }
+      }
+    },
+    {
+      "id": "node/289406212",
+      "lat": 68.28601,
+      "lon": 18.59127,
+      "name": "Abiskojaure Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "capacity": "53",
+        "operator": "Svenska Turistföreningen",
+        "opening_hours": "Feb 14-May 3,Jun 15-Sep 20",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-abiskojaure-fjallstuga/",
+        "ele": "490",
+        "description": "accept creditcard,cabin host, safety room when not opened, emergency phone"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.03,
+          "along_km": 1134.4
+        }
+      }
+    },
+    {
+      "id": "node/4085352857",
+      "lat": 68.32749,
+      "lon": 18.75334,
+      "name": "Nissonjokk",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to",
+        "ele": "415"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.63,
+          "along_km": 1143.0
+        }
+      }
+    },
+    {
+      "id": "way/150741216",
+      "lat": 68.35958,
+      "lon": 18.77791,
+      "name": "Abiskojåkka Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "building": "yes",
+        "capacity": "11-25",
+        "operator": "Svenska Turistföreningen",
+        "opening_hours": "closed; Feb 16-Apr 30 Mo-Su,PH 00:00-24:00; Jun 15-Sep 30 Mo-Su,PH 00:00-24:00",
+        "website": "https://www.svenskaturistforeningen.se/anlaggningar/abiskojakka-stf-fjallstuga/"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.21,
+          "along_km": 1150.9
+        },
+        "finish-traditional": {
+          "km_off": 2.43,
+          "along_km": 0.0
+        }
+      }
+    },
+    {
+      "id": "node/564239031",
+      "lat": 68.36469,
+      "lon": 18.78459,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.31,
+          "along_km": 1151.5
+        },
+        "finish-traditional": {
+          "km_off": 2.5,
+          "along_km": 0.0
+        }
+      }
+    },
+    {
+      "id": "node/12051067130",
+      "lat": 68.3921,
+      "lon": 18.70632,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "rock_shelter"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.29,
+          "along_km": 1154.3
+        }
+      }
+    },
+    {
+      "id": "way/790800300",
+      "lat": 68.4325,
+      "lon": 18.67082,
+      "name": "",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "shelter_type": "picnic_shelter",
+        "building": "yes",
+        "access": "yes",
+        "fee": "no",
+        "reservation": "no",
+        "description": "Big cabin with two rooms and one picnic table each. One room with oven (no wood storage). Overnight stay not permitted."
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.42,
+          "along_km": 1161.9
+        }
+      }
+    },
+    {
+      "id": "node/5981708157",
+      "lat": 68.49318,
+      "lon": 18.61436,
+      "name": "Pålnostugan",
+      "tags": {
+        "tourism": "alpine_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.41,
+          "along_km": 1167.0
+        }
+      }
+    },
+    {
+      "id": "node/12801189405",
+      "lat": 68.51387,
+      "lon": 18.63165,
+      "name": "Lappjordhytta",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "building": "cabin",
+        "capacity": "14",
+        "operator": "DNT Oslo og Omegn",
+        "website": "https://ut.no/hytte/lappjordhytta",
+        "ele": "544"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.0,
+          "along_km": 1170.2
+        }
+      }
+    },
+    {
+      "id": "node/12801189404",
+      "lat": 68.66334,
+      "lon": 18.89075,
+      "name": "Altevasshytta",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "building": "cabin",
+        "capacity": "17",
+        "operator": "Troms Turlag",
+        "website": "https://ut.no/hytte/altevasshytta",
+        "ele": "540"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.0,
+          "along_km": 1195.6
+        }
+      }
+    },
+    {
+      "id": "node/12801189403",
+      "lat": 68.65888,
+      "lon": 19.12035,
+      "name": "Gaskashytta",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "building": "cabin",
+        "capacity": "20",
+        "operator": "DNT Oslo og Omegn",
+        "website": "https://ut.no/hytte/gaskashytta",
+        "ele": "545"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.02,
+          "along_km": 1206.5
+        }
+      }
+    },
+    {
+      "id": "node/12801170420",
+      "lat": 68.67231,
+      "lon": 19.48633,
+      "name": "Vuomahytta",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "building": "cabin",
+        "capacity": "20",
+        "operator": "DNT Oslo og Omegn",
+        "website": "https://ut.no/hytte/vuomahytta",
+        "ele": "730"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.02,
+          "along_km": 1225.6
+        }
+      }
+    },
+    {
+      "id": "node/11662966729",
+      "lat": 68.68799,
+      "lon": 19.77184,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.08,
+          "along_km": 1243.4
+        }
+      }
+    },
+    {
+      "id": "node/1356699440",
+      "lat": 68.68922,
+      "lon": 19.7718,
+      "name": "Anjavasshytta",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "capacity": "2",
+        "operator": "Statskog",
+        "website": "https://www.inatur.no/tilbud/656896dc8f798d24b63e3e69"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.2,
+          "along_km": 1243.4
+        }
+      }
+    },
+    {
+      "id": "node/11662946979",
+      "lat": 68.69251,
+      "lon": 19.76697,
+      "name": "Ole Nergårdbua",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "access": "yes",
+        "capacity": "2",
+        "operator": "Statskog",
+        "website": "https://www.statskog.no/hytter-og-friluftsliv/hytter-koier-og-aremal/vis-3"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.58,
+          "along_km": 1243.4
+        }
+      }
+    },
+    {
+      "id": "node/12801170419",
+      "lat": 68.67517,
+      "lon": 19.82334,
+      "name": "Dividalshytta",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "building": "cabin",
+        "capacity": "20",
+        "operator": "DNT Oslo og Omegn",
+        "website": "https://ut.no/hytte/dividalshytta",
+        "ele": "580"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.09,
+          "along_km": 1247.5
+        }
+      }
+    },
+    {
+      "id": "node/12801170418",
+      "lat": 68.81939,
+      "lon": 20.10903,
+      "name": "Dærtahytta",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "building": "cabin",
+        "capacity": "18",
+        "operator": "Troms Turlag",
+        "website": "https://ut.no/hytte/daertahytta",
+        "ele": "745"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.03,
+          "along_km": 1276.4
+        }
+      }
+    },
+    {
+      "id": "node/9812364221",
+      "lat": 68.92593,
+      "lon": 20.18556,
+      "name": "Moskanhytta",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "plan": {
+          "km_off": 1.37,
+          "along_km": 1293.7
+        }
+      }
+    },
+    {
+      "id": "node/1356402669",
+      "lat": 68.97421,
+      "lon": 20.36848,
+      "name": "Pältsa Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "capacity": "26",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-paltsa-fjallstuga/"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.11,
+          "along_km": 1305.8
+        }
+      }
+    },
+    {
+      "id": "node/9810716499",
+      "lat": 69.07344,
+      "lon": 20.50144,
+      "name": "Goldahytta",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "building": "shed",
+        "capacity": "22",
+        "operator": "Troms Turlag",
+        "website": "https://ut.no/hytte/goldahytta",
+        "ele": "527"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.15,
+          "along_km": 1318.4
+        },
+        "finish-traditional": {
+          "km_off": 2.41,
+          "along_km": 168.7
+        }
+      }
+    },
+    {
+      "id": "way/686006472",
+      "lat": 69.07344,
+      "lon": 20.50144,
+      "name": "Goldahytta nye",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "building": "cabin"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.15,
+          "along_km": 1318.4
+        },
+        "finish-traditional": {
+          "km_off": 2.41,
+          "along_km": 168.7
+        }
+      }
+    },
+    {
+      "id": "way/686006470",
+      "lat": 69.07376,
+      "lon": 20.50182,
+      "name": "Goldahytta gamle",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "building": "cabin"
+      },
+      "near": {
+        "plan": {
+          "km_off": 2.16,
+          "along_km": 1318.4
+        },
+        "finish-traditional": {
+          "km_off": 2.42,
+          "along_km": 168.7
+        }
+      }
+    },
+    {
+      "id": "way/355321726",
+      "lat": 69.06031,
+      "lon": 20.55701,
+      "name": "Kuohkimajärven autiotupa",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "shelter_type": "basic_hut",
+        "building": "cabin",
+        "fee": "no",
+        "reservation": "no",
+        "capacity": "6",
+        "operator": "Metsähallitus",
+        "website": "https://www.luontoon.fi/kuohkimajarviautiotupa",
+        "phone": "+358 20 5647990;+358 20 5647950",
+        "ele": "490"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.5,
+          "along_km": 1318.6
+        },
+        "finish-traditional": {
+          "km_off": 0.33,
+          "along_km": 168.7
+        }
+      }
+    },
+    {
+      "id": "way/355321727",
+      "lat": 69.06077,
+      "lon": 20.55743,
+      "name": "Kuohkimajärvi varaustupa",
+      "tags": {
+        "tourism": "wilderness_hut",
+        "building": "cabin",
+        "fee": "yes",
+        "reservation": "required",
+        "capacity": "10",
+        "operator": "Metsähallitus",
+        "website": "https://www.luontoon.fi/kuohkimajarvivaraustupa",
+        "phone": "+358 20 5647990; +358 20 5647950"
+      },
+      "near": {
+        "plan": {
+          "km_off": 0.52,
+          "along_km": 1318.6
+        },
+        "finish-traditional": {
+          "km_off": 0.36,
+          "along_km": 168.7
+        }
+      }
+    },
+    {
+      "id": "node/339314751",
+      "lat": 63.04035,
+      "lon": 12.79952,
+      "name": "Vålåstugorna",
+      "tags": {
+        "tourism": "alpine_hut",
+        "locked": "no",
+        "fee": "yes",
+        "reservation": "recommended",
+        "capacity": "44",
+        "operator": "Svenska Turistföreningen",
+        "opening_hours": "Feb-Apr,Jun-Sep",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-valastugan-fjallstuga/"
+      },
+      "near": {
+        "undersaker": {
+          "km_off": 0.01,
+          "along_km": 22.6
+        }
+      }
+    },
+    {
+      "id": "node/8871119515",
+      "lat": 63.40019,
+      "lon": 13.19194,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "undersaker": {
+          "km_off": 0.01,
+          "along_km": 83.4
+        }
+      }
+    },
+    {
+      "id": "node/1669071479",
+      "lat": 67.04245,
+      "lon": 17.94315,
+      "name": "Pårte Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "reservation": "yes",
+        "capacity": "26",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-parte-fjallstuga/",
+        "ele": "480"
+      },
+      "near": {
+        "kungsleden": {
+          "km_off": 0.01,
+          "along_km": 16.3
+        }
+      }
+    },
+    {
+      "id": "node/4786913023",
+      "lat": 67.74657,
+      "lon": 18.29538,
+      "name": "Kaitumjaure Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "reservation": "yes",
+        "capacity": "30",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-kaitumjaure-fjallstuga/",
+        "ele": "610"
+      },
+      "near": {
+        "kungsleden": {
+          "km_off": 0.01,
+          "along_km": 125.6
+        }
+      }
+    },
+    {
+      "id": "node/1693120667",
+      "lat": 68.47554,
+      "lon": 20.22988,
+      "name": "Kamasjaure",
+      "tags": {
+        "amenity": "shelter"
+      },
+      "near": {
+        "finish-traditional": {
+          "km_off": 0.01,
+          "along_km": 74.0
+        }
+      }
+    },
+    {
+      "id": "node/1855702351",
+      "lat": 62.97573,
+      "lon": 12.65688,
+      "name": "Ljungan",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "locked": "no",
+        "operator": "Länsstyrelsen Jämtlands Län",
+        "description": "This is an emergency shelter only and the wood stored there is only for emergency use. Overnight stays are not permitted. Short breaks are ok. The stove may be used if you bring your own wood."
+      },
+      "near": {
+        "undersaker": {
+          "km_off": 0.02,
+          "along_km": 12.0
+        }
+      }
+    },
+    {
+      "id": "node/5148530666",
+      "lat": 67.11703,
+      "lon": 18.28866,
+      "name": "Raststuga Laitaure",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "fee": "no",
+        "operator": "Laponiatjuottjudus",
+        "ele": "505",
+        "description": "Overnight stay only in case 9f emergency allowed."
+      },
+      "near": {
+        "kungsleden": {
+          "km_off": 0.02,
+          "along_km": 36.6
+        }
+      }
+    },
+    {
+      "id": "node/1356402863",
+      "lat": 67.394,
+      "lon": 18.52045,
+      "name": "Saltoluokta Fjällstation",
+      "tags": {
+        "tourism": "alpine_hut",
+        "reservation": "yes",
+        "capacity": "100",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/anlaggningar/stf-saltoluokta-fjallstation/",
+        "phone": "+46 101902350",
+        "ele": "400"
+      },
+      "near": {
+        "kungsleden": {
+          "km_off": 0.03,
+          "along_km": 72.3
+        }
+      }
+    },
+    {
+      "id": "node/339299832",
+      "lat": 67.6949,
+      "lon": 18.15606,
+      "name": "Teusajaure Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "reservation": "yes",
+        "capacity": "30",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-teusajaure-fjallstuga/",
+        "ele": "520"
+      },
+      "near": {
+        "kungsleden": {
+          "km_off": 0.03,
+          "along_km": 117.1
+        }
+      }
+    },
+    {
+      "id": "way/1243330565",
+      "lat": 69.0459,
+      "lon": 20.60915,
+      "name": "Golddaluokta",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter",
+        "building": "yes",
+        "access": "yes",
+        "capacity": "15",
+        "operator": "Länsstyrelsen Norrbotten",
+        "website": "https://www.naturkartan.se/sv/norrbottens-lan/raststuga-kuoltaluokta"
+      },
+      "near": {
+        "finish-traditional": {
+          "km_off": 0.06,
+          "along_km": 165.8
+        }
+      }
+    },
+    {
+      "id": "node/7719670455",
+      "lat": 65.17406,
+      "lon": 15.07607,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "hemavan-village": {
+          "km_off": 0.07,
+          "along_km": 29.0
+        }
+      }
+    },
+    {
+      "id": "node/4786913022",
+      "lat": 67.23228,
+      "lon": 18.44078,
+      "name": "Sitojaure Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "reservation": "yes",
+        "capacity": "22",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-sitojaure-fjallstuga/",
+        "ele": "570"
+      },
+      "near": {
+        "kungsleden": {
+          "km_off": 0.1,
+          "along_km": 52.8
+        }
+      }
+    },
+    {
+      "id": "node/1693633288",
+      "lat": 67.32318,
+      "lon": 18.50009,
+      "name": "Autsutjvagge Rastskydd",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "locked": "no",
+        "operator": "Länsstyrelsen Norbotten",
+        "ele": "720",
+        "description": "A shelter in central Ávtsusjvágge next to the peculiar sub-valley of Ávtsusjjåhkå."
+      },
+      "near": {
+        "kungsleden": {
+          "km_off": 0.11,
+          "along_km": 63.8
+        }
+      }
+    },
+    {
+      "id": "way/186237536",
+      "lat": 63.40442,
+      "lon": 13.21239,
+      "name": "Emils-Ors Torpet",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter",
+        "building": "yes"
+      },
+      "near": {
+        "undersaker": {
+          "km_off": 0.19,
+          "along_km": 84.7
+        }
+      }
+    },
+    {
+      "id": "node/289250952",
+      "lat": 67.8511,
+      "lon": 18.31656,
+      "name": "Singi Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "reservation": "yes",
+        "capacity": "44",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-singi-fjallstuga/",
+        "ele": "715"
+      },
+      "near": {
+        "kungsleden": {
+          "km_off": 0.23,
+          "along_km": 137.8
+        }
+      }
+    },
+    {
+      "id": "node/339303441",
+      "lat": 67.14858,
+      "lon": 18.30591,
+      "name": "Aktse Fjällstuga",
+      "tags": {
+        "tourism": "alpine_hut",
+        "reservation": "yes",
+        "capacity": "34",
+        "operator": "Svenska Turistföreningen",
+        "website": "https://www.svenskaturistforeningen.se/boende/stf-aktse-fjallstuga/",
+        "ele": "560"
+      },
+      "near": {
+        "kungsleden": {
+          "km_off": 0.37,
+          "along_km": 40.2
+        }
+      }
+    },
+    {
+      "id": "node/5148544509",
+      "lat": 67.20399,
+      "lon": 18.42212,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut",
+        "operator": "Länsstyrelsen i Norrbottens län",
+        "ele": "635"
+      },
+      "near": {
+        "kungsleden": {
+          "km_off": 0.41,
+          "along_km": 49.8
+        }
+      }
+    },
+    {
+      "id": "node/14103614522",
+      "lat": 63.15529,
+      "lon": 13.0211,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "undersaker": {
+          "km_off": 0.66,
+          "along_km": 42.2
+        }
+      }
+    },
+    {
+      "id": "node/13274431823",
+      "lat": 63.20947,
+      "lon": 13.05724,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "undersaker": {
+          "km_off": 0.89,
+          "along_km": 49.1
+        }
+      }
+    },
+    {
+      "id": "node/7125728295",
+      "lat": 65.707,
+      "lon": 15.0814,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "hemavan-village": {
+          "km_off": 0.91,
+          "along_km": 101.9
+        }
+      }
+    },
+    {
+      "id": "node/7125728827",
+      "lat": 67.6888,
+      "lon": 18.14058,
+      "name": "Raststuga Dievssajávri",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "basic_hut"
+      },
+      "near": {
+        "kungsleden": {
+          "km_off": 0.93,
+          "along_km": 116.6
+        }
+      }
+    },
+    {
+      "id": "node/2396224903",
+      "lat": 63.13933,
+      "lon": 12.95793,
+      "name": "Nipan",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "undersaker": {
+          "km_off": 0.94,
+          "along_km": 39.8
+        }
+      }
+    },
+    {
+      "id": "node/7125728294",
+      "lat": 65.74028,
+      "lon": 15.09657,
+      "name": "Västansjö",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "hemavan-village": {
+          "km_off": 1.01,
+          "along_km": 104.8
+        }
+      }
+    },
+    {
+      "id": "node/13111004673",
+      "lat": 63.15485,
+      "lon": 12.90541,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter"
+      },
+      "near": {
+        "undersaker": {
+          "km_off": 1.03,
+          "along_km": 37.6
+        }
+      }
+    },
+    {
+      "id": "node/3265209418",
+      "lat": 63.16181,
+      "lon": 12.96567,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "picnic_shelter"
+      },
+      "near": {
+        "undersaker": {
+          "km_off": 1.45,
+          "along_km": 40.0
+        }
+      }
+    },
+    {
+      "id": "node/12030041900",
+      "lat": 63.21588,
+      "lon": 13.05386,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "picnic_shelter"
+      },
+      "near": {
+        "undersaker": {
+          "km_off": 1.55,
+          "along_km": 49.1
+        }
+      }
+    },
+    {
+      "id": "way/898459576",
+      "lat": 63.41518,
+      "lon": 13.18637,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "weather_shelter",
+        "building": "yes"
+      },
+      "near": {
+        "undersaker": {
+          "km_off": 1.6,
+          "along_km": 83.1
+        }
+      }
+    },
+    {
+      "id": "node/3265139248",
+      "lat": 63.16501,
+      "lon": 12.96299,
+      "name": "",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "picnic_shelter"
+      },
+      "near": {
+        "undersaker": {
+          "km_off": 1.81,
+          "along_km": 40.0
+        }
+      }
+    },
+    {
+      "id": "node/2995663760",
+      "lat": 69.01223,
+      "lon": 20.86198,
+      "name": "Laavu",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "finish-traditional": {
+          "km_off": 2.06,
+          "along_km": 155.8
+        }
+      }
+    },
+    {
+      "id": "node/7125723368",
+      "lat": 63.5291,
+      "lon": 13.25208,
+      "name": "Gärstjärnen",
+      "tags": {
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "near": {
+        "undersaker": {
+          "km_off": 2.24,
+          "along_km": 100.3
+        }
+      }
+    }
+  ]
+}
