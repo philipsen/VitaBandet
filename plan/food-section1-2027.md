@@ -63,9 +63,9 @@ Your pulk only. The companion’s matching breakfast, lunch, and three cooked di
 | Olivolja on FD | 3 × 20 | 60 | 60 |
 | Coffee | **250 g** at the start | 250 | 250 |
 | Tea bags | **20+** | ~50 | ~50 |
-| Lemonade or blåbärstoddy | 1 pouch | ~100 | ~100 |
-| **Pack total** | | **6,475** | |
-| **On pulk** (minus D1 lunch) | | | **6,125 (~6.1 kg)** |
+| Dried-vegetable pouch | 1 · **48 g** | 48 | 48 |
+| **Pack total** | | **6,423** | |
+| **On pulk** (minus D1 lunch) | | | **6,073 (~6.1 kg)** |
 
 ---
 
@@ -81,7 +81,7 @@ Buy at home. Pack it in the car. Do not shop this list at Fjällbua.
 | **Nötter + torkad frukt** | **1.35 kg** (9 × 150 g) | Same |
 | **Coffee** | **250 g** | Theirs, if they drink it |
 | **Tea bags** | **20+** | Theirs |
-| **Lemonade or blåbärstoddy** | 1 pouch | Theirs |
+| **Dried-vegetable pouch** | 1 · **48 g** | Theirs |
 | **Freeze-dried dinners** | **3** | **3** |
 | **Olivolja** | **60 g** (3 × 20 g) | **60 g** |
 | **Cooked D1–D3** (pasta, bacon / korv / färs, lök) | **3** meals · ~1.1 kg | **3** meals · their own |
@@ -96,7 +96,7 @@ Buy at home. Pack it in the car. Do not shop this list at Fjällbua.
 | Box | Contents |
 |-----|----------|
 | **1 — dinners** | 3 cooked (flat frozen first) · 3 freeze-dried · oil |
-| **2 — breakfast + bulk lunch** | 9 Cruesli bags · powder · spare bars · 1.35 kg mix · **250 g** coffee · tea bags · drink pouch |
+| **2 — breakfast + bulk lunch** | 9 Cruesli bags · powder · spare bars · 1.35 kg mix · **250 g** coffee · tea bags · dried-vegetable pouch |
 | **3 — today** | **350 g** lunch · coffee for morning · a tea bag |
 
 Fuel bottles **not** in food boxes. **3 L** shared — see [pulk-weight](./pulk-weight-2027.md).

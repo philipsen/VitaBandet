@@ -6,7 +6,7 @@ Days: [dag-for-dag-2027.md](./dag-for-dag-2027.md). Shopping: [food-shopping-202
 **Locked**
 
 - At **ICA Nära Fjällboden**, buy **freeze-dried meals**, **breakfast**, and **lunch** for Hemavan → Abisko.
-- **Drinks at Hemavan:** **250 g** ground coffee on the pulk for Hemavan → Kvikkjokk, **20+** tea bags, some lemonade powder or blåbärstoddy. Same drinks again at **Abisko** for the Norway leg.
+- **At Hemavan:** **250 g** ground coffee on the pulk for Hemavan → Kvikkjokk, **20+** tea bags, one dried-vegetable pouch (**48 g**). Same again at **Abisko** for the Norway leg. The Kvikkjokk parcel gets its own pouch with the second coffee bag.
 - **Coffee to Kvikkjokk:** buy a second **250 g** at Hemavan and **post it to STF Kvikkjokk** with that food parcel. It starts the Kvikkjokk leg. Do not carry it from Hemavan.
 - **Ritsem → Abisko food is posted from Hemavan to STF Ritsem.** Do not buy that leg at the Ritsem shop. No coffee in that box — the Kvikkjokk bag covers through Abisko.
 - **Olivolja, 20 g per dinner,** at Hemavan: on the pulk to Kvikkjokk, in the Kvikkjokk parcel, and in the Ritsem parcel. Same again at **Abisko** for the Norway leg.

@@ -28,10 +28,10 @@ Lunch is the §1 lunch: **4 bars = 200 g** + **150 g** nötter / torkad frukt.
 | Mjölkpulver | **~210 g** | §1 mix, 25 g per 120 g Cruesli |
 | Ground coffee | **250 g** | Start of §2 |
 | Tea bags | **20+** | |
-| Lemonade or blåbärstoddy | 1 pouch | |
+| Dried-vegetable pouch | 1 · **48 g** | |
 | Olivolja | **100 g** | **20 g** on each of the 5 freeze-dried dinners |
 
-Box is about **7.7 kg** with the drinks and the oil (freeze-dried counted at 140 g a pouch, tea ~50 g, pouch ~100 g). Fuel stays out of it.
+Box is about **7.7 kg** with the coffee, tea, dried-vegetable pouch, and the oil (freeze-dried counted at 140 g a pouch, tea ~50 g, vegetable pouch **48 g**). Fuel stays out of it.
 
 ---
 

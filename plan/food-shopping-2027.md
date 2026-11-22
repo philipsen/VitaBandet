@@ -2,9 +2,9 @@
 
 **Draft.** Your food. Companion food on §1 is theirs. Fuel is not on this list — [resupply](./resupply-2027.md).
 
-Menus: [§1](./food-section1-2027.md) · [§2](./food-section2-2027.md) · [§3](./food-section3-2027.md) · [Hemavan → Abisko](./food-hemavan-abisko-2027.md). Recipes: [trail-meals](./trail-meals-2027.md).
+Menus: [§1](./food-section1-2027.md) · [§2](./food-section2-2027.md) · [§3](./food-section3-2027.md) · [Hemavan → Abisko](./food-hemavan-abisko-2027.md). Recipes: [trail-meals](./trail-meals-2027.md). Already at home: [food-on-hand-2027.md](./food-on-hand-2027.md).
 
-**Drinks at the start of every section:** **250 g** ground coffee · **20+** tea bags · **some** lemonade powder **or** blåbärstoddy. Coffee goes through the reusable filter (gear, already owned). Planning weight for the bags and the pouch, until you weigh them: tea **~50 g**, powder **~100 g**.
+**At the start of every section:** **250 g** ground coffee · **20+** tea bags · **one** dried-vegetable pouch. Coffee goes through the reusable filter (gear, already owned). The pouch is [Adventure Food Groentemix](https://adventurefood.com/nl/products/18/mixed_vegetables.html), **48 g** (carrot, green beans, onion, sweetcorn). Tea stays **~50 g** until the bags are weighed.
 
 **Olivolja at every resupply:** **20 g per dinner**, including both boxes posted from Grövelsjön.
 
@@ -27,7 +27,7 @@ Shop once at home. Split into the §1 pulk load and the two boxes. Post the boxe
 |------|---------|-------------------|------------------|----------|
 | **Ground coffee** | **250 g** | **250 g** | **250 g** | **750 g** |
 | **Tea bags** | **20+** | **20+** | **20+** | **60+** |
-| **Lemonade or blåbärstoddy** | 1 pouch | 1 pouch | 1 pouch | **3 pouches** |
+| **Dried-vegetable pouch** | 1 pouch · **48 g** | 1 pouch · **48 g** | 1 pouch · **48 g** | **3 pouches · 144 g** |
 | **Cruesli** | **1,080 g** | **1 kg** | **1 kg** | **~3.1 kg** |
 | **Mjölkpulver** | **225 g** | **~210 g** | **~210 g** | **~645 g** |
 | **Bars** (4 = 200 g / day) | **36** | **56** (14 days) | **40** (10 days) | **132** |
@@ -82,8 +82,8 @@ The §3 box already has ~8 breakfasts, 10 days of bars and dried fruit, 5 freeze
 
 One shop for Hemavan → Abisko. Post part to **STF Kvikkjokk** and the Ritsem → Abisko food to **STF Ritsem**. Carry only Hemavan → Kvikkjokk.
 
-- **250 g** ground coffee on the pulk, **20+** tea bags, one pouch lemonade or blåbärstoddy — Hemavan → Kvikkjokk
-- **250 g** ground coffee in the **STF Kvikkjokk** parcel — collect **26–27 Mar**. Not on the pulk out of Hemavan
+- **250 g** ground coffee on the pulk, **20+** tea bags, one dried-vegetable pouch (**48 g**) — Hemavan → Kvikkjokk
+- **250 g** ground coffee and one dried-vegetable pouch (**48 g**) in the **STF Kvikkjokk** parcel — collect **26–27 Mar**. Not on the pulk out of Hemavan
 - **Olivolja, 20 g per dinner** — on the pulk to Kvikkjokk, in the Kvikkjokk parcel, and in the Ritsem parcel
 - **Freeze-dried dinners, breakfast, and lunch** for the leg — meal counts not set yet
 
@@ -91,6 +91,6 @@ One shop for Hemavan → Abisko. Post part to **STF Kvikkjokk** and the Ritsem �
 
 Norway leg. **Godisfabriken** or Fjällboden.
 
-- **250 g** ground coffee, **20+** tea bags, one pouch lemonade or blåbärstoddy
+- **250 g** ground coffee, **20+** tea bags, one dried-vegetable pouch (**48 g**)
 - **Olivolja, 20 g per dinner**
 - **7–8 days** food, Abisko → Treriksröset

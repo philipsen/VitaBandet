@@ -10,7 +10,7 @@
 
 **g** = manufacturer / inventory gram. **g ~est** = typical winter kit, replace on a scale.
 
-**Working total: ~27.4 kg** (22.2 kg spec + 5.3 kg ~est).
+**Working total: ~27.4 kg** (22.1 kg spec + 5.3 kg ~est).
 
 ---
 
@@ -37,10 +37,10 @@
 | USB-C cables ×3 + micro-USB + Suunto cable | 80 |
 | Calazo maps (pulk) | 400 |
 | **Sirex Everest 10** foam | 275 |
-| Food on pulk ([§1 menu](./food-section1-2027.md), including D1 lunch) | 6,475 |
-| **Spec subtotal** | **22,185** (~22.2 kg) |
+| Food on pulk ([§1 menu](./food-section1-2027.md), including D1 lunch) | 6,423 |
+| **Spec subtotal** | **22,133** (~22.1 kg) |
 
-Food pack is **6,475 g**, all on this pulk, including the **350 g** day-1 lunch and my evening meals (**1,620 g**). The companion’s matching dinners are the other half. Coffee is **250 g**. Tea bags **~50 g** and the drink pouch **~100 g** until weighed. Tent half is **2,050 g** until fly, inner, and poles are weighed apart.
+Food pack is **6,423 g**, all on this pulk, including the **350 g** day-1 lunch and my evening meals (**1,620 g**). The companion’s matching dinners are the other half. Coffee is **250 g**. Tea bags **~50 g** until weighed. The dried-vegetable pouch is **48 g**. Tent half is **2,050 g** until fly, inner, and poles are weighed apart.
 
 ---
 
@@ -75,7 +75,7 @@ Food pack is **6,475 g**, all on this pulk, including the **350 g** day-1 lunch 
 
 | | kg |
 |--|-----|
-| Spec (incl. **66i** + **Sirex** + pulk-top electronics + short skins + shared half) | **22.2** |
+| Spec (incl. **66i** + **Sirex** + pulk-top electronics + short skins + shared half) | **22.1** |
 | ~Est (clothes, toiletries, first aid, rest) | **5.3** |
 | **Loaded pulk** | **~27.4** |
 | Weighed on snow (pulk + Sleeper) | |
