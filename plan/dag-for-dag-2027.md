@@ -44,7 +44,7 @@ Commercial **campings / ställplatser** and **STF tält + serviceavgift** (membe
 | **51** | **STF Kvikkjokk** · **D** | **No campsite** — wild **T** only | Paid shower **~70 kr**/30 min in external building; restaurant/café/shop |
 | **56** | **Saltoluokta** **W** (east) | Optional **east detour** only: **STF Saltoluokta** tent ≥100 m + service fee; nearest **husvagn** often **Stora Sjöfallet** (STF FAQ) | Plan passes **väster om** — do not need to visit |
 | **58** | **STF Ritsem** · **D** | — (rooms + self-catering; parking for cars) | Arrive **3 Apr** · leave **4 Apr** · no tent field |
-| **59–61** | **Sitojaure**, **Hukejaure**, **Sälka** | — | **STF H** at all three (Hukejaure 20 beds, Nordkalottleden) |
+| **59–61** | **Sitasjaure**, **Hukejaure**, **Sälka** | — | **STF H** at all three (Hukejaure 20 beds, Nordkalottleden) |
 | **62–64** | **Tjäktja**, **Alesjaure**, **Abiskojaure** | — | STF huts. The spare day, if used here, shifts the nights after it |
 | **65–66** | **Abisko** · **D** then **R** | **STF Abisko** designated **tent site** in nationalpark (pay service fee; winter showers at **Vandrarhem Keron** ~400 m) | Arrive **10 Apr** · rest **11 Apr** if the spare is still unused · **No RV** — nearest **[Björkliden Camping](https://bjorkliden.com/)** ~**10 km** |
 | **60, 68** | **Nikkaluokta** **W** (village east) | **[Nikkaluokta Sarri](https://nikkaluokta.com/boende/camping)** — tent **150 kr**/person; RV with/without el; service house (kitchen, shower, sauna) · **no** latrine/grey-water dump | Optional detour if you need **H**/shop — pass **väster om** on Bandet |
@@ -129,7 +129,7 @@ Per [regler](https://www.vitagronabandet.se/infor-turen/regler/) — six places;
 | 56 | 1 Apr | Saltoluokta side | 20 | 961 | 194 | 305 |
 | 57 | 2 Apr | Kisurgis | 20 | 981 | 108 | 308 |
 | 58 | 3 Apr | Ritsem approach | 26 | 1007 | 78 | 296 |
-| 59 | 4 Apr | Sitojaure | 22 | 1029 | 338 | 157 |
+| 59 | 4 Apr | Sitasjaure | 22 | 1029 | 338 | 157 |
 | 60 | 5 Apr | Hukejaure · H · W | 19 | 1048 | 412 | 159 |
 | 61 | 6 Apr | Sälka · H | 20 | 1068 | 289 | 356 |
 | 62 | 7 Apr | Tjäktja | 13 | 1081 | 365 | 49 |
@@ -697,18 +697,18 @@ First hint of Ritsem infrastructure.
 
 #### Day 58 · Sat 03 Apr · 26 km (cum 1007) · ↑78 m ↓296 m · Ritsem approach
 
-Descend toward **Ritsem** village / STF. Collect the **Ritsem → Abisko** food at the station. Leave for Sitojaure in the morning.  
+Descend toward **Ritsem** village / STF. Collect the **Ritsem → Abisko** food at the station. Leave for Sitasjaure in the morning.  
 Camp near the road only if late — no night skiing on the dam.
 
 | Acc | Notes |
 |-----|-------|
 | **T** | |
 
-#### Day 59 · Sun 04 Apr · 22 km (cum 1029) · ↑338 m ↓157 m · Sitojaure
+#### Day 59 · Sun 04 Apr · 22 km (cum 1029) · ↑338 m ↓157 m · Sitasjaure
 
-Leave **STF Ritsem** for **Sitojaure** on the **Kungsleden** winter route. The food for this leg was collected at Ritsem.  
+Leave **STF Ritsem** for **STF Sitasjaure**, 22 km north on the winter trail. The food for this leg was collected at Ritsem.  
 One rest day can be taken on this stretch. If it is still unused, it is **11 Apr** in Abisko. A stop here moves every later night by one day.  
-**H** Sitojaure — optional hut food top-up.
+**H** Sitasjaure — optional hut food top-up. Winter 2027 **26 Feb – 25 Apr**.
 
 | Acc | Notes |
 |-----|-------|

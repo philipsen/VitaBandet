@@ -202,7 +202,7 @@ SECTION5_CAMPS = [
     (53, "2027-04-07", 1011, "Áhkká / Ritsem fjäll", "T", "", None),
     (54, "2027-04-08", 1029, "Ritsem approach", "T", "", None),
     (55, "2027-04-09", 1045, "Ritsem", "D", "Power Fuel alkylate · STF H", "RITSEM"),
-    (56, "2027-04-10", 1063, "Sitojaure", "H", "KL · optional hut top-up", None),
+    (56, "2027-04-10", 1063, "Sitasjaure", "H", "KL · optional hut top-up", None),
     (57, "2027-04-11", 1081, "Hukejaure", "H", "STF Hukejaure · W Nikkaluokta", "HUKEJAURE"),
     (58, "2027-04-12", 1098, "Sälka", "H", "STF Sälka · tent if full", "SALKA"),
     (59, "2027-04-13", 1116, "Tjäktja", "T", "Steep pass", None),
