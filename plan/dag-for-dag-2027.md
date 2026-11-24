@@ -165,7 +165,7 @@ These days are 11–21 km. At about 3.5 km/h they fit February daylight. Exposur
 **D** at **STF Grövelsjön** (register Vita Bandet, final pulk check) — then leave on **Södra Kungsleden** north toward **Långfjället** and **Hävlingen**. **Winter 2027:** station **open**, **restaurant + sauna closed** (renovation) — eat **Sjöstugan / Storsätern**; shop **Fjällbua**. See [stf-openings-2027.md](./stf-openings-2027.md).  
 **Camping (night before / after):** **Sjöstugan** or STF Grövelsjön tent + service fee — see [camping reference](#camping-near-huts--resupply-reference).
 
-Camp near **Hävlingestugorna** (**62.185°N, 12.390°E** · Länsstyrelsen · five 4-bed cabins + one 6-bed · stugvärd mid-Feb–end Apr · sauna · book via Länsstyrelsen). **Your food:** full carry from **NL** to Storlien — [food-section1-2027.md](./food-section1-2027.md) · pulk **~29.9 kg** — [pulk-weight-2027.md](./pulk-weight-2027.md). Companion food is the same breakfast and lunch, plus their three cooked dinners, on their sled.
+Camp near **Hävlingestugorna** (**62.185°N, 12.390°E** · Länsstyrelsen · five 4-bed cabins + one 6-bed · stugvärd mid-Feb–end Apr · sauna · book via Länsstyrelsen). **Your food:** full carry from **NL** to Storlien — [food-section1-2027.md](./food-section1-2027.md) · pulk **~29.9 kg** — [pulk-weight-2027.md](./pulk-weight-2027.md). Companion food is the same breakfast and lunch, plus D3 and D4 cooked for two and four freeze-dried dinners, on their sled.
 
 | Acc | Notes |
 |-----|-------|

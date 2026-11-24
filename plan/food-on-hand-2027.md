@@ -33,7 +33,7 @@ Shopping totals: [food-shopping-2027.md](./food-shopping-2027.md). This list is 
 | Bars | 132 | **8** Nature Valley Crunchy · **5** candy bars | **119** |
 | Nötter + torkad frukt | ~3.45 kg | | ~3.45 kg |
 | Dried fruit only (§3) | 10 days | | grams not set |
-| Freeze-dried dinners | 13 | **3** Gilde · **1** Firepot · **7** Adventure Food | **2** |
-| Olivolja | 260 g | | 260 g |
-| Pasta (§2 box, plus the D1 dinner) | 200 g + D1 | | 200 g + D1 |
-| Rice (§2 box, plus the D2 dinner) | 200 g + D2 | | 200 g + D2 |
+| Freeze-dried dinners | 14 | **3** Gilde · **1** Firepot · **7** Adventure Food | **3** |
+| Olivolja | 280 g | | 280 g |
+| Pasta (§2 box, plus D1 for two) | 200 g + D1 | | 200 g + D1 |
+| Rice (§2 box, plus D2 for two) | 200 g + D2 | | 200 g + D2 |

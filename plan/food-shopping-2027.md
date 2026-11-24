@@ -33,25 +33,26 @@ Shop once at home. Split into the §1 pulk load and the two boxes. Post the boxe
 | **Bars** (4 = 200 g / day) | **36** | **56** (14 days) | **40** (10 days) | **132** |
 | **Nötter + torkad frukt** | **1.35 kg** | **2.1 kg** | — | **~3.45 kg** |
 | **Dried fruit only** | — | — | **10 days** | grams not set |
-| **Freeze-dried dinners** | **3** | **5** | **5** | **13** |
-| **Olivolja** | **60 g** (3 × 20 g) | **100 g** (5 × 20 g) | **100 g** (5 × 20 g) | **260 g** |
-| **Pasta** | in the 3 dinners | **200 g** | — | |
-| **Rice** | in the 3 dinners | **200 g** | — | |
-| **Cooked dinners D1–D3** | **3** · ~1.1 kg packed | — | — | see below |
+| **Freeze-dried dinners** | **4** | **5** | **5** | **14** |
+| **Olivolja** | **80 g** (4 × 20 g) | **100 g** (5 × 20 g) | **100 g** (5 × 20 g) | **280 g** |
+| **Pasta** | D1, for two | **200 g** | — | |
+| **Rice** | D2, for two | **200 g** | — | |
+| **Cooked dinners** | **D1–D2** · 2 meals for two · ~1.5 kg | — | — | see below |
 
 §2 box with drinks and oil is about **7.7 kg**. §3 box with drinks and oil, still without the dried fruit, is about **4.4 kg**. Fuel stays out of both. Together the two posted boxes are about **12.1 kg** before that fruit.
 
 ### §1 cooked dinners — ingredients
 
-Packed target is **~380 g** a meal. The recipe lines in [trail-meals](./trail-meals-2027.md) are smaller than that. Buy toward the packed weight.
+Packed target is **~760 g** a meal, one shared dinner for two. The recipe lines in [trail-meals](./trail-meals-2027.md) are for one person. Buy double, toward the packed weight.
 
-| Day | Meal | Buy |
-|-----|------|-----|
-| **D1** | Pasta + bacon ([#2](./trail-meals-2027.md#2-snabb-pasta-aglio-e-olio--skinka-eller-bacon)) | Pasta, bacon or skinka, vitlök, olivolja, chiliflakes |
-| **D2** | Korv-stroganoff ([#7](./trail-meals-2027.md#7-korv-stroganoff-lätt)) | Grillkorv, lök, matlagningsgrädde, ketchup or tomatsås, rice |
-| **D3** | Köttfärssås ([#24](./trail-meals-2027.md#24-snabb-köttfärssås--pasta)) | Pasta, frozen köttfärs, krossade tomater, lök, vitlök, oregano |
+| Day | On | Meal | Buy (for two) |
+|-----|----|------|----------------|
+| **D1** | Your pulk | Pasta + bacon ([#2](./trail-meals-2027.md#2-snabb-pasta-aglio-e-olio--skinka-eller-bacon)) | Pasta, bacon or skinka, vitlök, olivolja, chiliflakes |
+| **D2** | Your pulk | Korv-stroganoff ([#7](./trail-meals-2027.md#7-korv-stroganoff-lätt)) | Grillkorv, lök, matlagningsgrädde, ketchup or tomatsås, rice |
+| **D3** | Companion | Köttfärssås ([#24](./trail-meals-2027.md#24-snabb-köttfärssås--pasta)) | Pasta, frozen köttfärs, krossade tomater, lök, vitlök, oregano |
+| **D4** | Companion | Kyckling-curry ([#22](./trail-meals-2027.md#22-kyckling-curry-med-ris)) | Frozen kycklingfilé, ris, kokosmjölk, currypasta, lök |
 
-Companion packs the same breakfast, the same lunches, and their own three dinners. Their drinks are theirs.
+You buy D1 and D2. Companion buys D3 and D4, the same breakfast and lunches, and four freeze-dried dinners. Their drinks are theirs.
 
 ---
 

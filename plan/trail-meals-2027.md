@@ -579,7 +579,7 @@ Rotate **protein** (**frozen/fresh meat** / meat tin / beans / egg / frystorkat 
 | Dinner — cooked | ~350–400 g |
 | Dinner — freeze-dried + 20 g oil | ~160 g |
 | Coffee, tea, dried-vegetable pouch | **250 g** coffee, **20+** tea bags, one **48 g** pouch at each section start — [shopping list](./food-shopping-2027.md) |
-| **§1 pack** | **6.2 kg** for 9 days, from NL · see [food-section1](./food-section1-2027.md) |
+| **§1 pack** | **7.0 kg** for 9 days, from NL · see [food-section1](./food-section1-2027.md) |
 
 At each **D** shop after Storlien: buy **frozen/fresh meat** for the first half of the leg; **tins and dry** for the rest. **ägg**, **lök**, **smör**, **grädde** keep in **Feb–Mar** cold.
 

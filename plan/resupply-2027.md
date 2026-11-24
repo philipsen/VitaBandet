@@ -142,7 +142,7 @@ Linked to [dag-for-dag-2027.md](./dag-for-dag-2027.md) resupply days. Meals: [tr
 | **Fjällbua** (Storsätern · Grövelsjövägen 378) | **The village livs** — groceries, frozen, bars, freeze-dried when stocked, Systembolag/apotek ombud | **Unlikely** liquid alkylate — **3 L from NL** · **no canisters** | — |
 | **STF Grövelsjön** shop | Frystorkat / basics if Fjällbua is thin | Same — ignore canisters | — |
 
-**§1 food:** [food-section1-2027.md](./food-section1-2027.md) — **all from NL** · full carry to Storlien · **~6.1 kg** on your pulk. Companion packs their own Cruesli, bars, nuts, and three cooked dinners. **Eat:** village (Sjöstugan / Storsätern) the night before — STF Grövelsjön **restaurant closed** winter 2027 (renovation). Do **not** count Fjällbua or Hamra for this load.
+**§1 food:** [food-section1-2027.md](./food-section1-2027.md) — **all from NL** · full carry to Storlien · **~6.6 kg** on your pulk. Companion packs their own Cruesli, bars, nuts, two cooked meals for two (D3–D4), and four freeze-dried dinners. **Eat:** village (Sjöstugan / Storsätern) the night before — STF Grövelsjön **restaurant closed** winter 2027 (renovation). Do **not** count Fjällbua or Hamra for this load.
 
 **Fuel:** **3 L alkylate from NL** for **two people** on the shared stove (2× 1 L bottles + 1 L tin). In Storlien buy **2 L** for §2. In Gäddede buy **2 L** if you need it.
 
@@ -545,11 +545,11 @@ Useful as **storm refuge, emergency resupply, or transport options** if you need
 
 ## Suggested carry between shops (solo pulk)
 
-**Rate (later legs):** **~1.3–1.5 kg food/day** shop mix. **§1** is **~0.72 kg/day**, all from NL ([food-section1](./food-section1-2027.md)). Packing **10-day max 12–16 kg** still applies after Storlien.
+**Rate (later legs):** **~1.3–1.5 kg food/day** shop mix. **§1** is **~0.77 kg/day**, all from NL ([food-section1](./food-section1-2027.md)). Packing **10-day max 12–16 kg** still applies after Storlien.
 
 | Leg | Days | Shop at start | Food to **buy** | On pulk leaving shop |
 |-----|------|---------------|-----------------|----------------------|
-| Grövelsjön → Storlien | 9 | **NL** before Day 1 | **[§1 menu](./food-section1-2027.md)** · **~6.1 kg** on pulk (your food only) · Hamra **backup** | [pulk-weight](./pulk-weight-2027.md) **~29.9 kg** loaded |
+| Grövelsjön → Storlien | 9 | **NL** before Day 1 | **[§1 menu](./food-section1-2027.md)** · **~6.6 kg** on pulk (your food only) · Hamra **backup** | [pulk-weight](./pulk-weight-2027.md) **~29.9 kg** loaded |
 | → Gäddede | 14 | NL box + **Storlien** shop + companion leftovers | [§2](./food-section2-2027.md) · box **~7.7 kg** plus the shop | Heaviest early load |
 | → Hemavan | 11 | NL box at **Gäddede** + ICA **5 fresh meals** and extra breakfast and lunch | [§3](./food-section3-2027.md) · companion brings more only if two people need it | |
 | → Kvikkjokk | 12 | **Hemavan** ICA | Freeze-dried, breakfast, lunch to Abisko · carry only to Kvikkjokk · [plan](./food-hemavan-abisko-2027.md) | Parcels take the rest |

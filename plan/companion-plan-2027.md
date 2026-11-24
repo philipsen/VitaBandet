@@ -6,7 +6,7 @@ Trip for the **section-1 companion**: ski **~9 days** with you (shared tent + st
 **Transport / car / bus:** [transport-considerations-2027.md](./transport-considerations-2027.md)  
 **Resupply:** [resupply-2027.md](./resupply-2027.md)  
 **GPX:** [`tracks/2027.GPX`](../tracks/2027.GPX) (section Grövelsjön → Storlien)  
-**Food:** [food-section1-2027.md](./food-section1-2027.md) — all from **NL**. Companion’s breakfast, lunch, and three cooked dinners are on **their** pulk.  
+**Food:** [food-section1-2027.md](./food-section1-2027.md) — all from **NL**. Companion’s breakfast, lunch, two cooked meals for two (D3–D4), and four freeze-dried dinners are on **their** pulk.  
 **D1 pulk weight:** [pulk-weight-2027.md](./pulk-weight-2027.md)  
 **Other legs:** [B](./companion-plan-b-2027.md) · [C Klaartje](./companion-plan-c-2027.md) · [D](./companion-plan-d-2027.md) · [index](./companion-sections-2027.md)  
 **Official Ribbon:** [White & Green Ribbon](https://www.vitagronabandet.se/en/white-green-ribbon/) (companion is **not** a registered Section unless they sign up separately)
@@ -97,7 +97,7 @@ Companion brings personal ski/pulk/sleep/clothes — **not** a second tent or st
 | Skis + boots + bindings | BC / touring · tested |
 | **Pulk** or heavy pack | Pulk preferred with shared pace |
 | Sleep system | Own bag + mat · rated for **−20 °C** nights possible mid-Feb · fits **shared tent** |
-| Food | **Own** Cruesli breakfasts, bar-and-nut lunches, and **3 cooked** dinners on **their** pulk · shared stove · all from **NL** (Hamra = backup) |
+| Food | **Own** Cruesli breakfasts, bar-and-nut lunches, **2 cooked meals for two** (D3–D4), and **4 freeze-dried** dinners on **their** pulk · shared stove · all from **NL** (Hamra = backup) |
 | Warm layers · mittens · goggles | Mid-Feb fjäll |
 | Headlamp · first aid · repair | Personal |
 | Phone + power | Offline maps · your GPX segment |
@@ -113,11 +113,11 @@ Companion brings personal ski/pulk/sleep/clothes — **not** a second tent or st
 
 ## Food & fuel (short trip)
 
-**Your** §1 menu is [food-section1-2027.md](./food-section1-2027.md). Companion packs the same breakfast and lunch, and their own three cooked dinners. All of it from **NL**.
+**Your** §1 menu is [food-section1-2027.md](./food-section1-2027.md). Companion packs the same breakfast and lunch, D3 and D4 cooked for two, and four freeze-dried dinners. All of it from **NL**.
 
 | Leg | Carry |
 |-----|-------|
-| D1 → D9 | **Each:** 9× Cruesli + mjölkpulver · 9× bars, nuts, dried fruit · **3 cooked** (D1–D3) · **3 freeze-dried** (D4–D6). Hamra Livs **backup** only |
+| D1 → D9 | **Each:** 9× Cruesli + mjölkpulver · 9× bars, nuts, dried fruit · **4 freeze-dried** (D5–D8). **Cooked, one pot:** you carry D1–D2 for two, companion carries D3–D4 for two. Hamra Livs **backup** only |
 | Fuel | **One stove** · **3 L alkylate from NL** for **two people** (coffee + warm water mornings, dinner, snowmelt) |
 
 Companion does **not** need Abisko-leg fuel. In Storlien, buy **2 L** alkylate for §2. You keep the stove. Uneaten companion food stays with you for §2 — [food-section2-2027.md](./food-section2-2027.md).

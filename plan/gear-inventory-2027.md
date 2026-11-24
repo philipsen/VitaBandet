@@ -21,7 +21,7 @@ Use for shakedowns, weight audit, and packing. **Buy list:** [buy-list-2027.md](
 | Pad | **Ultra 7R** D1–62 · **XLite** optional D63+ (ship to Abisko) · **Sirex Everest 10** foam backup ✓ | [pad plan](./gear-considerations-2027.md#sleeping-pad--xlite--exped) |
 | Stove / pot | **OmniLite** + silencer · **TOAKS 1600 ml** ✓ | **2 L** max alkylate · [cooking](./gear-considerations-2027.md#cooking--toaks-ti-1600-ml) |
 | Nav / comms | **Suunto V2** · **66i** · **OsmAnd+** · **Topo GPS** SE+NO ✓ · **Calazo 1:100k** | [comms](./gear-considerations-2027.md#navigation-comms--power) · [power plan](./power-plan-2027.md) |
-| Food | Buy on trail ~**8–10 days** | §1 from **NL**: [food-section1-2027.md](./food-section1-2027.md) · **~6.1 kg** · [shopping](./food-shopping-2027.md) · [pulk-weight](./pulk-weight-2027.md) |
+| Food | Buy on trail ~**8–10 days** | §1 from **NL**: [food-section1-2027.md](./food-section1-2027.md) · **~6.6 kg** · [shopping](./food-shopping-2027.md) · [pulk-weight](./pulk-weight-2027.md) |
 
 **Columns in master list below:** **Own** · **Need** · **Test**
 
@@ -208,7 +208,7 @@ Measure **g/day** on shakedown at **−15 °C**.
 | Zone | Target | Your weigh-in |
 |------|--------|---------------|
 | Pulk rig (J14 + harness + bag) | 5.3 kg | |
-| Food §1 on pulk | **6.1 kg** | |
+| Food §1 on pulk | **6.6 kg** | |
 | Fuel 3 L + bottles | **~2.8 kg** | |
 | Tent (Nammatj 3 GT + pack) | 4.3 kg | |
 | Sleep (bag + Ultra 7R in Sleeper) | 2.85 kg spec | XLite **not in pulk** |

@@ -10,7 +10,7 @@
 
 **g** = manufacturer / inventory gram. **g ~est** = typical winter kit, replace on a scale.
 
-**Working total: ~27.4 kg** (22.1 kg spec + 5.3 kg ~est).
+**Working total: ~27.9 kg** (22.7 kg spec + 5.3 kg ~est).
 
 ---
 
@@ -37,10 +37,10 @@
 | USB-C cables ×3 + micro-USB + Suunto cable | 80 |
 | Calazo maps (pulk) | 400 |
 | **Sirex Everest 10** foam | 275 |
-| Food on pulk ([§1 menu](./food-section1-2027.md), including D1 lunch) | 6,423 |
-| **Spec subtotal** | **22,133** (~22.1 kg) |
+| Food on pulk ([§1 menu](./food-section1-2027.md), including D1 lunch) | 6,963 |
+| **Spec subtotal** | **22,673** (~22.7 kg) |
 
-Food pack is **6,423 g**, all on this pulk, including the **350 g** day-1 lunch and my evening meals (**1,620 g**). The companion’s matching dinners are the other half. Coffee is **250 g**. Tea bags **~50 g** until weighed. The dried-vegetable pouch is **48 g**. Tent half is **2,050 g** until fly, inner, and poles are weighed apart.
+Food pack is **6,963 g**, all on this pulk, including the **350 g** day-1 lunch and my evening meals (**2,160 g**: two cooked meals for two, four freeze-dried, oil). The companion’s two cooked meals for two and four freeze-dried dinners are the same weight. Coffee is **250 g**. Tea bags **~50 g** until weighed. The dried-vegetable pouch is **48 g**. Tent half is **2,050 g** until fly, inner, and poles are weighed apart.
 
 ---
 
@@ -75,14 +75,14 @@ Food pack is **6,423 g**, all on this pulk, including the **350 g** day-1 lunch 
 
 | | kg |
 |--|-----|
-| Spec (incl. **66i** + **Sirex** + pulk-top electronics + short skins + shared half) | **22.1** |
+| Spec (incl. **66i** + **Sirex** + pulk-top electronics + short skins + shared half) | **22.7** |
 | ~Est (clothes, toiletries, first aid, rest) | **5.3** |
-| **Loaded pulk** | **~27.4** |
+| **Loaded pulk** | **~27.9** |
 | Weighed on snow (pulk + Sleeper) | |
 | On body (Suunto 87) | 0.09 |
 | Skis / boots / poles / worn clothes | weigh on you — not sled |
 
-Companion’s pulk carries the other half of the tent, stove, **1.5 L** fuel, stakes, and their evening meals (~**5.5 kg** of that shared kit), plus their own breakfast and lunch. **3 L** alkylate from **NL** is the shared total. Grövelsjön is often canisters only. In Storlien, buy **2 L** for §2. After Storlien this pulk carries the full tent, stove, and fuel.
+Companion’s pulk carries the other half of the tent, stove, **1.5 L** fuel, stakes, and their evening meals (~**6.0 kg** of that shared kit), plus their own breakfast and lunch. **3 L** alkylate from **NL** is the shared total. Grövelsjön is often canisters only. In Storlien, buy **2 L** for §2. After Storlien this pulk carries the full tent, stove, and fuel.
 
 **66i:** pulk **top** so SOS is one unzip, not a dig. Do not bury it under food.
 

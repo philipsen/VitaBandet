@@ -135,7 +135,7 @@ Planning document for a winter expedition on [Fjällfararnas Vita Bandet](https:
 
 ## Food & fuel
 
-- **Calories per day (target):** ~3,500–4,000 on §1 dinner days ([food-section1-2027.md](plan/food-section1-2027.md)) · ~4,000–5,000 later legs  
+- **Calories per day (target):** ~3,500–4,000 on §1 ([food-section1-2027.md](plan/food-section1-2027.md)) · ~4,000–5,000 later legs  
 - **Water strategy:** snow melt · morning stove = **coffee + warm water** (milk powder mixed **cold**)  
 - **Resupply detail:** [resupply-2027.md](plan/resupply-2027.md) — **§1 all from NL**; **§2** NL box shipped Grövelsjön → Storlien, rest bought there, plus companion leftovers; **§3** NL box shipped Grövelsjön → Gäddede; **Hemavan** buys freeze-dried, breakfast, and lunch through Abisko and posts some to Kvikkjokk and Ritsem; Hamra backup  
 - **D1 loaded pulk:** **~29.9 kg** — [pulk-weight-2027.md](plan/pulk-weight-2027.md)  
