@@ -20,7 +20,7 @@ from datetime import date
 from typing import Optional
 
 BASE = "https://www.svenskaturistforeningen.se/boende/"
-TRIP_START = date(2027, 2, 15)
+TRIP_START = date(2027, 2, 5)
 
 MONTHS = {
     "januari": 1,
@@ -44,18 +44,18 @@ ROUTE_HUTS = [
     ("Helags", "stf-helags-fjallstation", [7]),
     ("Sylarna", "stf-sylarna-fjallstation", [8]),
     ("Blåhammaren", "stf-blahammaren", [9]),
-    ("Storulvån", "stf-storulvan-fjallstation", [10]),
-    ("Kvikkjokk", "stf-kvikkjokk-fjallstation", [47]),
-    ("Saltoluokta", "stf-saltoluokta-fjallstation", [51]),
-    ("Ritsem", "stf-ritsem", [55]),
-    ("Sitasjaure", "stf-sitasjaure-fjallstuga", [56]),
-    ("Hukejaure", "stf-hukejaure-fjallstuga", [57]),
-    ("Sälka", "stf-salka-fjallstuga", [58]),
-    ("Tjäktja", "stf-tjaktja-fjallstuga", [59]),
-    ("Alesjaure", "stf-alesjaure-fjallstuga", [60]),
-    ("Abiskojaure", "stf-abiskojaure-fjallstuga", [61]),
-    ("Abisko", "stf-abisko-turiststation", [62]),
-    ("Pältsa", "stf-paltsa-fjallstuga", [69]),
+    ("Storulvån", "stf-storulvan-fjallstation", []),
+    ("Kvikkjokk", "stf-kvikkjokk-fjallstation", [51]),
+    ("Saltoluokta", "stf-saltoluokta-fjallstation", [56]),
+    ("Ritsem", "stf-ritsem", [58]),
+    ("Sitasjaure", "stf-sitasjaure-fjallstuga", [59]),
+    ("Hukejaure", "stf-hukejaure-fjallstuga", [60]),
+    ("Sälka", "stf-salka-fjallstuga", [61]),
+    ("Tjäktja", "stf-tjaktja-fjallstuga", [62]),
+    ("Alesjaure", "stf-alesjaure-fjallstuga", [63]),
+    ("Abiskojaure", "stf-abiskojaure-fjallstuga", [64]),
+    ("Abisko", "stf-abisko-turiststation", [65]),
+    ("Pältsa", "stf-paltsa-fjallstuga", [73]),
     ("Vakkotavare", "stf-vakkotavare-fjallstuga", []),
     ("Kebnekaise", "stf-kebnekaise-fjallstation", []),
 ]
@@ -79,9 +79,10 @@ HOUR_PATTERNS = [
         r"([^<]+(?:<br\s*/?>\s*[^<]+)*)(?:<br\s*/?>)?\s*</p>",
         re.I,
     ),
-    # Grövelsjön: Vintersäsong 2027: 14 januari - 18 april ...
+    # Grövelsjön: <strong>Vintersäsong 2027:</strong><br>14 januari - 18 april (obs ...)
     re.compile(
-        r"Vintersäsong\s+(20\d{2}):\s*(\d{1,2}\s+\w+\s*-\s*\d{1,2}\s+\w+)",
+        r"Vintersäsong\s+(20\d{2}):\s*</strong>\s*(?:<br\s*/?>\s*)?"
+        r"(\d{1,2}\s+\w+\s*-\s*\d{1,2}\s+\w+(?:\s*\([^)]+\))?)",
         re.I,
     ),
 ]
